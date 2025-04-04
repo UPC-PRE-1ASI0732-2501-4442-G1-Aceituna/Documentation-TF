@@ -40,7 +40,7 @@ Esta sección tiene como propósito presentar un resumen de los cambios importan
 |   TB1   | 04/04/2024 |  |  |
 |   TB1   | 04/04/2024 |  |  |
 |   TB1   | 06/09/2024 |   Silva Tirado, Sebastian Valentino   |  |
-|   TB1   | 04/04/2024 |  |  |
+|   TB1   | 04/04/2024 | Ticona Panduro, Estrella del Pilar    |  |
 
 ## Project Report Collaboration Insights
 
@@ -60,7 +60,7 @@ Con el fin de elaborar el informe correspondiente a la entrega TB1, se asignó l
 | | |
 | | |
 | Silva Tirado, Sebastian Valentino |  |
-| | |
+| Ticona Panduro, Estrella del Pilar| |
 
 ## Contenido
 

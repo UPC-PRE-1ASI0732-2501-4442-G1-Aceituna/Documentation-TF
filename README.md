@@ -25,7 +25,7 @@ width=50%"/>
 |  |  |
 |           |  |
 |   Silva Tirado, Sebastián Valentino   |  |
-|          |  |
+|  Ticona Panduro, Estrella del Pilar   | U202210659 |
 |          |  |
 
 <h5 style="text-align: center"> Ciclo 2025-01 </h5>

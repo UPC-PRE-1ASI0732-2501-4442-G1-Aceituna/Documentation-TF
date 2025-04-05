@@ -36,11 +36,11 @@ Esta sección tiene como propósito presentar un resumen de los cambios importan
 
 | Versión |   Fecha    |                 Autor                 | Descripción de modificación                                                                                                                                                          |
 | :-----: | :--------: | :-----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   TB1   | 04/04/2024 |  |  |
-|   TB1   | 04/04/2024 |  |  |
-|   TB1   | 04/04/2024 |  |  |
-|   TB1   | 06/09/2024 |   Silva Tirado, Sebastian Valentino   |  |
-|   TB1   | 04/04/2024 | Ticona Panduro, Estrella del Pilar    |  |
+|   TB1   | 04/04/2025 |  |  |
+|   TB1   | 04/04/2025 |  |  |
+|   TB1   | 04/04/2025 |  |  |
+|   TB1   | 04/04/2025 |   Silva Tirado, Sebastian Valentino   |  |
+|   TB1   | 04/04/2025 | Ticona Panduro, Estrella del Pilar    |  |
 
 ## Project Report Collaboration Insights
 

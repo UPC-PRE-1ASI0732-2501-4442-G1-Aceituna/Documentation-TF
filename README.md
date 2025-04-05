@@ -24,7 +24,7 @@ width=50%"/>
 | :-----------------------------------: | :--------: |
 |  |  |
 |           |  |
-|   Silva Tirado, Sebastián Valentino   |  |
+|   Silva Tirado, Sebastián Valentino   | U20211G296 |
 |          |  |
 |          |  |
 

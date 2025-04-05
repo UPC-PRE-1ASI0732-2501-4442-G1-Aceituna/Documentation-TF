@@ -24,8 +24,8 @@ width=50%"/>
 | :-----------------------------------: | :--------: |
 |  |  |
 |           |  |
-|   Silva Tirado, Sebastian Valentino   | U20211G296 |
-|          |  |
+|   Silva Tirado, Sebastián Valentino   |  |
+|  Ticona Panduro, Estrella del Pilar   | U202210659 |
 |          |  |
 
 <h5 style="text-align: center"> Ciclo 2025-01 </h5>
@@ -36,11 +36,11 @@ Esta sección tiene como propósito presentar un resumen de los cambios importan
 
 | Versión |   Fecha    |                 Autor                 | Descripción de modificación                                                                                                                                                          |
 | :-----: | :--------: | :-----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   TB1   | 04/04/2024 |  |  |
-|   TB1   | 04/04/2024 |  |  |
-|   TB1   | 04/04/2024 |  |  |
-|   TB1   | 04/04/2024 |   Silva Tirado, Sebastian Valentino   |  |
-|   TB1   | 04/04/2024 |  |  |
+|   TB1   | 04/04/2025 |  |  |
+|   TB1   | 04/04/2025 |  |  |
+|   TB1   | 04/04/2025 |  |  |
+|   TB1   | 04/04/2025 |   Silva Tirado, Sebastian Valentino   |  |
+|   TB1   | 04/04/2025 | Ticona Panduro, Estrella del Pilar    |  |
 
 ## Project Report Collaboration Insights
 
@@ -60,7 +60,7 @@ Con el fin de elaborar el informe correspondiente a la entrega TB1, se asignó l
 | | |
 | | |
 | Silva Tirado, Sebastian Valentino |  |
-| | |
+| Ticona Panduro, Estrella del Pilar| |
 
 ## Contenido
 

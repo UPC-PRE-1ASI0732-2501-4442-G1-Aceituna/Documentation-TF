@@ -741,6 +741,144 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
 </table>
 
 <div id='3.3.'><h3>3.3 Product Backlog.</h3></div>
+<table>
+    <thead>
+        <tr>
+            <th># Orden</th>
+            <th>User Story ID</th>
+            <th>Título</th>
+            <th>Descripción</th>
+            <th>Story Points</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>US01</td>
+            <td>Barra de navegación en la Landing Page</td>
+            <td><b>Como</b> universitario o adquiriente <b>quiero</b> visualizar una landing page<b>para</b> conocer las funciones de la aplicación.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>US02</td>
+            <td>Sección Hero en la Landing Page</td>
+            <td><b>Como</b> universitario o adquiriente, <b>quiero</b> ver una sección hero atractiva y clara al acceder a la Landing Page <b>para</b> entender el valor de la aplicación y decidir si deseo saber más sobre ella.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>US03</td>
+            <td>Sección Footer en la Landing Page</td>
+            <td><b>Como</b> universitario o adquiriente, <b>quiero</b> visualizar un footer en la landing page <b>para</b> acceder rápidamente a información adicional.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>US04</td>
+            <td>Sección de Beneficios en la Landing Page</td>
+            <td><b>Como</b> universitario o adquiriente, <b>quiero</b> ver una sección de cómo funciona EcoMovil, <b>para</b> entender cómo la aplicación puede mejorar mi experiencia ecológica y mi interacción con la aplicación.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>US05</td>
+            <td>Sección de Contacto en la Landing Page</td>
+            <td><b>Como</b> universitario o adquiriente, <b>quiero</b> tener acceso a una sección de contacto clara y funcional <b>para</b> poder unirme a EcoMovil para comenzar la experiencia.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>US06</td>
+            <td>Landing Page Responsive con diferentes dispositivos</td>
+            <td><b>Como</b> universitario o adquiriente, <b>quiero</b> que la landing page sea responsive <b>para</b> que pueda visualizar y navegar por ella fácilmente desde cualquier dispositivo (móvil, tablet, o escritorio) sin pérdida de funcionalidad o legibilidad.</td>
+            <td>7</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>US07</td>
+            <td>Sección de planes en la Landing Page</td>
+            <td><b>Como</b> universitario o adquiriente, <b>quiero</b> acceder a una sección de planes <b>para</b> poder elegir un plan y unirme a EcoMovil para comenzar la experiencia.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>US08</td>
+            <td>Sección de acerca de en la Landing Page</td>
+            <td><b>Como</b> universitario o adquiriente, <b>quiero</b> tener acceso a una sección de "Acerca de" clara y funcional <b>para</b> conocer la historia y misión de EcoMovil.</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>US09</td>
+            <td>Sección de unirse en la Landing Page</td>
+            <td><b>Como</b> universitario o adquiriente, <b>quiero</b> acceder a una sección para unirme a EcoMovil <b>para</b> poder registrar mi correo electrónico e inscribirme en EcoMovil.</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>US10</td>
+            <td>Sección de inscribirse en la Landing Page</td>
+            <td><b>Como</b> universitario o adquiriente, <b>quiero</b> tener acceso a una sección de inscripción <b>para</b> poder ingresar a la aplicación de EcoMovil.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>US11</td>
+            <td>Sección de universitario en la Landing Page</td>
+            <td><b>Como</b> universitario, <b>quiero</b> acceder a una sección dedicada a universitarios <b>para</b> unirme como universitario a EcoMovil.</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>US12</td>
+            <td>Sección de "conozca más sobre nosotros" en la Landing Page</td>
+            <td><b>Como</b> universitario o adquiriente, <b>quiero</b> acceder a una sección de "Conozca más sobre nosotros" <b>para</b> ingresar a EcoMovil.</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>US13</td>
+            <td>Botón de empieza tu viaje en la Landing Page</td>
+            <td><b>Como</b> universitario o adquiriente, <b>quiero</b> encontrar un botón <b>para</b> empezar mi viaje en EcoMovil. </td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>US14</td>
+            <td>Sección de todos los derechos reservados en la Landing Page</td>
+             <td><b>Como</b> universitario o adquiriente, <b>quiero</b> ver una sección de derechos reservados <b>para</b> estar seguro de que EcoMovil protege mis derechos.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>US15</td>
+            <td>Sección de adquiriente en la Landing Page</td>
+            <td><b>Como</b> adquiriente, <b>quiero</b> acceder a una sección dedicada a adquirientes <b>para</b> comprar, vender, alquilar o rentar en EcoMovil.</td>
+            <td>5</td>
+        </tr>
+        <tr>  
+            <td>16</td>
+            <td>US16</td>
+            <td>Implementación de API para Búsqueda Geolocalizada de Vehículos</td>
+            <td><b>Como</b> equipo de desarrollo, <b>quiero</b> implementar una API que permita la búsqueda geolocalizada de vehículos, <b>para</b> facilitar la consulta de disponibilidad en tiempo real.</td>
+            <td>5</td>
+        </tr>
+         <tr>  
+            <td>17</td>
+            <td>US17</td> 
+            <td>Configuración Personalizada de Tailwind CSS para Identidad de Marca</td>
+            <td><b>Como</b> equipo de desarrollo, <b>quiero</b> configurar los archivos de configuración de Tailwind CSS (tailwind.config.js) <b>para</b> personalizar la paleta de colores y las fuentes, para que el diseño de la aplicación se alinee con nuestra identidad de marca y estilo.</td>
+            <td>5</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+![Product_Backlog](/assets/trello.png)
+
+Enlace: https://trello.com/invite/b/67f3e291ac6549f2f2be7bf2/ATTI88f041995a02ce23d7baf8e49a2ee15bD9901B21/ruedarent
+
 
 <div id='3.4.'><h3>3.4 Impact Mapping.</h3></div>
 

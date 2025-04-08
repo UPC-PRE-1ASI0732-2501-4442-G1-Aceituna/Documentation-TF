@@ -20,13 +20,13 @@ width=50%"/>
 
 ## Team members:
 
-|                Nombre                 |   Código   |
-| :-----------------------------------: | :--------: |
-|  |  |
-|           |  |
-|   Silva Tirado, Sebastián Valentino   |  |
-|  Ticona Panduro, Estrella del Pilar   | U202210659 |
-|          |  |
+|               Nombre               |   Código   |
+| :--------------------------------: | :--------: |
+|                                    |            |
+|                                    |            |
+| Silva Tirado, Sebastián Valentino  |            |
+| Ticona Panduro, Estrella del Pilar | U202210659 |
+|      Acuña Tomas, Diego Rolin      | U202221436 |
 
 <h5 style="text-align: center"> Ciclo 2025-01 </h5>
 
@@ -34,13 +34,13 @@ width=50%"/>
 
 Esta sección tiene como propósito presentar un resumen de los cambios importantes efectuados al informe a lo largo del desarrollo del proyecto. Comienza en una página independiente e incorpora una tabla con la siguiente estructura:
 
-| Versión |   Fecha    |                 Autor                 | Descripción de modificación                                                                                                                                                          |
-| :-----: | :--------: | :-----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   TB1   | 04/04/2025 |  |  |
-|   TB1   | 04/04/2025 |  |  |
-|   TB1   | 04/04/2025 |  |  |
-|   TB1   | 04/04/2025 |   Silva Tirado, Sebastian Valentino   |  |
-|   TB1   | 04/04/2025 | Ticona Panduro, Estrella del Pilar    |  |
+| Versión |   Fecha    |               Autor                | Descripción de modificación |
+| :-----: | :--------: | :--------------------------------: | --------------------------- |
+|   TB1   | 04/04/2025 |                                    |                             |
+|   TB1   | 04/04/2025 |                                    |                             |
+|   TB1   | 04/04/2025 |                                    |                             |
+|   TB1   | 04/04/2025 | Silva Tirado, Sebastian Valentino  |                             |
+|   TB1   | 04/04/2025 | Ticona Panduro, Estrella del Pilar |                             |
 
 ## Project Report Collaboration Insights
 
@@ -54,13 +54,13 @@ URL del repositorio para el reporte del proyecto: https://github.com/UPC-PRE-1AS
 
 Con el fin de elaborar el informe correspondiente a la entrega TB1, se asignó la implementación de las distintas secciones a cada miembro del equipo de la siguiente manera:
 
-| Integrante                            | Tareas Asignadas                                                                                                                           |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| | |
-| | |
-| | |
-| Silva Tirado, Sebastian Valentino |  |
-| Ticona Panduro, Estrella del Pilar| |
+| Integrante                         | Tareas Asignadas |
+| ---------------------------------- | ---------------- |
+|                                    |                  |
+|                                    |                  |
+|                                    |                  |
+| Silva Tirado, Sebastian Valentino  |                  |
+| Ticona Panduro, Estrella del Pilar |                  |
 
 ## Contenido
 
@@ -152,6 +152,7 @@ Con el fin de elaborar el informe correspondiente a la entrega TB1, se asignó l
    5.3. [Video About-the-Product.](#5.3.)<br>
 
 ## STUDENT OUTCOME
+
 La capacidad de reconocer responsabilidades éticas y
 profesionales en situaciones de ingeniería y hacer juicios informados, que deben
 considerar el impacto de las soluciones de ingeniería en contextos globales, económicos,
@@ -172,7 +173,22 @@ ambientales y sociales.
 
 <div id='1.1.'><h3>1.1 Startup Profile.</h3></div>
 
+En esta sección, presentaremos una descripción de la startup y proporcionaremos detalles sobre los miembros del equipo, mostrando sus perfiles.
+
 <div id='1.1.1.'><h4>1.1.1. Descripción del startup.</h4></div>
+
+La contaminación del aire, causada por la emisión de gases contaminantes como el dióxido de carbono, también acelera el cambio climático. Estos problemas, derivados de conducir autos tradicionales, son cada vez más evidentes para la población, que busca alternativas sostenibles de movilidad urbana. EcoMovil nace como respuesta a esta necesidad, ofreciendo acceso a diversos medios de transporte ecológicos, como bicicletas, scooters, skateboards y motos eléctricas, poniendo en contacto a los usuarios con aquellos que disponen de estos vehículos.
+
+Nos diferenciaremos de otras aplicaciones, ya que no solo ofreceremos una alternativa de transporte ecológico, sino que también brindaremos la oportunidad de generar ingresos a nuestros usuarios, que pueden ser desde estudiantes universitarios hasta jubilados, según sus condiciones y horarios, de acuerdo con su disponibilidad. Esto lo lograremos permitiéndoles publicar ofertas para alquilar o vender sus vehículos. Además, nuestra aplicación incluirá características que garantizarán una experiencia segura, eficiente y agradable para todos los usuarios.
+
+Misión: Proveer acceso a un medio de transporte ecológico que promueva una movilidad urbana sostenible, facilitando la conexión de las personas con vehículos ecológicos a través de una aplicación digital eficiente, mientras genera oportunidades de ingresos.
+
+Visión: Convertirnos en la aplicación líder en transporte urbano sostenible, brindando acceso a vehículos ecológicos y promoviendo hábitos de vida más saludables y responsables con el entorno.
+
+**Logotipo de la Startup:**
+
+**Logotipo del Servicio:**
+
 <div id='1.1.2.'><h4>1.1.2. Perfiles de los integrantes del equipo.</h4></div>
 
 <div id='1.2.'><h3>1.2 Solution Profile.</h3></div>

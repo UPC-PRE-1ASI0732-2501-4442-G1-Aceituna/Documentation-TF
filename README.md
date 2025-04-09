@@ -185,6 +185,12 @@ ambientales y sociales.
 <div id='1.2.2.3.'><h5>1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 <div id='1.2.2.4.'><h5>1.2.2.4. Lean UX Canvas.</h5></div>
 
+El Lean UX Canvas es un recurso utilizado en el diseño centrado en el usuario (UX) y en metodologías Lean, cuyo objetivo es fomentar un desarrollo de productos más ágil y efectivo. Esta herramienta proporciona una estructura clara que promueve la colaboración entre equipos de distintas disciplinas. A continuación, se muestra el Lean UX Canvas elaborado por el equipo a través de Canva.
+
+<img src="Img/Lean UX Canvas.jpg" alt="Lean Ux Canvas" style="margin-bottom: 5px;" width="800"/>
+
+Enlace para acceder al Lean UX Canvas: https://www.canva.com/design/DAGOEXan6rE/pJTlXgHJBmfhVfeAe3pFgA/edit?utm_content=DAGOEXan6rE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 <div id='1.3.'><h3>1.3 Segmentos objetivo.</h3></div>
 
 <div id='2.'><h2>Capítulo II: Requirements Elicitation & Analysis.</h2></div>

@@ -24,7 +24,7 @@ width=50%"/>
 | :-----------------------------------: | :--------: |
 |  |  |
 |           |  |
-|   Silva Tirado, Sebastián Valentino   |  |
+|   Silva Tirado, Sebastian Valentino   |  |
 |  Ticona Panduro, Estrella del Pilar   | U202210659 |
 |          |  |
 

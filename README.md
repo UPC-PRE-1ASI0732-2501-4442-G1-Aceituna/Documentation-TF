@@ -112,12 +112,12 @@ Con el fin de elaborar el informe correspondiente a la entrega TB1, se asignó l
    4.3. [Landing Page UI Design.](#4.3.)<br>
    4.3.1. [Landing Page Wireframe.](#4.3.1.)<br>
    4.3.2. [Landing Page Mock-up.](#4.3.2.)<br>
-   4.4. [Web Applications UX/UI Design.](#4.4.)<br>
-   4.4.1. [Web Applications Wireframes.](#4.4.1.)<br>
-   4.4.2. [Web Applications Wireflow Diagrams.](#4.4.2.)<br>
-   4.4.3. [Web Applications Mock-ups.](#4.4.3.)<br>
-   4.4.4. [Web Applications User Flow Diagrams.](#4.4.4.)<br>
-   4.5. [Web Applications Prototyping.](#4.5.)<br>
+   4.4. [Mobile Applications UX/UI Design.](#4.4.)<br>
+   4.4.1. [Mobile Applications Wireframes.](#4.4.1.)<br>
+   4.4.2. [Mobile Applications Wireflow Diagrams.](#4.4.2.)<br>
+   4.4.3. [Mobile Applications Mock-ups.](#4.4.3.)<br>
+   4.4.4. [Mobile Applications User Flow Diagrams.](#4.4.4.)<br>
+   4.5. [Mobile Applications Prototyping.](#4.5.)<br>
    4.5.1. [Android Mobile Applications Prototyping.](#4.5.1.)<br>
    4.5.2. [iOS Mobile Applications Prototyping.](#4.5.2.)<br>
    4.6. [Web Applications UX/UI Design.](#4.6.)<br>
@@ -323,19 +323,66 @@ En EcoMovil, el sistema de búsqueda está diseñado para ayudar a los usuarios 
 
 El mock-up de la landing page de EcoMovil representa la primera impresión que los usuarios tendrán al ingresar a la plataforma. Su diseño está orientado a captar la atención, comunicar de forma clara el propósito del servicio y motivar la interacción desde el primer momento.
 
-<div id='4.4.'><h3>4.4 Web Applications UX/UI Design.</h3></div>
-<div id='4.4.1.'><h4>4.4.1. Web Applications Wireframes.</h4></div>
-<div id='4.4.2.'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
-<div id='4.4.3.'><h4>4.4.3. Web Applications Mock-ups.</h4></div>
-<div id='4.4.4.'><h4>4.4.4. Web Applications User Flow Diagrams.</h4></div>
+<div id='4.4.'><h3>4.4 Mobile Applications UX/UI Design.</h3></div>
+<div id='4.4.1.'><h4>4.4.1. Mobile Applications Wireframes.</h4></div>
+<div id='4.4.2.'><h4>4.4.2. Mobile Applications Wireflow Diagrams.</h4></div>
+<div id='4.4.3.'><h4>4.4.3. Mobile Applications Mock-ups.</h4></div>
+<div id='4.4.4.'><h4>4.4.4. Mobile Applications User Flow Diagrams.</h4></div>
 
-<div id='4.5.'><h3>4.5 Web Applications Prototyping.</h3></div>
+<div id='4.5.'><h3>4.5 Mobile Applications Prototyping.</h3></div>
 <div id='4.5.1.'><h4>4.5.1. Android Mobile Applications Prototyping.</h4></div>
 <div id='4.5.2.'><h4>4.5.2. iOS Mobile Applications Prototyping.</h4></div>
 
 <div id='4.6.'><h3>4.6 Web Applications UX/UI Design.</h3></div>
 <div id='4.6.1.'><h4>4.6.1. Web Applications Wireframes.</h4></div>
 <div id='4.6.2.'><h4>4.6.2. Web Applications Wireflow Diagrams.</h4></div>
+
+**User Goal: Iniciar sesión y Registrarse**
+
+**Perfil del Usuario: Universitario**
+
+**Descripción del Flujo:**
+
+El universitario accede a la aplicación publicada y se encuentra con una pantalla principal que muestra un formulario de acceso. Para este tipo de usuario, se solicitarán los siguientes datos: RUC, nombre completo, correo electrónico y contraseña.
+
+<img src="Img/diagram1.png" alt="Diagram1" style="margin-bottom: 5px;" width="800"/>
+
+**User Goal: Pagos de los Planes**
+
+El usuario universitario podrá escoger entre tres opciones de planes disponibles. Al hacer clic en "Elegir Plan", será llevado al flujo de pago, donde deberá completar los datos de su tarjeta bancaria y confirmar la veracidad de la información ingresada. Tras la confirmación, el sistema mostrará una notificación de pago exitoso. Finalmente, al seleccionar “Comenzar”, el usuario accederá directamente al panel con el menú de vehículos.
+
+<img src="Img/diagram3.png" alt="Diagram3" style="margin-bottom: 5px;" width="800"/>
+
+<img src="Img/diagram4.png" alt="Diagram4" style="margin-bottom: 5px;" width="800"/>
+
+**User Goal: Navegar por el dashboard**
+
+Luego de iniciar sesión, el universitario será redirigido al panel principal, donde se desplegarán distintas secciones. La primera es "Detalles del Vehículo", que permite consultar la información de cada vehículo registrado. En la sección de "Perfil", podrá modificar su información personal y su fotografía. En "Historial de Vehículos", tendrá acceso a los vehículos que ha publicado. Finalmente, en el "Foro de Contacto", podrá crear publicaciones para ofrecer vehículos en venta o alquiler, facilitando la comunicación directa por WhatsApp con los interesados.
+
+<img src="Img/diagram5.png" alt="Diagram5" style="margin-bottom: 5px;" width="800"/>
+
+**User Goal: Iniciar sesión y Registrarse**
+
+**Perfil del Usuario: Adquiriente**
+
+**Descripción del Flujo:**
+
+Al ingresar a la plataforma, el adquiriente será recibido por la pantalla inicial, donde se le solicitarán los datos para el inicio de sesión. En este caso, deberá ingresar su nombre, correo electrónico y contraseña.
+
+<img src="Img/diagram2.png" alt="Diagram2" style="margin-bottom: 5px;" width="800"/>
+
+**User Goal: Visualizar los Vehículos**
+
+Desde la pantalla de inicio, el adquiriente podrá explorar los vehículos disponibles junto con sus respectivas descripciones. Al seleccionar “Alquilar” o “Comprar”, será llevado a una vista con los detalles del vehículo, incluyendo tipo, costo, características y distintivos. Si hace clic en “Guardar”, el vehículo será añadido a su historial personal de vehículos guardados.
+
+<img src="Img/diagram6.png" alt="Diagram6" style="margin-bottom: 5px;" width="800"/>
+
+**User Goal: Navegar por el dashboard**
+
+Una vez que el adquiriente haya iniciado sesión, accederá a su panel de control, donde encontrará varias funcionalidades. La primera es el "Mapa Interactivo", que muestra la ubicación de cada vehículo disponible. Luego está el "Filtro", que permite realizar búsquedas específicas por tipo o precio del vehículo. También encontrará el "Foro de Contacto", donde podrá comunicarse con los universitarios que ofrecen vehículos. Por último, en "Mi Perfil", tendrá la opción de revisar y actualizar su información personal.
+
+<img src="Img/diagram7.png" alt="Diagram7" style="margin-bottom: 5px;" width="800"/>
+
 <div id='4.6.3.'><h4>4.6.3. Web Applications Mock-ups.</h4></div>
 <div id='4.6.4.'><h4>4.6.4. Web Applications User Flow Diagrams.</h4></div>
 
@@ -344,6 +391,11 @@ El mock-up de la landing page de EcoMovil representa la primera impresión que l
 <div id='4.8.'><h3>4.8 Domain-Driven Software Architecture.</h3></div>
 <div id='4.8.1.'><h4>4.8.1. Software Architecture Context Diagram.</h4></div>
 <div id='4.8.2.'><h4>4.8.2. Software Architecture Container Diagrams.</h4></div>
+
+El diagrama de contenedores ofrece una perspectiva general a nivel macro sobre cómo interactúan las aplicaciones y las fuentes de datos dentro del funcionamiento del sistema EcoMovil.
+
+<img src="Img/c42.png" alt="C4-2" style="margin-bottom: 5px;" width="800"/>
+
 <div id='4.8.3.'><h4>4.8.3. Software Architecture Components Diagrams.</h4></div>
 
 <div id='4.9.'><h3>4.9 Software Object-Oriented Design.</h3></div>
@@ -360,6 +412,29 @@ El mock-up de la landing page de EcoMovil representa la primera impresión que l
 <div id='5.1.2.'><h4>5.1.2. Source Code Management.</h4></div>
 <div id='5.1.3.'><h4>5.1.3. Source Code Style Guide & Conventions.</h4></div>
 <div id='5.1.4.'><h4>5.1.4. Software Deployment Configuration.</h4></div>
+
+**Despliegue de la Landing Page**
+
+Para publicar la landing page, es necesario cumplir con ciertos pasos previos: contar con una cuenta personal en GitHub, una organización (si aplica) y un repositorio donde se almacenarán los archivos del proyecto. Una vez listo, se puede proceder con el despliegue siguiendo estos pasos:
+
+1. Crear una carpeta llamada "docs" que contendrá todos los archivos de la landing page.
+2. Asegurarse de que los archivos estén correctamente nombrados: "index.html" para la página principal, "style.css" para los estilos, y una carpeta "img" para las imágenes.
+3. Subir estos archivos al repositorio mediante un commit.
+4. Ir a la sección Settings > Pages del repositorio y seleccionar la rama que se utilizará, generalmente "main" o "master".
+5. Establecer la carpeta "docs" como la fuente para publicar la página.
+6. Esperar a que GitHub realice las verificaciones necesarias. Una vez completadas, se generará un enlace que permitirá acceder a la landing page publicada.
+
+Este procedimiento permite desplegar de forma automática la landing page utilizando GitHub Pages.
+
+Cuando los archivos se han publicado en la rama correspondiente, accedemos a "Settings" y, en la sección "Pages", seleccionamos la rama "gh-pages" y la opción / (root). Después de guardar los cambios y esperar un momento, podremos ver la página publicada.
+
+<img src="Img/publish.png" alt="Publish" style="margin-bottom: 5px;" width="800"/>
+
+Así es cómo se verá la página final.
+
+<img src="Img/ecomo1.png" alt="Ecomo1" style="margin-bottom: 5px;" width="800"/>
+
+Enlace del Landing Page EcoMovil: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
 
 <div id='5.2.'><h3>5.2 Product Implementation & Deployment.</h3></div>
 <div id='5.2.1.'><h4>5.2.1. Sprint Backlogs.</h4></div>

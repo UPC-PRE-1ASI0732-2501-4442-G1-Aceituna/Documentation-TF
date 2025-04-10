@@ -323,6 +323,30 @@ En EcoMovil, el sistema de búsqueda está diseñado para ayudar a los usuarios 
 
 El mock-up de la landing page de EcoMovil representa la primera impresión que los usuarios tendrán al ingresar a la plataforma. Su diseño está orientado a captar la atención, comunicar de forma clara el propósito del servicio y motivar la interacción desde el primer momento.
 
+<div id='4.3.2.1.'><h5>4.3.2.1. Landing Page Mock-up for Web.</h5></div>
+
+El wireframe diseñado para la versión de escritorio de la landing page fue fundamental para organizar la estructura visual de los elementos. A partir de esta guía, se desarrolló el mock-up correspondiente, respetando los contenidos ya descritos. En la imagen se puede apreciar la aplicación de la paleta de colores principal y secundaria, así como la tipografía seleccionada previamente.
+
+<img src="Img/landing1.png" alt="Landing1" style="margin-bottom: 5px;" width="800"/>
+
+<img src="Img/landing2.png" alt="Landing2" style="margin-bottom: 5px;" width="800"/>
+
+<img src="Img/landing3.png" alt="Landing3" style="margin-bottom: 5px;" width="800"/>
+
+<img src="Img/landing5.png" alt="Landing5" style="margin-bottom: 5px;" width="800"/>
+
+<img src="Img/landing6.png" alt="Landing6" style="margin-bottom: 5px;" width="800"/>
+
+<div id='4.3.2.2.'><h5>4.3.2.2. Landing Page for Mobile.</h5></div>
+
+Por otro lado, el mock-up en su versión móvil conserva todos los elementos mencionados. Se resalta que la elección tipográfica y el contraste adecuado entre el texto y el fondo permiten una lectura clara y cómoda en ambas versiones, tanto móvil como de escritorio.
+
+<img src="Img/mockupmb1.png" alt="Mockupmb1" style="margin-bottom: 5px;"/>
+
+<img src="Img/mockupmb2.png" alt="Mockupmb2" style="margin-bottom: 5px;"/>
+
+<img src="Img/mockupmb3.png" alt="Mockupmb3" style="margin-bottom: 5px;"/>
+
 <div id='4.4.'><h3>4.4 Mobile Applications UX/UI Design.</h3></div>
 <div id='4.4.1.'><h4>4.4.1. Mobile Applications Wireframes.</h4></div>
 <div id='4.4.2.'><h4>4.4.2. Mobile Applications Wireflow Diagrams.</h4></div>

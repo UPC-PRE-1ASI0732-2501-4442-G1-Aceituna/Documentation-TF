@@ -186,6 +186,11 @@ ambientales y sociales.
 <div id='1.2.2.4.'><h5>1.2.2.4. Lean UX Canvas.</h5></div>
 
 <div id='1.3.'><h3>1.3 Segmentos objetivo.</h3></div>
+Según el Ministerio de Transportes y Comunicaciones, el sistema de transporte en Lima Metropolitana enfrenta serios problemas de informalidad, ineficiencia y una alta tasa de accidentes, lo que lo convierte en un medio inseguro y uno de los principales generadores de contaminación ambiental (MTC, 2013; Solís Fonseca, Salazar Bravo, Romero Carrión & Solís Salazar, 2013). Esta situación ha impulsado la búsqueda de alternativas de movilidad más ágiles, sostenibles y accesibles, como bicicletas, scooters y motos eléctricas.
+
+En este contexto, nuestro público objetivo está conformado por jóvenes universitarios de Lima Metropolitana, de entre 18 y 28 años, pertenecientes a niveles socioeconómicos medios, que buscan soluciones de transporte seguras, ecológicas y eficientes. Motivados por una creciente conciencia ambiental y la necesidad de reducir su huella de carbono, estos jóvenes encuentran en nuestra aplicación una herramienta práctica que responde a sus necesidades de movilidad diaria.
+
+Adicionalmente, frente al aumento en la tasa de deserción universitaria, que pasó de 19.3 % en 2019 a 23.2 % en 2021, muchos estudiantes requieren fuentes de ingresos complementarias para continuar sus estudios en instituciones privadas (USIL, s/f). Por ello, nuestra aplicación no solo ofrece una alternativa de transporte sostenible, sino que también abre una vía para generar ingresos de forma flexible mediante el alquiler y la venta de vehículos ecológicos, contribuyendo así a su bienestar económico sin interferir con su desempeño académico.
 
 <div id='2.'><h2>Capítulo II: Requirements Elicitation & Analysis.</h2></div>
 
@@ -199,6 +204,9 @@ ambientales y sociales.
 <div id='2.2.3.'><h4>2.2.3. Análisis de entrevistas.</h4></div>
 
 <div id='2.3.'><h3>2.3 Needfinding.</h3></div>
+
+#
+
 <div id='2.3.1.'><h4>2.3.1. User Personas.</h4></div>
 <div id='2.3.2.'><h4>2.3.2. User Task Matrix.</h4></div>
 <div id='2.3.3.'><h4>2.3.3. User Journey Mapping.</h4></div>

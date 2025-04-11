@@ -205,7 +205,12 @@ Adicionalmente, frente al aumento en la tasa de deserción universitaria, que pa
 
 <div id='2.3.'><h3>2.3 Needfinding.</h3></div>
 
-#
+### Segmento Universitarios:
+<img src="assets/AlexHidalgo.png" alt="As-Is Mapping 2" style="margin-bottom: 5px;" width="800"/> 
+
+### Segmento Adquirientes:
+<img src="assets/CamilaSolano.png" alt="As-Is Mapping 2" style="margin-bottom: 5px;" width="800"/>
+
 
 <div id='2.3.1.'><h4>2.3.1. User Personas.</h4></div>
 <div id='2.3.2.'><h4>2.3.2. User Task Matrix.</h4></div>
@@ -218,6 +223,17 @@ Adicionalmente, frente al aumento en la tasa de deserción universitaria, que pa
 <div id='3.'><h2>Capítulo III: Requirements Specification.</h2></div>
 
 <div id='3.1.'><h3>3.1 To-Be Scenario Mapping.</h3></div>
+
+Para la elaboración del To-be Scenario Mapping, el equipo definió el flujo de trabajo esperado tras la implementación de nuestra solución, EcoMovil, considerando ambos segmentos objetivos. Este artefacto tiene como propósito proyectar un escenario futuro optimizado que permita contrastar y resolver los problemas identificados en el As-is Scenario, abordando de manera específica sus principales limitaciones y puntos críticos. 
+
+__Segmento Universitario:__
+
+<img src="assets/tobe1.png" alt="As-Is Mapping 2" style="margin-bottom: 5px;" width="800"/>
+
+__Segmento Adquiriente:__
+
+<img src="assets/tobe2.png" alt="As-Is Mapping 2" style="margin-bottom: 5px;" width="800"/>
+
 <div id='3.2.'><h3>3.2 User Stories.</h3></div>
 <div id='3.3.'><h3>3.3 Product Backlog.</h3></div>
 <div id='3.4.'><h3>3.4 Impact Mapping.</h3></div>
@@ -237,6 +253,8 @@ Adicionalmente, frente al aumento en la tasa de deserción universitaria, que pa
 <div id='4.2.3.'><h4>4.2.3. SEO Tags and Meta Tags.</h4></div>
 <div id='4.2.4.'><h4>4.2.4. Searching Systems.</h4></div>
 <div id='4.2.5.'><h4>4.2.5. Navigation Systems.</h4></div>
+
+El sistema de navegación es un componente clave para garantizar que los usuarios puedan desplazarse de manera intuitiva por la aplicación, contribuyendo a una experiencia de usuario fluida y satisfactoria. La aplicación web contará con una barra de navegación principal que ofrecerá acceso directo a las secciones más relevantes, facilitando el acceso a la información y funcionalidades disponibles. Además, incluirá un footer que brindará enlaces complementarios a secciones como “Sobre Nosotros”, donde los usuarios podrán conocer nuestra visión, misión y al equipo que impulsa el desarrollo de la plataforma. 
 
 <div id='4.3.'><h3>4.3 Landing Page UI Design.</h3></div>
 <div id='4.3.1.'><h4>4.3.1. Landing Page Wireframe.</h4></div>

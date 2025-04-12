@@ -719,6 +719,27 @@ El Impact Mapping proporciona una perspectiva estructurada que muestra cómo se 
 <div id='4.1.'><h3>4.1 Style Guidelines.</h3></div>
 <div id='4.1.1.'><h4>4.1.1. General Style Guidelines.</h4></div>
 <div id='4.1.2.'><h4>4.1.2. Web Style Guidelines.</h4></div>
+La aplicación web "EcoMovil" se centra en la eficiencia, la educación y el compromiso ecológico en cada uno de sus procesos. Su estructura está dividida en secciones principales —Inicio, Sobre nosotros, Registro, Vehículos, Beneficios y Contacto— que ocupan un lugar destacado en la interfaz, permitiendo una navegación intuitiva y una experiencia de usuario clara y uniforme.
+
+- **Imágenes:**<br>
+En el diseño web de "EcoMovil", se emplearán imágenes descriptivas de forma estratégica. La página de inicio mostrará fotografías de vehículos menores y de la empresa, con el logotipo ubicado en la esquina superior izquierda para facilitar su reconocimiento. Cada sección principal incluirá imágenes representativas de los vehículos menores, reforzando el enfoque ecológico de la plataforma. Para mejorar la experiencia en dispositivos de escritorio, se prescindirá de imágenes de fondo, utilizando en su lugar imágenes laterales que orienten al usuario de forma funcional a lo largo de la interfaz.
+
+- **Botones:**<br>
+Los botones de la aplicación web "EcoMovil" están diseñados conforme a las pautas generales de estilo. Por lo general, se ubican en la parte inferior de la sección principal de la pantalla, permitiendo que las acciones del usuario se reflejen en la parte superior. Para operaciones que inicien nuevos procesos o afecten el funcionamiento global de la plataforma, se incorporan botones de confirmación. Todos los botones cuentan con un diseño visualmente destacado y con alto contraste frente al resto de la interfaz, garantizando su fácil identificación. Además, se aplica la teoría del color para indicar el propósito de cada botón, utilizando colores específicos para acciones como finalizar o eliminar procesos.
+
+- **Pantallas Emergentes:**<br>
+Las ventanas emergentes en "EcoMovil" están pensadas para validar acciones importantes que afectan directamente el funcionamiento del negocio. Estas ventanas destacan la relevancia de atender la situación presentada antes de seguir utilizando la aplicación, reforzando la toma de decisiones conscientes en momentos clave del proceso.
+
+**Mobile Style Guidelines**
+
+La vista móvil de la aplicación EcoMovil mantiene el mismo enfoque que la versión de escritorio, priorizando la sostenibilidad y la eficiencia en todos los procesos. Las distintas etapas y formularios están organizados en secciones que aprovechan al máximo el espacio disponible en pantalla, garantizando una experiencia fluida y centrada en el usuario.
+
+- **Imágenes:**<br>
+En el diseño móvil de "EcoMovil", las imágenes descriptivas se integrarán estratégicamente. En la pantalla de inicio se mostrarán imágenes de vehículos menores y de la empresa, mientras que el logotipo estará situado en la parte superior izquierda para una identificación rápida. Para mejorar la experiencia del usuario, se prescindirá de imágenes de fondo, optando por elementos visuales laterales que sirvan como guía funcional a lo largo de la interfaz.
+
+- **Botones:**<br>
+Los botones en la versión móvil de la aplicación "EcoMovil" siguen las directrices establecidas en las General Style Guidelines. Normalmente se ubican en la parte inferior de la pantalla principal, permitiendo ejecutar acciones que se reflejan en la parte superior de la interfaz. Para operaciones que inician nuevos procesos o afectan el funcionamiento general, se incluyen botones de confirmación. Cada botón está diseñado con un estilo visualmente distintivo y con alto contraste respecto al resto del diseño, asegurando su visibilidad. Asimismo, se utiliza la teoría del color para identificar el propósito de cada acción, asignando colores específicos a funciones como eliminar o finalizar procesos.
+
 <div id='4.1.3.'><h4>4.1.3. Mobile Style Guidelines.</h4></div>
 <div id='4.1.3.1.'><h5>4.1.3.1. iOS Mobile Style Guidelines.</h5></div>
 <div id='4.1.3.2.'><h5>4.1.3.2. Android Mobile Style Guidelines.</h5></div>
@@ -727,6 +748,34 @@ El Impact Mapping proporciona una perspectiva estructurada que muestra cómo se 
 <div id='4.2.1.'><h4>4.2.1. Organization Systems.</h4></div>
 <div id='4.2.2.'><h4>4.2.2. Labeling Systems.</h4></div>
 <div id='4.2.3.'><h4>4.2.3. SEO Tags and Meta Tags.</h4></div>
+
+Las metaetiquetas ofrecen información codificada que define los metadatos de una página web. Aunque no son visibles para el usuario final, los navegadores y rastreadores web las interpretan para facilitar el análisis de los archivos HTML y simplificar la gestión del contenido. Asimismo, desempeñan un papel clave en la optimización del posicionamiento de la página en los motores de búsqueda.
+
+Las metas etiquetas que utilizaremos son:
+
+### Landing Page
+
+| **Attribute** | **Value** |
+|---------------|-----------|
+| Charset       | UTF-8     |
+| Viewport      | width=device-width, initial-scale=1.0 |
+| CSS Link      | . /src/css/styles.css |
+| Title         | EcoMovil - Urban Mobility Solution Landing Page |
+| Description   | Explore our Landing page to redirect you to rent or buy eco-friendly vehicles like bicycles, scooters, and more. Start your journey towards a green city today. |
+| Keywords      | urban mobility, eco-friendly vehicles, bike rental, scooter rental, sustainable transportation |
+| Author        | EcoMovil Team |
+
+### Aplicación
+
+| **Attribute** | **Value** |
+|---------------|-----------|
+| Charset       | UTF-8     |
+| Viewport      | width=device-width, initial-scale=1.0 |
+| CSS Link      | ./src/css/styles.css |
+| Title         | EcoMovil - Your Eco-Friendly Vehicle Rental Platform with interesting features to rent or buy eco-friendly vehicles |
+| Description   | EcoMobility provides a user-friendly platform for renting or buying bicycles, scooters, and other eco-friendly vehicles. Explore, book, and manage your rentals with ease. |
+| Keywords      | vehicle rental, bike rental, scooter rental, eco-friendly vehicles, urban mobility, sustainable travel, temporary insurance, badges, flexible income options |
+| Author        | EcoMovil Team |
 <div id='4.2.4.'><h4>4.2.4. Searching Systems.</h4></div>
 
 En EcoMovil, el sistema de búsqueda está diseñado para ayudar a los usuarios a localizar de forma ágil los vehículos que desean rentar o adquirir, según sus preferencias. Entre sus funciones destacadas se encuentran la búsqueda por palabras clave para identificar vehículos concretos, el uso de filtros avanzados que permiten ajustar los resultados según distintos parámetros, y un historial de búsquedas recientes que facilita el acceso a consultas previas.
@@ -850,6 +899,30 @@ El diagrama de contenedores ofrece una perspectiva general a nivel macro sobre c
 <div id='5.1.'><h3>5.1 Software Configuration Management.</h3></div>
 <div id='5.1.1.'><h4>5.1.1. Software Development Environment Configuration.</h4></div>
 <div id='5.1.2.'><h4>5.1.2. Source Code Management.</h4></div>
+
+El proyecto adoptará el modelo **GitFlow** como estándar para el control de versiones, con **GitHub** como plataforma central. Esta metodología asegurará una organización clara y sistemática de las ramas, lo que favorecerá un desarrollo colaborativo eficiente. A continuación, se detalla cómo se aplicará GitFlow en el flujo de trabajo, junto con los enlaces a los repositorios relevantes en GitHub:
+
+**GitFlow Workflow:**
+- Ramas principales: `main` para producción y desarrollo.
+- Ramas de características (features) para el desarrollo de nuevas funcionalidades.
+
+**Repositorios de GitHub:**
+- Enlace a la organización en GitHub: https://github.com/orgs/UPC-PRE-1ASI0732-2501-4442-G1-Aceituna/repositories
+- Enlace al repositorio de la **Landing Page**: 
+  <br>
+
+![gitflow]()
+
+**Estructura de Ramas (Branches) en GitFlow:**
+
+1. **Rama Master (Principal):** Es la rama principal del proyecto, donde se mantendrán versiones estables y finales de la aplicación. Solo se permitirán cambios que hayan sido previamente probados y verificados en otras ramas.
+
+
+2. **Ramas de Funcionalidad (Feature branches):** Cada nueva característica del proyecto se desarrollará en su propia rama. Una vez completada y probada, se fusionará en la rama principal. Las ramas seguirán un patrón de los nombres o apellidos de cada integrante por ejemplo, `Nombre-integrante-1`.
+
+3. **Ramas de Lanzamiento (Release branches):** Estas ramas se crearán cuando una versión esté lista para ser lanzada. Se utilizará el **versionamiento semántico** para asignar un número de versión a cada release.
+
+
 <div id='5.1.3.'><h4>5.1.3. Source Code Style Guide & Conventions.</h4></div>
 <div id='5.1.4.'><h4>5.1.4. Software Deployment Configuration.</h4></div>
 

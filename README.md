@@ -22,7 +22,7 @@ width=50%"/>
 
 |                Nombre                 |   Código   |
 | :-----------------------------------: | :--------: |
-|  |  |
+| Bastidas Bastidas, Diego Martin       | U20221A301 |
 |           |  |
 |   Silva Tirado, Sebastian Valentino   |  |
 |  Ticona Panduro, Estrella del Pilar   | U202210659 |
@@ -36,7 +36,7 @@ Esta sección tiene como propósito presentar un resumen de los cambios importan
 
 | Versión |   Fecha    |                 Autor                 | Descripción de modificación                                                                                                                                                          |
 | :-----: | :--------: | :-----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   TB1   | 04/04/2025 |  |  |
+|   TB1   | 04/04/2025 | Bastidas Bastidas, Diego Martin |  |
 |   TB1   | 04/04/2025 |  |  |
 |   TB1   | 04/04/2025 |  |  |
 |   TB1   | 04/04/2025 |   Silva Tirado, Sebastian Valentino   |  |
@@ -56,7 +56,7 @@ Con el fin de elaborar el informe correspondiente a la entrega TB1, se asignó l
 
 | Integrante                            | Tareas Asignadas                                                                                                                           |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| | |
+| Bastidas Bastidas, Diego Martin | |
 | | |
 | | |
 | Silva Tirado, Sebastian Valentino |  |
@@ -175,11 +175,123 @@ ambientales y sociales.
 <div id='1.1.1.'><h4>1.1.1. Descripción del startup.</h4></div>
 <div id='1.1.2.'><h4>1.1.2. Perfiles de los integrantes del equipo.</h4></div>
 
+| Descripción de los Miembros del Equipo                                                                                                                                                                                                                                                                                                                                                                                                                        |     Perfiles de los Miembros del Equipo      | 
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------:|
+| Mi nombre es Diego Bastidas, soy estudiante del 7to ciclo de la carrera de Ingeniería de Software. Decidí estudiar esta carrera porque desde pequeño me llamaba la atención el funcionamiento de una computadora y los procesos que conlleva. Me gusta practicar deportes de contacto, salir a pasear y sobre todo me encanta ser Groomer canino y trabajar con mascotas. | ![Diego](./Img/Diegopfp.jpeg)  | 
+|  | ![]()  | 
+|  | ![]()  | 
+|  | ![]()  | 
+|  | ![]()  |
+
 <div id='1.2.'><h3>1.2 Solution Profile.</h3></div>
 
 <div id='1.2.1.'><h4>1.2.1. Antecedentes y Problemática.</h4></div>
 <div id='1.2.2.'><h4>1.2.2. Lean UX Process.</h4></div>
 
+#### Business Assumptions
+
+#### Necesidades de los Clientes
+
+**Creemos que nuestros clientes buscan** una propuesta que integre transporte sostenible con oportunidades de ingreso flexibles. Por un lado, los estudiantes universitarios requieren formas de ganar dinero extra sin afectar sus horarios académicos; por otro, los usuarios del servicio buscan opciones de movilidad ecológicas y económicas.
+
+#### Solución Propuesta
+
+**Nuestra aplicación web está** pensada para vincular a estudiantes universitarios que tienen vehículos ligeros (como bicicletas, scooters o skateboards) con personas que desean alquilarlos o comprarlos. Esta iniciativa permitirá a los universitarios generar ingresos a partir de vehículos que no usan frecuentemente, mientras brinda a los usuarios finales opciones de movilidad más sostenibles y accesibles.
+
+#### Valor Principal
+
+- Para los estudiantes universitarios: Una app que les ofrece la posibilidad de alquilar o vender sus vehículos ligeros, obteniendo ingresos extra de forma flexible y compatible con su rutina académica.
+- Para los usuarios: Una forma de acceder a medios de transporte ecológicos que mejoran la movilidad urbana, disminuyen la huella de carbono y contribuyen a un sistema de transporte más sostenible.
+
+#### Beneficios Adicionales
+
+- **Compromiso con el medio ambiente**: La app ayuda a disminuir la contaminación en las ciudades al fomentar el uso de medios de transporte sostenibles.  
+- **Ingresos adaptables**: Los estudiantes pueden generar dinero extra de forma flexible, ajustándose a sus tiempos y necesidades individuales.  
+- **Acceso rápido y sencillo**: Los usuarios podrán encontrar y utilizar opciones de transporte ecológico de manera fácil y eficiente.  
+- **Diseño intuitivo y funcional**: La plataforma estará enfocada en la practicidad, optimizando el tiempo de los usuarios y haciendo más ágil el proceso de alquiler o venta de vehículos.
+
+#### Adquisición de Clientes
+
+La difusión de la aplicación se llevará a cabo mediante redes sociales, estrategias de marketing enfocadas en el entorno universitario y la participación en eventos vinculados a la sostenibilidad y la movilidad urbana.
+
+#### Modelo de Ingresos
+
+- **Planes de suscripción para universitarios**: Opciones mensuales que permiten a los estudiantes publicar y resaltar sus vehículos ligeros dentro de la plataforma.  
+- **Ingresos por comisión**: La aplicación obtiene una parte de cada transacción realizada, ya sea por concepto de alquiler o venta.
+
+#### Competencia
+
+Competiremos con plataformas existentes de alquiler y venta de vehículos como City Bike Lima, Bee Perú y otras opciones de movilidad urbana. Nuestra propuesta se diferenciará por ofrecer una combinación única de enfoque sostenible, ingresos flexibles para estudiantes y una interfaz amigable pensada especialmente para el público universitario. La aplicación se destacará por su simplicidad y practicidad, optimizando el tiempo y la experiencia de los usuarios.
+
+#### Riesgos Principales
+
+- **Captación de usuarios**: El reto principal será atraer y mantener una comunidad activa de usuarios dispuestos a alquilar o vender sus vehículos.  
+- **Experiencia del usuario**: Es fundamental garantizar que la app sea funcional, segura y fácil de usar, cumpliendo con las expectativas y necesidades de los usuarios.
+
+#### Estrategias para Mitigar Riesgos
+- **Fomento de una comunidad participativa**: Incentivar la interacción y retroalimentación constante de los usuarios para optimizar y evolucionar la plataforma.  
+- **Seguridad y confianza garantizadas**: Establecer mecanismos de protección, incluyendo seguros temporales, que resguarden tanto a los estudiantes como a quienes alquilan o compran los vehículos.
+
+#### User assumptions
+
+#### ¿Quién es el usuario?
+
+- **Estudiantes universitarios**: Se espera que estos usuarios tengan vehículos como bicicletas, scooters o patinetas que no utilizan con frecuencia y estén interesados en obtener ingresos extra alquilándolos o vendiéndolos a través de la app.  
+- **Usuarios**: Este grupo abarca a residentes de Lima, incluyendo turistas, trabajadores y otros usuarios, que buscan alternativas de transporte ecológicas, económicas y accesibles, como bicicletas, scooters y motos eléctricas.
+
+#### ¿Dónde encaja nuestro producto en sus trabajos o vidas?
+
+- **Estudiantes universitarios**: La app les permite generar ingresos a partir de vehículos que no están usando, lo que les ayuda a cubrir gastos y aliviar la carga financiera, todo sin afectar su tiempo dedicado al estudio.  
+- **Usuarios**: La aplicación les proporciona una opción de transporte más económica y ecológica, mejorando su movilidad diaria y contribuyendo a reducir su huella ambiental en la ciudad.
+
+#### ¿Qué problema resuelve nuestro producto?
+
+- **Para los universitarios**: Soluciona la necesidad de generar ingresos adicionales de manera flexible, sin interferir con sus estudios, al ofrecer una forma fácil de alquilar o vender los vehículos que no utilizan.  
+- **Para los usuarios**: Brinda una alternativa de transporte más ecológica y asequible, respondiendo a la falta de opciones accesibles y ayudando a reducir la contaminación y la congestión en la ciudad.
+
+#### ¿Cuándo y cómo es usado nuestro producto?
+
+- **Universitarios**: Utilizan la aplicación cuando tienen un vehículo disponible para alquilar o vender. Pueden acceder en cualquier momento para gestionar sus anuncios y revisar las solicitudes de alquiler o compra.  
+- **Usuarios**: Usan la aplicación para alquilar o comprar vehículos cuando requieren una opción de transporte, especialmente en momentos de alta demanda o cuando buscan alternativas más ecológicas y económicas.
+
+#### ¿Qué características son importantes?
+
+- **Valoraciones y reseñas**: Permite a los usuarios calificar la calidad de los vehículos y los servicios de alquiler o compra.  
+- **Búsqueda avanzada con filtros**: Facilita la localización de vehículos según tipo, ubicación y otros criterios específicos.  
+- **Historial de alquiler o venta de vehículos**: Guarda un registro de todas las transacciones, ayudando a los usuarios a gestionar sus vehículos de manera más eficiente.  
+- **Foro de ayuda**: Ofrece soporte y resuelve dudas de los usuarios, mejorando la experiencia general.  
+- **Mapa interactivo de puntos de recepción**: Permite a los usuarios ubicar fácilmente los vehículos disponibles en diferentes puntos de la ciudad.  
+- **Gamificación**: Incorpora elementos como logros o insignias para fomentar la participación activa y el uso constante de la aplicación.
+
+#### Feature Assumptions
+
+- **Sistema de calificación con estrellas**: Implementar una función para que los usuarios puedan dejar reseñas y calificar su experiencia de alquiler o compra de vehículos mediante un sistema de estrellas.  
+- **Búsqueda avanzada con filtros**: Desarrollar una opción de búsqueda avanzada que permita a los usuarios filtrar los vehículos según características como tipo de vehículo, precio y otros criterios.  
+- **Panel de usuario para historial de transacciones**: Crear un área personalizada donde los adquirientes puedan ver un registro detallado de todas las transacciones, incluyendo alquileres y compras de vehículos.  
+- **Foro de asistencia integrado**: Incorporar un foro de ayuda en la app que facilite la comunicación entre los usuarios y los universitarios, con opciones para contactar a través de WhatsApp.  
+- **Mapa interactivo**: Añadir un mapa interactivo que permita a los usuarios localizar fácilmente los vehículos disponibles en su área.  
+- **Validación del vehículo**: Implementar un proceso de verificación que asegure que los vehículos publicados en la aplicación cumplen con ciertos estándares de calidad y seguridad, garantizando así la confianza de los usuarios en los vehículos alquilados o comprados.
+- **Gamificación**: Incorporar características de gamificación, como logros y badges, para motivar a los usuarios a realizar acciones específicas dentro de la aplicación.
+
+#### Business Outcomes
+
+- **Confirmación de funcionamiento adecuado**: Asegurar que los usuarios verifiquen que la aplicación funciona correctamente, sin interrupciones, proporcionando una experiencia de uso fluida y satisfactoria.  
+- **Satisfacción del 70% de los usuarios**: Lograr que al menos el 70% de los usuarios estén contentos con el servicio durante el primer trimestre tras el lanzamiento, asegurando una alta tasa de retención y una fuerte recomendación del producto.  
+- **Reducción de la contaminación en un 40%**: Conseguir una disminución del 40% en las emisiones de contaminación generadas por los usuarios de la aplicación, contribuyendo significativamente a la lucha contra el cambio climático mediante soluciones de transporte ecológico.
+
+#### Users
+
+Los usuarios principales de la aplicación son los estudiantes universitarios que tienen vehículos ligeros como bicicletas, scooters o patinetas y desean obtener ingresos extra alquilándolos o vendiéndolos. Además, se encuentran los usuarios que buscan opciones de transporte más económicas y ecológicas, quienes adquieren o alquilan estos vehículos a través de la plataforma, beneficiándose de la conveniencia y sostenibilidad que ofrece el servicio.
+
+#### User Outcomes & Benefits
+
+- **Para los Universitarios:**
+  - **Generación de Ingresos Flexibles:** Ofrecen una forma de obtener ingresos adicionales alquilando o vendiendo vehículos que no están usando.
+  - **Apoyo a la Sostenibilidad:** Contribuyen a una comunidad más ecológica y responsable mediante el uso compartido de vehículos.
+
+- **Para los Adquirientes:**
+  - **Reducción de la Huella de Carbono:** Eligen opciones de transporte ecológicas, reduciendo su impacto ambiental.
+  - **Acceso Fácil al Transporte:** Mejoran su movilidad al tener acceso rápido a medios de transporte cuando más los necesitan.
 <div id='1.2.2.1.'><h5>1.2.2.1. Lean UX Problem Statements.</h5></div>
 <div id='1.2.2.2.'><h5>1.2.2.2. Lean UX Assumptions.</h5></div>
 <div id='1.2.2.3.'><h5>1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
@@ -198,6 +310,75 @@ Enlace para acceder al Lean UX Canvas: https://www.canva.com/design/DAGOEXan6rE/
 <div id='2.1.'><h3>2.1 Competidores.</h3></div>
 <div id='2.1.1.'><h4>2.1.1. Análisis competitivo.</h4></div>
 <div id='2.1.2.'><h4>2.1.2. Estrategias y tácticas frente a competidores.</h4></div>
+
+A partir del análisis competitivo realizado, se han identificado las fortalezas, oportunidades, debilidades y amenazas de los competidores. Esta información es crucial para desarrollar estrategias y tácticas que permitan superar a la competencia cuando el servicio se introduzca en el mercado de forma rentable. A continuación, se detallan las estrategias y tácticas planificadas para alcanzar este objetivo.
+
+**Afrontando las fortalezas de nuestros competidores:**
+
+- Introducir nuevas características tecnológicas para diferenciarse en el mercado.  
+- Proporcionar un servicio de soporte personalizado y proactivo disponible las 24 horas del día, los 7 días de la semana.
+
+**Comprendemos que nuestras fortalezas son:**
+
+- Creación de nuevas funcionalidades tecnológicas.  
+- Distinción en mercados desatendidos.
+
+Podemos implementar las siguientes estrategias y tácticas:
+
+**Estrategias**
+
+- Nos centraremos en los estudiantes universitarios, brindando opciones de alquiler o compra a largo plazo para quienes requieran vehículos pequeños para su transporte diario.
+
+**Tácticas**
+
+- Realizaremos eventos de lanzamiento en universidades o áreas estratégicas.
+
+**Afrontando las oportunidades de nuestros competidores:**
+
+- Incorporaremos rápidamente nuevas funcionalidades y mejoras.
+- Proporcionaremos un foro de contacto de alta calidad.
+
+**Comprendemos que nuestras debilidades son:**
+
+- Carecemos de la misma presencia en el mercado que los competidores consolidados, lo que podría dificultar la atracción de usuarios.  
+- Contamos con recursos limitados, lo que restringe nuestra capacidad para invertir en marketing y tecnología.
+
+**Estrategias**
+
+- Promoveremos EcoMovil como una opción ecológica y sostenible. Pondremos en marcha programas de reforestación o compensación de carbono por cada alquiler o compra, y destacaremos el uso de vehículos eléctricos y de bajo impacto ambiental.
+
+**Tácticas**
+
+- Identificaremos zonas de alto flujo estudiantil donde la competencia es reducida. Estableceremos operaciones en estos lugares antes que nuestros competidores, logrando captar una parte significativa del mercado local.
+
+**Afrontando las oportunidades de nuestros competidores:**
+
+- Destacaremos nuestro compromiso con la sostenibilidad.  
+- Nos centraremos en zonas con baja competencia y alta demanda.
+
+**Comprendemos que nuestras debilidades son:**
+
+- Reconocimiento de marca reducido.  
+- Presupuesto limitado.  
+- Presencia inicial restringida.
+
+**Estrategias**
+
+- Proporcionaremos tarifas con un mes gratuito para los universitarios, lo que nos ayudará a crear una base de usuarios sólida y constante.
+
+**Tácticas**
+
+- Brindaremos un foro de contacto, especialmente durante las horas de mayor actividad, como las mañanas antes de clases. Esto nos diferenciará de los competidores que ofrecen soporte limitado.
+
+**Afrontando las oportunidades de nuestros competidores:**
+
+- Incorporaremos filtros que permitan destacar la reputación y confiabilidad del cliente.
+
+**Comprendemos que nuestras debilidades son:**
+
+- Visibilidad de marca aún limitada.  
+- Recursos más restringidos para marketing y operaciones.  
+- Cobertura geográfica en proceso de crecimiento.
 
 <div id='2.2.'><h3>2.2 Entrevistas.</h3></div>
 <div id='2.2.1.'><h4>2.2.1. Diseño de entrevistas.</h4></div>
@@ -289,6 +470,241 @@ A pesar de sus distintas motivaciones, ambos coinciden en valorar la seguridad c
 
 <div id='3.1.'><h3>3.1 To-Be Scenario Mapping.</h3></div>
 <div id='3.2.'><h3>3.2 User Stories.</h3></div>
+
+<table>
+    <tr>
+        <th>User Story ID</th>
+        <th>Título</th>
+        <th>Descripción</th>
+        <th>Criterios de Aceptación</th>
+        <th>Relacionado con (Epic ID)</th>
+    </tr>
+    <tr>
+        <td>US01</td>
+        <td>Barra de navegación en la Landing Page</td>
+        <td><b>Como</b> estudiante o comprador <b>quiero</b> ver una página de inicio <b>para</b> explorar las características de la plataforma.</td>
+        <td><b>Dado que</b> el usuario accede al sitio web principal, <b>cuando</b> aparece el menú superior, <b>entonces</b> debe mostrar todas las opciones disponibles. <b>Dado que</b> el usuario está en la página, <b>cuando</b> selecciona un enlace del menú, <b>entonces</b> debe llevarlo a la sección correspondiente.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Sección Hero en la Landing Page</td>
+        <td><b>Como</b> visitante <b>quiero</b> una presentación visual impactante <b>para</b> comprender rápidamente el propósito del servicio.</td>
+        <td><b>Dado que</b> se carga la página principal, <b>cuando</b> el usuario llega al sitio, <b>entonces</b> la zona destacada debe mostrar contenido llamativo que explique el valor del producto.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US03</td>
+        <td>Sección Footer en la Landing Page</td>
+        <td><b>Como</b> cliente potencial <b>quiero</b> encontrar datos legales y de contacto <b>para</b> resolver dudas o consultas.</td>
+        <td><b>Dado que</b> el usuario navega hasta el final de la página, <b>cuando</b> visualiza el pie, <b>entonces</b> debe incluir enlaces a políticas y formas de comunicación.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US04</td>
+        <td>Sección de Beneficios en la Landing Page</td>
+        <td><b>Como</b> interesado <b>quiero</b> entender las ventajas del sistema <b>para</b> evaluar si satisface mis requerimientos.</td>
+        <td><b>Dado que</b> el usuario explora la plataforma, <b>cuando</b> llega al área explicativa, <b>entonces</b> debe describir claramente cómo funciona y qué beneficios ofrece.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US05</td>
+        <td>Sección de Contacto en la Landing Page</td>
+        <td><b>Como</b> posible usuario <b>quiero</b> canales de comunicación accesibles <b>para</b> iniciar mi experiencia con el servicio.</td>
+        <td><b>Dado que</b> el usuario necesita asistencia, <b>cuando</b> visita la zona de contacto, <b>entonces</b> debe ofrecer métodos claros para establecer comunicación.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US06</td>
+        <td>Landing Page Responsive con diferentes dispositivos</td>
+        <td><b>Como</b> usuario móvil <b>quiero</b> una adaptación automática del diseño <b>para</b> navegar cómodamente desde cualquier dispositivo.</td>
+        <td><b>Dado que</b> se accede desde distintos tamaños de pantalla, <b>cuando</b> se carga la interfaz, <b>entonces</b> debe reorganizarse correctamente sin afectar la usabilidad.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US07</td>
+        <td>Sección de planes en la Landing Page</td>
+        <td><b>Como</b> cliente interesado <b>quiero</b> comparar opciones de suscripción <b>para</b> seleccionar la que mejor se ajuste a mis necesidades.</td>
+        <td><b>Dado que</b> el usuario revisa las membresías disponibles, <b>cuando</b> examina características y precios, <b>entonces</b> debe poder elegir y comenzar el proceso de adhesión.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US08</td>
+        <td>Sección de acerca de en la Landing Page</td>
+        <td><b>Como</b> usuario curioso <b>quiero</b> conocer los antecedentes del proyecto <b>para</b> entender su filosofía y valores.</td>
+        <td><b>Dado que</b> se busca información institucional, <b>cuando</b> se visita la sección sobre nosotros, <b>entonces</b> debe presentar la historia y objetivos de manera clara y motivadora.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US09</td>
+        <td>Sección de unirse en la Landing Page</td>
+        <td><b>Como</b> nuevo miembro <b>quiero</b> un formulario de registro sencillo <b>para</b> comenzar a utilizar los servicios.</td>
+        <td><b>Dado que</b> el usuario decide registrarse, <b>cuando</b> completa sus datos básicos, <b>entonces</b> debe recibir confirmación y acceso inicial al sistema.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US10</td>
+        <td>Sección de inscribirse en la Landing Page</td>
+        <td><b>Como</b> usuario no registrado <b>quiero</b> una opción de ingreso directo <b>para</b> acceder rápidamente a la plataforma.</td>
+        <td><b>Dado que</b> existe una cuenta previa, <b>cuando</b> se introducen credenciales válidas, <b>entonces</b> debe permitirse el acceso al área privada.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US11</td>
+        <td>Sección de universitario en la Landing Page</td>
+        <td><b>Como</b> estudiante universitario <b>quiero</b> contenidos específicos para mi perfil <b>para</b> aprovechar beneficios académicos.</td>
+        <td><b>Dado que</b> el usuario pertenece al ámbito educativo, <b>cuando</b> accede a su zona especial, <b>entonces</b> debe encontrar ofertas y condiciones adaptadas.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US12</td>
+        <td>Sección de "conozca más sobre nosotros" en la Landing Page</td>
+        <td><b>Como</b> usuario detallista <b>quiero</b> información ampliada sobre la empresa <b>para</b> tomar decisiones informadas.</td>
+        <td><b>Dado que</b> se requiere mayor profundidad informativa, <b>cuando</b> se explora esta sección, <b>entonces</b> debe ofrecer datos completos sobre la organización.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US13</td>
+        <td>Botón de empieza tu viaje en la Landing Page</td>
+        <td><b>Como</b> usuario motivado <b>quiero</b> un llamado a la acción claro <b>para</b> iniciar mi experiencia sin demora.</td>
+        <td><b>Dado que</b> el usuario está listo para comenzar, <b>cuando</b> encuentra el botón destacado, <b>entonces</b> debe guiarlo directamente al proceso de registro o ingreso.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US14</td>
+        <td>Sección de todos los derechos reservados en la Landing Page</td>
+        <td><b>Como</b> usuario legalmente consciente <b>quiero</b> ver los derechos de propiedad <b>para</b> sentirme seguro usando el servicio.</td>
+        <td><b>Dado que</b> se requiere transparencia legal, <b>cuando</b> se revisa el pie de página, <b>entonces</b> debe mostrar claramente los derechos reservados y términos legales.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US15</td>
+        <td>Sección de adquiriente en la Landing Page</td>
+        <td><b>Como</b> comprador frecuente <b>quiero</b> ver información relevante para mi perfil <b>para</b> optimizar mis transacciones.</td>
+        <td><b>Dado que</b> el usuario tiene intención de compra, <b>cuando</b> accede a su sección específica, <b>entonces</b> debe encontrar herramientas y ofertas para compradores.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US16</td>
+        <td>Crear una cuenta en EcoMovil</td>
+        <td><b>Como</b> nuevo usuario <b>quiero</b> registrarme fácilmente <b>para</b> acceder a todas las funcionalidades.</td>
+        <td><b>Dado que</b> se completa el formulario correctamente, <b>cuando</b> se envía la información, <b>entonces</b> debe crearse la cuenta y redirigir al dashboard principal.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>US17</td>
+        <td>Inicio de sesión en EcoMovil</td>
+        <td><b>Como</b> usuario registrado <b>quiero</b> acceder a mi cuenta <b>para</b> gestionar mis actividades.</td>
+        <td><b>Dado que</b> se ingresan credenciales válidas, <b>cuando</b> se solicita autenticación, <b>entonces</b> debe verificarse la identidad y permitir el ingreso al sistema.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>US18</td>
+        <td>Botón "Elija un plan"</td>
+        <td><b>Como</b> usuario decidido <b>quiero</b> seleccionar un paquete de servicios <b>para</b> acceder a vehículos.</td>
+        <td><b>Dado que</b> se muestran las opciones disponibles, <b>cuando</b> se elige un plan, <b>entonces</b> debe dirigir al proceso de pago correspondiente.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>US19</td>
+        <td>Mensaje de "Pago exitoso"</td>
+        <td><b>Como</b> usuario que completa una transacción <b>quiero</b> confirmación inmediata <b>para</b> tener seguridad del proceso.</td>
+        <td><b>Dado que</b> el pago se procesa correctamente, <b>cuando</b> finaliza la transacción, <b>entonces</b> debe mostrarse un mensaje claro de confirmación.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>US20</td>
+        <td>Botón de agregar vehículos en el menú</td>
+        <td><b>Como</b> proveedor <b>quiero</b> incluir nuevos vehículos <b>para</b> ofrecerlos en alquiler o venta.</td>
+        <td><b>Dado que</b> se accede al formulario de registro, <b>cuando</b> se completan los datos requeridos, <b>entonces</b> debe agregarse el vehículo al inventario disponible.</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>US21</td>
+        <td>Visualizar mi Perfil</td>
+        <td><b>Como</b> usuario registrado <b>quiero</b> ver mi información personal <b>para</b> verificar o actualizar mis datos.</td>
+        <td><b>Dado que</b> se accede al área personal, <b>cuando</b> se visualiza el perfil, <b>entonces</b> debe mostrar toda la información registrada de manera organizada.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>US22</td>
+        <td>Historial de Vehículos</td>
+        <td><b>Como</b> usuario activo <b>quiero</b> revisar mis transacciones pasadas <b>para</b> llevar un control de mis operaciones.</td>
+        <td><b>Dado que</b> existen transacciones previas, <b>cuando</b> se consulta el historial, <b>entonces</b> debe listarse cronológicamente todas las actividades realizadas.</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>US23</td>
+        <td>Foro de Contacto</td>
+        <td><b>Como</b> usuario sociable <b>quiero</b> interactuar con otros miembros <b>para</b> resolver dudas o hacer contactos.</td>
+        <td><b>Dado que</b> existe el espacio de discusión, <b>cuando</b> se accede al foro, <b>entonces</b> debe mostrar los hilos de conversación y opciones para participar.</td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>US24</td>
+        <td>Configuración Personalizada de Tailwind CSS para Identidad de Marca</td>
+        <td><b>Como</b> desarrollador <b>quiero</b> personalizar el diseño visual <b>para</b> mantener coherencia con la imagen corporativa.</td>
+        <td><b>Dado que</b> se modifican los archivos de configuración, <b>cuando</b> se implementan los cambios, <b>entonces</b> debe reflejarse la paleta de colores y tipografía corporativa.</td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <td>US25</td>
+        <td>Implementación de API para Búsqueda Geolocalizada de Vehículos</td>
+        <td><b>Como</b> técnico <b>quiero</b> desarrollar un servicio de ubicación <b>para</b> ofrecer resultados precisos por proximidad.</td>
+        <td><b>Dado que</b> se solicita búsqueda por ubicación, <b>cuando</b> se envía la posición actual, <b>entonces</b> debe devolver vehículos disponibles ordenados por distancia.</td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <td>US26</td>
+        <td>Buscar vehículos</td>
+        <td><b>Como</b> usuario práctico <b>quiero</b> filtrar opciones de vehículos <b>para</b> encontrar lo que necesito rápidamente.</td>
+        <td><b>Dado que</b> existen múltiples opciones, <b>cuando</b> se aplican filtros específicos, <b>entonces</b> debe mostrar sólo los vehículos que cumplan los criterios.</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>US27</td>
+        <td>Crear discusión</td>
+        <td><b>Como</b> usuario participativo <b>quiero</b> iniciar nuevos temas <b>para</b> compartir información o preguntas.</td>
+        <td><b>Dado que</b> se redacta un nuevo hilo, <b>cuando</b> se publica correctamente, <b>entonces</b> debe aparecer visible para otros usuarios del foro.</td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>US28</td>
+        <td>Actualizar perfil</td>
+        <td><b>Como</b> usuario cuidadoso <b>quiero</b> modificar mis datos personales <b>para</b> mantener mi información actualizada.</td>
+        <td><b>Dado que</b> se editan campos del perfil, <b>cuando</b> se guardan los cambios, <b>entonces</b> debe almacenarse la nueva información y mostrar confirmación.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>US29</td>
+        <td>Notificación de pago</td>
+        <td><b>Como</b> usuario que realiza pagos <b>quiero</b> recibir confirmación <b>para</b> tener certeza de la transacción.</td>
+        <td><b>Dado que</b> se completa un pago, <b>cuando</b> es exitoso, <b>entonces</b> debe enviarse notificación por la plataforma y correo electrónico.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>US30</td>
+        <td>Implementar una sección de video para "About the Product"</td>
+        <td><b>Como</b> usuario visual <b>quiero</b> contenido multimedia explicativo <b>para</b> entender mejor el producto.</td>
+        <td><b>Dado que</b> se carga la página descriptiva, <b>cuando</b> se reproduce el video, <b>entonces</b> debe mostrarse correctamente con controles funcionales.</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>US31</td>
+        <td>Implementar una sección de video para "About the Team"</td>
+        <td><b>Como</b> usuario interesado <b>quiero</b> conocer al equipo creador <b>para</b> generar confianza en el servicio.</td>
+        <td><b>Dado que</b> se accede a la sección del equipo, <b>cuando</b> se visualiza el material, <b>entonces</b> debe presentar información relevante en formato audiovisual.</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>US32</td>
+        <td>Implementar la internacionalización de la Aplicación</td>
+        <td><b>Como</b> usuario multilingüe <b>quiero</b> cambiar el idioma de la interfaz <b>para</b> usarla en mi lengua preferida.</td>
+        <td><b>Dado que</b> se selecciona un idioma alternativo, <b>cuando</b> se aplica el cambio, <b>entonces</b> debe traducirse toda la interfaz consistentemente.</td>
+        <td>4</td>
+    </tr>
+</table>
+
 <div id='3.3.'><h3>3.3 Product Backlog.</h3></div>
 <div id='3.4.'><h3>3.4 Impact Mapping.</h3></div>
 

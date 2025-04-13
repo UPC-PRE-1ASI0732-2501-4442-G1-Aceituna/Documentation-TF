@@ -566,6 +566,9 @@ La estructura tipográfica se divide en cuatro niveles de jerarquía para los t�
 <div id='4.2.'><h3>4.2 Information Architecture.</h3></div>
 <div id='4.2.1.'><h4>4.2.1. Organization Systems.</h4></div>
 <div id='4.2.2.'><h4>4.2.2. Labeling Systems.</h4></div>
+
+En EcoMovil, la estructura de navegación por etiquetas dentro de la aplicación ha sido cuidadosamente diseñada para ofrecer una experiencia de usuario clara e intuitiva. El logotipo funciona como un botón oculto que también actúa como un acceso directo a la página principal, permitiendo a los usuarios regresar rápidamente al inicio. La sección "How it Works" ofrece una guía detallada sobre el funcionamiento de la plataforma, resaltando sus principales beneficios y facilitando la comprensión del servicio. La categoría "Who can use" describe los perfiles de usuarios que pueden aprovechar las ventajas de la aplicación. La pestaña "Plans" presenta las diferentes opciones de suscripción, junto con sus respectivos costos. Finalmente, el botón "Sign up" redirige al formulario de registro para nuevos usuarios.
+
 <div id='4.2.3.'><h4>4.2.3. SEO Tags and Meta Tags.</h4></div>
 <div id='4.2.4.'><h4>4.2.4. Searching Systems.</h4></div>
 <div id='4.2.5.'><h4>4.2.5. Navigation Systems.</h4></div>

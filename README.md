@@ -171,9 +171,34 @@ ambientales y sociales.
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 
 <div id='1.1.'><h3>1.1 Startup Profile.</h3></div>
+En esta sección se ofrece una descripción del startup y se detallan los perfiles de los integrantes del equipo.
 
 <div id='1.1.1.'><h4>1.1.1. Descripción del startup.</h4></div>
+EcoMovil surge en respuesta a la creciente necesidad de alternativas sostenibles de movilidad urbana y el auge de los vehículos ecológicos. A través de una aplicación, facilitamos el acceso a medios de transporte como bicicletas, scooters, skateboards y motos eléctricas, conectando a adquirientes con aquellos que tienen estos vehículos disponibles.
+
+Lo que nos diferencia de otras aplicaciones es que no solo promovemos una alternativa ecológica para la movilidad, sino que también brindamos oportunidades de ingresos flexibles a universitarios, quienes pueden rentar o vender sus vehículos. Además, nuestra aplicación integra funcionalidades que aseguran una experiencia segura, eficiente y divertida para los usuarios.
+
+**Misión:** Facilitar el acceso a una movilidad urbana sostenible, conectando a las personas con vehículos ecológicos a través de una aplicación digital eficiente, contribuyendo a la reducción de la contaminación, y brindando oportunidades de ingresos para universitarios.
+
+**Visión:** Convertirnos en una aplicación líder en movilidad urbana sostenible, facilitando el acceso a vehículos ecológicos y promoviendo un estilo de vida más saludable y consciente con el medio ambiente.
+
+**Logotipo del Servicio:**<br>
+
+![service](/assets/ecomovil.jpg)
+
+
+
+
 <div id='1.1.2.'><h4>1.1.2. Perfiles de los integrantes del equipo.</h4></div>
+
+| Descripción de los Miembros del Equipo                                                                                                                                                                                                                                                                                                                                                                                                                        |     Perfiles de los Miembros del Equipo      | 
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------:|
+|                                                     |  | 
+| Mi nombre es **David Ivanoff Gallo Quintana** - u20201e475, tengo 21 años y actualmente curso Ingeniería de Software. Me considero una persona trabajadora, activa y que le gusta ser responsable con los trabajos asignados. Además, poseo conocimientos en algunos lenguajes de programación como Swift, C++ y Python. También estoy abierto a conocer nuevas tecnologías. Creo que estas cualidades me ayudarán a llevar a cabo el proyecto propuesto.   | ![David](/assets/chapter-1/perfil/david.png) | 
+|      || 
+|                          |  | 
+|                                                                 | | 
+
 
 <div id='1.2.'><h3>1.2 Solution Profile.</h3></div>
 

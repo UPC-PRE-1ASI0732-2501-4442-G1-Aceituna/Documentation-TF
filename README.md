@@ -171,8 +171,24 @@ ambientales y sociales.
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 
 <div id='1.1.'><h3>1.1 Startup Profile.</h3></div>
+En esta sección se ofrece una descripción del startup y se detallan los perfiles de los integrantes del equipo.
 
 <div id='1.1.1.'><h4>1.1.1. Descripción del startup.</h4></div>
+EcoMovil surge en respuesta a la creciente necesidad de alternativas sostenibles de movilidad urbana y el auge de los vehículos ecológicos. A través de una aplicación, facilitamos el acceso a medios de transporte como bicicletas, scooters, skateboards y motos eléctricas, conectando a adquirientes con aquellos que tienen estos vehículos disponibles.
+
+Lo que nos diferencia de otras aplicaciones es que no solo promovemos una alternativa ecológica para la movilidad, sino que también brindamos oportunidades de ingresos flexibles a universitarios, quienes pueden rentar o vender sus vehículos. Además, nuestra aplicación integra funcionalidades que aseguran una experiencia segura, eficiente y divertida para los usuarios.
+
+**Misión:** Facilitar el acceso a una movilidad urbana sostenible, conectando a las personas con vehículos ecológicos a través de una aplicación digital eficiente, contribuyendo a la reducción de la contaminación, y brindando oportunidades de ingresos para universitarios.
+
+**Visión:** Convertirnos en una aplicación líder en movilidad urbana sostenible, facilitando el acceso a vehículos ecológicos y promoviendo un estilo de vida más saludable y consciente con el medio ambiente.
+
+**Logotipo del Servicio:**<br>
+
+![service](/assets/ecomovil.jpg)
+
+
+
+
 <div id='1.1.2.'><h4>1.1.2. Perfiles de los integrantes del equipo.</h4></div>
 
 | Descripción de los Miembros del Equipo                                                                                                                                                                                                                                                                                                                                                                                                                        |     Perfiles de los Miembros del Equipo      | 
@@ -182,6 +198,15 @@ ambientales y sociales.
 |  | ![]()  | 
 |  | ![]()  | 
 |  | ![]()  |
+
+| Descripción de los Miembros del Equipo                                                                                                                                                                                                                                                                                                                                                                                                                        |     Perfiles de los Miembros del Equipo      | 
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------:|
+|                                                     |  | 
+| Mi nombre es **David Ivanoff Gallo Quintana** - u20201e475, tengo 21 años y actualmente curso Ingeniería de Software. Me considero una persona trabajadora, activa y que le gusta ser responsable con los trabajos asignados. Además, poseo conocimientos en algunos lenguajes de programación como Swift, C++ y Python. También estoy abierto a conocer nuevas tecnologías. Creo que estas cualidades me ayudarán a llevar a cabo el proyecto propuesto.   | ![David](/assets/chapter-1/perfil/david.png) | 
+|      || 
+|                          |  | 
+|                                                                 | | 
+
 
 <div id='1.2.'><h3>1.2 Solution Profile.</h3></div>
 
@@ -295,6 +320,32 @@ Los usuarios principales de la aplicación son los estudiantes universitarios qu
 <div id='1.2.2.1.'><h5>1.2.2.1. Lean UX Problem Statements.</h5></div>
 <div id='1.2.2.2.'><h5>1.2.2.2. Lean UX Assumptions.</h5></div>
 <div id='1.2.2.3.'><h5>1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
+
+- **Hypothesis Statement 01:** <br>
+  **Creemos que** al ofrecer una aplicación que permita a los universitarios rentar o vender sus vehículos, ayudaremos al medio ambiente al reducir la necesidad de vehículos personales y promover el uso compartido.<br>
+  **Sabremos** que hemos tenido éxito.<br>
+  **Cuando** los universitarios generen ingresos adicionales y recomienden la aplicación a más personas, aumentando así la adopción de la aplicación.<br>
+
+- **Hypothesis Statement 02:** <br>
+  **Creemos que** al ofrecer distintos medios de transporte más sostenibles, fomentaremos un estilo de vida más ecoamigable entre los universitarios.<br>
+  **Sabremos** que hemos tenido éxito.<br>
+  **Cuando** en distintos distritos de Lima se incrementen los esfuerzos por mejorar la infraestructura para vehículos sostenibles, como la creación de más carriles para bicicletas y monopatines.<br>
+
+- **Hypothesis Statement 03:** <br>
+  **Creemos que** al proporcionar una variedad más amplia de vehículos, atraeremos a más usuarios a nuestra aplicación.<br>
+  **Sabremos** que hemos tenido éxito.<br>
+  **Cuando** nuestra base de clientes crezca notablemente tras la adición de nuevos tipos de vehículos.<br>
+
+- **Hypothesis Statement 04:** <br>
+  **Creemos que** al garantizar la seguridad y el mantenimiento de los vehículos, incrementaremos la confianza y satisfacción de los usuarios.<br>
+  **Sabremos** que hemos tenido éxito.<br>
+  **Cuando** la tasa de retención de usuarios aumente y recibamos comentarios positivos sobre la seguridad y el mantenimiento.
+
+- **Hypothesis Statement 05:** <br>
+  **Creemos que** al mejorar la experiencia de usuario de la aplicación, facilitaremos el acceso y el uso de la aplicación para todos los universitarios.<br>
+  **Sabremos** que hemos tenido éxito.<br>
+  **Cuando** observemos un aumento en el tiempo de uso de la aplicación y en la satisfacción general del usuario, reflejado en encuestas y valoraciones.<br>
+
 <div id='1.2.2.4.'><h5>1.2.2.4. Lean UX Canvas.</h5></div>
 
 El Lean UX Canvas es un recurso utilizado en el diseño centrado en el usuario (UX) y en metodologías Lean, cuyo objetivo es fomentar un desarrollo de productos más ágil y efectivo. Esta herramienta proporciona una estructura clara que promueve la colaboración entre equipos de distintas disciplinas. A continuación, se muestra el Lean UX Canvas elaborado por el equipo a través de Canva.
@@ -385,8 +436,32 @@ Podemos implementar las siguientes estrategias y tácticas:
 <div id='2.2.2.'><h4>2.2.2. Registro de entrevistas.</h4></div>
 <div id='2.2.3.'><h4>2.2.3. Análisis de entrevistas.</h4></div>
 
+**Análisis del segmento universitario**
+
+Los entrevistados valoran altamente la aplicación EcoMovil por su capacidad para facilitar la renta y la venta de vehículos menores inactivos, permitiéndoles generar ingresos adicionales y contribuir a la movilidad sostenible. El 100% de los usuarios aprecian cómo la aplicación optimiza el proceso de rentar o vender estos vehículos, destacando su utilidad para maximizar el valor de los recursos no utilizados. La facilidad de uso y la funcionalidad para registrar y gestionar los vehículos son aspectos especialmente valorados.
+
+Sin embargo, se identificaron áreas de mejora. Un 67% de los usuarios, como Rodrigo, sugiere incorporar promociones u ofertas para atraer a más adquirientes y mejorar la visibilidad del vehículo. Además, un 33% menciona la necesidad de optimizar la comunicación entre universitario y adquiriente, como se indicó en la tercera entrevista, para hacer el proceso de alquiler y venta más eficiente. También se destacó la importancia de incluir herramientas que permitan una gestión más eficiente de las reservas y el seguimiento de alquileres y ventas. En general, aunque EcoMovil es percibida como una herramienta beneficiosa, mejorar la interacción, las ofertas y las herramientas de gestión podría potenciar aún más la experiencia del usuario.
+
+**Análisis del segmento de adquiriente**
+
+El 100% de los entrevistados valoran la presencia de un mapa interactivo y las opciones de edición de vehículos. Un 67% prefiere usar el servicio para disfrutar del paisaje y recorrer distancias medias, indicando una inclinación hacia experiencias agradables y prácticas de movilidad urbana. No obstante, un 33% ha tenido experiencias desfavorables debido a cobros imprevistos, subrayando la importancia de mantener la claridad en los precios y evitar cargos inesperados.
+
+Además, el 67% valora positivamente la atención al cliente y la posibilidad de comunicarse directamente con el universitario, sugiriendo que una comunicación efectiva es esencial para una experiencia de alquiler y compra satisfactoria. Todos los entrevistados consideran importantes las ventajas ambientales del servicio, lo que refleja una alta conciencia y aprecio por el impacto positivo en el medio ambiente.
+
+Algunos usuarios también sugirieron incluir características adicionales, como opciones de seguro más flexibles y mejoras en el proceso de devolución del vehículo, para aumentar la satisfacción general y la confianza en el servicio.
+
+
 <div id='2.3.'><h3>2.3 Needfinding.</h3></div>
 <div id='2.3.1.'><h4>2.3.1. User Personas.</h4></div>
+
+- Segmento Universitarios:
+
+![User Persona Propietario](/assets/AlexHidalgo.png)
+
+- Segmento Adquirientes:
+
+![User Persona Rentador](/assets/CamilaSolano.png)
+
 <div id='2.3.2.'><h4>2.3.2. User Task Matrix.</h4></div>
 
 A continuación, se muestra el Task Matrix, una tabla que detalla las actividades llevadas a cabo por los User Personas, junto con su nivel de importancia y frecuencia. Seguidamente, se presenta un resumen basado en los datos recopilados.
@@ -896,6 +971,15 @@ Los botones en la versión móvil de la aplicación "EcoMovil" siguen las direct
 
 <div id='4.2.'><h3>4.2 Information Architecture.</h3></div>
 <div id='4.2.1.'><h4>4.2.1. Organization Systems.</h4></div>
+
+El sistema de organización de la aplicación de "EcoMovil" está diseñado para estructurar visualmente el contenido y facilitar la navegación.
+
+La organización visual del contenido se distribuye en diversas vistas dentro de la aplicación, utilizando una estructura jerárquica que resalta los elementos más importantes en la pantalla. Este enfoque se aplica a las pantallas de inicio de sesión, donde los títulos e imágenes de los vehículos ocupan una mayor parte del espacio visual. Las opciones para modificar información sobre los vehículos se integran de manera armoniosa con el fondo blanco de la aplicación, lo que permite que los usuarios se enfoquen primero en los vehículos antes de notar las opciones de edición.
+
+El proceso principal de las fases de compra y alquiler sigue una organización secuencial, facilitando que los usuarios puedan visualizar sus planes y completar un pago de manera fluida. En varias etapas, como la publicación de vehículos, el uso de filtros y el historial, el contenido es esencial para que los usuarios realicen un seguimiento eficiente dentro de la aplicación.
+
+En la vista principal (home), se ofrece una secuencia de vehículos diseñada para que los usuarios exploren las opciones disponibles para compra o alquiler. Además, en otras secciones, como el filtro y el foro de contacto, se proporcionan herramientas para que los usuarios publiquen vehículos, y se incluye una opción de comunicación directa mediante WhatsApp. El propósito de esta categorización es ofrecer una experiencia visual clara y organizada, tanto en la visualización de los vehículos en el mapa como en el historial de vehículos, que también contará con imágenes relacionadas.
+
 <div id='4.2.2.'><h4>4.2.2. Labeling Systems.</h4></div>
 <div id='4.2.3.'><h4>4.2.3. SEO Tags and Meta Tags.</h4></div>
 
@@ -934,39 +1018,29 @@ En EcoMovil, el sistema de búsqueda está diseñado para ayudar a los usuarios 
 
 <div id='4.3.'><h3>4.3 Landing Page UI Design.</h3></div>
 <div id='4.3.1.'><h4>4.3.1. Landing Page Wireframe.</h4></div>
+
+Primero, se muestra la landing page vista desde un navegador web en escritorio. Esta página incluye secciones importantes para el usuario, que ofrecen información sobre los beneficios que obtendrá al usar el producto, los planes de pago disponibles, así como la misión, visión y valores de la startup.
+
+![wireframe_landingpage_1](/assets/wireframe-L1.png)
+
+![wireframe_landingpage_2](/assets/wireframe-L2.png)
+
+![wireframe_landingpage_3](/assets/wireframe-L3.png)
+
+![wireframe_landingpage_4](/assets/wireframe-L4.png)
+
+![wireframe_landingpage_5](/assets/wireframe-L5.png)
+
+![wireframe_landingpage_6](/assets/wireframe-L6.png)
+
+
 <div id='4.3.2.'><h4>4.3.2. Landing Page Mock-up.</h4></div>
 
-El mock-up de la landing page de EcoMovil representa la primera impresión que los usuarios tendrán al ingresar a la plataforma. Su diseño está orientado a captar la atención, comunicar de forma clara el propósito del servicio y motivar la interacción desde el primer momento.
-
-<div id='4.3.2.1.'><h5>4.3.2.1. Landing Page Mock-up for Web.</h5></div>
-
-El wireframe diseñado para la versión de escritorio de la landing page fue fundamental para organizar la estructura visual de los elementos. A partir de esta guía, se desarrolló el mock-up correspondiente, respetando los contenidos ya descritos. En la imagen se puede apreciar la aplicación de la paleta de colores principal y secundaria, así como la tipografía seleccionada previamente.
-
-<img src="Img/landing1.png" alt="Landing1" style="margin-bottom: 5px;" width="800"/>
-
-<img src="Img/landing2.png" alt="Landing2" style="margin-bottom: 5px;" width="800"/>
-
-<img src="Img/landing3.png" alt="Landing3" style="margin-bottom: 5px;" width="800"/>
-
-<img src="Img/landing5.png" alt="Landing5" style="margin-bottom: 5px;" width="800"/>
-
-<img src="Img/landing6.png" alt="Landing6" style="margin-bottom: 5px;" width="800"/>
-
-<div id='4.3.2.2.'><h5>4.3.2.2. Landing Page for Mobile.</h5></div>
-
-Por otro lado, el mock-up en su versión móvil conserva todos los elementos mencionados. Se resalta que la elección tipográfica y el contraste adecuado entre el texto y el fondo permiten una lectura clara y cómoda en ambas versiones, tanto móvil como de escritorio.
-
-<img src="Img/mockupmb1.png" alt="Mockupmb1" style="margin-bottom: 5px;"/>
-
-<img src="Img/mockupmb2.png" alt="Mockupmb2" style="margin-bottom: 5px;"/>
-
-<img src="Img/mockupmb3.png" alt="Mockupmb3" style="margin-bottom: 5px;"/>
-
-<div id='4.4.'><h3>4.4 Mobile Applications UX/UI Design.</h3></div>
-<div id='4.4.1.'><h4>4.4.1. Mobile Applications Wireframes.</h4></div>
-<div id='4.4.2.'><h4>4.4.2. Mobile Applications Wireflow Diagrams.</h4></div>
-<div id='4.4.3.'><h4>4.4.3. Mobile Applications Mock-ups.</h4></div>
-<div id='4.4.4.'><h4>4.4.4. Mobile Applications User Flow Diagrams.</h4></div>
+<div id='4.4.'><h3>4.4 Web Applications UX/UI Design.</h3></div>
+<div id='4.4.1.'><h4>4.4.1. Web Applications Wireframes.</h4></div>
+<div id='4.4.2.'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
+<div id='4.4.3.'><h4>4.4.3. Web Applications Mock-ups.</h4></div>
+<div id='4.4.4.'><h4>4.4.4. Web Applications User Flow Diagrams.</h4></div>
 
 <div id='4.5.'><h3>4.5 Mobile Applications Prototyping.</h3></div>
 <div id='4.5.1.'><h4>4.5.1. Android Mobile Applications Prototyping.</h4></div>
@@ -974,6 +1048,241 @@ Por otro lado, el mock-up en su versión móvil conserva todos los elementos men
 
 <div id='4.6.'><h3>4.6 Web Applications UX/UI Design.</h3></div>
 <div id='4.6.1.'><h4>4.6.1. Web Applications Wireframes.</h4></div>
+
+**Web Application para Dekstop Web Browser**
+
+**Segmento Universitario**
+
+**Crear Cuenta**
+
+La siguiente imagen presenta la sección de "registro de empresa", donde los universitarios podrán proporcionar la información requerida para crear una cuenta en la aplicación y empezar a disfrutar de los beneficios que ofrece EcoMovil.
+
+![web](/assets/universitario1.png)
+
+**Inicio de sesión**
+
+La siguiente imagen muestra el wireframe de la sección de "inicio de sesión" vista desde una aplicación web en escritorio. En esta sección, los usuarios deberán ingresar sus credenciales para acceder a la aplicación, siempre y cuando ya hayan creado una cuenta previamente.
+
+![web](/assets/universitario2.png)
+
+**Elegir Planes**
+
+La siguiente imagen muestra la sección de "Selección de pago", donde se presentan las diferentes categorías de planes disponibles en la aplicación. Cada uno de los tres planes ha sido diseñado cuidadosamente para atender las necesidades particulares de las empresas.
+
+![web](/assets/universitario3.png)
+
+**Pago**
+
+La siguiente imagen corresponde a la sección de "Pasarela de pagos", donde los universitarios son redirigidos a un formulario para seleccionar y registrar su método de pago. En esta sección también se muestra el monto del plan elegido. Tras completar el proceso de pago con éxito, el usuario recibe una notificación con la confirmación de su suscripción y la fecha de registro.
+
+![web](/assets/universitario4.png)
+
+**Proceder el Pago**
+
+En la siguiente imagen se puede ver el mensaje de pago exitoso, donde el universitario confirma que ha realizado el pago de manera satisfactoria y que ahora puede utilizar la aplicación sin inconvenientes.
+
+![web](/assets/universitario5.png)
+
+**Home**
+
+En esta sección, se puede ver el home con varias secciones que se explorarán más adelante. En particular, nos enfocamos en la parte de "Mis vehículos", donde podrás observar a otros universitarios siguiendo la iniciativa y subiendo sus propios vehículos.
+
+![web](/assets/universitario6.png)
+
+**Detalles del Vehículo**
+
+En esta sección, podrás ver los detalles de cada vehículo mostrado en la sección del home.
+
+![web](/assets/universitario7.png)
+
+**Mis vehículos**
+
+En esta parte, el universitario podrá subir sus vehículos añadiendo una imagen representativa y detalles del vehículo. Finalmente, deberá hacer clic en el botón "Agregar" para completar el proceso.
+
+![web](/assets/universitario8.png)
+
+**Mi Perfil**
+
+En esta sección, podrás ver tu perfil y agregar más datos, como tu RUC, correo electrónico y otros detalles, además de tu foto representativa. Finalmente, deberás hacer clic en el botón "Save changes" para guardar los cambios.
+
+![web](/assets/universitario9.png)
+
+**Historial del Vehículo**
+
+En esta sección, puedes ver el historial de los vehículos publicados y los detalles correspondientes.
+
+![web](/assets/universitario10.png)
+
+**Foro de Contacto**
+
+En esta sección, podrás publicar tu número de contacto y el vehículo que estás dispuesto a vender o alquilar, permitiendo que otros usuarios se contacten contigo o le den "like" a tu publicación.
+
+![web](/assets/universitario11.png)
+
+**Segmento Adquiriente**
+
+**Crear cuenta**
+
+En esta sección, el adquiriente podrá registrarse proporcionando datos específicos como su nombre, correo electrónico y contraseña. Además, deberá marcar la casilla "Acepto los términos y condiciones."
+
+![web](/assets/adquiriente1.png)
+
+**Iniciar Sesión**
+
+En esta sección, el adquiriente podrá iniciar sesión ingresando su correo electrónico y contraseña.
+
+![web](/assets/adquiriente2.png)
+
+**Home**
+
+En esta sección, el adquiriente podrá visualizar el "Home", donde tendrá acceso a diversos vehículos menores con información como nombre, descripción y precio. También encontrará botones para "Rentar" o "Comprar" cada vehículo.
+
+![web](/assets/adquiriente3.png)
+
+**Mi perfil**
+
+En esta sección, podrás visualizar el perfil del adquiriente, incluyendo detalles como el nombre, correo y teléfono. También habrá un botón para confirmar si los detalles son correctos y, finalmente, un botón de "Guardar".
+
+![web](/assets/adquiriente4.png)
+
+**Mapa Interactivo**
+
+En esta sección, el adquiriente podrá visualizar un mapa interactivo.
+
+![web](/assets/adquiriente5.png)
+
+**Filtro**
+
+En esta sección, podrás visualizar los filtros con vehículos y sus imágenes descriptivas, así como los botones de "Comprar" o "Rentar".
+
+![web](/assets/adquiriente6.png)
+
+**Detalles del Vehículo**
+
+Al hacer clic en un vehículo, el adquiriente podrá ver las descripciones del mismo, incluidos sus "Badges", tipo de vehículo, año, precio y una descripción detallada. Además, tendrá la opción de comunicarse por WhatsApp con el propietario del vehículo y podrá seleccionar entre los botones "Rentar Vehículo" o "Comprar Vehículo".
+
+![web](/assets/adquiriente7.png)
+
+**Historial**
+
+En esta sección, el adquiriente podrá visualizar el historial de los vehículos.
+
+![web](/assets/adquiriente8.png)
+
+**Foro de Contacto**
+En esta sección, el adquiriente podrá visualizar los mensajes de los diferentes universitarios que incluyeron su número de teléfono, con la opción de conectarse directamente a través de WhatsApp.
+
+![web](/assets/adquiriente9.png)
+
+**Web Application para Mobile Web Browser**
+
+**Segmento Universitario**
+
+**Logo**
+
+Aquí, el universitario podrá ver el logo de EcoMovil con un mensaje de "Cargando" en la parte inferior.
+
+![web](/assets/phone1.png)
+
+**Registro**
+
+Los universitarios podrán registrarse en EcoMovil ingresando su RUC, correo electrónico, nombre completo y contraseña. También deberán aceptar los términos y condiciones antes de hacer clic en el botón de "Registrarse".
+
+![web](/assets/phone2.png)
+
+**Iniciar sesión**
+
+Los universitarios podrán iniciar sesión ingresando su correo electrónico y contraseña. También habrá una opción de "Recuérdame" para facilitar el acceso en caso de que olviden el usuario o la contraseña. Finalmente, deberán hacer clic en el botón de "Iniciar sesión".
+
+![web](/assets/phone3.png)
+
+**Planes**
+
+Aquí, el usuario podrá seleccionar uno de los tres planes disponibles para comenzar a usar la aplicación y ofrecer sus vehículos al público objetivo. Deberá hacer clic en el botón de "Escoger Plan".
+
+![web](/assets/phone4.png)
+
+**Proceder al pago**
+
+En esta sección, el usuario podrá acceder al plan realizando el pago con su tarjeta e ingresando los datos correspondientes. Después de hacer clic en el botón de "Confirmar", recibirá un mensaje de pago exitoso.
+
+![web](/assets/phone5.png)
+
+**Vehículos**
+
+Aquí, el universitario podrá visualizar las publicaciones de otros universitarios y sus vehículos para inspirarse. Luego, podrá acceder a la sección "Mi Vehículo" para agregar uno o dos vehículos, dependiendo de su plan, haciendo clic en el botón "Agregar".
+
+![web](/assets/phone7.png)
+
+**Historial**
+
+Aquí, podremos ver el historial de los vehículos publicados por el universitario.
+
+![web](/assets/phone8.png)
+
+**Foro de Contacto**
+
+El universitario podrá subir un mensaje en el post indicando que está vendiendo o rentando un vehículo, incluyendo su número de celular para que el arrendatario pueda comunicarse con él a través de WhatsApp.
+
+![web](/assets/phone9.png)
+
+**Mi Perfil**
+
+En esta sección, podrás ver tu perfil, incluyendo tu foto, nombre completo, correo electrónico, número de teléfono y RUC. Finalmente, podrás guardar tus datos.
+
+![web](/assets/phone10.png)
+
+**Segmento Adquiriente**
+
+**Logo**
+
+Aquí, el adquiriente podrá ver el logo de EcoMovil con un mensaje de "Cargando" en la parte inferior.
+
+![web](/assets/phone1.png)
+
+**Registro**
+
+Los adquirientes podrán registrarse en EcoMovil ingresando su correo electrónico, nombre completo y contraseña. También deberán aceptar los términos y condiciones antes de hacer clic en el botón de "Registrarse".
+
+![web](/assets/image1.png)
+
+**Iniciar sesión**
+
+Los adquirientes podrán iniciar sesión ingresando su correo electrónico y contraseña. También habrá una opción de "Recuérdame" para facilitar el acceso en caso de que olviden el usuario o la contraseña. Finalmente, deberán hacer clic en el botón de "Iniciar sesión".
+
+![web](/assets/phone3.png)
+
+**Alquilar o comprar vehículos menores**
+
+Aquí podrás explorar diferentes vehículos y utilizar el botón "Rentar" o "Comprar" según tu interés.
+
+![web](/assets/image2.png)
+
+**Mi Perfil**
+
+El adquiriente podrá ver su perfil, agregar o corregir su foto, nombre, correo electrónico y teléfono. También deberá confirmar que los detalles son correctos y, finalmente, hacer clic en el botón "Guardar".
+
+![web](/assets/image3.png)
+
+**Vehículo y Filtros**
+
+Aquí podrás ver el mapa interactivo y el filtro, que incluye secciones para tipos de vehículos y precios.
+
+![web](/assets/image4.png)
+
+**Detalles del Vehículo**
+
+Aquí podrás visualizar los detalles del vehículo que seleccionaste, incluyendo sus descripciones, y tendrás los botones de "Alquilar" o "Comprar".
+
+![web](/assets/image5.png)
+
+**Historial de Vehículo y Foro de Contacto**
+
+El adquiriente tendrá la opción de ver los vehículos en su historial y acceder al foro de contacto, donde podrá visualizar los posts de los universitarios que incluyen su número de WhatsApp, facilitando el contacto directo si desean el vehículo.
+
+![web](/assets/image6.png)
+
+
 <div id='4.6.2.'><h4>4.6.2. Web Applications Wireflow Diagrams.</h4></div>
 
 **User Goal: Iniciar sesión y Registrarse**
@@ -1029,6 +1338,11 @@ Una vez que el adquiriente haya iniciado sesión, accederá a su panel de contro
 
 <div id='4.8.'><h3>4.8 Domain-Driven Software Architecture.</h3></div>
 <div id='4.8.1.'><h4>4.8.1. Software Architecture Context Diagram.</h4></div>
+
+El diagrama de contexto ofrece una visión general de alto nivel de las interacciones entre el sistema de software EcoMovil, los usuarios y, en su caso, otros sistemas externos.
+
+![C4_Context](./assets/c41.png)
+
 <div id='4.8.2.'><h4>4.8.2. Software Architecture Container Diagrams.</h4></div>
 
 El diagrama de contenedores ofrece una perspectiva general a nivel macro sobre cómo interactúan las aplicaciones y las fuentes de datos dentro del funcionamiento del sistema EcoMovil.
@@ -1074,6 +1388,39 @@ El proyecto adoptará el modelo **GitFlow** como estándar para el control de ve
 
 
 <div id='5.1.3.'><h4>5.1.3. Source Code Style Guide & Conventions.</h4></div>
+
+En EcoMovil se han implementado diversas convenciones de estilo para el desarrollo en varios lenguajes.
+
+#### Tecnologías utilizadas:
+
+**HTML y CSS (Guía de Estilo de Google HTML/CSS):**
+- El documento comienza con `!DOCTYPE html`.
+- Se incluyen meta etiquetas necesarias y el elemento `title` dentro de `head`.
+- Se usa una indentación de dos espacios y minúsculas para elementos, atributos y selectores.
+- Los atributos se escriben entre comillas y todos los elementos tienen su etiqueta de cierre.
+- Se evita el uso de líneas demasiado largas y las imágenes incluyen especificaciones de tamaño y texto alternativo (`alt`).
+- Los atributos de las imágenes incluyen dimensiones `width` y `height` para mejorar la accesibilidad (ej: `<img src="abc.img" alt="image name" style="width:128px;height:128px">`).
+
+**TypeScript:**
+- Se emplean clases e interfaces, se agregan comentarios y se controlan flujos lógicos.
+- Se usan nombres descriptivos para las variables y funciones.
+
+**Gherkin (Convenciones de Gherkin para especificaciones legibles):**
+- Se utilizan las palabras clave "Given", "When", "Then" y "And" para describir los pasos de los escenarios.
+- Se indentan los pasos con "And", añadiendo líneas en blanco entre pasos y escenarios.
+- Los parámetros se rodean con comillas simples.
+
+**Java:**
+- Se usan clases, métodos y variables, siguiendo convenciones funcionales.
+
+**Angular:**
+- Los nombres siguen la convención PascalCase.
+- Los componentes, servicios y clases están en archivos separados.
+- Las plantillas y hojas de estilo se manejan en archivos distintos, con el uso de decoradores como `@Component`, `@Injectable` y `@Input`.
+- Se emplea inyección de dependencias para gestionar servicios y las convenciones de código se centran en nombres claros.
+**Gherkin**:
+- Busca mejorar la comunicación entre negocio y técnico con BDD, organizando los escenarios mediante saltos de línea y palabras clave ("Given", "When", "Then", "And") para estructurar escenarios. Los saltos de línea ayudan a distinguir entre los distintos tipos de escenarios, mejorando la legibilidad y organización.
+
 <div id='5.1.4.'><h4>5.1.4. Software Deployment Configuration.</h4></div>
 
 **Despliegue de la Landing Page**

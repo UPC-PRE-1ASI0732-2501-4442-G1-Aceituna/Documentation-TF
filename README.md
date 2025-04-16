@@ -172,6 +172,7 @@ ambientales y sociales.
 
 <div id='1.1.'><h3>1.1 Startup Profile.</h3></div>
 
+
 <div id='1.1.1.'><h4>1.1.1. Descripción del startup.</h4></div>
 <div id='1.1.2.'><h4>1.1.2. Perfiles de los integrantes del equipo.</h4></div>
 

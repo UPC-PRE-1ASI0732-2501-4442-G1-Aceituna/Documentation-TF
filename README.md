@@ -176,6 +176,9 @@ ambientales y sociales.
 <div id='1.1.1.'><h4>1.1.1. Descripción del startup.</h4></div>
 <div id='1.1.2.'><h4>1.1.2. Perfiles de los integrantes del equipo.</h4></div>
 
+| Mi nombre es **Estrella del pilar Ticona Panduro** - u202210659, actualmente estudio la carrera de Ingeniería de Software en UPC. Opté por estudiar esta carrera porque me interesa programar y crear diferentes aplicativos o programas y emplearlo en la salud. En mis tiempos libres me gusta ver series o películas. Mi compromiso es aportar ideas innovadoras a lo largo del curso, en especial en las tareas en equipo. Mis habilidades son tener una actitud positiva, entusiasta y responsable.   | ![Estrella](assets/estrella.jpeg) | 
+
+
 <div id='1.2.'><h3>1.2 Solution Profile.</h3></div>
 
 <div id='1.2.1.'><h4>1.2.1. Antecedentes y Problemática.</h4></div>

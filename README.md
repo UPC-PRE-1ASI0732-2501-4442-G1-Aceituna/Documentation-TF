@@ -2420,6 +2420,64 @@ table border="0" width="50%">
 
 <div id='5.1.'><h3>5.1 Software Configuration Management.</h3></div>
 <div id='5.1.1.'><h4>5.1.1. Software Development Environment Configuration.</h4></div>
+
+
+**Requirements Management**
+
+1. Trello: Es una herramienta diseñada para la gestión de proyectos, particularmente aquellos que siguen metodologías ágiles. Permite visualizar y actualizar de manera eficiente el avance de tareas e historias de usuario durante un sprint en curso.
+
+Ruta de referencia: https://trello.com/es
+
+**User Experience Design (UX/UI)**
+
+1. Figma: Plataforma de diseño y prototipado gráfico, utilizada principalmente en el entorno digital. En este proyecto, se usará para crear los prototipos de la aplicación, tanto para su versión de escritorio como para su versión móvil.
+
+Ruta de referencia: https://www.figma.com/login
+
+2. Lucidchart: Herramienta para crear diagramas de flujo, ideal para diseñar wireflows, user-flows y diagramas de clases relacionados con la aplicación.
+
+Ruta de referencia: https://www.lucidchart.com
+
+**Software Testing**
+
+1. Gherkin: Lenguaje utilizado para establecer los criterios de aceptación de una historia de usuario de manera organizada. Ofrece una manera estandarizada de redactar escenarios en un formato comprensible para equipos tanto técnicos como no técnicos.
+
+Ruta de referencia: https://cucumber.io/docs/gherkin/
+
+**Software Development**
+
+1. Visual Studio Code: Entorno de desarrollo integrado elegido para escribir y compilar el código, debido a la experiencia del equipo con esta herramienta. Este IDE agrega valor al proyecto gracias a su capacidad para integrar extensiones útiles, su soporte para múltiples lenguajes de programación y su disponibilidad en distintos sistemas operativos, entre otras ventajas.
+
+Ruta de referencia: https://code.visualstudio.com/
+
+2. HTML5: Es un lenguaje de marcado utilizado para definir la estructura de las páginas web. En este proyecto, se empleará para organizar y mostrar el contenido de la aplicación de manera clara y ordenada.
+
+Ruta de referencia: https://www.w3schools.com/html/html5_syntax.asp
+
+3. CSS: Hojas de Estilo en Cascada, es un lenguaje utilizado para definir el estilo visual y el diseño de las páginas web, funcionando como complemento de HTML para mejorar su presentación.
+
+Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html
+
+4. Angular: Framework de desarrollo web basado en TypeScript, creado por Google, que permite construir aplicaciones de una sola página (SPA). Está diseñado para facilitar la creación de interfaces dinámicas y eficientes en entornos web.
+
+Ruta de referencia: https://angular.io/
+
+5. TypeScript: Lenguaje de programación que amplía las capacidades de JavaScript al incorporar tipado estático y funciones avanzadas, lo que facilita el desarrollo de aplicaciones complejas y de gran escala.
+
+Ruta de referencia: https://www.typescriptlang.org/
+
+**Software Deployment**
+
+1. Git: Herramienta de control de versiones que permite llevar un seguimiento detallado y organizado de los cambios realizados en el código. Será utilizada para conservar un historial de modificaciones y facilitar la identificación y corrección de errores. El equipo trabajará con Git mediante la línea de comandos en sus dispositivos locales.
+
+Ruta de referencia: https://git-scm.com/
+
+**Software Documentation and Project Management**
+
+1. GitHub: Plataforma en la nube que se utilizará para alojar los repositorios del proyecto, facilitando la colaboración entre los integrantes del equipo en tiempo real y permitiendo revisar las contribuciones de cada miembro. El acceso se realizará mediante navegadores web.
+
+Ruta de referencia: https://github.com/
+
 <div id='5.1.2.'><h4>5.1.2. Source Code Management.</h4></div>
 
 El proyecto adoptará el modelo **GitFlow** como estándar para el control de versiones, con **GitHub** como plataforma central. Esta metodología asegurará una organización clara y sistemática de las ramas, lo que favorecerá un desarrollo colaborativo eficiente. A continuación, se detalla cómo se aplicará GitFlow en el flujo de trabajo, junto con los enlaces a los repositorios relevantes en GitHub:

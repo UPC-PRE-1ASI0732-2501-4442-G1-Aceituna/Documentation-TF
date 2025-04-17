@@ -789,6 +789,17 @@ En contraste, Alex Hidalgo prioriza la generación de ingresos, impulsado por su
 A pesar de sus distintas motivaciones, ambos coinciden en valorar la seguridad como un aspecto esencial ante posibles riesgos.
 
 <div id='2.3.3.'><h4>2.3.3. User Journey Mapping.</h4></div>
+
+En esta sección se presenta el recorrido completo del usuario (User Journey Mapping) de la aplicación EcoMovil para los segmentos objetivo: estudiantes universitarios y compradores. El proceso comienza desde que el cliente se entera de la aplicación, sigue con la toma de decisión para utilizarla, el registro, el uso continuo de la misma y, finalmente, la opción de dejar de usarla.
+
+- Segmento Universitarios:
+
+![Journey](/assets/chapter-2/journey1.png)
+
+- Segmento Adquirientes:
+
+![Journey](/assets/chapter-2/journey2.png)
+
 <div id='2.3.4.'><h4>2.3.4. Empathy Mapping.</h4></div>
 <div id='2.3.5.'><h4>2.3.5. As-is Scenario Mapping.</h4></div>
 

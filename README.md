@@ -445,6 +445,133 @@ Adicionalmente, frente al aumento en la tasa de deserción universitaria, que pa
 
 <div id='2.1.'><h3>2.1 Competidores.</h3></div>
 <div id='2.1.1.'><h4>2.1.1. Análisis competitivo.</h4></div>
+
+
+El análisis competitivo desempeña un papel fundamental en la formulación de estrategias empresariales, ya que permite identificar posibles riesgos y áreas de oportunidad. Este análisis es esencial para que nuestra empresa pueda desarrollar ventajas competitivas sostenibles y adaptarse con agilidad a los cambios del entorno comercial. A lo largo del desarrollo del proyecto, se ha integrado esta herramienta como un recurso estratégico para comprender mejor el panorama competitivo y evaluar a los principales competidores del mercado.
+
+
+<table>
+    <tr>
+      <td colspan="6" align="center"><strong>Competitive Analysis Landscape</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>¿Por qué llevar a cabo este análisis?</strong></td>
+      <td colspan="5" align="center">Analizar a nuestros competidores en el mercado nos permite obtener una visión clara del entorno en el que se lanzará nuestra aplicación. Este proceso facilita la identificación de competidores tanto directos como indirectos. Al conocer su presencia y desempeño en el mercado, podremos diseñar estrategias más eficaces y alineadas con la realidad del sector.<br></td>
+      </tr>
+    <tr>
+      <td colspan="2"></td>
+      <td align="center">EcoMovil<br>
+        <img src="/assets/chapter-2/ecomovil.jpg"></td>
+      <td align="center">Tembici<br>
+        <img src="/assets/chapter-2/tembici.png"></td>
+      <td align="center">Airbnb<br> 
+        <img src="https://i.ibb.co/BzbnJ7z/image.png"></td>
+      <td align="center">CityBikeLima 
+        <img src="https://i.ibb.co/py5jTXP/image-removebg-preview-4.png"></td>
+    </tr>
+    <tr>
+      <td align="center" rowspan="2"><strong>Perfil</strong></td>
+      <td align="center"><strong>Overview</strong></td>
+      <td align="center">Nuestra plataforma digital está diseñada para facilitar la conexión entre usuarios que buscan medios de transporte sostenibles y quienes los ofrecen, ya sea para alquiler o venta. La aplicación no solo brinda la oportunidad de generar ingresos de manera flexible, sino que también promueve la creación de una comunidad comprometida con el cuidado del medio ambiente en el Perú.</td>
+      <td align="center">Es una compañía destacada en el ámbito de la movilidad urbana en América Latina, ampliamente reconocida por sus servicios de bicicletas compartidas. Desde su fundación en 2010 en Brasil, ha expandido sus operaciones a diversas ciudades de Brasil, Argentina y Chile, promoviendo constantemente estilos de vida más sostenibles y saludables.</td>
+      <td align="center">Es una plataforma digital que facilita la conexión entre personas que buscan alojamiento y anfitriones que ofrecen una amplia variedad de espacios en todo el mundo. El servicio permite encontrar desde habitaciones privadas y departamentos, hasta viviendas completas y alojamientos únicos como castillos o casas en los árboles.</td>
+      <td align="center">Es un servicio de bicicletas públicas en Lima, Perú, que ofrece bicicletas compartidas como una alternativa ecológica y funcional para movilizarse por la ciudad. Su enfoque principal está en las zonas con alta congestión vehicular, donde busca fomentar un estilo de vida más sostenible y consciente del entorno urbano. </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Ventaja Competitiva<br>¿Qué valor ofrece a los clientes?</strong></td>
+      <td align="center">• Facilita el desplazamiento sostenible en entornos urbanos al ofrecer a los estudiantes universitarios diversas opciones de transporte, incorporando herramientas clave como valoraciones y comentarios de usuarios, filtros de búsqueda avanzados, un historial de transacciones y un mapa interactivo para una experiencia más completa.<br>
+       <br>• Motiva la participación de los usuarios mediante la integración de dinámicas de juego. </td>
+      <td align="center">• Las estaciones de Tembici se encuentran estratégicamente distribuidas en lugares clave de las ciudades, como paradas de metro, centros comerciales y vecindarios residenciales. <br> 
+        <br>• El servicio está accesible durante todo el día, los 7 días de la semana.</td>
+      <td align="center">• Brinda una amplia variedad de opciones de alojamiento, que van desde apartamentos y casas hasta propuestas únicas como casas en árboles, castillos y casas flotantes.<br>
+<br>• Ofrecen experiencias organizadas por personas locales, que van desde recorridos guiados y talleres de cocina hasta actividades al aire libre y de aventura.</td>
+      <td align="center">• Brinda a sus usuarios múltiples planes de suscripción, permitiéndoles elegir entre opciones diarias, semanales o mensuales, según sus necesidades, hábitos de uso y presupuesto.<br>
+<br>• Ofrece tarifas de alquiler más bajas en comparación con otros medios de transporte, lo que hace de las bicicletas compartidas una opción económica.</td>
+    </tr>
+    <tr>
+      <td align="center" rowspan="2"><strong>Perfil del Marketing</td>
+      <td align="center"><strong>Mercado Objetivo</strong></td>
+      <td align="center"> Universitarios y adquirientes. </td>
+      <td align="center">Habitantes urbanos, visitantes, personas interesadas en la movilidad ecológica, empresas, autoridades locales y comunidades residenciales.</td>
+      <td align="center">Visitantes y turistas, ejecutivos, propietarios de propiedades y actividades, así como familias y grupos.</td>
+      <td align="center">Habitantes de la ciudad, turistas, promotores de la movilidad ecológica, familias y empleados municipales.</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Estrategias de Marketing</strong></td>
+      <td align="center">Brindar un mes de prueba gratuita a los usuarios.</td>
+      <td align="center">• Promociones y descuentos especiales.<br>
+<br>• Estrategias publicitarias en plataformas sociales y canales digitales.</td>
+      <td align="center">• Publicidad digital y en redes sociales.<br></td>
+      <td align="center">• Colaboraciones con universidades y empresas.<br>
+<br>• Actividades locales para fomentar el uso de bicicletas.<br></td>
+    </tr>
+    <tr>
+      <td align="center" rowspan="3"><strong>Perfil del Producto</strong></td>
+      <td align="center"><strong>Productos & Servicios</strong></td>
+      <td align="center">Plataforma en línea que facilita la conexión entre personas interesadas en alquilar o adquirir bicicletas, scooters, patinetas, motos eléctricas y otros vehículos, y aquellos que los tienen disponibles.</td>
+      <td align="center">Servicio de alquiler de bicicletas a través de una aplicación móvil, promoviendo una movilidad urbana sostenible y adaptable para los usuarios.</td>
+      <td align="center">Aplicación web que ofrece una amplia variedad de opciones de alojamiento, desde habitaciones privadas hasta casas completas, en todo el mundo.</td>
+      <td align="center">Brindar una solución de movilidad urbana sostenible y accesible mediante una aplicación móvil que facilita el alquiler y la gestión de bicicletas.</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Precios & Costos</strong></td>
+      <td align="center">• Incluye hasta 2 publicaciones mensuales para alquilar o vender vehículos, con soporte básico. El precio es de $1.99 al mes después del período de prueba.<br>
+<br>•  Ofrece hasta 10 publicaciones mensuales, con la opción de destacar tus anuncios y soporte prioritario. El costo es de $5.99 al mes una vez finalizado el período de prueba.<br>
+<br>• Ofrece publicaciones ilimitadas para alquilar o vender vehículos, junto con soporte 24/7. El precio es de $19.99 al mes después del período de prueba.                 </td>
+      <td align="center">• Plan Diario: Costo aproximado de $0.50 a $1.00 por hora, con un límite máximo diario que oscila entre $5.00 y $10.00.<br>
+<br>• Plan Mensual: Tiene un costo que varía entre $25.00 y $40.00.<br>
+<br>• Plan Anual: Su precio oscila entre $150.00 y $300.00.<br></td>
+      <td align="center"><br>• Alojamientos por Noche: Los costos varían entre $30 y $200 o más por noche, dependiendo de la ciudad, el tipo de alojamiento y la temporada.<br>
+<br>• Estancias Largas: Muchos anfitriones brindan descuentos para estancias de una semana o más, lo que puede disminuir el costo por noche.<br>
+<br>• Experiencias: Los costos de las experiencias (actividades o tours ofrecidos por locales) suelen variar entre $20 y $100 por persona, aunque pueden fluctuar considerablemente.<br></td>
+      <td align="center">• Plan Diario: Alrededor de S/ 8.00 a S/ 15.00 por día.<br>
+<br>• Plan Mensual: Aproximadamente de S/ 50.00 a S/ 100.00.<br>
+<br>• Plan Anual: Varía entre S/ 300.00 y S/ 600.00, según la suscripción y los beneficios adicionales.<br></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Canales de distribución (Web y/o Móvil)</strong></td>
+      <td align="center">El servicio estará accesible de forma temporal a través de la aplicación.</td>
+      <td align="center">Aplicación móvil, página web, estaciones físicas, colaboraciones con empresas y universidades, y plataformas de redes sociales.</td>
+      <td align="center">Página web, la aplicación móvil, alianzas con agencias de viajes y plataformas externas, y redes sociales. </td>
+      <td align="center">Aplicación móvil, página web, puntos físicos y redes sociales.</td>
+    </tr>
+    <tr>
+      <td align="center" rowspan="4"><strong>Análisis SWOT</strong></td>
+      <td align="center"><strong>Fortalezas</strong></td>
+      <td align="center">Permite una comunicación adaptable entre el universitario y el comprador a través del foro de contacto.</td>
+      <td align="center">• Red de bicicletas extensa y sólidamente establecida.<br>
+<br>• Tecnología de vanguardia en la aplicación.<br></td>
+      <td align="center">• Gran diversidad de alternativas de hospedaje.<br>
+<br>• Plataforma internacional con presencia en varios países.<br></td>
+      <td align="center">• Red de estaciones ampliamente distribuida.<br>
+<br>• Sistema de bicicletas innovador y de alto rendimiento.<br></td>
+    <tr>
+      <td align="center"><strong>Debilidades</strong></td>
+      <td align="center">Baja visibilidad y promoción.</td>
+      <td align="center">Cobertura restringida en ciertas zonas, así como problemas de mantenimiento y disponibilidad de bicicletas.</td>
+      <td align="center">Problemas de seguridad y confianza, inconsistencias en la calidad de las propiedades, falta de regulación y cumplimiento de normas, dificultades en la resolución de disputas y dependencia del anfitrión para garantizar una buena experiencia al huésped.</td>
+      <td align="center">Infraestructura deficiente, mantenimiento inconsistente de las bicicletas, fallos en la tecnología de la app, poca visibilidad en medios y redes sociales, restricciones en la expansión y baja fidelización de usuarios.</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Oportunidades</strong></td>
+      <td align="center">
+   Aprovechar las debilidades en las ofertas de la competencia y responder a la alta demanda de los estudiantes universitarios peruanos que cuentan con vehículos menores sin utilizar.</td>
+      <td align="center">Ampliación a nuevas zonas, colaboración con universidades y empresas, fortalecimiento de la infraestructura, mejoras tecnológicas en la aplicación, campañas de sensibilización e integración con otros medios de transporte.</td>
+      <td align="center">Extensión a nuevos destinos, promociones para grupos, optimización de la experiencia del huésped, alianzas con negocios locales, recursos para anfitriones y refuerzo de la seguridad con tecnología avanzada.</td>
+      <td align="center">Extensión a más zonas dentro de la ciudad, convenios con universidades y compañías, mejora en la infraestructura de las estaciones, modernización tecnológica de la aplicación, iniciativas promocionales e incorporación con otros sistemas de transporte.</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Amenazas</strong></td>
+      <td align="center">Inflación y volatilidad económica. </td>
+      <td align="center">Riesgos de seguridad, clima desfavorable y carencia de infraestructura adecuada.</td>
+      <td align="center">Modificaciones en las normativas locales y presencia de plataformas de alojamiento competidoras.</td>
+      <td align="center">Robo o vandalismo de bicicletas.</td>
+     </tr>
+  </table>
+  </body>
+  </html>
+
+
 <div id='2.1.2.'><h4>2.1.2. Estrategias y tácticas frente a competidores.</h4></div>
 
 A partir del análisis competitivo realizado, se han identificado las fortalezas, oportunidades, debilidades y amenazas de los competidores. Esta información es crucial para desarrollar estrategias y tácticas que permitan superar a la competencia cuando el servicio se introduzca en el mercado de forma rentable. A continuación, se detallan las estrategias y tácticas planificadas para alcanzar este objetivo.

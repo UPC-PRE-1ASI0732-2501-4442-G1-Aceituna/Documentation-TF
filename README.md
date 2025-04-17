@@ -23,7 +23,7 @@ width=50%"/>
 |                Nombre                 |   Código   |
 | :-----------------------------------: | :--------: |
 | Bastidas Bastidas, Diego Martin       | U20221A301 |
-|           |  |
+| Acuña Tomas, Diego Rolin          |  U202221436 |
 |   Silva Tirado, Sebastian Valentino   |  |
 |  Ticona Panduro, Estrella del Pilar   | U202210659 |
 |  Gallo Quintana, David Ivanoff    |  u20201E475 |
@@ -37,7 +37,7 @@ Esta sección tiene como propósito presentar un resumen de los cambios importan
 | Versión |   Fecha    |                 Autor                 | Descripción de modificación                                                                                                                                                          |
 | :-----: | :--------: | :-----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |   TB1   | 04/04/2025 | Bastidas Bastidas, Diego Martin |  |
-|   TB1   | 04/04/2025 |  |  |
+|   TB1   | 04/04/2025 | Acuña Tomas, Diego Rolin |  |
 |   TB1   | 04/04/2025 |  |  |
 |   TB1   | 04/04/2025 |   Silva Tirado, Sebastian Valentino   |  |
 |   TB1   | 04/04/2025 | Ticona Panduro, Estrella del Pilar    |  |
@@ -57,7 +57,7 @@ Con el fin de elaborar el informe correspondiente a la entrega TB1, se asignó l
 | Integrante                            | Tareas Asignadas                                                                                                                           |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Bastidas Bastidas, Diego Martin | |
-| | |
+| Acuña Tomas, Diego Rolin | |
 | | |
 | Silva Tirado, Sebastian Valentino |  |
 | Ticona Panduro, Estrella del Pilar| |
@@ -171,16 +171,17 @@ ambientales y sociales.
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 
 <div id='1.1.'><h3>1.1 Startup Profile.</h3></div>
-En esta sección se ofrece una descripción del startup y se detallan los perfiles de los integrantes del equipo.
+En esta sección, presentaremos una descripción de la startup y proporcionaremos detalles sobre los miembros del equipo, mostrando sus perfiles.
 
 <div id='1.1.1.'><h4>1.1.1. Descripción del startup.</h4></div>
-EcoMovil surge en respuesta a la creciente necesidad de alternativas sostenibles de movilidad urbana y el auge de los vehículos ecológicos. A través de una aplicación, facilitamos el acceso a medios de transporte como bicicletas, scooters, skateboards y motos eléctricas, conectando a adquirientes con aquellos que tienen estos vehículos disponibles.
 
-Lo que nos diferencia de otras aplicaciones es que no solo promovemos una alternativa ecológica para la movilidad, sino que también brindamos oportunidades de ingresos flexibles a universitarios, quienes pueden rentar o vender sus vehículos. Además, nuestra aplicación integra funcionalidades que aseguran una experiencia segura, eficiente y divertida para los usuarios.
+La contaminación del aire, causada por la emisión de gases contaminantes como el dióxido de carbono, también acelera el cambio climático. Estos problemas, derivados de conducir autos tradicionales, son cada vez más evidentes para la población, que busca alternativas sostenibles de movilidad urbana. EcoMovil nace como respuesta a esta necesidad, ofreciendo acceso a diversos medios de transporte ecológicos, como bicicletas, scooters, skateboards y motos eléctricas, poniendo en contacto a los usuarios con aquellos que disponen de estos vehículos.
 
-**Misión:** Facilitar el acceso a una movilidad urbana sostenible, conectando a las personas con vehículos ecológicos a través de una aplicación digital eficiente, contribuyendo a la reducción de la contaminación, y brindando oportunidades de ingresos para universitarios.
+Nos diferenciaremos de otras aplicaciones, ya que no solo ofreceremos una alternativa de transporte ecológico, sino que también brindaremos la oportunidad de generar ingresos a nuestros usuarios, que pueden ser desde estudiantes universitarios hasta jubilados, según sus condiciones y horarios, de acuerdo con su disponibilidad. Esto lo lograremos permitiéndoles publicar ofertas para alquilar o vender sus vehículos. Además, nuestra aplicación incluirá características que garantizarán una experiencia segura, eficiente y agradable para todos los usuarios.
 
-**Visión:** Convertirnos en una aplicación líder en movilidad urbana sostenible, facilitando el acceso a vehículos ecológicos y promoviendo un estilo de vida más saludable y consciente con el medio ambiente.
+Misión: Proveer acceso a un medio de transporte ecológico que promueva una movilidad urbana sostenible, facilitando la conexión de las personas con vehículos ecológicos a través de una aplicación digital eficiente, mientras genera oportunidades de ingresos.
+
+Visión: Convertirnos en la aplicación líder en transporte urbano sostenible, brindando acceso a vehículos ecológicos y promoviendo hábitos de vida más saludables y responsables con el entorno.
 
 **Logotipo del Servicio:**<br>
 

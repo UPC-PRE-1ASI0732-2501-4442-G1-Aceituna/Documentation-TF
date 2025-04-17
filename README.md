@@ -645,6 +645,72 @@ Podemos implementar las siguientes estrategias y tácticas:
 
 <div id='2.2.'><h3>2.2 Entrevistas.</h3></div>
 <div id='2.2.1.'><h4>2.2.1. Diseño de entrevistas.</h4></div>
+
+
+Preguntas dirigidas a Universitarios.
+
+----
+
+- Preguntas principales:
+
+1. ¿Podrías decirme tu nombre completo y edad?
+2. ¿En qué distrito resides actualmente?
+3. ¿Cuál es tu estado civil?
+4. ¿Dónde naciste?
+5. ¿Que dispositivos tecnológicos?
+6. ¿Que navegadores utilizas?
+7. ¿Qué tipo de vehículo(s) menor(es) posees?
+8. ¿Qué habilidades consideras que tienes en relación con el manejo o mantenimiento de tu(s) vehículo(s)?
+9. ¿Qué factores consideras al elegir un vehículo menor? (Ej. economía, estilo, funcionalidad)
+10. ¿Qué influencias (familia, amigos, medios, etc.) han afectado tus decisiones al comprar un vehículo?
+11. ¿Qué tipos de vehículos tienes disponibles para rentar o vender?
+12. ¿Cómo determinar el precio de tus vehículos?
+13. ¿Qué medidas de seguridad implementadas para asegurarte de que tus vehículos estén siempre en buen estado antes de rentarlos o venderlos?
+14. ¿Cómo manejas la limpieza y desinfección de los vehículos?
+15. ¿Cuáles son los requisitos o condiciones para rentar o vender uno de tus vehículos?
+
+- Preguntas complementarias:
+
+1. ¿Sigues algún protocolo específico para la limpieza y desinfección, y con qué frecuencia realizas estas tareas?
+2. ¿Qué proceso sigues para verificar la identidad y credibilidad de los posibles adquirientes?
+3. ¿Cómo organizas la entrega y recogida de los vehículos? ¿Tienes puntos de recogida específicos o cómo coordinas estos procesos?
+4. ¿Cómo manejas las valoraciones y reseñas que dejan los adquirientes?
+5. Durante el periodo de renta o venta, ¿qué tipo de soporte proporcionas a los adquirientes?
+6. ¿Estás abierto a considerar descuentos o promociones especiales para atraer más adquirientes?
+7. ¿Hay alguna mejora o característica que te gustaría ver en la aplicación que utilizas para gestionar tus vehículos?<br>
+   <br>
+   Preguntas dirigidas a Adquirientes.
+
+----
+
+- **Preguntas Principales:**
+
+1. ¿Podrías decirme tu nombre completo y edad?
+2. ¿En qué distrito resides actualmente?
+3. ¿Dónde naciste y en qué lugar vives actualmente?
+4. ¿Cuál es tu estado civil?
+5. ¿Podrías describir tu nivel socioeconómico? ¿Te consideras en un nivel alto, intermedio o bajo?
+6. ¿Podrías contarnos un poco acerca de ti y tu experiencia con el alquiler y la compra de vehículos?
+7. ¿Qué te impulsó a buscar una aplicación para alquilar o comprar vehículos?
+8. ¿Qué esperas lograr al utilizar una aplicación para alquilar o comprar vehículos?
+9. ¿Qué dificultades o problemas has enfrentado en tus experiencias previas con el alquiler y la compra de vehículos?
+10. ¿Qué características consideras esenciales en una aplicación para alquilar o comprar vehículos?
+11. ¿Qué métodos de pago prefieres para realizar transacciones en línea?
+12. ¿Cómo te gustaría recibir notificaciones sobre tus reservas y el estado de los vehículos?
+13. ¿Cuál ha sido tu experiencia con la seguridad y protección en el alquiler y la compra de vehículos?
+14. ¿Qué mejoras o características adicionales crees que podrían mejorar tu experiencia al usar una aplicación de renta o compra de vehículos?
+
+- **Preguntas Complementarias:**
+
+1. ¿Cómo has gestionado el alquiler o la compra de vehículos en el pasado?
+2. ¿Qué tipo de soporte o asistencia esperas recibir durante el proceso de alquiler o compra?
+3. ¿Tienes alguna preferencia particular en cuanto a la aplicación o tecnología que se utiliza para acceder a la aplicación?
+4. ¿Cómo prefieres gestionar la búsqueda de vehículos en una aplicación?
+5. ¿Qué tipo de información te gustaría ver en las descripciones de los vehículos?
+
+---
+
+
 <div id='2.2.2.'><h4>2.2.2. Registro de entrevistas.</h4></div>
 <div id='2.2.3.'><h4>2.2.3. Análisis de entrevistas.</h4></div>
 

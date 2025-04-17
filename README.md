@@ -1229,6 +1229,48 @@ El Impact Mapping proporciona una perspectiva estructurada que muestra cómo se 
 
 <div id='4.1.'><h3>4.1 Style Guidelines.</h3></div>
 <div id='4.1.1.'><h4>4.1.1. General Style Guidelines.</h4></div>
+
+
+Se trata de un conjunto de reglas y directrices que definen la manera adecuada de redactar, estructurar, diseñar o presentar diversos tipos de materiales, como documentos, contenido digital, software u otras creaciones. A continuación, se detallan los criterios que se aplicarán en la organización del proyecto.
+
+**Branding:**
+
+**Brand Overview:**
+
+**EcoMovil** es una aplicación que ofrece una solución práctica y ecológica para la movilidad en zonas urbanas, facilitando la comunicación entre personas interesadas en alquilar o adquirir vehículos sostenibles —como bicicletas, scooters, patinetas y motos eléctricas— y quienes los tienen disponibles. La plataforma agiliza el proceso de compra o alquiler, brindando además a los estudiantes la oportunidad de generar ingresos de manera flexible. Entre sus funciones más destacadas se encuentran un sistema de calificaciones con estrellas y reseñas, filtros de búsqueda avanzados, historial de transacciones, mapa interactivo con puntos de entrega y recogida, y elementos de gamificación que otorgan logros y recompensas. EcoMovil promueve un estilo de vida activo, responsable y en armonía con el medio ambiente.
+
+- **Misión:** Promover el acceso a una movilidad urbana sostenible mediante una aplicación digital eficiente que conecte a las personas con vehículos ecológicos, ayudando a disminuir la contaminación y ofreciendo a los universitarios la posibilidad de generar ingresos.
+
+- **Visión:** Ser una aplicación referente en movilidad urbana sostenible, facilitando el acceso a vehículos ecológicos y apoyando a quienes buscan un estilo de vida más saludable y respetuoso con el medio ambiente.
+
+
+![EcoMovilSquad](/assets/chapter-4/ecomovilsquad.png)
+
+**Brand Name:**
+EcoMovil es un nombre que proviene de la combinación de "Eco", que simboliza la sostenibilidad y el respeto por el medio ambiente, y "Movil", en referencia a la movilidad urbana. Este nombre refleja nuestro objetivo de reducir la contaminación y fomentar estilos de vida más activos y responsables, ofreciendo una manera de generar ingresos a través del alquiler o la venta de vehículos ecológicos. A su vez, busca promover el espíritu emprendedor entre los estudiantes universitarios en Perú.
+
+<img src="/assets/chapter-4/ecomovil.jpg">
+
+**Colores:**
+Los colores juegan un papel clave en la impresión inicial que los usuarios tienen de la aplicación. Siguiendo los principios de la psicología del color, se eligió el verde como tono principal de la paleta, ya que representa crecimiento y creatividad, valores fundamentales de la startup. Además, el verde está estrechamente relacionado con la ecología —el eje central de la app— y con la armonía, un aspecto que se busca transmitir en la experiencia del usuario. La gama secundaria incluye diferentes tonalidades de verde, como verde claro, verde oscuro y verde pálido. También se incorporan como colores complementarios matices de verde fosforescente, crema claro y amarillo anaranjado. 
+
+<img src="/assets/chapter-4/primaryandsecondary.png">
+<img src="/assets/chapter-4/wireframeandtext.png">
+<img src="/assets/chapter-4/gradient.png">
+
+**Tipografia:**
+
+La tipografía cumple un rol esencial en definir la jerarquía entre los distintos grupos de contenido dentro de la aplicación, además de orientar al usuario a lo largo de la interfaz. Para este proyecto, se seleccionó la fuente "Alata" en sus versiones Medium y Normal, con el objetivo de garantizar una lectura clara y fluida. La organización tipográfica se distribuye en cuatro niveles jerárquicos tanto para los encabezados como para el cuerpo del texto, lo que permite mantener una presentación visual ordenada y coherente.
+
+La estructura tipográfica se divide en cuatro niveles de jerarquía para los títulos principales:
+
+- Heading 01: Tamaño de 34px.
+- Heading 02: Tamaño de 22px.
+- Heading 03: Tamaño de 17px.
+- Heading 04: Tamaño de 15px.
+
+<img src="/assets/chapter-4/typography2.png">
+
 <div id='4.1.2.'><h4>4.1.2. Web Style Guidelines.</h4></div>
 La aplicación web "EcoMovil" se centra en la eficiencia, la educación y el compromiso ecológico en cada uno de sus procesos. Su estructura está dividida en secciones principales —Inicio, Sobre nosotros, Registro, Vehículos, Beneficios y Contacto— que ocupan un lugar destacado en la interfaz, permitiendo una navegación intuitiva y una experiencia de usuario clara y uniforme.
 

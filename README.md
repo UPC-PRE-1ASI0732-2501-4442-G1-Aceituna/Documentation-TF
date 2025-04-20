@@ -38,7 +38,7 @@ Esta sección tiene como propósito presentar un resumen de los cambios importan
 | :-----: | :--------: | :-----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |   TB1   | 04/04/2025 |  |  |
 |   TB1   | 04/04/2025 |  |  |
-|   TB1   | 04/04/2025 |  |  |
+|   TB1   | 04/04/2025 | Gallo Quintana, David Ivanoff         |  |
 |   TB1   | 04/04/2025 |   Silva Tirado, Sebastian Valentino   |  |
 |   TB1   | 04/04/2025 | Ticona Panduro, Estrella del Pilar    |  |
 
@@ -58,7 +58,7 @@ Con el fin de elaborar el informe correspondiente a la entrega TB1, se asignó l
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | | |
 | | |
-| | |
+| Gallo Quintana, David Ivanoff     | |
 | Silva Tirado, Sebastian Valentino |  |
 | Ticona Panduro, Estrella del Pilar| |
 

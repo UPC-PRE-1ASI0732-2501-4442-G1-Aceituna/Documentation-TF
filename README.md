@@ -1619,6 +1619,7 @@ El adquiriente tendrá la opción de ver los vehículos en su historial y accede
 <div id='4.4.2.'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
 
 <div id='4.4.3.'><h4>4.4.3. Web Applications Mock-ups.</h4></div>
+
 **Web Application para Desktop Web Browser**
 
 **Segmento Universitario**
@@ -1656,7 +1657,7 @@ En la siguiente imagen se puede ver el mensaje de pago exitoso, donde el univers
 **Home**
 
 En esta sección, se puede ver el home con varias secciones que se explorarán más adelante. En particular, nos enfocamos en la parte de "Mis vehículos", donde podrás observar a otros universitarios siguiendo la iniciativa y subiendo sus propios vehículos.
-
+ 
 ![web](assets/mockup6.png)
 
 **Detalles del Vehículo**

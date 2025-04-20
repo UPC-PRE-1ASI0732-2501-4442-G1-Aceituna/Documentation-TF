@@ -461,9 +461,9 @@ El análisis competitivo desempeña un papel fundamental en la formulación de e
     <tr>
       <td colspan="2"></td>
       <td align="center">EcoMovil<br>
-        <img src="/assets/chapter-2/ecomovil.jpg"></td>
+        <img src="assets/ecomovil.jpg"></td>
       <td align="center">Tembici<br>
-        <img src="/assets/chapter-2/tembici.png"></td>
+        <img src="assets/tembici.png"></td>
       <td align="center">Airbnb<br> 
         <img src="https://i.ibb.co/BzbnJ7z/image.png"></td>
       <td align="center">CityBikeLima 
@@ -1255,19 +1255,19 @@ Se trata de un conjunto de reglas y directrices que definen la manera adecuada d
 - **Visión:** Ser una aplicación referente en movilidad urbana sostenible, facilitando el acceso a vehículos ecológicos y apoyando a quienes buscan un estilo de vida más saludable y respetuoso con el medio ambiente.
 
 
-![EcoMovilSquad](/assets/chapter-4/ecomovilsquad.png)
+![EcoMovilSquad](assets/ecomovilsquad.png)
 
 **Brand Name:**
 EcoMovil es un nombre que proviene de la combinación de "Eco", que simboliza la sostenibilidad y el respeto por el medio ambiente, y "Movil", en referencia a la movilidad urbana. Este nombre refleja nuestro objetivo de reducir la contaminación y fomentar estilos de vida más activos y responsables, ofreciendo una manera de generar ingresos a través del alquiler o la venta de vehículos ecológicos. A su vez, busca promover el espíritu emprendedor entre los estudiantes universitarios en Perú.
 
-<img src="/assets/chapter-4/ecomovil.jpg">
+<img src="assets/ecomovil.jpg">
 
 **Colores:**
 Los colores juegan un papel clave en la impresión inicial que los usuarios tienen de la aplicación. Siguiendo los principios de la psicología del color, se eligió el verde como tono principal de la paleta, ya que representa crecimiento y creatividad, valores fundamentales de la startup. Además, el verde está estrechamente relacionado con la ecología —el eje central de la app— y con la armonía, un aspecto que se busca transmitir en la experiencia del usuario. La gama secundaria incluye diferentes tonalidades de verde, como verde claro, verde oscuro y verde pálido. También se incorporan como colores complementarios matices de verde fosforescente, crema claro y amarillo anaranjado. 
 
-<img src="/assets/chapter-4/primaryandsecondary.png">
-<img src="/assets/chapter-4/wireframeandtext.png">
-<img src="/assets/chapter-4/gradient.png">
+<img src="assets/chapter-4/primaryandsecondary.png">
+<img src="assets/chapter-4/wireframeandtext.png">
+<img src="assets/chapter-4/gradient.png">
 
 **Tipografia:**
 
@@ -1280,7 +1280,7 @@ La estructura tipográfica se divide en cuatro niveles de jerarquía para los t�
 - Heading 03: Tamaño de 17px.
 - Heading 04: Tamaño de 15px.
 
-<img src="/assets/chapter-4/typography2.png">
+<img src="assets/typography2.png">
 
 <div id='4.1.2.'><h4>4.1.2. Web Style Guidelines.</h4></div>
 La aplicación web "EcoMovil" se centra en la eficiencia, la educación y el compromiso ecológico en cada uno de sus procesos. Su estructura está dividida en secciones principales —Inicio, Sobre nosotros, Registro, Vehículos, Beneficios y Contacto— que ocupan un lugar destacado en la interfaz, permitiendo una navegación intuitiva y una experiencia de usuario clara y uniforme.
@@ -1365,17 +1365,17 @@ El sistema de navegación es un componente clave para garantizar que los usuario
 
 Primero, se muestra la landing page vista desde un navegador web en escritorio. Esta página incluye secciones importantes para el usuario, que ofrecen información sobre los beneficios que obtendrá al usar el producto, los planes de pago disponibles, así como la misión, visión y valores de la startup.
 
-![wireframe_landingpage_1](/assets/wireframe-L1.png)
+![wireframe_landingpage_1](assets/wireframe-L1.png)
 
-![wireframe_landingpage_2](/assets/wireframe-L2.png)
+![wireframe_landingpage_2](assets/wireframe-L2.png)
 
-![wireframe_landingpage_3](/assets/wireframe-L3.png)
+![wireframe_landingpage_3](assets/wireframe-L3.png)
 
-![wireframe_landingpage_4](/assets/wireframe-L4.png)
+![wireframe_landingpage_4](assets/wireframe-L4.png)
 
-![wireframe_landingpage_5](/assets/wireframe-L5.png)
+![wireframe_landingpage_5](assets/wireframe-L5.png)
 
-![wireframe_landingpage_6](/assets/wireframe-L6.png)
+![wireframe_landingpage_6](assets/wireframe-L6.png)
 
 
 <div id='4.3.2.'><h4>4.3.2. Landing Page Mock-up.</h4></div>

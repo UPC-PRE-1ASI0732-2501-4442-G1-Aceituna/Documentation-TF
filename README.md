@@ -214,11 +214,11 @@ Para elaborar el To-be Scenario Mapping, el equipo definió cómo sería el fluj
 
 - Segmento Universitarios:
 
-![ImpactMapping1](/assets/tobe1.png)
+![ImpactMapping1](assets/tobe1.png)
 
 - Segmento Adquiriente:
 
-![ToBeMapping2](/assets/tobe2.png)
+![ToBeMapping2](assets/tobe2.png)
 
 
 <div id='3.2.'><h3>3.2 User Stories.</h3></div>
@@ -875,7 +875,7 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
 </table>
 <br>
 
-![Product_Backlog](/assets/trello.png)
+![Product_Backlog](assets/trello.png)
 
 Enlace: https://trello.com/invite/b/67f3e291ac6549f2f2be7bf2/ATTI88f041995a02ce23d7baf8e49a2ee15bD9901B21/ruedarent
 
@@ -886,7 +886,7 @@ En esta sección, presentamos el **Impact Mapping** para el proyecto de **EcoMov
 
 El **Impact Mapping** ofrece una visión clara de cómo los objetivos de negocio, las necesidades de los usuarios y las funcionalidades propuestas se interconectan. Asegura que cada elemento del desarrollo esté alineado con nuestras metas, contribuyendo al éxito de **EcoMovil** y mejorando tanto la experiencia de los universitarios como la de los adquirientes.
 
-![ImpactMapping](/assets/Impactmap1.png)
+![ImpactMapping](assets/Impactmap1.png)
 
 <div id='4.'><h2>Capítulo IV: Product Design.</h2></div>
 

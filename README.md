@@ -1265,9 +1265,9 @@ EcoMovil es un nombre que proviene de la combinación de "Eco", que simboliza la
 **Colores:**
 Los colores juegan un papel clave en la impresión inicial que los usuarios tienen de la aplicación. Siguiendo los principios de la psicología del color, se eligió el verde como tono principal de la paleta, ya que representa crecimiento y creatividad, valores fundamentales de la startup. Además, el verde está estrechamente relacionado con la ecología —el eje central de la app— y con la armonía, un aspecto que se busca transmitir en la experiencia del usuario. La gama secundaria incluye diferentes tonalidades de verde, como verde claro, verde oscuro y verde pálido. También se incorporan como colores complementarios matices de verde fosforescente, crema claro y amarillo anaranjado. 
 
-<img src="assets/chapter-4/primaryandsecondary.png">
-<img src="assets/chapter-4/wireframeandtext.png">
-<img src="assets/chapter-4/gradient.png">
+<img src="assets/primaryandsecondary.png">
+<img src="assets/wireframeandtext.png">
+<img src="assets/gradient.png">
 
 **Tipografia:**
 

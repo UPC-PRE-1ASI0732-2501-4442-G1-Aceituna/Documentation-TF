@@ -38,7 +38,7 @@ Esta sección tiene como propósito presentar un resumen de los cambios importan
 | :-----: | :--------: | :-----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |   TB1   | 04/04/2025 | Bastidas Bastidas, Diego Martin |  |
 |   TB1   | 04/04/2025 | Acuña Tomas, Diego Rolin |  |
-|   TB1   | 04/04/2025 |  |  |
+|   TB1   | 04/04/2025 | Gallo Quintana, David Ivanoff         |  |
 |   TB1   | 04/04/2025 |   Silva Tirado, Sebastian Valentino   |  |
 |   TB1   | 04/04/2025 | Ticona Panduro, Estrella del Pilar    |  |
 
@@ -56,8 +56,8 @@ Con el fin de elaborar el informe correspondiente a la entrega TB1, se asignó l
 
 | Integrante                            | Tareas Asignadas                                                                                                                           |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Bastidas Bastidas, Diego Martin | |
-| Acuña Tomas, Diego Rolin | |
+| | |
+| | |
 | | |
 | Silva Tirado, Sebastian Valentino |  |
 | Ticona Panduro, Estrella del Pilar| |
@@ -845,11 +845,11 @@ Para elaborar el To-be Scenario Mapping, el equipo definió cómo sería el fluj
 
 - Segmento Universitarios:
 
-![ImpactMapping1](/assets/tobe1.png)
+![ImpactMapping1](assets/tobe1.png)
 
 - Segmento Adquiriente:
 
-![ToBeMapping2](/assets/tobe2.png)
+![ToBeMapping2](assets/tobe2.png)
 
 
 <div id='3.2.'><h3>3.2 User Stories.</h3></div>
@@ -1223,7 +1223,7 @@ Para elaborar el To-be Scenario Mapping, el equipo definió cómo sería el fluj
 </table>
 <br>
 
-![Product_Backlog](/assets/trello.png)
+![Product_Backlog](assets/trello.png)
 
 Enlace: https://trello.com/invite/b/67f3e291ac6549f2f2be7bf2/ATTI88f041995a02ce23d7baf8e49a2ee15bD9901B21/ruedarent
 
@@ -1234,7 +1234,7 @@ En esta sección se expone el Impact Mapping correspondiente al proyecto EcoMovi
 
 El Impact Mapping proporciona una perspectiva estructurada que muestra cómo se relacionan los objetivos del negocio, las necesidades de los usuarios y las funcionalidades planificadas. Esta alineación garantiza que cada componente del desarrollo contribuya directamente al logro de las metas de EcoMovil, beneficiando tanto a los universitarios como a los adquirientes.
 
-<img src="Img/Impactmap1.png" alt="Impactmap1" style="margin-bottom: 5px;" width="800"/>
+![ImpactMapping](/assets/Impactmap1.png)
 
 <div id='4.'><h2>Capítulo IV: Product Design.</h2></div>
 

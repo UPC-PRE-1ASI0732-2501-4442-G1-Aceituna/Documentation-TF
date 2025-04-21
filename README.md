@@ -758,12 +758,6 @@ Algunos usuarios también sugirieron incluir características adicionales, como 
 
 <div id='2.3.'><h3>2.3 Needfinding.</h3></div>
 
-### Segmento Universitarios:
-<img src="assets/AlexHidalgo.png" alt="As-Is Mapping 2" style="margin-bottom: 5px;" width="800"/> 
-
-### Segmento Adquirientes:
-<img src="assets/CamilaSolano.png" alt="As-Is Mapping 2" style="margin-bottom: 5px;" width="800"/>
-
 
 <div id='2.3.1.'><h4>2.3.1. User Personas.</h4></div>
 

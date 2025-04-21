@@ -815,13 +815,21 @@ En esta sección se presenta el recorrido completo del usuario (User Journey Map
 
 - Segmento Universitarios:
 
-![Journey](/assets/chapter-2/journey1.png)
+![Journey](assets/journey1.png)
 
 - Segmento Adquirientes:
 
-![Journey](/assets/chapter-2/journey2.png)
+![Journey](assets/journey2.png)
+
 
 <div id='2.3.4.'><h4>2.3.4. Empathy Mapping.</h4></div>
+
+![Empathy Mapping 1](assets/AlexHidalgo_EmpathyMap.png)
+
+- Segmento Adquirientes:
+
+![Empathy Mapping 2](assets/CamilaSolano_EmpathyMap.png)
+
 <div id='2.3.5.'><h4>2.3.5. As-is Scenario Mapping.</h4></div>
 
 - Segmento Universitarios:

@@ -24,7 +24,7 @@ width=50%"/>
 | :-----------------------------------: | :--------: |
 | Bastidas Bastidas, Diego Martin       | U20221A301 |
 | Acuña Tomas, Diego Rolin          |  U202221436 |
-|   Silva Tirado, Sebastian Valentino   |  |
+|   Silva Tirado, Sebastian Valentino   | U20211G296 |
 |  Ticona Panduro, Estrella del Pilar   | U202210659 |
 |  Gallo Quintana, David Ivanoff    |  u20201E475 |
 
@@ -194,13 +194,13 @@ Nos diferenciaremos de otras aplicaciones, ya que no solo ofreceremos una altern
 
 
 
-| Descripción de los Miembros del Equipo                                                                                                                                                                                                                                                                                                                                                                                                                        |     Perfiles de los Miembros del Equipo      | 
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------:|
-|                                                     |  | 
-| Mi nombre es **David Ivanoff Gallo Quintana** - u20201e475, tengo 21 años y actualmente curso Ingeniería de Software. Me considero una persona trabajadora, activa y que le gusta ser responsable con los trabajos asignados. Además, poseo conocimientos en algunos lenguajes de programación como Swift, C++ y Python. También estoy abierto a conocer nuevas tecnologías. Creo que estas cualidades me ayudarán a llevar a cabo el proyecto propuesto.   | ![David](/assets/david.png) | 
-| Mi nombre es **Diego Bastidas**, soy estudiante del 7to ciclo de la carrera de Ingeniería de Software. Decidí estudiar esta carrera porque desde pequeño me llamaba la atención el funcionamiento de una computadora y los procesos que conlleva. Me gusta practicar deportes de contacto, salir a pasear y sobre todo me encanta ser Groomer canino y trabajar con mascotas.     | ![Diego](./Img/Diegopfp.jpeg)|
-| Mi nombre es **Estrella del pilar Ticona Panduro** - u202210659, actualmente estudio la carrera de Ingeniería de Software en UPC. Opté por estudiar esta carrera porque me interesa programar y crear diferentes aplicativos o programas y emplearlo en la salud. En mis tiempos libres me gusta ver series o películas. Mi compromiso es aportar ideas innovadoras a lo largo del curso, en especial en las tareas en equipo. Mis habilidades son tener una actitud positiva, entusiasta y responsable. | <img src="assets/estrella.jpeg" width="100" height="100" alt="estrella"> |
-| Mi nombre es **Diego Rolin Acuña Tomas** - u202221436, soy estudiante de la carrera de Ingeniería de Software en la UPC. Elegí esta carrera porque me apasionan las matemáticas y la programación. Mi objetivo es aplicar mis conocimientos para desarrollar aplicaciones enfocadas en el área de finanzas, ya que aspiro a trabajar en el sector bancario. En mi tiempo libre, disfruto ver películas con mi familia y caminar por lugares interesantes, como montañas o playas. Considero que mis principales fortalezas son la tenacidad y la curiosidad, cualidades que me ayudarán a superar con éxito el curso y alcanzar el mejor puntaje posible.  | <img src="assets/DiegoA.jpg" width="100" height="120" alt="DiegoA"> |
+| Descripción de los Miembros del Equipo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Perfiles de los Miembros del Equipo                                        |   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---|
+| Mi nombre es **Diego Bastidas**, soy estudiante del 7to ciclo de la carrera de Ingeniería de Software. Decidí estudiar esta carrera porque desde pequeño me llamaba la atención el funcionamiento de una computadora y los procesos que conlleva. Me gusta practicar deportes de contacto, salir a pasear y sobre todo me encanta ser Groomer canino y trabajar con mascotas.                                                                                                                                                                                                                                                                             | ![Diego](./Img/Diegopfp.jpeg)                                              |   |
+| Mi nombre es **Diego Rolin Acuña Tomas** - u202221436, soy estudiante de la carrera de Ingeniería de Software en la UPC. Elegí esta carrera porque me apasionan las matemáticas y la programación. Mi objetivo es aplicar mis conocimientos para desarrollar aplicaciones enfocadas en el área de finanzas, ya que aspiro a trabajar en el sector bancario. En mi tiempo libre, disfruto ver películas con mi familia y caminar por lugares interesantes, como montañas o playas. Considero que mis principales fortalezas son la tenacidad y la curiosidad, cualidades que me ayudarán a superar con éxito el curso y alcanzar el mejor puntaje posible. | <img src="assets/DiegoA.jpg" width="100" height="120" alt="DiegoA">        |   |
+| Mi nombre es **David Ivanoff Gallo Quintana** - u20201e475, tengo 21 años y actualmente curso Ingeniería de Software. Me considero una persona trabajadora, activa y que le gusta ser responsable con los trabajos asignados. Además, poseo conocimientos en algunos lenguajes de programación como Swift, C++ y Python. También estoy abierto a conocer nuevas tecnologías. Creo que estas cualidades me ayudarán a llevar a cabo el proyecto propuesto.                                                                                                                                                                                                 | ![David](/assets/david.png)                                                |   |
+| Mi nombre es **Sebastian Valentino Silva Tirado** - u20211g296, soy estudiante del séptimo ciclo de la carrera de Ingeniería de Software en UPC. Opté por estudiar esta carrera porque me gusta la idea de programar y crear algo que pueda llegar a funcionar y ser útil en el mundo. Por lo cual, la universidad me da la posibilidad de estudiar y ser un profesional exitoso. Deseo ser buen integrante para mi equipo y me comprometo en hacer el mejor trabajo posible, y poder superarme más que el ciclo anterior.                                                                                                                                | <img src="Img/Silva.JPG" width="100" height="120" alt="SebastianSilva"> |   |
+| Mi nombre es **Estrella del pilar Ticona Panduro** - u202210659, actualmente estudio la carrera de Ingeniería de Software en UPC. Opté por estudiar esta carrera porque me interesa programar y crear diferentes aplicativos o programas y emplearlo en la salud. En mis tiempos libres me gusta ver series o películas. Mi compromiso es aportar ideas innovadoras a lo largo del curso, en especial en las tareas en equipo. Mis habilidades son tener una actitud positiva, entusiasta y responsable.                                                                                                                                                  | <img src="assets/estrella.jpeg" width="100" height="100" alt="estrella">   |   |
 
 
 <div id='1.2.'><h3>1.2 Solution Profile.</h3></div>
@@ -712,6 +712,29 @@ Preguntas dirigidas a Universitarios.
 
 
 <div id='2.2.2.'><h4>2.2.2. Registro de entrevistas.</h4></div>
+
+Segmento #1: Universitarios
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Entrevistado N°1</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Edad</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Distrito de residencia</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">#</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Timing: 0:00 - 7:24</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">URL: </td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Entrevistado N°2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Edad</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Distrito de residencia</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">#</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Timing: 7:24 - 23:08</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">URL: </td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Entrevistado N°3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Edad</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Distrito de residencia</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://www.tablesgenerator.com/Img/Entrevista-3.png" width="300"></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Timing: 23:08 - 32:06</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">URL: </td></tr></tbody></table>
+
+Segmento #2: Adquirientes
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Entrevistado N°1</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Edad</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Distrito de residencia</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">#</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Timing: 0:00 - 7:24</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">URL: </td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Entrevistado N°2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Edad</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Distrito de residencia</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">#</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Timing: 7:24 - 23:08</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">URL: </td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Entrevistado N°3</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Edad</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Distrito de residencia</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://www.tablesgenerator.com/Img/Entrevista-3.png" width="300"></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Timing: 23:08 - 32:06</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">URL: </td></tr></tbody></table>
+
 <div id='2.2.3.'><h4>2.2.3. Análisis de entrevistas.</h4></div>
 
 **Análisis del segmento universitario**
@@ -1294,19 +1317,73 @@ Los botones de la aplicación web "EcoMovil" están diseñados conforme a las pa
 - **Pantallas Emergentes:**<br>
 Las ventanas emergentes en "EcoMovil" están pensadas para validar acciones importantes que afectan directamente el funcionamiento del negocio. Estas ventanas destacan la relevancia de atender la situación presentada antes de seguir utilizando la aplicación, reforzando la toma de decisiones conscientes en momentos clave del proceso.
 
-**Mobile Style Guidelines**
-
-La vista móvil de la aplicación EcoMovil mantiene el mismo enfoque que la versión de escritorio, priorizando la sostenibilidad y la eficiencia en todos los procesos. Las distintas etapas y formularios están organizados en secciones que aprovechan al máximo el espacio disponible en pantalla, garantizando una experiencia fluida y centrada en el usuario.
-
-- **Imágenes:**<br>
-En el diseño móvil de "EcoMovil", las imágenes descriptivas se integrarán estratégicamente. En la pantalla de inicio se mostrarán imágenes de vehículos menores y de la empresa, mientras que el logotipo estará situado en la parte superior izquierda para una identificación rápida. Para mejorar la experiencia del usuario, se prescindirá de imágenes de fondo, optando por elementos visuales laterales que sirvan como guía funcional a lo largo de la interfaz.
-
-- **Botones:**<br>
-Los botones en la versión móvil de la aplicación "EcoMovil" siguen las directrices establecidas en las General Style Guidelines. Normalmente se ubican en la parte inferior de la pantalla principal, permitiendo ejecutar acciones que se reflejan en la parte superior de la interfaz. Para operaciones que inician nuevos procesos o afectan el funcionamiento general, se incluyen botones de confirmación. Cada botón está diseñado con un estilo visualmente distintivo y con alto contraste respecto al resto del diseño, asegurando su visibilidad. Asimismo, se utiliza la teoría del color para identificar el propósito de cada acción, asignando colores específicos a funciones como eliminar o finalizar procesos.
-
 <div id='4.1.3.'><h4>4.1.3. Mobile Style Guidelines.</h4></div>
+
 <div id='4.1.3.1.'><h5>4.1.3.1. iOS Mobile Style Guidelines.</h5></div>
+
+El diseño de la aplicación EcoMovil en dispositivos iOS sigue las convenciones del sistema operativo de Apple, priorizando una interfaz limpia, funcional y coherente con la experiencia nativa de iOS.
+
+- **Diseño y Navegación:**
+
+Se implementa un diseño centrado en el usuario, con navegación tipo tab bar en la parte inferior para facilitar el acceso rápido a las secciones principales.
+
+Las transiciones entre pantallas son suaves y con animaciones fluidas, respetando las guías de movimiento de Apple para ofrecer una experiencia natural.
+
+- **Tipografía y Espaciado:**
+
+Se utiliza el sistema tipográfico de Apple (San Francisco) para garantizar legibilidad y consistencia visual.
+
+Los espacios entre elementos se ajustan automáticamente para respetar la jerarquía visual y evitar saturación en pantalla.
+
+- **Iconografía y Controles:**
+
+Se emplean íconos del sistema de iOS y personalizados que siguen la línea visual de "EcoMovil", con enfoque minimalista.
+
+Los controles como toggles, sliders, y pickers siguen la apariencia nativa, adaptándose al diseño ecológico y funcional.
+
+- **Botones e Interacciones:**
+
+Los botones están ubicados en la parte inferior de la pantalla y utilizan colores con alto contraste, siguiendo la teoría del color para indicar funciones críticas (confirmar, cancelar, continuar).
+
+Se usa Haptic Feedback para confirmar interacciones clave, mejorando la respuesta sensorial del usuario.
+
+- **Accesibilidad:**
+
+Se respeta el contraste recomendado por Apple y se integra VoiceOver para navegación mediante lector de pantalla.
+
 <div id='4.1.3.2.'><h5>4.1.3.2. Android Mobile Style Guidelines.</h5></div>
+
+La versión Android de EcoMovil adopta las guías de diseño Material Design de Google, integrando los principios de ecología y eficiencia en la estructura visual y de interacción.
+
+- **Diseño y Navegación:**
+
+Se emplea una arquitectura basada en Material 3, con navegación por íconos en la parte inferior (Bottom Navigation Bar) o menú tipo hamburguesa para secciones secundarias.
+
+Las transiciones se diseñan con animaciones de entrada y salida suaves, con énfasis en la continuidad de la experiencia.
+
+- **Tipografía y Espaciado:**
+
+Se utiliza la fuente Roboto o Google Sans según la compatibilidad del dispositivo, con tamaños variables para asegurar legibilidad.
+
+Los márgenes y paddings están diseñados para evitar saturación visual y fomentar una experiencia limpia.
+
+- **Iconografía y Controles:**
+
+Se prioriza el uso de componentes estándar de Material Design, como botones flotantes (FAB) para acciones destacadas, Chips para filtros, y Bottom Sheets para formularios extensos.
+
+Los íconos son vectoriales (Material Icons), acompañados por texto en casos necesarios para mayor claridad.
+
+- **Botones e Interacciones:**
+
+Botones con estilo Elevated Button y colores representativos de la acción (verde para confirmar, rojo para cancelar, azul para continuar).
+
+Los botones principales están situados en la parte inferior de la pantalla, accesibles con una sola mano.
+
+- **Accesibilidad:**
+
+La app es compatible con TalkBack, soporta navegación por gestos y asegura contraste adecuado en todos los elementos interactivos.
+
+Se garantiza la escalabilidad del contenido con el ajuste de tamaño de fuente del sistema.
 
 <div id='4.2.'><h3>4.2 Information Architecture.</h3></div>
 <div id='4.2.1.'><h4>4.2.1. Organization Systems.</h4></div>
@@ -1377,138 +1454,19 @@ Primero, se muestra la landing page vista desde un navegador web en escritorio. 
 
 ![wireframe_landingpage_6](assets/wireframe-L6.png)
 
-
 <div id='4.3.2.'><h4>4.3.2. Landing Page Mock-up.</h4></div>
+
+El mock-up de la landing page en la vista móvil incluye los mismos elementos previamente mencionados. Se destaca que la tipografía seleccionada y el contraste de colores entre el texto y el fondo facilitan la legibilidad de la información en ambos dispositivos.
+
+![mockup_mobilem1](/assets/mockupmb1.png)
+
+![mockup_mobilem2](/assets/mockupmb2.png)
+
+![mockup_mobilem3](/assets/mockupm3.png)
 
 <div id='4.4.'><h3>4.4 Web Applications UX/UI Design.</h3></div>
 
-**Web Application para Dekstop Web Browser**
-
-**Segmento Universitario**
-
-**Crear Cuenta**
-
-La siguiente imagen presenta la sección de "registro de empresa", donde los universitarios podrán proporcionar la información requerida para crear una cuenta en la aplicación y empezar a disfrutar de los beneficios que ofrece EcoMovil.
-
-![web](assets/universitario1.png)
-
-**Inicio de sesión**
-
-La siguiente imagen muestra el wireframe de la sección de "inicio de sesión" vista desde una aplicación web en escritorio. En esta sección, los usuarios deberán ingresar sus credenciales para acceder a la aplicación, siempre y cuando ya hayan creado una cuenta previamente.
-
-![web](assets/universitario2.png)
-
-**Elegir Planes**
-
-La siguiente imagen muestra la sección de "Selección de pago", donde se presentan las diferentes categorías de planes disponibles en la aplicación. Cada uno de los tres planes ha sido diseñado cuidadosamente para atender las necesidades particulares de las empresas.
-
-![web](assets/universitario3.png)
-
-**Pago**
-
-La siguiente imagen corresponde a la sección de "Pasarela de pagos", donde los universitarios son redirigidos a un formulario para seleccionar y registrar su método de pago. En esta sección también se muestra el monto del plan elegido. Tras completar el proceso de pago con éxito, el usuario recibe una notificación con la confirmación de su suscripción y la fecha de registro.
-
-![web](assets/universitario4.png)
-
-**Proceder el Pago**
-
-En la siguiente imagen se puede ver el mensaje de pago exitoso, donde el universitario confirma que ha realizado el pago de manera satisfactoria y que ahora puede utilizar la aplicación sin inconvenientes.
-
-![web](assets/universitario5.png)
-
-**Home**
-
-En esta sección, se puede ver el home con varias secciones que se explorarán más adelante. En particular, nos enfocamos en la parte de "Mis vehículos", donde podrás observar a otros universitarios siguiendo la iniciativa y subiendo sus propios vehículos.
-
-![web](assets/universitario6.png)
-
-**Detalles del Vehículo**
-
-En esta sección, podrás ver los detalles de cada vehículo mostrado en la sección del home.
-
-![web](assets/universitario7.png)
-
-**Mis vehículos**
-
-En esta parte, el universitario podrá subir sus vehículos añadiendo una imagen representativa y detalles del vehículo. Finalmente, deberá hacer clic en el botón "Agregar" para completar el proceso.
-
-![web](assets/universitario8.png)
-
-**Mi Perfil**
-
-En esta sección, podrás ver tu perfil y agregar más datos, como tu RUC, correo electrónico y otros detalles, además de tu foto representativa. Finalmente, deberás hacer clic en el botón "Save changes" para guardar los cambios.
-
-![web](assets/universitario9.png)
-
-**Historial del Vehículo**
-
-En esta sección, puedes ver el historial de los vehículos publicados y los detalles correspondientes.
-
-![web](assets/universitario10.png)
-
-**Foro de Contacto**
-
-En esta sección, podrás publicar tu número de contacto y el vehículo que estás dispuesto a vender o alquilar, permitiendo que otros usuarios se contacten contigo o le den "like" a tu publicación.
-
-![web](assets/universitario11.png)
-
-**Segmento Adquiriente**
-
-**Crear cuenta**
-
-En esta sección, el adquiriente podrá registrarse proporcionando datos específicos como su nombre, correo electrónico y contraseña. Además, deberá marcar la casilla "Acepto los términos y condiciones."
-
-![web](assets/adquiriente1.png)
-
-**Iniciar Sesión**
-
-En esta sección, el adquiriente podrá iniciar sesión ingresando su correo electrónico y contraseña.
-
-![web](assets/adquiriente2.png)
-
-**Home**
-
-En esta sección, el adquiriente podrá visualizar el "Home", donde tendrá acceso a diversos vehículos menores con información como nombre, descripción y precio. También encontrará botones para "Rentar" o "Comprar" cada vehículo.
-
-![web](assets/adquiriente3.png)
-
-**Mi perfil**
-
-En esta sección, podrás visualizar el perfil del adquiriente, incluyendo detalles como el nombre, correo y teléfono. También habrá un botón para confirmar si los detalles son correctos y, finalmente, un botón de "Guardar".
-
-![web](assets/adquiriente4.png)
-
-**Mapa Interactivo**
-
-En esta sección, el adquiriente podrá visualizar un mapa interactivo.
-
-![web](assets/adquiriente5.png)
-
-**Filtro**
-
-En esta sección, podrás visualizar los filtros con vehículos y sus imágenes descriptivas, así como los botones de "Comprar" o "Rentar".
-
-![web](assets/adquiriente6.png)
-
-**Detalles del Vehículo**
-
-Al hacer clic en un vehículo, el adquiriente podrá ver las descripciones del mismo, incluidos sus "Badges", tipo de vehículo, año, precio y una descripción detallada. Además, tendrá la opción de comunicarse por WhatsApp con el propietario del vehículo y podrá seleccionar entre los botones "Rentar Vehículo" o "Comprar Vehículo".
-
-![web](assets/adquiriente7.png)
-
-**Historial**
-
-En esta sección, el adquiriente podrá visualizar el historial de los vehículos.
-
-![web](assets/adquiriente8.png)
-
-**Foro de Contacto**
-
-En esta sección, el adquiriente podrá visualizar los mensajes de los diferentes universitarios que incluyeron su número de teléfono, con la opción de conectarse directamente a través de WhatsApp.
-
-![web](assets/adquiriente9.png)
-
-**Web Application para Mobile Web Browser**
+<div id='4.4.1.'><h4>4.4.1. Mobile Applications Wireframes.</h4></div>
 
 **Segmento Universitario**
 
@@ -1615,138 +1573,12 @@ Aquí podrás visualizar los detalles del vehículo que seleccionaste, incluyend
 El adquiriente tendrá la opción de ver los vehículos en su historial y acceder al foro de contacto, donde podrá visualizar los posts de los universitarios que incluyen su número de WhatsApp, facilitando el contacto directo si desean el vehículo.
 
 ![web](assets/image6.png)
-<div id='4.4.1.'><h4>4.4.1. Web Applications Wireframes.</h4></div>
-<div id='4.4.2.'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
 
-<div id='4.4.3.'><h4>4.4.3. Web Applications Mock-ups.</h4></div>
+<div id='4.4.2.'><h4>4.4.2. Mobile Applications Wireflow Diagrams.</h4></div>
 
-**Web Application para Desktop Web Browser**
 
-**Segmento Universitario**
 
-**Crear Cuenta**
-
-La siguiente imagen presenta la sección de "registro de empresa", donde los universitarios podrán proporcionar la información requerida para crear una cuenta en la aplicación y empezar a disfrutar de los beneficios que ofrece EcoMovil.
-
-![web](assets/mockup1.png)
-
-**Inicio de sesión**
-
-La siguiente imagen muestra el wireframe de la sección de "inicio de sesión" vista desde una aplicación web en escritorio. En esta sección, los usuarios deberán ingresar sus credenciales para acceder a la aplicación, siempre y cuando ya hayan creado una cuenta previamente.
-
-![web](assets/mockup2.png)
-
-**Elegir Planes**
-
-La siguiente imagen muestra la sección de "Selección de pago", donde se presentan las diferentes categorías de planes disponibles en la aplicación. Cada uno de los tres planes ha sido diseñado cuidadosamente para atender las necesidades particulares de las empresas.
-
-![web](assets/mockup3.png)
-
-**Pago**
-
-La siguiente imagen corresponde a la sección de "Pasarela de pagos", donde los universitarios son redirigidos a un formulario para seleccionar y registrar su método de pago. En esta sección también se muestra el monto del plan elegido. Tras completar el proceso de pago con éxito, el usuario recibe una notificación con la confirmación de su suscripción y la fecha de registro.
-
-![web](assets/mockup4.png)
-
-**Proceder el Pago**
-
-En la siguiente imagen se puede ver el mensaje de pago exitoso, donde el universitario confirma que ha realizado el pago de manera satisfactoria y que ahora puede utilizar la aplicación sin inconvenientes.
-
-![web](assets/mockup5.png)
-
-**Home**
-
-En esta sección, se puede ver el home con varias secciones que se explorarán más adelante. En particular, nos enfocamos en la parte de "Mis vehículos", donde podrás observar a otros universitarios siguiendo la iniciativa y subiendo sus propios vehículos.
- 
-![web](assets/mockup6.png)
-
-**Detalles del Vehículo**
-
-En esta sección, podrás ver los detalles de cada vehículo mostrado en la sección del home.
-
-![web](assets/mockup7.png)
-
-**Mis vehículos**
-
-En esta parte, el universitario podrá subir sus vehículos añadiendo una imagen representativa y detalles del vehículo. Finalmente, deberá hacer clic en el botón "Agregar" para completar el proceso.
-
-![web](assets/mockup8.png)
-
-**Mi Perfil**
-
-En esta sección, podrás ver tu perfil y agregar más datos, como tu RUC, correo electrónico y otros detalles, además de tu foto representativa. Finalmente, deberás hacer clic en el botón "Save changes" para guardar los cambios.
-
-![web](assets/mockup9.png)
-
-**Historial del Vehículo**
-
-En esta sección, puedes ver el historial de los vehículos publicados y los detalles correspondientes.
-
-![web](assets/mockup10.png)
-
-**Foro de Contacto**
-
-En esta sección, podrás publicar tu número de contacto y el vehículo que estás dispuesto a vender o alquilar, permitiendo que otros usuarios se contacten contigo o le den "like" a tu publicación.
-
-![web](assets/mockup11.png)
-
-**Segmento Adquiriente**
-
-**Crear cuenta**
-
-En esta sección, el adquiriente podrá registrarse proporcionando datos específicos como su nombre, correo electrónico y contraseña. Además, deberá marcar la casilla "Acepto los términos y condiciones."
-
-![web](assets/mockup12.png)
-
-**Iniciar Sesión**
-
-En esta sección, el adquiriente podrá iniciar sesión ingresando su correo electrónico y contraseña.
-
-![web](assets/mockup13.png)
-
-**Home**
-
-En esta sección, el adquiriente podrá visualizar el "Home", donde tendrá acceso a diversos vehículos menores con información como nombre, descripción y precio. También encontrará botones para "Rentar" o "Comprar" cada vehículo.
-
-![web](/assets/chapter-4/mockup14.png)
-
-**Mi perfil**
-
-En esta sección, podrás visualizar el perfil del adquiriente, incluyendo detalles como el nombre, correo y teléfono. También habrá un botón para confirmar si los detalles son correctos y, finalmente, un botón de "Guardar".
-
-![web](assets/mockup15.png)
-
-**Mapa Interactivo**
-
-En esta sección, el adquiriente podrá visualizar un mapa interactivo.
-
-![web](assets/mockup16.png)
-
-**Filtro**
-
-En esta sección, podrás visualizar los filtros con vehículos y sus imágenes descriptivas, así como los botones de "Comprar" o "Rentar".
-
-![web](assets/mockup17.png)
-
-**Detalles del Vehículo**
-
-Al hacer clic en un vehículo, el adquiriente podrá ver las descripciones del mismo, incluidos sus "Badges", tipo de vehículo, año, precio y una descripción detallada. Además, tendrá la opción de comunicarse por WhatsApp con el propietario del vehículo y podrá seleccionar entre los botones "Rentar Vehículo" o "Comprar Vehículo".
-
-![web](assets/mockup18.png)
-
-**Historial**
-
-En esta sección, el adquiriente podrá visualizar el historial de los vehículos.
-
-![web](assets/mockup19.png)
-
-**Foro de Contacto**
-
-En esta sección, el adquiriente podrá visualizar los mensajes de los diferentes universitarios que incluyeron su número de teléfono, con la opción de conectarse directamente a través de WhatsApp.
-
-![web](assets/mockup20.png)
-
-**Web Application para Mobile Web Browser**
+<div id='4.4.3.'><h4>4.4.3. Mobile Applications Mock-ups.</h4></div>
 
 **Segmento Universitario**
 
@@ -1854,60 +1686,12 @@ El adquiriente tendrá la opción de ver los vehículos en su historial y accede
 
 ![mobile](assets/color17.png)
 
-<div id='4.4.4.'><h4>4.4.4. Web Applications User Flow Diagrams.</h4></div>
-
-**User Goal: Iniciar sesión y Registrarse**
-
-**Perfil del Usuario: Universitario**
-
-**Descripción del Flujo:**
-
-Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los universitarios, el formulario requerirá el RUC, nombre, correo electrónico y contraseña.
-
-![diagram](assets/diagram1.png)
-
-**User Goal: Pagos de los Planes**
-
-El universitario podrá elegir entre 3 planes y seleccionar uno haciendo clic en el botón "Elegir Plan". Al hacerlo, será redirigido al proceso de pago, donde deberá ingresar los datos de su tarjeta y confirmar que la información es correcta. Una vez confirmado, el sistema mostrará un mensaje de pago exitoso. Al hacer clic en el botón "Comenzar", el usuario accederá al menú de vehículos.
-
-![diagram](assets/diagram3.png)
-
-![diagram](assets/diagram4.png)
-
-**User Goal: Navegar por el dashboard**
-
-Descripción del Flujo: Una vez que el universitario haya iniciado sesión, será dirigido al panel de control, donde podrá ver varias opciones. La primera opción es "Detalles del Vehículo", donde podrá consultar la información de cada vehículo. Luego, encontrará la sección de "Perfil", donde podrá actualizar sus datos y foto. También habrá una sección llamada "Historial de Vehículos", donde podrá revisar los vehículos que ha subido. Finalmente, estará disponible el "Foro de Contacto", donde podrá publicar un anuncio para vender o alquilar, permitiendo que los interesados se comuniquen directamente por WhatsApp.
-
-![diagram](assets/diagram5.png)
-
-**User Goal: Iniciar sesión y Registrarse**
-
-**Perfil del Usuario: Adquiriente**
-
-**Descripción del Flujo:**
-
-Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los adquirientes, el formulario requerirá el nombre, correo electrónico y contraseña.
-
-![diagram](assets/diagram2.png)
-
-**User Goal: Visualizar los Vehículos**
-
-El adquiriente, al estar en la página de inicio, podrá ver los vehículos disponibles junto con sus descripciones. Al hacer clic en el botón "Alquilar" o "Comprar", será redirigido a la página de detalles del vehículo, donde podrá consultar el tipo, precio, descripción y distintivos del vehículo. Luego, al presionar el botón "Guardar", el vehículo se añadirá a su historial de vehículos guardados.
-
-![diagram](assets/diagram6.png)
-
-**User Goal: Navegar por el dashboard**
-
-Descripción del Flujo: Una vez que el adquiriente haya iniciado sesión, será dirigido al panel de control, donde encontrará varias opciones. La primera opción es "Mapa Interactivo", que le permitirá ver la ubicación de cada vehículo. Luego, encontrará la sección de "Filtro", donde podrá buscar y visualizar vehículos según su tipo y precio. También tendrá acceso a la sección de "Foro de Contacto", donde podrá ponerse en contacto con el universitario para adquirir el vehículo. Finalmente, estará disponible la opción "Mi Perfil", donde podrá revisar y actualizar sus datos personales.
-
-![diagram](assets/diagram7.png)
-
-![diagram](assets/modified.png)
-
-![diagram](assets/diagramuser.png)
+<div id='4.4.4.'><h4>4.4.4. Mobile Applications User Flow Diagrams.</h4></div>
 
 <div id='4.5.'><h3>4.5 Mobile Applications Prototyping.</h3></div>
+
 <div id='4.5.1.'><h4>4.5.1. Android Mobile Applications Prototyping.</h4></div>
+
 <div id='4.5.2.'><h4>4.5.2. iOS Mobile Applications Prototyping.</h4></div>
 
 <div id='4.6.'><h3>4.6 Web Applications UX/UI Design.</h3></div>
@@ -2196,9 +1980,194 @@ Una vez que el adquiriente haya iniciado sesión, accederá a su panel de contro
 <img src="Img/diagram7.png" alt="Diagram7" style="margin-bottom: 5px;" width="800"/>
 
 <div id='4.6.3.'><h4>4.6.3. Web Applications Mock-ups.</h4></div>
+
+**Segmento Universitario**
+
+**Crear Cuenta**
+
+La siguiente imagen presenta la sección de "registro de empresa", donde los universitarios podrán proporcionar la información requerida para crear una cuenta en la aplicación y empezar a disfrutar de los beneficios que ofrece EcoMovil.
+
+![web](assets/mockup1.png)
+
+**Inicio de sesión**
+
+La siguiente imagen muestra el wireframe de la sección de "inicio de sesión" vista desde una aplicación web en escritorio. En esta sección, los usuarios deberán ingresar sus credenciales para acceder a la aplicación, siempre y cuando ya hayan creado una cuenta previamente.
+
+![web](assets/mockup2.png)
+
+**Elegir Planes**
+
+La siguiente imagen muestra la sección de "Selección de pago", donde se presentan las diferentes categorías de planes disponibles en la aplicación. Cada uno de los tres planes ha sido diseñado cuidadosamente para atender las necesidades particulares de las empresas.
+
+![web](assets/mockup3.png)
+
+**Pago**
+
+La siguiente imagen corresponde a la sección de "Pasarela de pagos", donde los universitarios son redirigidos a un formulario para seleccionar y registrar su método de pago. En esta sección también se muestra el monto del plan elegido. Tras completar el proceso de pago con éxito, el usuario recibe una notificación con la confirmación de su suscripción y la fecha de registro.
+
+![web](assets/mockup4.png)
+
+**Proceder el Pago**
+
+En la siguiente imagen se puede ver el mensaje de pago exitoso, donde el universitario confirma que ha realizado el pago de manera satisfactoria y que ahora puede utilizar la aplicación sin inconvenientes.
+
+![web](assets/mockup5.png)
+
+**Home**
+
+En esta sección, se puede ver el home con varias secciones que se explorarán más adelante. En particular, nos enfocamos en la parte de "Mis vehículos", donde podrás observar a otros universitarios siguiendo la iniciativa y subiendo sus propios vehículos.
+ 
+![web](assets/mockup6.png)
+
+**Detalles del Vehículo**
+
+En esta sección, podrás ver los detalles de cada vehículo mostrado en la sección del home.
+
+![web](assets/mockup7.png)
+
+**Mis vehículos**
+
+En esta parte, el universitario podrá subir sus vehículos añadiendo una imagen representativa y detalles del vehículo. Finalmente, deberá hacer clic en el botón "Agregar" para completar el proceso.
+
+![web](assets/mockup8.png)
+
+**Mi Perfil**
+
+En esta sección, podrás ver tu perfil y agregar más datos, como tu RUC, correo electrónico y otros detalles, además de tu foto representativa. Finalmente, deberás hacer clic en el botón "Save changes" para guardar los cambios.
+
+![web](assets/mockup9.png)
+
+**Historial del Vehículo**
+
+En esta sección, puedes ver el historial de los vehículos publicados y los detalles correspondientes.
+
+![web](assets/mockup10.png)
+
+**Foro de Contacto**
+
+En esta sección, podrás publicar tu número de contacto y el vehículo que estás dispuesto a vender o alquilar, permitiendo que otros usuarios se contacten contigo o le den "like" a tu publicación.
+
+![web](assets/mockup11.png)
+
+**Segmento Adquiriente**
+
+**Crear cuenta**
+
+En esta sección, el adquiriente podrá registrarse proporcionando datos específicos como su nombre, correo electrónico y contraseña. Además, deberá marcar la casilla "Acepto los términos y condiciones."
+
+![web](assets/mockup12.png)
+
+**Iniciar Sesión**
+
+En esta sección, el adquiriente podrá iniciar sesión ingresando su correo electrónico y contraseña.
+
+![web](assets/mockup13.png)
+
+**Home**
+
+En esta sección, el adquiriente podrá visualizar el "Home", donde tendrá acceso a diversos vehículos menores con información como nombre, descripción y precio. También encontrará botones para "Rentar" o "Comprar" cada vehículo.
+
+![web](/assets/chapter-4/mockup14.png)
+
+**Mi perfil**
+
+En esta sección, podrás visualizar el perfil del adquiriente, incluyendo detalles como el nombre, correo y teléfono. También habrá un botón para confirmar si los detalles son correctos y, finalmente, un botón de "Guardar".
+
+![web](assets/mockup15.png)
+
+**Mapa Interactivo**
+
+En esta sección, el adquiriente podrá visualizar un mapa interactivo.
+
+![web](assets/mockup16.png)
+
+**Filtro**
+
+En esta sección, podrás visualizar los filtros con vehículos y sus imágenes descriptivas, así como los botones de "Comprar" o "Rentar".
+
+![web](assets/mockup17.png)
+
+**Detalles del Vehículo**
+
+Al hacer clic en un vehículo, el adquiriente podrá ver las descripciones del mismo, incluidos sus "Badges", tipo de vehículo, año, precio y una descripción detallada. Además, tendrá la opción de comunicarse por WhatsApp con el propietario del vehículo y podrá seleccionar entre los botones "Rentar Vehículo" o "Comprar Vehículo".
+
+![web](assets/mockup18.png)
+
+**Historial**
+
+En esta sección, el adquiriente podrá visualizar el historial de los vehículos.
+
+![web](assets/mockup19.png)
+
+**Foro de Contacto**
+
+En esta sección, el adquiriente podrá visualizar los mensajes de los diferentes universitarios que incluyeron su número de teléfono, con la opción de conectarse directamente a través de WhatsApp.
+
+![web](assets/mockup20.png)
+
 <div id='4.6.4.'><h4>4.6.4. Web Applications User Flow Diagrams.</h4></div>
 
+**User Goal: Iniciar sesión y Registrarse**
+
+**Perfil del Usuario: Universitario**
+
+**Descripción del Flujo:**
+
+Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los universitarios, el formulario requerirá el RUC, nombre, correo electrónico y contraseña.
+
+![diagram](assets/diagram1.png)
+
+**User Goal: Pagos de los Planes**
+
+El universitario podrá elegir entre 3 planes y seleccionar uno haciendo clic en el botón "Elegir Plan". Al hacerlo, será redirigido al proceso de pago, donde deberá ingresar los datos de su tarjeta y confirmar que la información es correcta. Una vez confirmado, el sistema mostrará un mensaje de pago exitoso. Al hacer clic en el botón "Comenzar", el usuario accederá al menú de vehículos.
+
+![diagram](assets/diagram3.png)
+
+![diagram](assets/diagram4.png)
+
+**User Goal: Navegar por el dashboard**
+
+Descripción del Flujo: Una vez que el universitario haya iniciado sesión, será dirigido al panel de control, donde podrá ver varias opciones. La primera opción es "Detalles del Vehículo", donde podrá consultar la información de cada vehículo. Luego, encontrará la sección de "Perfil", donde podrá actualizar sus datos y foto. También habrá una sección llamada "Historial de Vehículos", donde podrá revisar los vehículos que ha subido. Finalmente, estará disponible el "Foro de Contacto", donde podrá publicar un anuncio para vender o alquilar, permitiendo que los interesados se comuniquen directamente por WhatsApp.
+
+![diagram](assets/diagram5.png)
+
+**User Goal: Iniciar sesión y Registrarse**
+
+**Perfil del Usuario: Adquiriente**
+
+**Descripción del Flujo:**
+
+Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los adquirientes, el formulario requerirá el nombre, correo electrónico y contraseña.
+
+![diagram](assets/diagram2.png)
+
+**User Goal: Visualizar los Vehículos**
+
+El adquiriente, al estar en la página de inicio, podrá ver los vehículos disponibles junto con sus descripciones. Al hacer clic en el botón "Alquilar" o "Comprar", será redirigido a la página de detalles del vehículo, donde podrá consultar el tipo, precio, descripción y distintivos del vehículo. Luego, al presionar el botón "Guardar", el vehículo se añadirá a su historial de vehículos guardados.
+
+![diagram](assets/diagram6.png)
+
+**User Goal: Navegar por el dashboard**
+
+Descripción del Flujo: Una vez que el adquiriente haya iniciado sesión, será dirigido al panel de control, donde encontrará varias opciones. La primera opción es "Mapa Interactivo", que le permitirá ver la ubicación de cada vehículo. Luego, encontrará la sección de "Filtro", donde podrá buscar y visualizar vehículos según su tipo y precio. También tendrá acceso a la sección de "Foro de Contacto", donde podrá ponerse en contacto con el universitario para adquirir el vehículo. Finalmente, estará disponible la opción "Mi Perfil", donde podrá revisar y actualizar sus datos personales.
+
+![diagram](assets/diagram7.png)
+
+![diagram](assets/modified.png)
+
+![diagram](assets/diagramuser.png)
+
 <div id='4.7.'><h3>4.7 Web Applications Prototyping.</h3></div>
+
+Para la creación de los prototipos de la interfaz de usuario, tanto en versión de escritorio como para navegadores móviles, se consideraron varios principios fundamentales:
+
+1. **Claridad y Facilidad de Uso:** Se priorizó una navegación clara e intuitiva, que permita a los usuarios comprender fácilmente las funcionalidades principales de la aplicación, como el uso del mapa interactivo y las opciones de filtrado.
+
+2. **Diseño Responsivo:** Se aseguró que el diseño se adapte adecuadamente a distintos tamaños de pantalla, garantizando una experiencia fluida sin importar el dispositivo utilizado.
+
+3. **Prioridad en la Información Relevante:** El diseño se centró en mostrar únicamente los datos esenciales para el público objetivo, evitando sobrecargar la interfaz con información innecesaria.
+
+![web](/assets/modified.png)
 
 <div id='4.8.'><h3>4.8 Domain-Driven Software Architecture.</h3></div>
 <div id='4.8.1.'><h4>4.8.1. Software Architecture Context Diagram.</h4></div>
@@ -2428,6 +2397,8 @@ table border="0" width="50%">
 <div id='4.10.'><h3>4.10 Database Design.</h3></div>
 <div id='4.10.1.'><h4>4.10.1. Relational/Non-Relational Database Diagram.</h4></div>
 
+![DataBaseDiagram](./assets/Database_Diagram.png)
+
 <div id='5.'><h2>Capítulo V: Product Implementation, Validation & Deployment.</h2></div>
 
 <div id='5.1.'><h3>5.1 Software Configuration Management.</h3></div>
@@ -2576,11 +2547,29 @@ Enlace del Landing Page EcoMovil: https://open-source-sw56-group-2-ecomovil.gith
 
 <div id='5.2.'><h3>5.2 Product Implementation & Deployment.</h3></div>
 <div id='5.2.1.'><h4>5.2.1. Sprint Backlogs.</h4></div>
+
+
+
 <div id='5.2.2.'><h4>5.2.2. Implemented Landing Page Evidence.</h4></div>
+
+
+
 <div id='5.2.3.'><h4>5.2.3. Implemented Frontend-Web Application Evidence.</h4></div>
+
+
+
 <div id='5.2.4.'><h4>5.2.4. Implemented Native-Mobile Application Evidence.</h4></div>
+
+
+
 <div id='5.2.5.'><h4>5.2.5. Implemented RESTful API and/or Serverless Backend Evidence.</h4></div>
+
+
+
 <div id='5.2.6.'><h4>5.2.6. RESTful API documentation.</h4></div>
+
+
+
 <div id='5.2.7.'><h4>5.2.7. Team Collaboration Insights.</h4></div>
 
 <div id='5.3.'><h3>5.3 Video About-the-Product.</h3></div>

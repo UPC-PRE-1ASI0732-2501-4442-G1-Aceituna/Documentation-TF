@@ -1,7 +1,7 @@
 <h1 style="text-align: center;"> Informe del Trabajo Final </h1>
 <h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
 
-<img src=https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/114628079/4be29e42-94e4-4b80-85ae-3433dde891e4 
+<img src="assets/UPC_logo_transparente.png" 
 style="display: block; 
 margin-left:auto; 
 margin-right: auto; 
@@ -1821,115 +1821,6 @@ En esta sección, el adquiriente podrá visualizar el historial de los vehículo
 En esta sección, el adquiriente podrá visualizar los mensajes de los diferentes universitarios que incluyeron su número de teléfono, con la opción de conectarse directamente a través de WhatsApp.
 
 ![web](/assets/adquiriente9.png)
-
-**Web Application para Mobile Web Browser**
-
-**Segmento Universitario**
-
-**Logo**
-
-Aquí, el universitario podrá ver el logo de EcoMovil con un mensaje de "Cargando" en la parte inferior.
-
-![web](/assets/phone1.png)
-
-**Registro**
-
-Los universitarios podrán registrarse en EcoMovil ingresando su RUC, correo electrónico, nombre completo y contraseña. También deberán aceptar los términos y condiciones antes de hacer clic en el botón de "Registrarse".
-
-![web](/assets/phone2.png)
-
-**Iniciar sesión**
-
-Los universitarios podrán iniciar sesión ingresando su correo electrónico y contraseña. También habrá una opción de "Recuérdame" para facilitar el acceso en caso de que olviden el usuario o la contraseña. Finalmente, deberán hacer clic en el botón de "Iniciar sesión".
-
-![web](/assets/phone3.png)
-
-**Planes**
-
-Aquí, el usuario podrá seleccionar uno de los tres planes disponibles para comenzar a usar la aplicación y ofrecer sus vehículos al público objetivo. Deberá hacer clic en el botón de "Escoger Plan".
-
-![web](/assets/phone4.png)
-
-**Proceder al pago**
-
-En esta sección, el usuario podrá acceder al plan realizando el pago con su tarjeta e ingresando los datos correspondientes. Después de hacer clic en el botón de "Confirmar", recibirá un mensaje de pago exitoso.
-
-![web](/assets/phone5.png)
-
-**Vehículos**
-
-Aquí, el universitario podrá visualizar las publicaciones de otros universitarios y sus vehículos para inspirarse. Luego, podrá acceder a la sección "Mi Vehículo" para agregar uno o dos vehículos, dependiendo de su plan, haciendo clic en el botón "Agregar".
-
-![web](/assets/phone7.png)
-
-**Historial**
-
-Aquí, podremos ver el historial de los vehículos publicados por el universitario.
-
-![web](/assets/phone8.png)
-
-**Foro de Contacto**
-
-El universitario podrá subir un mensaje en el post indicando que está vendiendo o rentando un vehículo, incluyendo su número de celular para que el arrendatario pueda comunicarse con él a través de WhatsApp.
-
-![web](/assets/phone9.png)
-
-**Mi Perfil**
-
-En esta sección, podrás ver tu perfil, incluyendo tu foto, nombre completo, correo electrónico, número de teléfono y RUC. Finalmente, podrás guardar tus datos.
-
-![web](/assets/phone10.png)
-
-**Segmento Adquiriente**
-
-**Logo**
-
-Aquí, el adquiriente podrá ver el logo de EcoMovil con un mensaje de "Cargando" en la parte inferior.
-
-![web](/assets/phone1.png)
-
-**Registro**
-
-Los adquirientes podrán registrarse en EcoMovil ingresando su correo electrónico, nombre completo y contraseña. También deberán aceptar los términos y condiciones antes de hacer clic en el botón de "Registrarse".
-
-![web](/assets/image1.png)
-
-**Iniciar sesión**
-
-Los adquirientes podrán iniciar sesión ingresando su correo electrónico y contraseña. También habrá una opción de "Recuérdame" para facilitar el acceso en caso de que olviden el usuario o la contraseña. Finalmente, deberán hacer clic en el botón de "Iniciar sesión".
-
-![web](/assets/phone3.png)
-
-**Alquilar o comprar vehículos menores**
-
-Aquí podrás explorar diferentes vehículos y utilizar el botón "Rentar" o "Comprar" según tu interés.
-
-![web](/assets/image2.png)
-
-**Mi Perfil**
-
-El adquiriente podrá ver su perfil, agregar o corregir su foto, nombre, correo electrónico y teléfono. También deberá confirmar que los detalles son correctos y, finalmente, hacer clic en el botón "Guardar".
-
-![web](/assets/image3.png)
-
-**Vehículo y Filtros**
-
-Aquí podrás ver el mapa interactivo y el filtro, que incluye secciones para tipos de vehículos y precios.
-
-![web](/assets/image4.png)
-
-**Detalles del Vehículo**
-
-Aquí podrás visualizar los detalles del vehículo que seleccionaste, incluyendo sus descripciones, y tendrás los botones de "Alquilar" o "Comprar".
-
-![web](/assets/image5.png)
-
-**Historial de Vehículo y Foro de Contacto**
-
-El adquiriente tendrá la opción de ver los vehículos en su historial y acceder al foro de contacto, donde podrá visualizar los posts de los universitarios que incluyen su número de WhatsApp, facilitando el contacto directo si desean el vehículo.
-
-![web](/assets/image6.png)
-
 
 <div id='4.6.2.'><h4>4.6.2. Web Applications Wireflow Diagrams.</h4></div>
 

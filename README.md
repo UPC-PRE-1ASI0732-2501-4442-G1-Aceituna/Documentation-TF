@@ -35,6 +35,28 @@ width=50%"/>
 
 Esta sección tiene como propósito presentar un resumen de los cambios importantes efectuados al informe a lo largo del desarrollo del proyecto. Comienza en una página independiente e incorpora una tabla con la siguiente estructura:
 
+| **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
+|-------------|-----------|-----------|---------------------------------|
+| 1.0         | 15/08/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Creación del documento de trabajo en formato Markdown. |
+| 1.1         | 18/08/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Desarrollo del perfil de la startup y de la solución, identificación de segmentos objetivo y formulación de preguntas para el diseño de entrevistas. |
+| 1.2         | 26/08/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Redacción de las guías de estilo e infraestructura de la información. |
+| 1.3         | 31/08/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Realización y registro de entrevistas con los segmentos objetivo y análisis de los resultados. Creación del Impact Mapping. Redacción de las guías de estilo y la arquitectura de la información. |
+| 1.4         | 05/09/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Elaboración de historias de usuario y del backlog del producto. |
+| 1.5         | 05/09/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Creación del diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto y diagramas de componentes. |
+| 1.6         | 05/09/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Registro de las evidencias del Sprint. |
+
+## Project Report Collaboration Insights
+
+URL del repositorio para el reporte del proyecto: https://github.com/UPC-PRE-1ASI0732-2501-4442-G1-Aceituna
+
+<div align="center">
+  <img src="Img/insights_documentations_s4.png">
+</div>
+
+**TB1**
+
+Con el fin de elaborar el informe correspondiente a la entrega TB1, se asignó la implementación de las distintas secciones a cada miembro del equipo de la siguiente manera:
+
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Versión</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Fecha</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Autor</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Descripción de modificación</th></tr></thead>
 <tbody>
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">04/04/2025</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Acuña Tomas, Diego Rolin</td>
@@ -50,26 +72,6 @@ Esta sección tiene como propósito presentar un resumen de los cambios importan
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">04/04/2025</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ticona Panduro, Estrella del Pilar</td>
 <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>1.3. Segmentos objetivo<br>&nbsp;&nbsp;&nbsp;<br>2.3. Needfinding<br>&nbsp;&nbsp;&nbsp;<br>3.1. To-Be Scenario Mapping<br>&nbsp;&nbsp;&nbsp;<br>4.2.5. Navigation Systems<br>&nbsp;&nbsp;&nbsp;<br>4.4. Web Applications UX/UI&nbsp;&nbsp;&nbsp;Design<br>&nbsp;&nbsp;&nbsp;<br>4.4.3. Web Applications&nbsp;&nbsp;&nbsp;Mock-ups<br>&nbsp;&nbsp;&nbsp;<br>4.4.4. Web Applications User&nbsp;&nbsp;&nbsp;Flow Diagrams<br>&nbsp;&nbsp;&nbsp;<br>4.8.3. Software Architecture&nbsp;&nbsp;&nbsp;Components Diagrams<br>&nbsp;&nbsp;&nbsp;<br>4.9.1. Class Diagrams<br>&nbsp;&nbsp;&nbsp;<br>4.9.2. Class Dictionary&nbsp;&nbsp;&nbsp;</td></tr>
 </tbody></table>
-
-## Project Report Collaboration Insights
-
-URL del repositorio para el reporte del proyecto: https://github.com/UPC-PRE-1ASI0732-2501-4442-G1-Aceituna
-
-<div align="center">
-  <img src="Img/insights_documentations_s4.png">
-</div>
-
-**TB1**
-
-Con el fin de elaborar el informe correspondiente a la entrega TB1, se asignó la implementación de las distintas secciones a cada miembro del equipo de la siguiente manera:
-
-| Integrante                            | Tareas Asignadas                                                                                                                           |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| | |
-| | |
-| | |
-| Silva Tirado, Sebastian Valentino |  |
-| Ticona Panduro, Estrella del Pilar| |
 
 ## Contenido
 

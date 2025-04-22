@@ -10,23 +10,24 @@ width=50%"/>
 <h5 style="text-align: center"> Área: Ingeniería de Software </h5>
 
 <h5 style="text-align: center"> Curso: Diseño de Experimentos de Ingeniería de Software </h5>
-<h5 style="text-align: center"> Sección: 4442 </h5>
+<h5 style="text-align: center"> NRC: 4442 </h5>
 
 <h5 style="text-align: center"> Docente: Lennin Percy Cenas Vasquez </h5>
 
 <h5 style="text-align: center"> Startup: Aceitunas </h5>
 
-<h5 style="text-align: center"> Producto: XXX </h5>
+<h5 style="text-align: center"> Producto: EcoMovil </h5>
 
 ## Team members:
 
 |                Nombre                 |   Código   |
 | :-----------------------------------: | :--------: |
-| Bastidas Bastidas, Diego Martin       | U20221A301 |
 | Acuña Tomas, Diego Rolin          |  U202221436 |
+| Bastidas Bastidas, Diego Martin       | U20221A301 |
+|  Gallo Quintana, David Ivanoff    |  u20201E475 |
 |   Silva Tirado, Sebastian Valentino   | U20211G296 |
 |  Ticona Panduro, Estrella del Pilar   | U202210659 |
-|  Gallo Quintana, David Ivanoff    |  u20201E475 |
+
 
 <h5 style="text-align: center"> Ciclo 2025-01 </h5>
 
@@ -34,13 +35,21 @@ width=50%"/>
 
 Esta sección tiene como propósito presentar un resumen de los cambios importantes efectuados al informe a lo largo del desarrollo del proyecto. Comienza en una página independiente e incorpora una tabla con la siguiente estructura:
 
-| Versión |   Fecha    |                 Autor                 | Descripción de modificación                                                                                                                                                          |
-| :-----: | :--------: | :-----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   TB1   | 04/04/2025 | Bastidas Bastidas, Diego Martin |  |
-|   TB1   | 04/04/2025 | Acuña Tomas, Diego Rolin |  |
-|   TB1   | 04/04/2025 | Gallo Quintana, David Ivanoff         |  |
-|   TB1   | 04/04/2025 |   Silva Tirado, Sebastian Valentino   |  |
-|   TB1   | 04/04/2025 | Ticona Panduro, Estrella del Pilar    |  |
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Versión</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Fecha</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Autor</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Descripción de modificación</th></tr></thead>
+<tbody>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">04/04/2025</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Acuña Tomas, Diego Rolin</td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>1.1.1. Descripción del startup<br>&nbsp;&nbsp;&nbsp;<br>1.2.1. Antecedentes y Problemática<br>&nbsp;&nbsp;&nbsp;<br>1.2.2.1.&nbsp;&nbsp;&nbsp;Lean UX Problem Statements<br>&nbsp;&nbsp;&nbsp;<br>2.1.1.&nbsp;&nbsp;&nbsp;Análisis competitivo<br>&nbsp;&nbsp;&nbsp;<br>2.2.1.&nbsp;&nbsp;&nbsp;Diseño de entrevistas<br>&nbsp;&nbsp;&nbsp;<br>2.3.3. User&nbsp;&nbsp;&nbsp;Journey Mapping<br>&nbsp;&nbsp;&nbsp;<br>3.1. To-Be&nbsp;&nbsp;&nbsp;Scenario Mapping<br>&nbsp;&nbsp;&nbsp;<br>4.1.1.&nbsp;&nbsp;&nbsp;General Style Guidelines<br>&nbsp;&nbsp;&nbsp;<br>4.2.2.&nbsp;&nbsp;&nbsp;Labeling Systems<br>&nbsp;&nbsp;&nbsp;<br>5.1.1.&nbsp;&nbsp;&nbsp;Software Development Environment Configuration<br>&nbsp;&nbsp;&nbsp;<br>5.2.7. Team&nbsp;&nbsp;&nbsp;Collaboration Insights&nbsp;&nbsp;&nbsp;</td>
+</tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">04/04/2025</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Bastidas Bastidas, Diego Martin</td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>1.1.1. Descripción del startup<br>&nbsp;&nbsp;&nbsp;<br>1.2.1. Antecedentes y Problemática<br>&nbsp;&nbsp;&nbsp;<br>1.2.2.1.&nbsp;&nbsp;&nbsp;Lean UX Problem Statements<br>&nbsp;&nbsp;&nbsp;<br>2.1.1.&nbsp;&nbsp;&nbsp;Análisis competitivo<br>&nbsp;&nbsp;&nbsp;<br>2.2.1.&nbsp;&nbsp;&nbsp;Diseño de entrevistas<br>&nbsp;&nbsp;&nbsp;<br>2.3.3. User&nbsp;&nbsp;&nbsp;Journey Mapping<br>&nbsp;&nbsp;&nbsp;<br>3.1. To-Be&nbsp;&nbsp;&nbsp;Scenario Mapping<br>&nbsp;&nbsp;&nbsp;<br>4.1.1.&nbsp;&nbsp;&nbsp;General Style Guidelines<br>&nbsp;&nbsp;&nbsp;<br>4.2.2.&nbsp;&nbsp;&nbsp;Labeling Systems<br>&nbsp;&nbsp;&nbsp;<br>5.1.1.&nbsp;&nbsp;&nbsp;Software Development Environment Configuration<br>&nbsp;&nbsp;&nbsp;<br>5.2.7. Team&nbsp;&nbsp;&nbsp;Collaboration Insights&nbsp;&nbsp;&nbsp;</td>
+</tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">04/04/2025</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gallo Quintana, David Ivanoff</td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>1.2. Startup&nbsp;&nbsp;&nbsp;Profile<br>&nbsp;&nbsp;&nbsp;<br>1.2.2.3.&nbsp;&nbsp;&nbsp;Lean UX Hypothesis Statements<br>&nbsp;&nbsp;&nbsp;<br>2.2.3. Análisis de entrevistas<br>&nbsp;&nbsp;&nbsp;<br>2.3.1. User Personas<br>&nbsp;&nbsp;&nbsp;<br>3.3. Product Backlog<br>&nbsp;&nbsp;&nbsp;<br>4.2.1.&nbsp;&nbsp;&nbsp;Organization Systems<br>&nbsp;&nbsp;&nbsp;<br>4.3.1.&nbsp;&nbsp;&nbsp;Landing Page Wireframe<br>&nbsp;&nbsp;&nbsp;<br>4.6.1. Web&nbsp;&nbsp;&nbsp;Applications Wireframes<br>&nbsp;&nbsp;&nbsp;<br>4.8.1.&nbsp;&nbsp;&nbsp;Software Architecture Context Diagram<br>&nbsp;&nbsp;&nbsp;<br>5.1.3.&nbsp;&nbsp;&nbsp;Source Code Style Guide &amp; Conventions&nbsp;&nbsp;&nbsp;</td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">04/04/2025</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Silva Tirado, Sebastian Valentino</td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>1.2.2.4.&nbsp;&nbsp;&nbsp;Lean UX Canvas<br>&nbsp;&nbsp;&nbsp;<br>2.3.2. User&nbsp;&nbsp;&nbsp;Task Matrix<br>&nbsp;&nbsp;&nbsp;<br>2.3.5. As-is&nbsp;&nbsp;&nbsp;Scenario Mapping<br>&nbsp;&nbsp;&nbsp;<br>2.4.&nbsp;&nbsp;&nbsp;Ubiquitous Language<br>&nbsp;&nbsp;&nbsp;<br>3.4. Impact&nbsp;&nbsp;&nbsp;Mapping<br>&nbsp;&nbsp;&nbsp;<br>4.2.4.&nbsp;&nbsp;&nbsp;Searching Systems<br>&nbsp;&nbsp;&nbsp;<br>4.3.2.&nbsp;&nbsp;&nbsp;Landing Page Mock-up<br>&nbsp;&nbsp;&nbsp;<br>4.6.2. Web&nbsp;&nbsp;&nbsp;Applications Wireflow Diagrams<br>&nbsp;&nbsp;&nbsp;<br>4.8.2.&nbsp;&nbsp;&nbsp;Software Architecture Container Diagrams<br>&nbsp;&nbsp;&nbsp;<br>5.1.4. Software Deployment Configuration&nbsp;&nbsp;&nbsp;</td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">04/04/2025</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ticona Panduro, Estrella del Pilar</td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>1.3. Segmentos objetivo<br>&nbsp;&nbsp;&nbsp;<br>2.3. Needfinding<br>&nbsp;&nbsp;&nbsp;<br>3.1. To-Be Scenario Mapping<br>&nbsp;&nbsp;&nbsp;<br>4.2.5. Navigation Systems<br>&nbsp;&nbsp;&nbsp;<br>4.4. Web Applications UX/UI&nbsp;&nbsp;&nbsp;Design<br>&nbsp;&nbsp;&nbsp;<br>4.4.3. Web Applications&nbsp;&nbsp;&nbsp;Mock-ups<br>&nbsp;&nbsp;&nbsp;<br>4.4.4. Web Applications User&nbsp;&nbsp;&nbsp;Flow Diagrams<br>&nbsp;&nbsp;&nbsp;<br>4.8.3. Software Architecture&nbsp;&nbsp;&nbsp;Components Diagrams<br>&nbsp;&nbsp;&nbsp;<br>4.9.1. Class Diagrams<br>&nbsp;&nbsp;&nbsp;<br>4.9.2. Class Dictionary&nbsp;&nbsp;&nbsp;</td></tr>
+</tbody></table>
 
 ## Project Report Collaboration Insights
 

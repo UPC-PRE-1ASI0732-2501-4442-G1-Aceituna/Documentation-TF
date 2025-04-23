@@ -713,29 +713,42 @@ Preguntas dirigidas a Universitarios.
 
 <div id='2.2.2.'><h4>2.2.2. Registro de entrevistas.</h4></div>
 
+
 Segmento #1: Universitarios
 
-| **Entrevista 1**        | **Ramiro Alexander Guzman Chavez**         | 
-|:-------------------:|:-------------------:|
-| <center>Edad</center>  | <center>20 Años</center>  |
-| <center>Departamento</center>  | <center>Lima, Perú</center>  | 
-| <center>![Interview_Abel](assets/entrevistaU1.png)</center>  | <center>En esta entrevista, conocemos a Ramiro, un estudiante con conocimientos en tecnología y acceso a varios dispositivos. Es dueño de una bicicleta que cuida con responsabilidad y, para ganar dinero extra, ocasionalmente la alquila, siempre pactando en lugares públicos. Al conocer una aplicación que facilitaría este proceso, se mostró interesado, aunque recalcó que solo le gustaría alquilar a otros universitarios. También está abierto a una comunidad donde se dejen reseñas y se colabore entre usuarios. Para él, lo más importante es que la app permita identificar de manera confiable a las personas con quienes se hacen los acuerdos.</center>  | 
-| <center>Timing: 0:00-.... </center>  | <center>URL: .... </center>  | 
+**Entrevista 1** 
+*Entrevistado:* Ramiro Alexander Guzman <br>
+*Sexo:* Masculino  <br>
+*Edad:* 20 años <br>
+*Domicilio:* Lima, Perú<br>
+*Inicio de la Entrevista:* <br>
+*Duración de la Entrevista:* <br>
 
-<br>
+<img src="" alt="" style="width: 600px; height: auto;">
 
+*Enlace:* <a href=""> </a>
+![Interview_Abel](assets/entrevistaU1.png)
+*Resumen de la Entrevista*:
+En esta entrevista, conocemos a Ramiro, un estudiante con conocimientos en tecnología y acceso a varios dispositivos. Es dueño de una bicicleta que cuida con responsabilidad y, para ganar dinero extra, ocasionalmente la alquila, siempre pactando en lugares públicos. Al conocer una aplicación que facilitaría este proceso, se mostró interesado, aunque recalcó que solo le gustaría alquilar a otros universitarios. También está abierto a una comunidad donde se dejen reseñas y se colabore entre usuarios. Para él, lo más importante es que la app permita identificar de manera confiable a las personas con quienes se hacen los acuerdos 
 
 Segmento #2: Adquirientes
 
+**Entrevista 1** 
+*Entrevistada:* Miguel Angel Gómez Hurtado <br>
+*Sexo:* Masculino <br>
+*Edad:* 23 años<br>
+*Domicilio:*  Lima, Perú<br>
+*Inicio de la Entrevista:* <br>
+*Duración de la Entrevista:* <br>
 
-| **Entrevista 1**        | **Miguel Angel Gómez Hurtado**         | 
-|:-------------------:|:-------------------:|
-| <center>Edad</center>  | <center>23 Años</center>  |
-| <center>Departamento</center>  | <center>Lima, Perú</center>  | 
-| <center>![Interview_Abel](assets/entrevistaA1.png)</center>  | <center>En esta entrevista hablamos con Miguel, una persona con múltiples medios de comunicación, conocimientos en tecnología y experiencia en la venta y alquiler de vehículos. Actualmente busca un medio de transporte personal para recorrer distancias cortas de forma rápida. Se mostró interesado en una aplicación como la que proponemos y destacó la importancia de contar con una plataforma confiable, que permita concretar tratos en cualquier momento y garantice su seguridad. Está familiarizado con aplicaciones de pago como Yape, por lo que le gustaría poder usarlas dentro del sistema. También le interesa una función para ubicar comerciantes cercanos, un sistema de reseñas entre usuarios y una opción de seguro que le permita recuperar su dinero en caso de estafa, lo que aumentaría su confianza en la app. </center>  | 
-| <center>Timing: 0:00-.... </center>  | <center>URL: .... </center>  | 
+<img src="" alt="" style="width: 600px; height: auto;">
 
-<br>
+*Enlace:* <a href=""> </a>
+![Interview_Abel](assets/entrevistaA1.png) 
+
+*Resumen de la Entrevista*:
+En esta entrevista hablamos con Miguel, una persona con múltiples medios de comunicación, conocimientos en tecnología y experiencia en la venta y alquiler de vehículos. Actualmente busca un medio de transporte personal para recorrer distancias cortas de forma rápida. Se mostró interesado en una aplicación como la que proponemos y destacó la importancia de contar con una plataforma confiable, que permita concretar tratos en cualquier momento y garantice su seguridad. Está familiarizado con aplicaciones de pago como Yape, por lo que le gustaría poder usarlas dentro del sistema. También le interesa una función para ubicar comerciantes cercanos, un sistema de reseñas entre usuarios y una opción de seguro que le permita recuperar su dinero en caso de estafa, lo que aumentaría su confianza en la app.
+
 
 
 

@@ -293,6 +293,20 @@ Costo económico: La falta de alternativas de transporte sostenible y accesible 
 
 <div id='1.2.2.'><h4>1.2.2. Lean UX Process.</h4></div>
 
+<div id='1.2.2.1.'><h5>1.2.2.1. Lean UX Problem Statements.</h5></div>
+
+<h5>Problem Statement</h5>
+
+Nuestra meta es desarrollar una plataforma digital que facilite la conexión entre estudiantes universitarios que desean poner en circulación sus vehículos ecológicos en desuso y personas que buscan opciones de transporte más sostenibles y económicamente accesibles.
+
+Hemos identificado que muchos estudiantes universitarios cuentan con medios de transporte ecológicos, como bicicletas, scooters o patinetas, que ya no utilizan. Al mismo tiempo, existe una creciente demanda por parte de otros ciudadanos que buscan alternativas de movilidad económicas y sostenibles.
+
+Esta situación pone en evidencia una inquietud cada vez mayor relacionada con los gastos asociados al transporte, las consecuencias ambientales de las opciones actuales y el deseo de adoptar hábitos de vida más saludables. Ante ello, surge la siguiente interrogante:
+
+¿Qué características debemos incorporar en la plataforma para que los universitarios puedan gestionar el intercambio de estos vehículos de manera práctica, promoviendo al mismo tiempo una movilidad accesible, ecológica y saludable?
+
+<div id='1.2.2.2.'><h5>1.2.2.2. Lean UX Assumptions.</h5></div>
+
 #### Business Assumptions
 
 #### Necesidades de los Clientes
@@ -397,19 +411,7 @@ Los usuarios principales de la aplicación son los estudiantes universitarios qu
 - **Para los Adquirientes:**
   - **Reducción de la Huella de Carbono:** Eligen opciones de transporte ecológicas, reduciendo su impacto ambiental.
   - **Acceso Fácil al Transporte:** Mejoran su movilidad al tener acceso rápido a medios de transporte cuando más los necesitan.
-<div id='1.2.2.1.'><h5>1.2.2.1. Lean UX Problem Statements.</h5></div>
 
-<h5>Problem Statement</h5>
-
-Nuestra meta es desarrollar una plataforma digital que facilite la conexión entre estudiantes universitarios que desean poner en circulación sus vehículos ecológicos en desuso y personas que buscan opciones de transporte más sostenibles y económicamente accesibles.
-
-Hemos identificado que muchos estudiantes universitarios cuentan con medios de transporte ecológicos, como bicicletas, scooters o patinetas, que ya no utilizan. Al mismo tiempo, existe una creciente demanda por parte de otros ciudadanos que buscan alternativas de movilidad económicas y sostenibles.
-
-Esta situación pone en evidencia una inquietud cada vez mayor relacionada con los gastos asociados al transporte, las consecuencias ambientales de las opciones actuales y el deseo de adoptar hábitos de vida más saludables. Ante ello, surge la siguiente interrogante:
-
-¿Qué características debemos incorporar en la plataforma para que los universitarios puedan gestionar el intercambio de estos vehículos de manera práctica, promoviendo al mismo tiempo una movilidad accesible, ecológica y saludable?
-
-<div id='1.2.2.2.'><h5>1.2.2.2. Lean UX Assumptions.</h5></div>
 <div id='1.2.2.3.'><h5>1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
 - **Hypothesis Statement 01:** <br>

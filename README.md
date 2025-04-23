@@ -188,6 +188,9 @@ ambientales y sociales.
 <div id='1.2.1.'><h4>1.2.1. Antecedentes y Problemática.</h4></div>
 <div id='1.2.2.'><h4>1.2.2. Lean UX Process.</h4></div>
 
+<div id='1.2.2.1.'><h5>1.2.2.1. Lean UX Problem Statements.</h5></div>
+<div id='1.2.2.2.'><h5>1.2.2.2. Lean UX Assumptions.</h5></div>
+
 #### Business Assumptions
 
 #### Necesidades de los Clientes
@@ -292,8 +295,6 @@ Los usuarios principales de la aplicación son los estudiantes universitarios qu
 - **Para los Adquirientes:**
   - **Reducción de la Huella de Carbono:** Eligen opciones de transporte ecológicas, reduciendo su impacto ambiental.
   - **Acceso Fácil al Transporte:** Mejoran su movilidad al tener acceso rápido a medios de transporte cuando más los necesitan.
-<div id='1.2.2.1.'><h5>1.2.2.1. Lean UX Problem Statements.</h5></div>
-<div id='1.2.2.2.'><h5>1.2.2.2. Lean UX Assumptions.</h5></div>
 <div id='1.2.2.3.'><h5>1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 <div id='1.2.2.4.'><h5>1.2.2.4. Lean UX Canvas.</h5></div>
 

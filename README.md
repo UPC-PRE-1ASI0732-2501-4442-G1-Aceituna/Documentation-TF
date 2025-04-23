@@ -777,7 +777,21 @@ En cuanto a su operación, Franco lleva las bicicletas a talleres para mantenimi
 *Resumen de la Entrevista*:
 En esta entrevista hablamos con Miguel, una persona con múltiples medios de comunicación, conocimientos en tecnología y experiencia en la venta y alquiler de vehículos. Actualmente busca un medio de transporte personal para recorrer distancias cortas de forma rápida. Se mostró interesado en una aplicación como la que proponemos y destacó la importancia de contar con una plataforma confiable, que permita concretar tratos en cualquier momento y garantice su seguridad. Está familiarizado con aplicaciones de pago como Yape, por lo que le gustaría poder usarlas dentro del sistema. También le interesa una función para ubicar comerciantes cercanos, un sistema de reseñas entre usuarios y una opción de seguro que le permita recuperar su dinero en caso de estafa, lo que aumentaría su confianza en la app.
 
+**Entrevista 2** 
+*Entrevistada:* Camila Pérez Novoa <br>
+*Sexo:* Femenino <br>
+*Edad:* 23 años<br>
+*Domicilio:*  Barcelona, España<br>
+*Inicio de la Entrevista:* <br>
+*Duración de la Entrevista:* <br>
 
+<img src="" alt="" style="width: 600px; height: auto;">
+
+*Enlace:* <a href=""> </a>
+![Interview_Camila](assets/InterviewCamila.png) 
+
+*Resumen de la Entrevista*:
+Se entrevistó a Camila, una joven de 21 años de Cuba que actualmente reside en España. Camila está estudiando Medicina y trabaja durante sus vacaciones. Aprovechando su tiempo libre, ha decidido viajar a Perú con una amiga y ha considerado realizar paseos en bicicleta por Miraflores. Camila compartió las características que le gustaría ver en una aplicación para alquilar o comprar bicicletas, basándose en sus experiencias con sus padres. Mencionó que encontró interesante la propuesta y destacó que una de las características más importantes para ella sería un mapa interactivo.
 
 
 

@@ -35,15 +35,13 @@ width=50%"/>
 
 Esta sección tiene como propósito presentar un resumen de los cambios importantes efectuados al informe a lo largo del desarrollo del proyecto. Comienza en una página independiente e incorpora una tabla con la siguiente estructura:
 
-| **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
-|-------------|-----------|-----------|---------------------------------|
-| 1.0         | 15/08/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Creación del documento de trabajo en formato Markdown. |
-| 1.1         | 18/08/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Desarrollo del perfil de la startup y de la solución, identificación de segmentos objetivo y formulación de preguntas para el diseño de entrevistas. |
-| 1.2         | 26/08/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Redacción de las guías de estilo e infraestructura de la información. |
-| 1.3         | 31/08/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Realización y registro de entrevistas con los segmentos objetivo y análisis de los resultados. Creación del Impact Mapping. Redacción de las guías de estilo y la arquitectura de la información. |
-| 1.4         | 05/09/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Elaboración de historias de usuario y del backlog del producto. |
-| 1.5         | 05/09/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Creación del diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto y diagramas de componentes. |
-| 1.6         | 05/09/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Registro de las evidencias del Sprint. |
+| **Versión** | **Fecha**  | **Autor**                             | **Descripción de Modificación**                                                                                                                                                                   |
+|-------------|------------|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TB1         | 07/04/2025 | Acuña, Bastidas, Gallo, Silva, Ticona | Creación del documento de trabajo en formato Markdown.                                                                                                                                            |
+| TB1         | 16/04/2025 | Acuña, Bastidas, Gallo, Silva, Ticona | Desarrollo del perfil de la startup y de la solución, identificación de segmentos objetivo y formulación de preguntas para el diseño de entrevistas.                                              |
+| TB1         | 18/04/2025 | Acuña, Bastidas, Gallo, Silva, Ticona | Realización y registro de entrevistas con los segmentos objetivo y análisis de los resultados. Creación del Impact Mapping. Redacción de las guías de estilo y la arquitectura de la información. |
+| TB1         | 20/04/2025 | Acuña, Bastidas, Gallo, Silva, Ticona | Creación del diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto y diagramas de componentes.                                   |
+| TB1         | 22/04/2025 | Acuña, Bastidas, Gallo, Silva, Ticona | Registro de las evidencias del Sprint.                                                                                                                                                            |
 
 ## Project Report Collaboration Insights
 
@@ -161,6 +159,11 @@ Con el fin de elaborar el informe correspondiente a la entrega TB1, se asignó l
    5.2.6. [RESTful API documentation](#5.2.6.)<br>
    5.2.7. [Team Collaboration Insights](#5.2.7.)<br>
    5.3. [Video About-the-Product.](#5.3.)<br>
+6. [**Conclusiones**](#6.)<br>
+    6.1. [**Conclusiones y recomendaciones.](#6.1.)<br>
+    6.2. [**Video About-the-Team.](#6.2.)<br>
+7. [**Bibliografía**](#7.)<br>
+8. [**Anexos**](#8.)<br>
 
 ## STUDENT OUTCOME
 La capacidad de reconocer responsabilidades éticas y
@@ -198,14 +201,9 @@ Nos diferenciaremos de otras aplicaciones, ya que no solo ofreceremos una altern
 
 **Logotipo del Servicio:**<br>
 
-![service](/assets/ecomovil.jpg)
-
-
-
+<img src="assets/ecomovil.jpg" alt="service" style="margin-bottom: 5px;" width="400"/>
 
 <div id='1.1.2.'><h4>1.1.2. Perfiles de los integrantes del equipo.</h4></div>
-
-
 
 | Descripción de los Miembros del Equipo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Perfiles de los Miembros del Equipo                                        |   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---|
@@ -2336,8 +2334,47 @@ Link: https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a
 
 <div id='5.2.6.'><h4>5.2.6. RESTful API documentation.</h4></div>
 
-
-
 <div id='5.2.7.'><h4>5.2.7. Team Collaboration Insights.</h4></div>
 
 <div id='5.3.'><h3>5.3 Video About-the-Product.</h3></div>
+
+<div id='6.'><h2>6. Conclusiones</h2></div>
+
+<div id='6.1.'><h3>6.1. Conclusiones y recomendaciones.</h3></div>
+
+- **TB1:**
+
+Identificación clara del problema: A partir del análisis realizado, se ha reconocido la contaminación del aire y el cambio climático como problemas urgentes, especialmente en zonas urbanas. La necesidad de alternativas de transporte sostenibles es evidente en la actualidad.
+
+Propuesta de valor definida: EcoMovil se establece como una solución innovadora, al combinar el acceso a medios de transporte ecológicos con un modelo colaborativo que permite a los usuarios generar ingresos.
+
+Fundamentos para el desarrollo: Se definieron los principios éticos, sociales y funcionales que guiarán el diseño e implementación de la aplicación, orientados a brindar una experiencia segura, eficiente e inclusiva.
+
+<div id='7.'><h2>7. Bibliografía</h2></div>
+
+Organización Mundial de la Salud (OMS). (2023). Contaminación del aire y salud. https://www.who.int/
+
+ONU Medio Ambiente. (2022). Movilidad sostenible: el futuro del transporte urbano. https://www.unep.org/
+
+Ministerio del Ambiente (2023). Informe sobre la calidad del aire en zonas urbanas del Perú.
+
+Nielsen Norman Group. (2022). Usabilidad y diseño centrado en el usuario. https://www.nngroup.com/
+
+<div id='8.'><h2>8. Anexos</h2></div>
+
+URL del repositorio para el reporte del proyecto: 
+
+https://github.com/UPC-PRE-1ASI0732-2501-4442-G1-Aceituna
+
+Enlace para acceder al Lean UX Canvas: 
+https://www.canva.com/design/DAGOEXan6rE/pJTlXgHJBmfhVfeAe3pFgA/edit?utm_content=DAGOEXan6rE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Product_Backlog: 
+https://trello.com/invite/b/67f3e291ac6549f2f2be7bf2/ATTI88f041995a02ce23d7baf8e49a2ee15bD9901B21/ruedarent
+
+Landing Page EcoMovil: 
+
+https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
+
+Sprint Backlog: 
+https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a858cc89fb96145607955103/sprint-backlog-1-ecomovil

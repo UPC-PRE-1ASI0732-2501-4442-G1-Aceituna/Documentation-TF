@@ -730,6 +730,7 @@ Preguntas dirigidas a Universitarios.
 ## Segmento #1: Universitarios 
 
 **Entrevista 1** 
+
 *Entrevistado:* Ramiro Alexander Guzman <br>
 *Sexo:* Masculino  <br>
 *Edad:* 20 años <br>
@@ -766,6 +767,7 @@ En cuanto a su operación, Franco lleva las bicicletas a talleres para mantenimi
 ---
 
 **Entrevista 3** 
+
 *Entrevistado:* Lucerito Guzmán <br>
 *Sexo:* Femenino <br>
 *Edad:* 23 años <br>
@@ -782,6 +784,7 @@ En cuanto a su operación, Franco lleva las bicicletas a talleres para mantenimi
 ## Segmento #2: Adquirientes
 
 **Entrevista 1** 
+
 *Entrevistada:* Miguel Angel Gómez Hurtado <br>
 *Sexo:* Masculino <br>
 *Edad:* 23 años<br>
@@ -799,6 +802,7 @@ En esta entrevista hablamos con Miguel, una persona con múltiples medios de com
 ---
 
 **Entrevista 2** 
+
 *Entrevistada:* Camila Pérez Novoa <br>
 *Sexo:* Femenino <br>
 *Edad:* 23 años<br>
@@ -816,6 +820,7 @@ Se entrevistó a Camila, una joven de 21 años de Cuba que actualmente reside en
 ---
 
 **Entrevista 3** 
+
 *Entrevistada:* Marcia Rea Gamboa <br>
 *Sexo:* Femenino <br>
 *Edad:* 20 años<br>
@@ -2421,7 +2426,23 @@ Link: https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a
 
 <div id='5.2.7.'><h4>5.2.7. Team Collaboration Insights.</h4></div>
 
+En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los resultados del trabajo realizado y la actividad generada.
+
+|               Alumno               |                                           Actividad                                          |
+|:----------------------------------:|:--------------------------------------------------------------------------------------------:|
+| Acuña Tomas, Diego Rolin           | Apoyo en la redacción estructural del documento markdown y revisión final del contenido.     |
+| Bastidas Bastidas, Diego Martin    | Contribución a la elaboración del documento markdown y organización del contenido técnico.   |
+| Gallo Quintana, David Ivanoff      | Actualización del front-end y back-end, mantenimiento de la landing page.                    |
+| Silva Tirado, Sebastian Valentino  | Desarrollo de la aplicación móvil y pruebas iniciales de funcionalidad.                      |
+| Ticona Panduro, Estrella del Pilar | Participación en la edición del documento markdown y validación de coherencia del contenido. |
+
 <div id='5.3.'><h3>5.3 Video About-the-Product.</h3></div>
+
+A continuación, se muestra el video "Video About-the-Product", que destaca el propósito, las ventajas y las características clave del landing-page.
+
+![product](assets/chapter-5/image_the_product.png)
+
+Enlace del video publicado en Stream:
 
 <div id='6.'><h2>6. Conclusiones</h2></div>
 

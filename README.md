@@ -206,6 +206,26 @@ Adicionalmente, frente al aumento en la tasa de deserción universitaria, que pa
 <div id='2.2.'><h3>2.2 Entrevistas.</h3></div>
 <div id='2.2.1.'><h4>2.2.1. Diseño de entrevistas.</h4></div>
 <div id='2.2.2.'><h4>2.2.2. Registro de entrevistas.</h4></div>
+
+Segmento #1: Universitarios 
+
+**Entrevista 2:** 
+
+*Entrevistado:* Gian Franco Durand  <br>
+*Sexo:* Masclino <br>
+*Edad:*  23<br>
+*Domicilio:*  San Juan de Miraflores <br>
+*Inicio de la Entrevista:* <br>
+*Duración de la Entrevista:* 06:26<br>
+
+<img src="" alt="" style="width: 600px; height: auto;">
+
+*Enlace:* <a href=""> </a>
+<img src="assets/entrevistas.png" alt="As-Is Mapping 2" style="margin-bottom: 5px;" width="800"/>
+*Resumen de la Entrevista*:
+Franco Durán, residente de San Juan de Miraflores, es un usuario de bicicletas y skate con conocimientos básicos de mantenimiento. Utiliza principalmente dispositivos móviles y computadora con Google Chrome para navegar. Al elegir vehículos menores prioriza funcionalidad y precio, influenciado significativamente por recomendaciones personales. Posee bicicletas que podría alquilar o vender, determinando su precio según estado, materiales y tipo de uso.
+En cuanto a su operación, Franco lleva las bicicletas a talleres para mantenimiento antes de ofrecerlas y realiza limpiezas básicas periódicas. Para seguridad, evalúa a los clientes por su nombre y foto de perfil, coordinando entregas en lugares públicos seguros. Aunque no brinda soporte técnico durante alquileres, valora los comentarios para mejorar su servicio. Sugiere que una aplicación ideal debería incluir filtros por zona y precio, así como mapas de demanda, lo que indica necesidades específicas de funcionalidad para plataformas como EcoMóvil.
+
 <div id='2.2.3.'><h4>2.2.3. Análisis de entrevistas.</h4></div>
 
 <div id='2.3.'><h3>2.3 Needfinding.</h3></div>

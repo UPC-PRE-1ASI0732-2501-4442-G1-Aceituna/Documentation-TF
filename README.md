@@ -2455,8 +2455,10 @@ Link: https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a
     Las siguientes capturas de pantalla y el video demostrativo evidencian los módulos implementados en el frontend:
   </p>
 
-</div>
+  <p> El video de la implementación se puede ver a continuacion: https://youtu.be/KwrFzsvntJI  </p>  
 
+</div>
+  
 
 <div id='5.2.4.'><h4>5.2.4. Implemented Native-Mobile Application Evidence.</h4></div>
 

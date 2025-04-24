@@ -741,9 +741,6 @@ Preguntas dirigidas a Universitarios.
 
 <img src="assets/entrevistaU1.png" alt="" style="width: 400; height: auto;">
 
-<<<<<<< HEAD
-*Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWXl0ia61BBCs3JLo1Ms1QoBg0fytY1FiORDwWXH8zl7ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BFPdgI* <a href=""> </a>
-=======
 *Enlace:* <a href=""> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWXl0ia61BBCs3JLo1Ms1QoBg0fytY1FiORDwWXH8zl7ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W6ifNf </a>
 >>>>>>> 3e8361cd31d4bca6768dde5a3ce0e4f807521c3d
 

@@ -1604,6 +1604,130 @@ El adquiriente tendrá la opción de ver los vehículos en su historial y accede
 
 <div id='4.4.4.'><h4>4.4.4. Mobile Applications User Flow Diagrams.</h4></div>
 <div id='4.4.1.'><h4>4.4.1. Web Applications Wireframes.</h4></div>
+**Web Application para Dekstop Web Browser**
+
+**Segmento Universitario**
+
+**Crear Cuenta**
+
+La siguiente imagen presenta la sección de "registro de empresa", donde los universitarios podrán proporcionar la información requerida para crear una cuenta en la aplicación y empezar a disfrutar de los beneficios que ofrece EcoMovil.
+
+![web](/assets/universitario1.png)
+
+**Inicio de sesión**
+
+La siguiente imagen muestra el wireframe de la sección de "inicio de sesión" vista desde una aplicación web en escritorio. En esta sección, los usuarios deberán ingresar sus credenciales para acceder a la aplicación, siempre y cuando ya hayan creado una cuenta previamente.
+
+![web](/assets/universitario2.png)
+
+**Elegir Planes**
+
+La siguiente imagen muestra la sección de "Selección de pago", donde se presentan las diferentes categorías de planes disponibles en la aplicación. Cada uno de los tres planes ha sido diseñado cuidadosamente para atender las necesidades particulares de las empresas.
+
+![web](/assets/universitario3.png)
+
+**Pago**
+
+La siguiente imagen corresponde a la sección de "Pasarela de pagos", donde los universitarios son redirigidos a un formulario para seleccionar y registrar su método de pago. En esta sección también se muestra el monto del plan elegido. Tras completar el proceso de pago con éxito, el usuario recibe una notificación con la confirmación de su suscripción y la fecha de registro.
+
+![web](/assets/universitario4.png)
+
+**Proceder el Pago**
+
+En la siguiente imagen se puede ver el mensaje de pago exitoso, donde el universitario confirma que ha realizado el pago de manera satisfactoria y que ahora puede utilizar la aplicación sin inconvenientes.
+
+![web](/assets/universitario5.png)
+
+**Home**
+
+En esta sección, se puede ver el home con varias secciones que se explorarán más adelante. En particular, nos enfocamos en la parte de "Mis vehículos", donde podrás observar a otros universitarios siguiendo la iniciativa y subiendo sus propios vehículos.
+
+![web](/assets/universitario6.png)
+
+**Detalles del Vehículo**
+
+En esta sección, podrás ver los detalles de cada vehículo mostrado en la sección del home.
+
+![web](/assets/universitario7.png)
+
+**Mis vehículos**
+
+En esta parte, el universitario podrá subir sus vehículos añadiendo una imagen representativa y detalles del vehículo. Finalmente, deberá hacer clic en el botón "Agregar" para completar el proceso.
+
+![web](/assets/universitario8.png)
+
+**Mi Perfil**
+
+En esta sección, podrás ver tu perfil y agregar más datos, como tu RUC, correo electrónico y otros detalles, además de tu foto representativa. Finalmente, deberás hacer clic en el botón "Save changes" para guardar los cambios.
+
+![web](/assets/universitario9.png)
+
+**Historial del Vehículo**
+
+En esta sección, puedes ver el historial de los vehículos publicados y los detalles correspondientes.
+
+![web](/assets/universitario10.png)
+
+**Foro de Contacto**
+
+En esta sección, podrás publicar tu número de contacto y el vehículo que estás dispuesto a vender o alquilar, permitiendo que otros usuarios se contacten contigo o le den "like" a tu publicación.
+
+![web](/assets/universitario11.png)
+
+**Segmento Adquiriente**
+
+**Crear cuenta**
+
+En esta sección, el adquiriente podrá registrarse proporcionando datos específicos como su nombre, correo electrónico y contraseña. Además, deberá marcar la casilla "Acepto los términos y condiciones."
+
+![web](/assets/adquiriente1.png)
+
+**Iniciar Sesión**
+
+En esta sección, el adquiriente podrá iniciar sesión ingresando su correo electrónico y contraseña.
+
+![web](/assets/adquiriente2.png)
+
+**Home**
+
+En esta sección, el adquiriente podrá visualizar el "Home", donde tendrá acceso a diversos vehículos menores con información como nombre, descripción y precio. También encontrará botones para "Rentar" o "Comprar" cada vehículo.
+
+![web](/assets/adquiriente3.png)
+
+**Mi perfil**
+
+En esta sección, podrás visualizar el perfil del adquiriente, incluyendo detalles como el nombre, correo y teléfono. También habrá un botón para confirmar si los detalles son correctos y, finalmente, un botón de "Guardar".
+
+![web](/assets/adquiriente4.png)
+
+**Mapa Interactivo**
+
+En esta sección, el adquiriente podrá visualizar un mapa interactivo.
+
+![web](/assets/adquiriente5.png)
+
+**Filtro**
+
+En esta sección, podrás visualizar los filtros con vehículos y sus imágenes descriptivas, así como los botones de "Comprar" o "Rentar".
+
+![web](/assets/adquiriente6.png)
+
+**Detalles del Vehículo**
+
+Al hacer clic en un vehículo, el adquiriente podrá ver las descripciones del mismo, incluidos sus "Badges", tipo de vehículo, año, precio y una descripción detallada. Además, tendrá la opción de comunicarse por WhatsApp con el propietario del vehículo y podrá seleccionar entre los botones "Rentar Vehículo" o "Comprar Vehículo".
+
+![web](/assets/adquiriente7.png)
+
+**Historial**
+
+En esta sección, el adquiriente podrá visualizar el historial de los vehículos.
+
+![web](/assets/adquiriente8.png)
+
+**Foro de Contacto**
+En esta sección, el adquiriente podrá visualizar los mensajes de los diferentes universitarios que incluyeron su número de teléfono, con la opción de conectarse directamente a través de WhatsApp.
+
+![web](/assets/adquiriente9.png)
 <div id='4.4.2.'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
 
 **User Goal: Iniciar sesión y Registrarse**

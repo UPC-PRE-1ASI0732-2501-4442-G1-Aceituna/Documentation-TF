@@ -2474,6 +2474,14 @@ Link: https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a
 
 <div id='5.2.4.'><h4>5.2.4. Implemented Native-Mobile Application Evidence.</h4></div>
 
+  A continuación se muestra evidencia de la implementación Mobile de la aplicación, solo contando con iniciar sesión y elección de plan:
+
+  <img src="assets/Mobile1.jpeg" alt="Mobile1" width="250" class="rounded shadow mb-4"/>
+
+  <img src="assets/Mobile2.jpeg" alt="Mobile1" width="250" class="rounded shadow mb-4"/>
+
+  <img src="assets/Mobile3.jpeg" alt="Mobile1" width="250" class="rounded shadow mb-4"/>
+
 
 
 <div id='5.2.5.'><h4>5.2.5. Implemented RESTful API and/or Serverless Backend Evidence.</h4></div>

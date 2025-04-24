@@ -2500,6 +2500,92 @@ Link: https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a
 
 <div id='5.2.6.'><h4>5.2.6. RESTful API documentation.</h4></div>
 
+<p>
+  La aplicación cuenta con documentación generada automáticamente mediante <strong>Swagger UI</strong> (OpenAPI), la cual permite explorar, probar y visualizar todos los endpoints disponibles en el backend de forma clara y estructurada.
+</p>
+
+
+<p>
+  Esta documentación está disponible en la ruta: <code>/swagger-ui/index.html</code> y facilita tanto la comprensión del API como la integración por parte de otros desarrolladores o sistemas externos.
+</p>
+
+<p>
+  A continuación, se presentan capturas de la documentación Swagger para algunos de los módulos clave del sistema:
+</p>
+
+<ul>
+  <li><strong>Authentication:</strong>
+    <ul>
+      <li><code>POST /api/v1/authentication/sign-up</code> – Registro de usuario</li>
+      <li><code>POST /api/v1/authentication/sign-in</code> – Inicio de sesión</li>
+    </ul>
+  </li>
+  <li><strong>Vehicles:</strong>
+    <ul>
+      <li><code>GET /api/v1/vehicles</code> – Listar todos los vehículos</li>
+      <li><code>POST /api/v1/vehicles</code> – Crear un vehículo</li>
+      <li><code>GET /api/v1/vehicles/{vehicleId}</code> – Consultar vehículo por ID</li>
+      <li><code>GET /api/v1/vehicles/type/{type}</code> – Filtrar por tipo</li>
+      <li><code>GET /api/v1/vehicles/my-vehicles</code> – Mis vehículos publicados</li>
+    </ul>
+  </li>
+  <li><strong>Profiles:</strong>
+    <ul>
+      <li><code>GET /api/v1/profiles</code> – Obtener todos los perfiles</li>
+      <li><code>POST /api/v1/profiles</code> – Crear un perfil</li>
+      <li><code>PUT /api/v1/profiles</code> – Actualizar perfil</li>
+      <li><code>GET /api/v1/profiles/me</code> – Obtener perfil autenticado</li>
+    </ul>
+  </li>
+    <li><strong>Plan2:</strong>
+    <ul>
+      <li><code>GET /api/v1/plan2</code> – Listar todos los planes</li>
+      <li><code>POST /api/v1/plan2</code> – Crear nuevo plan</li>
+      <li><code>GET /api/v1/plan2/id/{id}</code> – Obtener plan por ID</li>
+      <li><code>DELETE /api/v1/plan2/id/{id}</code> – Eliminar plan</li>
+    </ul>
+  </li>
+  <li><strong>Roles:</strong>
+    <ul>
+      <li><code>GET /api/v1/roles</code> – Listar roles del sistema</li>
+    </ul>
+  </li>
+  <li><strong>Reservations:</strong>
+    <ul>
+      <li><code>POST /api/v1/reservations</code> – Crear una reserva</li>
+      <li><code>PUT /api/v1/reservations/{reservationId}</code> – Actualizar una reserva</li>
+      <li><code>PUT /api/v1/reservations/{reservationId}/status</code> – Cambiar estado de reserva</li>
+      <li><code>DELETE /api/v1/reservations/{reservationId}</code> – Eliminar reserva</li>
+      <li><code>GET /api/v1/reservations/profile/{profileId}</code> – Obtener reservas por perfil</li>
+      <li><code>GET /api/v1/reservations/id/{reservationId}</code> – Obtener reserva por ID</li>
+      <li><code>GET /api/v1/reservations/all</code> – Listar todas las reservas</li>
+    </ul>
+  </li>
+  <li><strong>Users:</strong>
+    <ul>
+      <li><code>GET /api/v1/users</code> – Obtener todos los usuarios</li>
+      <li><code>GET /api/v1/users/{userId}</code> – Obtener usuario por ID</li>
+    </ul>
+  </li>
+  <li><strong>Posts:</strong>
+    <ul>
+      <li><code>GET /api/posts</code> – Listar publicaciones</li>
+      <li><code>POST /api/posts</code> – Crear publicación</li>
+      <li><code>GET /api/posts/{id}</code> – Obtener publicación por ID</li>
+      <li><code>DELETE /api/posts/{id}</code> – Eliminar publicación</li>
+    </ul>
+  </li>
+</ul>
+
+<p>
+  En conjunto, esta documentación proporciona una guía completa y accesible para el consumo e integración con el backend de la plataforma.
+</p>
+
+<p> En este caso, el back-end esta desplegado en https://app-250421124000.azurewebsites.net/swagger-ui/index.html#/ </p>
+
+
+
+
 <div id='5.2.7.'><h4>5.2.7. Team Collaboration Insights.</h4></div>
 
 En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los resultados del trabajo realizado y la actividad generada.

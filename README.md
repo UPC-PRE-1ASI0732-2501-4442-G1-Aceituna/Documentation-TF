@@ -1603,7 +1603,11 @@ El adquiriente tendrá la opción de ver los vehículos en su historial y accede
 
 <div id='4.5.1.'><h4>4.5.1. Android Mobile Applications Prototyping.</h4></div>
 
+![web](./Img/Mock%20Up.png)
+
 <div id='4.5.2.'><h4>4.5.2. iOS Mobile Applications Prototyping.</h4></div>
+
+![web](./Img/Mock%20Up.png)
 
 <div id='4.6.'><h3>4.6 Web Applications UX/UI Design.</h3></div>
 <div id='4.6.1.'><h4>4.6.1. Web Applications Wireframes.</h4></div>

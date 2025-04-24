@@ -735,8 +735,9 @@ Preguntas dirigidas a Universitarios.
 *Sexo:* Masculino  <br>
 *Edad:* 20 años <br>
 *Domicilio:* Lima, Perú<br>
-*Inicio de la Entrevista:* <br>
-*Duración de la Entrevista:* <br>
+
+*Inicio de la Entrevista: 0:00 min* <br> 
+*Duración de la Entrevista: 6:14 min* <br> 
 
 <img src="assets/entrevistaU1.png" alt="" style="width: 400; height: auto;">
 
@@ -753,8 +754,9 @@ En esta entrevista, conocemos a Ramiro, un estudiante con conocimientos en tecno
 *Sexo:* Masclino <br>
 *Edad:*  23<br>
 *Domicilio:*  San Juan de Miraflores <br>
-*Inicio de la Entrevista:* <br>
-*Duración de la Entrevista:* 06:26<br>
+
+*Inicio de la Entrevista: 6:14 min* <br> 
+*Duración de la Entrevista: 12:38 min* <br>
 
 <img src="assets/entrevistas.png" alt="As-Is Mapping 2" style="margin-bottom: 5px;" width="400"/>
 
@@ -772,14 +774,14 @@ En cuanto a su operación, Franco lleva las bicicletas a talleres para mantenimi
 *Sexo:* Femenino <br>
 *Edad:* 23 años <br>
 *Domicilio:* Magdalena, Lima, Perú<br>
-*Inicio de la Entrevista:* <br>
-*Duración de la Entrevista:* <br>
+*Inicio de la Entrevista: 12:38 min* <br>
+*Duración de la Entrevista: 25:42 min* <br> 
 
-<img src="assets/" alt="" style="width: 400; height: auto;">
+<img src="./assets/Entrevista Lu.png" alt="" style="width: 400; height: auto;">
 
 *Enlace:* <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWXl0ia61BBCs3JLo1Ms1QoBg0fytY1FiORDwWXH8zl7ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W6ifNf">video</a>
 
-*Resumen de la Entrevista*:
+*Resumen de la Entrevista*: Lucerito  Guzmán, reside en Magdalena. Actualmente ella tiene una bicliceta electrica que le usa para movilizarse hacia la universidad y su trabajo. Ella desea comprarse otra para lo cual el proyecto de ECOMovil le parece genial puesto que ya no tendria la necesidad de buscar a quien alquilar o vender. Sino que ya todo lo haria el aplicativo
 
 ## Segmento #2: Adquirientes
 
@@ -789,8 +791,9 @@ En cuanto a su operación, Franco lleva las bicicletas a talleres para mantenimi
 *Sexo:* Masculino <br>
 *Edad:* 23 años<br>
 *Domicilio:*  Lima, Perú<br>
-*Inicio de la Entrevista:* <br>
-*Duración de la Entrevista:* <br>
+
+*Inicio de la Entrevista: 25:42 min* <br>
+*Duración de la Entrevista: 32:33 min* <br>
 
 <img src="assets/entrevistaA1.png" alt="" style="width: 400; height: auto;">
 
@@ -807,8 +810,9 @@ En esta entrevista hablamos con Miguel, una persona con múltiples medios de com
 *Sexo:* Femenino <br>
 *Edad:* 23 años<br>
 *Domicilio:*  Barcelona, España<br>
-*Inicio de la Entrevista:* <br>
-*Duración de la Entrevista:* <br>
+
+*Inicio de la Entrevista: 32:33 min* <br>
+*Duración de la Entrevista: 37:41 min* <br>
 
 <img src="assets/InterviewCamila.png" alt="" style="width: 400; height: auto;">
 
@@ -825,8 +829,9 @@ Se entrevistó a Camila, una joven de 21 años de Cuba que actualmente reside en
 *Sexo:* Femenino <br>
 *Edad:* 20 años<br>
 *Domicilio:*  San Martín, Lima, Perú<br>
-*Inicio de la Entrevista:* <br>
-*Duración de la Entrevista:* <br>
+
+*Inicio de la Entrevista: 37:41 min* <br>
+*Duración de la Entrevista: 48.58 min* <br>
 
 <img src="assets/entrevista2.png" alt="" style="width: 400; height: auto;">
 

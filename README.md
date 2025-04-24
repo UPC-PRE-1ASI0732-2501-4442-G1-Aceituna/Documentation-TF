@@ -2412,6 +2412,50 @@ Link: https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a
 
 <div id='5.2.3.'><h4>5.2.3. Implemented Frontend-Web Application Evidence.</h4></div>
 
+  <p>
+    El frontend de la aplicación web fue implementado utilizando <strong>Angular</strong> como framework principal, con <strong>Tailwind CSS</strong> y <strong>Angular Material</strong> para el estilo y la estructura de los componentes. La aplicación es completamente responsiva y se integra de forma fluida con el backend a través de servicios HTTP seguros utilizando <strong>autenticación basada en JWT</strong>.
+  </p>
+
+  <p>
+    A continuación, se presenta evidencia visual y funcional de los módulos implementados:
+  </p>
+
+  <ul>
+    <li><strong>Autenticación de Usuarios:</strong> Módulos de inicio de sesión y registro con almacenamiento de tokens JWT y protección de rutas.</li>
+    <img src="assets/5.2.3/register.png" class="rounded shadow-md mb-4" width="600">
+    <img src="assets/5.2.3/login.png" class="rounded shadow-md mb-4" width="600">
+    
+
+  <li><strong>Gestión de Perfil:</strong> Los usuarios pueden visualizar y actualizar su información personal (nombre, correo, teléfono, etc.).</li>
+
+  <img src="assets/5.2.3/profile.png" class="rounded shadow-md mb-4" width="600">
+  <img src="assets/5.2.3/editprofile.png" class="rounded shadow-md mb-4" width="600">
+  <img src="assets/5.2.3/profilenew.png" class="rounded shadow-md mb-4" width="600">
+
+
+
+
+  <li><strong>Listado de Vehículos:</strong> Catálogo filtrable y ordenable de vehículos disponibles para renta o compra.</li>
+
+  <img src="assets/5.2.3/filtering.png" class="rounded shadow-md mb-4" width="600">
+  <img src="assets/5.2.3/withvehicle.png" class="rounded shadow-md mb-4" width="600">
+
+
+
+  <li><strong>Vista Detallada del Vehículo:</strong> Los usuarios pueden ver información detallada del vehículo seleccionado e iniciar acciones de renta o compra.</li>
+  <img src="assets/5.2.3/vehicledetails.png" class="rounded shadow-md mb-4" width="600">
+
+
+  <li><strong>Módulo de Publicación de Vehículos:</strong> Los usuarios autenticados pueden agregar nuevos vehículos mediante un formulario con imagen, tipo, precios y ubicación.</li>
+  <img src="assets/5.2.3/postvehicle.png" class="rounded shadow-md mb-4" width="600">
+
+  
+
+  <p>
+    Las siguientes capturas de pantalla y el video demostrativo evidencian los módulos implementados en el frontend:
+  </p>
+
+</div>
 
 
 <div id='5.2.4.'><h4>5.2.4. Implemented Native-Mobile Application Evidence.</h4></div>
@@ -2419,6 +2463,38 @@ Link: https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a
 
 
 <div id='5.2.5.'><h4>5.2.5. Implemented RESTful API and/or Serverless Backend Evidence.</h4></div>
+
+<p>
+  El backend fue implementado con <strong>Spring Boot</strong> siguiendo el patrón <strong>RESTful API</strong>, permitiendo a los clientes web comunicarse mediante peticiones HTTP seguras. Todas las rutas están protegidas mediante autenticación <strong>JWT</strong>, y el sistema accede a una base de datos relacional a través de JPA/Hibernate.
+</p>
+<p>
+  A continuación se muestra evidencia de rutas REST implementadas como parte del sistema:
+</p>
+
+<ul>
+  <li><strong>AuthenticationController</strong>: Maneja el registro e inicio de sesión de usuarios mediante JWT.</li>
+  <img src="assets/5.2.3/authentication.png" alt="AuthenticationController" width="700" class="rounded shadow mb-4"/>
+
+  <li><strong>RolesController</strong>: Gestión de roles del sistema.</li>
+  <img src="assets/5.2.3/roles.png" alt="RolesController" width="700" class="rounded shadow mb-4"/>
+
+  <li><strong>UsersController</strong>: Consulta de usuarios.</li>
+  <img src="assets/5.2.3/users.png" alt="UsersController" width="700" class="rounded shadow mb-4"/>
+
+  <li><strong>Plan2Controller</strong>: Registro y consulta de planes.</li>
+  <img src="assets/5.2.3/plan2.png" alt="Plan2Controller" width="700" class="rounded shadow mb-4"/>
+
+  <li><strong>ReservationController</strong>: Lógica de reservas y actualización de estado.</li>
+  <img src="assets/5.2.3/reservation.png" alt="ReservationController" width="700" class="rounded shadow mb-4"/>
+
+  <li><strong>ProfilesController</strong>: Creación y modificación de perfiles asociados al usuario autenticado.</li>
+  <img src="assets/5.2.3/profiles.png" alt="ProfilesController" width="700" class="rounded shadow mb-4"/>
+
+  <li><strong>VehicleController</strong>: Registro, consulta y filtrado de vehículos. Incluye lógica para asociar cada vehículo con el perfil del usuario autenticado.</li>
+  <img src="assets/5.2.3/vehicle.png" alt="VehicleController" width="700" class="rounded shadow mb-4"/>
+
+</ul>
+
 
 
 

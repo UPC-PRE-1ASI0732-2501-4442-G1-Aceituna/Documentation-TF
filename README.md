@@ -740,7 +740,7 @@ Preguntas dirigidas a Universitarios.
 
 <img src="assets/entrevistaU1.png" alt="" style="width: 400; height: auto;">
 
-*Enlace:* <a href=""> </a>
+*Enlace:* <a href=""> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWXl0ia61BBCs3JLo1Ms1QoBg0fytY1FiORDwWXH8zl7ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W6ifNf </a>
 
 *Resumen de la Entrevista*:
 En esta entrevista, conocemos a Ramiro, un estudiante con conocimientos en tecnología y acceso a varios dispositivos. Es dueño de una bicicleta que cuida con responsabilidad y, para ganar dinero extra, ocasionalmente la alquila, siempre pactando en lugares públicos. Al conocer una aplicación que facilitaría este proceso, se mostró interesado, aunque recalcó que solo le gustaría alquilar a otros universitarios. También está abierto a una comunidad donde se dejen reseñas y se colabore entre usuarios. Para él, lo más importante es que la app permita identificar de manera confiable a las personas con quienes se hacen los acuerdos 

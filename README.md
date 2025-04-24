@@ -740,7 +740,7 @@ Preguntas dirigidas a Universitarios.
 
 <img src="assets/entrevistaU1.png" alt="" style="width: 400; height: auto;">
 
-*Enlace:* <a href=""> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWXl0ia61BBCs3JLo1Ms1QoBg0fytY1FiORDwWXH8zl7ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W6ifNf </a>
+*Enlace:* <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWXl0ia61BBCs3JLo1Ms1QoBg0fytY1FiORDwWXH8zl7ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W6ifNf">video</a>
 
 *Resumen de la Entrevista*:
 En esta entrevista, conocemos a Ramiro, un estudiante con conocimientos en tecnología y acceso a varios dispositivos. Es dueño de una bicicleta que cuida con responsabilidad y, para ganar dinero extra, ocasionalmente la alquila, siempre pactando en lugares públicos. Al conocer una aplicación que facilitaría este proceso, se mostró interesado, aunque recalcó que solo le gustaría alquilar a otros universitarios. También está abierto a una comunidad donde se dejen reseñas y se colabore entre usuarios. Para él, lo más importante es que la app permita identificar de manera confiable a las personas con quienes se hacen los acuerdos 
@@ -758,7 +758,7 @@ En esta entrevista, conocemos a Ramiro, un estudiante con conocimientos en tecno
 
 <img src="assets/entrevistas.png" alt="As-Is Mapping 2" style="margin-bottom: 5px;" width="400"/>
 
-*Enlace:* <a href=""> </a>
+*Enlace:* <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWXl0ia61BBCs3JLo1Ms1QoBg0fytY1FiORDwWXH8zl7ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W6ifNf">video</a>
 
 *Resumen de la Entrevista*:
 Franco Durán, residente de San Juan de Miraflores, es un usuario de bicicletas y skate con conocimientos básicos de mantenimiento. Utiliza principalmente dispositivos móviles y computadora con Google Chrome para navegar. Al elegir vehículos menores prioriza funcionalidad y precio, influenciado significativamente por recomendaciones personales. Posee bicicletas que podría alquilar o vender, determinando su precio según estado, materiales y tipo de uso.
@@ -777,7 +777,7 @@ En cuanto a su operación, Franco lleva las bicicletas a talleres para mantenimi
 
 <img src="assets/" alt="" style="width: 400; height: auto;">
 
-*Enlace:* <a href=""> </a>
+*Enlace:* <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWXl0ia61BBCs3JLo1Ms1QoBg0fytY1FiORDwWXH8zl7ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W6ifNf">video</a>
 
 *Resumen de la Entrevista*:
 
@@ -794,7 +794,7 @@ En cuanto a su operación, Franco lleva las bicicletas a talleres para mantenimi
 
 <img src="assets/entrevistaA1.png" alt="" style="width: 400; height: auto;">
 
-*Enlace:* <a href=""> </a>
+*Enlace:* <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWXl0ia61BBCs3JLo1Ms1QoBg0fytY1FiORDwWXH8zl7ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W6ifNf">video</a>
 
 *Resumen de la Entrevista*:
 En esta entrevista hablamos con Miguel, una persona con múltiples medios de comunicación, conocimientos en tecnología y experiencia en la venta y alquiler de vehículos. Actualmente busca un medio de transporte personal para recorrer distancias cortas de forma rápida. Se mostró interesado en una aplicación como la que proponemos y destacó la importancia de contar con una plataforma confiable, que permita concretar tratos en cualquier momento y garantice su seguridad. Está familiarizado con aplicaciones de pago como Yape, por lo que le gustaría poder usarlas dentro del sistema. También le interesa una función para ubicar comerciantes cercanos, un sistema de reseñas entre usuarios y una opción de seguro que le permita recuperar su dinero en caso de estafa, lo que aumentaría su confianza en la app.
@@ -812,7 +812,7 @@ En esta entrevista hablamos con Miguel, una persona con múltiples medios de com
 
 <img src="assets/InterviewCamila.png" alt="" style="width: 400; height: auto;">
 
-*Enlace:* <a href=""> </a>
+*Enlace:* <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWXl0ia61BBCs3JLo1Ms1QoBg0fytY1FiORDwWXH8zl7ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W6ifNf">video</a>
 
 *Resumen de la Entrevista*:
 Se entrevistó a Camila, una joven de 21 años de Cuba que actualmente reside en España. Camila está estudiando Medicina y trabaja durante sus vacaciones. Aprovechando su tiempo libre, ha decidido viajar a Perú con una amiga y ha considerado realizar paseos en bicicleta por Miraflores. Camila compartió las características que le gustaría ver en una aplicación para alquilar o comprar bicicletas, basándose en sus experiencias con sus padres. Mencionó que encontró interesante la propuesta y destacó que una de las características más importantes para ella sería un mapa interactivo.
@@ -830,7 +830,7 @@ Se entrevistó a Camila, una joven de 21 años de Cuba que actualmente reside en
 
 <img src="assets/entrevista2.png" alt="" style="width: 400; height: auto;">
 
-*Enlace:* <a href=""> </a>
+*Enlace:* <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWXl0ia61BBCs3JLo1Ms1QoBg0fytY1FiORDwWXH8zl7ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W6ifNf">video</a>
 
 *Resumen de la Entrevista*: Dada la extensión de la ciudad y la falta de movilidad propia, expresa interés en aplicaciones que faciliten el acceso a vehículos ecológicos. Sus principales expectativas son: seguridad del vehículo, precios accesibles, disponibilidad inmediata y experiencia sin complicaciones. Ha enfrentado dificultades con el tráfico, la logística de devolución y la escasa cobertura de servicios en zonas periféricas. Espera que una solución como EcoMovil ofrezca soporte claro, experiencia intuitiva y transparencia en los procesos, mejorando así su movilidad diaria y brindando confianza en el uso del servicio.
 

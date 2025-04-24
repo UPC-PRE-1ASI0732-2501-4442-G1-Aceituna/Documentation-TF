@@ -2408,7 +2408,19 @@ Link: https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a
 
 <div id='5.2.2.'><h4>5.2.2. Implemented Landing Page Evidence.</h4></div>
 
+* Imágenes de la pantalla del Landing Page:
 
+![page](assets/ecomo1.png)
+
+![page](assets/ecomo2.png)
+
+![page](assets/ecomo3.png)
+
+![page](assets/ecomo4.png)
+
+![page](assets/ecomo5.png)
+
+![page](assets/ecomo6.png)
 
 <div id='5.2.3.'><h4>5.2.3. Implemented Frontend-Web Application Evidence.</h4></div>
 

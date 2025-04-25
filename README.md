@@ -1510,7 +1510,7 @@ En cambio, si el usuario es un adquiriente, será redirigido directamente a la p
 
 El usuario, ya sea universitario o adquiriente, puede ingresar a la opción "Perfil" y hacer clic en el botón "Actualizar Perfil". Esto lo redirigirá a la sección "Cambiar Perfil", donde podrá modificar sus datos. Una vez realizados los cambios, debe hacer clic en "Confirmar" para guardarlos.
 
-![diagram](assets/movil/cambioperfil_s.png.png.png)
+![diagram](assets/movil/cambioperfil_s.png)
 
 **User Goal: Cambio de Perfil**
 **Perfil del Usuario: Adquiriente**

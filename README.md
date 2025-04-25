@@ -1493,6 +1493,37 @@ El adquiriente tendrá la opción de ver los vehículos en su historial y accede
 <div id='4.4.2.'><h4>4.4.2. Mobile Applications Wireflow Diagrams.</h4></div>
 
 
+**User Goal: Iniciar sesión y Registrarse**
+**Perfil del Usuario: Universitario y Adquiriente**
+**Descripción del Flujo:**
+
+El usuario inicia su experiencia accediendo a la aplicación desplegada. En la pantalla principal, se le presentará un formulario para ingresar sus credenciales de inicio de sesión.
+Si el usuario es universitario, después de iniciar sesión deberá seleccionar su plan de suscripción.
+En cambio, si el usuario es un adquiriente, será redirigido directamente a la pantalla de inicio, donde podrá visualizar los vehículos disponibles para adquirir. 
+
+![diagram](assets/movil/iniciarsesion_s.png)
+
+**User Goal: Cambio de Perfil**
+**Perfil del Usuario: Universitario y Adquiriente**
+
+**Descripción del Flujo:**
+
+El usuario, ya sea universitario o adquiriente, puede ingresar a la opción "Perfil" y hacer clic en el botón "Actualizar Perfil". Esto lo redirigirá a la sección "Cambiar Perfil", donde podrá modificar sus datos. Una vez realizados los cambios, debe hacer clic en "Confirmar" para guardarlos.
+
+![diagram](assets/movil/cambioperfil_s.png.png)
+
+**User Goal: Cambio de Perfil**
+**Perfil del Usuario: Adquiriente**
+
+**Descripción del Flujo:**
+
+Cuando el usuario adquiriente visualiza un vehículo de su interés, puede hacer clic en el botón "Agregar". El vehículo se añadirá al apartado "Mis Órdenes", donde se muestran los vehículos seleccionados junto con el total a pagar.
+
+Al hacer clic en "Confirmar Orden", se mostrará el apartado de "Direcciones", donde el usuario podrá seleccionar una dirección previamente registrada o agregar una nueva. Luego, deberá hacer clic en "Confirmar".
+
+A continuación, se mostrará la sección de "Detalles de Pago". Una vez que el adquiriente complete la información requerida, deberá hacer clic nuevamente en "Confirmar", tras lo cual aparecerá un mensaje indicando "Pago Confirmado".
+
+![diagram](assets/movil/comprar_s.png)
 
 <div id='4.4.3.'><h4>4.4.3. Mobile Applications Mock-ups.</h4></div>
 

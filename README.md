@@ -48,7 +48,7 @@ Esta sección tiene como propósito presentar un resumen de los cambios importan
 URL del repositorio para el reporte del proyecto: https://github.com/UPC-PRE-1ASI0732-2501-4442-G1-Aceituna
 
 <div align="center">
-  <img src="Img/insights_documentations_s4.png">
+  <img src="assets/Reporte1.png">
 </div>
 
 **TB1**

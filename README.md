@@ -1953,7 +1953,7 @@ En esta sección, el adquiriente podrá iniciar sesión ingresando su correo ele
 
 En esta sección, el adquiriente podrá visualizar el "Home", donde tendrá acceso a diversos vehículos menores con información como nombre, descripción y precio. También encontrará botones para "Rentar" o "Comprar" cada vehículo.
 
-![web](/assets/chapter-4/mockup14.png)
+![web](/assets/mockup14.png)
 
 **Mi perfil**
 

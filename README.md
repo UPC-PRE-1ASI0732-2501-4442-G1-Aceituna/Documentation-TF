@@ -2703,7 +2703,7 @@ En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los
 
 A continuación, se muestra el video "Video About-the-Product", que destaca el propósito, las ventajas y las características clave del landing-page.
 
-![product](./)
+![product](./assets/About%20the%20product.png)
 
 Enlace del video publicado en Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EQt9PjGFOjdDuKon6UGDYlEBtxLkXrHvYdOq6SwKMTe17Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=qmEqmw
 

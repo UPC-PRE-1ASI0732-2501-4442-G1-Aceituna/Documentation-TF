@@ -2716,3 +2716,6 @@ https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
 
 Sprint Backlog: 
 https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a858cc89fb96145607955103/sprint-backlog-1-ecomovil
+
+Para acceder al Figma: 
+https://www.figma.com/design/iw1TPK5MD4ZDPQYKNHI62H/Mock-Up-s?node-id=92-3106&t=qGzKq1Cpd80u5D7B-1 

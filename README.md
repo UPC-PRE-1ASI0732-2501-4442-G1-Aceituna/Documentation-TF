@@ -159,11 +159,51 @@ Con el fin de elaborar el informe correspondiente a la entrega TB1, se asignó l
    5.2.6. [RESTful API documentation](#5.2.6.)<br>
    5.2.7. [Team Collaboration Insights](#5.2.7.)<br>
    5.3. [Video About-the-Product.](#5.3.)<br>
-6. [**Conclusiones**](#6.)<br>
-    6.1. [**Conclusiones y recomendaciones.](#6.1.)<br>
-    6.2. [**Video About-the-Team.](#6.2.)<br>
-7. [**Bibliografía**](#7.)<br>
-8. [**Anexos**](#8.)<br>
+6. [**Capítulo VI: Product Verification & Validation.**](#6.)<br>
+   6.1. [Testing Suites & Validation.](#6.1.)<br>
+   6.1.1. [Core Entities Unit Tests.](#6.1.1.)<br>
+   6.1.2. [Core Integration Tests.](#6.1.2.)<br>
+   6.1.3. [Core Behavior-Driven Development.](#6.1.3.)<br>
+   6.1.4. [Core System Tests.](#6.1.4.)<br>
+   6.2. [Static Testing & Verification.](#6.2.)<br>
+   6.2.1. [Static Code Analysis.](#6.2.1.)<br>
+   6.2.1.1. [Coding Standard & Code Conventions.](#6.2.1.1.)<br>
+   6.2.1.2. [Code Quality & Code Security.](#6.2.1.2.)<br>
+   6.2.2. [Reviews.](#6.2.2.)<br>
+   6.3. [Validation Interviews.](#6.3.)<br>
+   6.3.1. [Diseño de Entrevistas.](#6.3.1.)<br>
+   6.3.2. [Registro de Entrevistas.](#6.3.2.)<br>
+   6.3.3. [Evaluaciones según heurísticas.](#6.3.3.)<br>
+   6.4. [Auditoría de Experiencias de Usuario.](#6.4.)<br>
+   6.4.1. [Auditoría realizada.](#6.4.1.)<br>
+   6.4.1.1. [Información del grupo auditado.](#6.4.1.1.)<br>
+   6.4.1.2. [Cronograma de auditoría realizada.](#6.4.1.2.)<br>
+   6.4.1.3. [Contenido de auditoría realizada.](#6.4.1.3.)<br>
+   6.4.2. [Auditoría recibida.](#6.4.2.)<br>
+   6.4.2.1. [Información del grupo auditor.](#6.4.2.1.)<br>
+   6.4.2.2. [Cronograma de auditoría recibida.](#6.4.2.2.)<br>
+   6.4.2.3. [Contenido de auditoría recibida.](#6.4.2.3.)<br>
+   6.4.2.4. [Resumen de modificaciones para subsanar hallazgos.](#6.4.2.4.)<br>
+7. [**Capítulo VII: DevOps Practices.**](#7.)<br>
+   7.1. [Continuous Integration.](#7.1.)<br>
+   7.1.1. [Tools and Practices.](#7.1.1.)<br>
+   7.1.2. [Build & Test Suite Pipeline Components.](#7.1.2.)<br>
+   7.2. [Continuous Delivery.](#7.2.)<br>
+   7.2.1. [Tools and Practices.](#7.2.1.)<br>
+   7.2.2. [Stages Deployment Pipeline Components.](#7.2.2.)<br>
+   7.3. [Continuous Deployment.](#7.3.)<br>
+   7.3.1. [Tools and Practices.](#7.3.1.)<br>
+   7.3.2. [Production Deployment Pipeline Components.](#7.3.2.)<br>
+   7.4. [Continuous Monitoring.](#7.4.)<br>
+   7.4.1. [Tools and Practices.](#7.4.1.)<br>
+   7.4.2. [Monitoring Pipeline Components.](#7.4.2.)<br>
+   7.4.3. [Alerting Pipeline Components.](#7.4.3.)<br>
+   7.4.4. [Notification Pipeline Components.](#7.4.4.)<br>
+8. [**Conclusiones**](#8.)<br>
+    8.1. [**Conclusiones y recomendaciones.](#8.1.)<br>
+    8.2. [**Video About-the-Team.](#8.2.)<br>
+9. [**Bibliografía**](#9.)<br>
+10. [**Anexos**](#10.)<br>
 
 ## STUDENT OUTCOME
 La capacidad de reconocer responsabilidades éticas y
@@ -445,7 +485,7 @@ El Lean UX Canvas es un recurso utilizado en el diseño centrado en el usuario (
 
 <img src="Img/Lean UX Canvas.jpg" alt="Lean Ux Canvas" style="margin-bottom: 5px;" width="800"/>
 
-Enlace para acceder al Lean UX Canvas: https://www.canva.com/design/DAGOEXan6rE/pJTlXgHJBmfhVfeAe3pFgA/edit?utm_content=DAGOEXan6rE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+*Enlace para acceder al Lean UX Canvas:* <a href="https://www.canva.com/design/DAGOEXan6rE/pJTlXgHJBmfhVfeAe3pFgA/edit?utm_content=DAGOEXan6rE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Canva</a>
 
 <div id='1.3.'><h3>1.3 Segmentos objetivo.</h3></div>
 Según el Ministerio de Transportes y Comunicaciones, el sistema de transporte en Lima Metropolitana enfrenta serios problemas de informalidad, ineficiencia y una alta tasa de accidentes, lo que lo convierte en un medio inseguro y uno de los principales generadores de contaminación ambiental (MTC, 2013; Solís Fonseca, Salazar Bravo, Romero Carrión & Solís Salazar, 2013). Esta situación ha impulsado la búsqueda de alternativas de movilidad más ágiles, sostenibles y accesibles, como bicicletas, scooters y motos eléctricas.
@@ -1164,8 +1204,7 @@ Para elaborar el To-be Scenario Mapping, el equipo definió cómo sería el fluj
 
 ![Product_Backlog](assets/trello.png)
 
-Enlace: https://trello.com/invite/b/67f3e291ac6549f2f2be7bf2/ATTI88f041995a02ce23d7baf8e49a2ee15bD9901B21/ruedarent
-
+*Enlace:* <a href="https://trello.com/invite/b/67f3e291ac6549f2f2be7bf2/ATTI88f041995a02ce23d7baf8e49a2ee15bD9901B21/ruedarent">Trello</a>
 
 <div id='3.4.'><h3>3.4 Impact Mapping.</h3></div>
 
@@ -2705,11 +2744,65 @@ A continuación, se muestra el video "Video About-the-Product", que destaca el p
 
 ![product](./assets/About%20the%20product.png)
 
-Enlace del video publicado en Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EQt9PjGFOjdDuKon6UGDYlEBtxLkXrHvYdOq6SwKMTe17Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=qmEqmw
+*Enlace del video publicado en Stream:* <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EQt9PjGFOjdDuKon6UGDYlEBtxLkXrHvYdOq6SwKMTe17Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=qmEqmw">video</a>
 
-<div id='6.'><h2>6. Conclusiones</h2></div>
+## Part II: Verification, Validation & Pipeline
 
-<div id='6.1.'><h3>6.1. Conclusiones y recomendaciones.</h3></div>
+<!-- Parte II -->
+<div id='6.'><h2>Capítulo VI: Product Verification & Validation</h2></div>
+
+<div id='6.1.'><h3>6.1. Testing Suites & Validation</h3></div>
+<div id='6.1.1.'><h4>6.1.1. Core Entities Unit Tests.</h4></div>
+<div id='6.1.2.'><h4>6.1.2. Core Integration Tests.</h4></div>
+<div id='6.1.3.'><h4>6.1.3. Core Behavior-Driven Development</h4></div>
+<div id='6.1.4.'><h4>6.1.4. Core System Tests.</h4></div>
+
+<div id='6.2.'><h3>6.2. Static testing & Verification</h3></div>
+<div id='6.2.1.'><h4>6.2.1. Static Code Analysis</h4></div>
+<div id='6.2.1.1.'><h5>6.2.1.1. Coding standard & Code conventions.</h5></div>
+<div id='6.2.1.2.'><h5>6.2.1.2. Code Quality & Code Security.</h5></div>
+<div id='6.2.2.'><h4>6.2.2. Reviews</h4></div>
+
+<div id='6.3.'><h3>6.3. Validation Interviews.</h3></div>
+<div id='6.3.1.'><h4>6.3.1. Diseño de Entrevistas.</h4></div>
+<div id='6.3.2.'><h4>6.3.2. Registro de Entrevistas.</h4></div>
+<div id='6.3.3.'><h4>6.3.3. Evaluaciones según heurísticas.</h4></div>
+
+<div id='6.4.'><h3>6.4. Auditoría de Experiencias de Usuario</h3></div>
+<div id='6.4.1.'><h4>6.4.1. Auditoría realizada.</h4></div>
+<div id='6.4.1.1.'><h5>6.4.1.1. Información del grupo auditado.</h5></div>
+<div id='6.4.1.2.'><h5>6.4.1.2. Cronograma de auditoría realizada.</h5></div>
+<div id='6.4.1.3.'><h5>6.4.1.3. Contenido de auditoría realizada.</h5></div>
+<div id='6.4.2.'><h4>6.4.2. Auditoría recibida.</h4></div>
+<div id='6.4.2.1.'><h5>6.4.2.1. Información del grupo auditor.</h5></div>
+<div id='6.4.2.2.'><h5>6.4.2.2. Cronograma de auditoría recibida.</h5></div>
+<div id='6.4.2.3.'><h5>6.4.2.3. Contenido de auditoría recibida.</h5></div>
+<div id='6.4.2.4.'><h5>6.4.2.4. Resumen de modificaciones para subsanar hallazgos.</h5></div>
+
+<!-- Capítulo VII -->
+<div id='7.'><h2>Capítulo VII: DevOps Practices</h2></div>
+
+<div id='7.1.'><h3>7.1. Continuous Integration</h3></div>
+<div id='7.1.1.'><h4>7.1.1. Tools and Practices.</h4></div>
+<div id='7.1.2.'><h4>7.1.2. Build & Test Suite Pipeline Components.</h4></div>
+
+<div id='7.2.'><h3>7.2. Continuous Delivery</h3></div>
+<div id='7.2.1.'><h4>7.2.1. Tools and Practices.</h4></div>
+<div id='7.2.2.'><h4>7.2.2. Stages Deployment Pipeline Components.</h4></div>
+
+<div id='7.3.'><h3>7.3. Continuous deployment</h3></div>
+<div id='7.3.1.'><h4>7.3.1. Tools and Practices.</h4></div>
+<div id='7.3.2.'><h4>7.3.2. Production Deployment Pipeline Components.</h4></div>
+
+<div id='7.4.'><h3>7.4. Continuous Monitoring</h3></div>
+<div id='7.4.1.'><h4>7.4.1. Tools and Practices</h4></div>
+<div id='7.4.2.'><h4>7.4.2. Monitoring Pipeline Components</h4></div>
+<div id='7.4.3.'><h4>7.4.3. Alerting Pipeline Components</h4></div>
+<div id='7.4.4.'><h4>7.4.4. Notification Pipeline Components</h4></div>
+
+<div id='8.'><h2>8. Conclusiones</h2></div>
+
+<div id='8.1.'><h3>8.1. Conclusiones y recomendaciones.</h3></div>
 
 - **TB1:**
 
@@ -2719,7 +2812,7 @@ Propuesta de valor definida: EcoMovil se establece como una solución innovadora
 
 Fundamentos para el desarrollo: Se definieron los principios éticos, sociales y funcionales que guiarán el diseño e implementación de la aplicación, orientados a brindar una experiencia segura, eficiente e inclusiva.
 
-<div id='7.'><h2>7. Bibliografía</h2></div>
+<div id='9.'><h2>9. Bibliografía</h2></div>
 
 Organización Mundial de la Salud (OMS). (2023). Contaminación del aire y salud. https://www.who.int/
 
@@ -2729,14 +2822,13 @@ Ministerio del Ambiente (2023). Informe sobre la calidad del aire en zonas urban
 
 Nielsen Norman Group. (2022). Usabilidad y diseño centrado en el usuario. https://www.nngroup.com/
 
-<div id='8.'><h2>8. Anexos</h2></div>
+<div id='10.'><h2>10. Anexos</h2></div>
 
 URL del repositorio para el reporte del proyecto: 
 
 https://github.com/UPC-PRE-1ASI0732-2501-4442-G1-Aceituna
 
-Enlace para acceder al Lean UX Canvas: 
-https://www.canva.com/design/DAGOEXan6rE/pJTlXgHJBmfhVfeAe3pFgA/edit?utm_content=DAGOEXan6rE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+*Enlace para acceder al Lean UX Canvas:* <a href="https://www.canva.com/design/DAGOEXan6rE/pJTlXgHJBmfhVfeAe3pFgA/edit?utm_content=DAGOEXan6rE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Canvas</a>
 
 Product_Backlog: 
 https://trello.com/invite/b/67f3e291ac6549f2f2be7bf2/ATTI88f041995a02ce23d7baf8e49a2ee15bD9901B21/ruedarent

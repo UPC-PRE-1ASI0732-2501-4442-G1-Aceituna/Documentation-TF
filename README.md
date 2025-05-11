@@ -24,7 +24,7 @@ width=50%"/>
 | :-----------------------------------: | :--------: |
 | Acuña Tomas, Diego Rolin          |  U202221436 |
 | Bastidas Bastidas, Diego Martin       | U20221A301 |
-|  Gallo Quintana, David Ivanoff    |  u20201E475 |
+|  Gallo Quintana, David Ivanoff    |  U20201E475 |
 |   Silva Tirado, Sebastian Valentino   | U20211G296 |
 |  Ticona Panduro, Estrella del Pilar   | U202210659 |
 
@@ -2763,6 +2763,18 @@ A continuación, se muestra el video "Video About-the-Product", que destaca el p
 <div id='6.2.1.2.'><h5>6.2.1.2. Code Quality & Code Security.</h5></div>
 <div id='6.2.2.'><h4>6.2.2. Reviews</h4></div>
 
+El objetivo del proceso de revisión de código es asegurar que el software sea de alta calidad, consistente y seguro antes de su despliegue. Este proceso se llevará a cabo tanto de forma colaborativa como automatizada, y consta de las siguientes etapas:
+
+1. **Revisión entre pares**: Un desarrollador examina el código de otro miembro del equipo para identificar posibles errores y asegurar el uso adecuado de las convenciones de codificación.
+
+2. **Análisis automatizado del código**: Herramientas como Jenkins e IntelliJ se encargarán de detectar problemas relacionados con la calidad y la seguridad, verificando el cumplimiento de los estándares establecidos.
+
+3. **Verificación final de calidad**: Antes de su implementación, se validará que el código esté bien estructurado, correctamente documentado y libre de errores graves.
+
+4. **Evaluación de seguridad**: Se analizarán posibles vulnerabilidades en las partes críticas del código utilizando Jenkins y Lighthouse, con el fin de proteger el entorno de producción.
+
+Registro de revisiones: Todas las revisiones serán documentadas, detallando los errores encontrados y las soluciones aplicadas, para promover una mejora continua en el proceso de desarrollo.
+
 <div id='6.3.'><h3>6.3. Validation Interviews.</h3></div>
 <div id='6.3.1.'><h4>6.3.1. Diseño de Entrevistas.</h4></div>
 <div id='6.3.2.'><h4>6.3.2. Registro de Entrevistas.</h4></div>
@@ -2796,7 +2808,35 @@ A continuación, se muestra el video "Video About-the-Product", que destaca el p
 
 <div id='7.4.'><h3>7.4. Continuous Monitoring</h3></div>
 <div id='7.4.1.'><h4>7.4.1. Tools and Practices</h4></div>
+
+Con el fin de asegurar un monitoreo eficiente de la aplicación y sus entornos, se adoptan diversas herramientas y prácticas especializadas:
+
+- **Prometheus**: Es una herramienta de monitoreo y generación de alertas que recolecta métricas en tiempo real desde múltiples servicios. Se emplea para registrar datos clave como tiempos de respuesta y carga del sistema, permitiendo evaluar el rendimiento de la aplicación.
+
+- **Grafana**: Plataforma de visualización de datos que permite construir paneles personalizados basados en las métricas obtenidas por Prometheus. Facilita la interpretación visual de indicadores clave y la detección temprana de posibles fallos.
+
+- **ELK Stack (Elasticsearch, Logstash, Kibana)**: Conjunto de herramientas para el procesamiento y análisis de registros. Elasticsearch permite realizar búsquedas avanzadas, Logstash transforma y organiza los logs, y Kibana proporciona una interfaz gráfica para su análisis visual.
+
+- **New Relic**: Herramienta de monitoreo del rendimiento de aplicaciones (APM) que brinda información en tiempo real sobre el comportamiento de la aplicación y la experiencia del usuario.
+
+- **PagerDuty**: Plataforma especializada en la gestión de incidentes que se encarga de emitir alertas ante fallos críticos en los servicios o en la infraestructura, permitiendo una respuesta rápida.
+
 <div id='7.4.2.'><h4>7.4.2. Monitoring Pipeline Components</h4></div>
+
+El monitoreo de los componentes del pipeline es fundamental para garantizar que cada etapa del proceso de integración y despliegue funcione de forma eficiente y sin interrupciones. A través de la supervisión continua, es posible detectar fallos o cuellos de botella de manera temprana, minimizando riesgos en la entrega del software.
+
+Se aplican las siguientes prácticas y herramientas para llevar a cabo este monitoreo:
+
+- **Jenkins Pipeline**: Se instrumenta para recopilar métricas sobre cada fase del pipeline, como el tiempo que tarda en completarse, las tasas de éxito o fallo de builds y pruebas automatizadas, y la estabilidad general del flujo de integración continua.
+
+- **Registros de NPM**: Durante la instalación de paquetes (*npm install*) y la ejecución de scripts de construcción (*npm run build*), se registran eventos y errores para identificar conflictos con dependencias, versiones incompatibles o fallos en scripts personalizados.
+
+- **Métricas del Servidor**: Se supervisan los recursos del sistema (uso de CPU, memoria RAM, almacenamiento y red) mientras se ejecutan tareas críticas como la construcción, pruebas o despliegue, con el fin de anticipar posibles saturaciones o fallos por sobrecarga.
+
+- **Estado de la Aplicación (Health Checks)**: Se implementan endpoints que permiten verificar en tiempo real el estado de servicios clave, como la conexión a la base de datos o la disponibilidad de APIs externas, permitiendo actuar rápidamente ante fallos en componentes dependientes.
+
+Esta estrategia integral de monitoreo proporciona visibilidad total sobre la salud del pipeline y facilita la toma de decisiones proactivas para mantener la estabilidad del ciclo DevOps.
+
 <div id='7.4.3.'><h4>7.4.3. Alerting Pipeline Components</h4></div>
 <div id='7.4.4.'><h4>7.4.4. Notification Pipeline Components</h4></div>
 

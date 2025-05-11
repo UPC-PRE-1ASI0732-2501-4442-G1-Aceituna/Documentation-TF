@@ -2755,12 +2755,50 @@ A continuación, se muestra el video "Video About-the-Product", que destaca el p
 <div id='6.1.1.'><h4>6.1.1. Core Entities Unit Tests.</h4></div>
 <div id='6.1.2.'><h4>6.1.2. Core Integration Tests.</h4></div>
 <div id='6.1.3.'><h4>6.1.3. Core Behavior-Driven Development</h4></div>
+
+![gherkingroup](./assets/gherkingroup1.png)
+
+![gherkingroup2](./assets/gherkingroup2.png)
+
+![gherkingroup3](./assets/gherkingroup3.png)
+
+![gherkingroup4](./assets/gherkingroup4.png)
+
+
 <div id='6.1.4.'><h4>6.1.4. Core System Tests.</h4></div>
 
 <div id='6.2.'><h3>6.2. Static testing & Verification</h3></div>
 <div id='6.2.1.'><h4>6.2.1. Static Code Analysis</h4></div>
+
 <div id='6.2.1.1.'><h5>6.2.1.1. Coding standard & Code conventions.</h5></div>
+
+En la sección actual, se destacarán los estándares que se aplicarán para las aplicaciones tanto en Front-end, Back-end y Landing Page.
+
+<h3>Naming Conventions</h3>
+
+- Nombres de proyectos, clases: Se usarán nombres cortos.
+- Proyectos: Se usarán mayúsculas
+- Formato: Se usará CamelCase para nombrar los distintos proyectos. Así como el uso de snake_case para las tablas en el back-end.
+
+<h3>Identación y Espaciado</h3>
+
+Se uso tabulación para separar las distintas partes del codigo con el fin de obtener un resultado más comprensible.
+
+<h3>Comentarios</h3>
+
+Se hizo uso de JavaDocs para nombrar distintas partes del codigo. Con el fin de tener cada funcionalidad en el backend clara.
+
+<h3>Organización de archivos</h3>
+
+- Backend: Se organizo en distintas carpetas según bounded context y además siguiendo Domain Driven Design.
+- Frontend: A semejanza del backend se dividio segun bounded context y dentro de ellas según funcionalidad, siguiendo Domain Driven Design.
+- Landing Page: No se hizo una distinción entre carpetas.
+
+
 <div id='6.2.1.2.'><h5>6.2.1.2. Code Quality & Code Security.</h5></div>
+
+En el caso de trabajo actual, hemos usado Jenkins para el control de pipelines, además de pruebas en backend y lightouse para el Frontend. Se determinó que estas herramientas nos ayudarán a realizar un análisis en distintos aspectos de la aplicación, nos podrán ayudar a prevenir vulnerabilidades, y posibles errores.
+
 <div id='6.2.2.'><h4>6.2.2. Reviews</h4></div>
 
 <div id='6.3.'><h3>6.3. Validation Interviews.</h3></div>
@@ -2792,6 +2830,13 @@ A continuación, se muestra el video "Video About-the-Product", que destaca el p
 
 <div id='7.3.'><h3>7.3. Continuous deployment</h3></div>
 <div id='7.3.1.'><h4>7.3.1. Tools and Practices.</h4></div>
+
+En el proceso de Continuous Deployment, el objetivo es automatizar por completo el despliegue de las aplicaciones hacia entornos de producción, de manera continua, segura y sin necesidad de intervención manual. Esta práctica nos permite entregar valor al usuario final de forma más rápida.
+
+Una de las herramientas más usadas es Jenkins, que nos permite definir un pipeline en el que se especifican todas las etapas del flujo de trabajo que hagamos: desde la integración de código, pruebas unitarias y de integración hasta el despliegue final.
+
+Gracias a esta automatización, los desarrolladores podrán enfocarse en agregar nuevas funcionalidades, mientras que el sistema garantiza que solo el código validado, probado avance hacia producción. 
+
 <div id='7.3.2.'><h4>7.3.2. Production Deployment Pipeline Components.</h4></div>
 
 <div id='7.4.'><h3>7.4. Continuous Monitoring</h3></div>

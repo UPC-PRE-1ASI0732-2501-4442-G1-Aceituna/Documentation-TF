@@ -2777,8 +2777,101 @@ Registro de revisiones: Todas las revisiones serán documentadas, detallando los
 
 <div id='6.3.'><h3>6.3. Validation Interviews.</h3></div>
 <div id='6.3.1.'><h4>6.3.1. Diseño de Entrevistas.</h4></div>
+
+**Segmento 1**: Universitarios (usuarios y/o proveedores de vehículos)
+
+*Objetivo*: Validar si estarían dispuestos a ofrecer vehículos para alquiler/venta, su interés en transporte ecológico, y las funcionalidades que valoran.
+
+1. ¿Actualmente utilizas algún medio de transporte ecológico (bicicleta, scooter, etc.)? ¿Con qué frecuencia?
+2. ¿Has considerado alguna vez alquilar o vender un vehículo ecológico que posees? ¿Por qué sí o por qué no?
+3. ¿Qué tan importante es para ti encontrar una fuente de ingreso flexible que se adapte a tu rutina universitaria?
+4. ¿Qué problemas enfrentas actualmente con el transporte urbano en tu ciudad?
+5. ¿Qué tanto te interesa reducir tu huella ecológica al movilizarte?
+6. ¿Qué tipo de incentivos te motivarían a ofrecer tu vehículo ecológico a otras personas mediante una app?
+7. ¿Qué características consideras esenciales en una app que conecta personas para alquilar o vender vehículos?
+8. ¿Qué tan seguro te sentirías al prestar tu vehículo a desconocidos mediante una app? ¿Qué garantías esperarías?
+9. ¿Has utilizado plataformas tipo marketplace (como OLX, Marketplace de Facebook, etc.)? ¿Qué te gusta o disgusta de ellas?
+10. ¿Qué haría que prefirieras usar EcoMovil sobre una plataforma más generalista?
+11. ¿Cuánto estarías dispuesto a pagar o recibir por una transacción (alquiler o venta) en la app?
+
+**Segmento 2**: Adquirientes (usuarios que desean alquilar o comprar vehículos)
+
+*Objetivo*: Validar la demanda por acceso a transporte ecológico, frecuencia de uso y qué tan valoran la sostenibilidad.
+
+1. ¿Qué medios de transporte utilizas regularmente para movilizarte en la ciudad?
+2. ¿Has considerado usar vehículos ecológicos como alternativa a tu transporte habitual? ¿Por qué sí o por qué no?
+3. ¿Con qué frecuencia te gustaría alquilar un vehículo ecológico si estuviera disponible cerca de ti?
+4. ¿Preferirías alquilar o comprar un vehículo ecológico? ¿Por qué?
+5. ¿Qué problemas has tenido al intentar acceder a este tipo de transporte (costos, disponibilidad, apps, etc.)?
+6. ¿Qué aspectos valoras más en una aplicación que te ofrezca vehículos ecológicos (precio, ubicación, seguridad, etc.)?
+7. ¿Qué tan cómodo te sentirías usando una app que conecte personas para alquilar vehículos personales?
+8. ¿Qué funciones o garantías te harían sentir más seguro al hacer una transacción en la app?
+9. ¿Cómo buscarías normalmente un vehículo ecológico para usar? ¿Qué criterios usas para elegirlo?
+10. ¿Qué esperas de la experiencia de usuario en una app como EcoMovil?
+11. ¿Qué haría que recomiendes EcoMovil a tus amigos o conocidos?
+
 <div id='6.3.2.'><h4>6.3.2. Registro de Entrevistas.</h4></div>
+
+## Segmento #1: Universitarios 
+
+**Entrevista 1** 
+
+*Entrevistada:* <br>
+*Edad:*  <br>
+*Domicilio:* Lima, Perú<br>
+*Enlace:* <a href="URL">video</a>
+
+*Resumen de la Entrevista*:
+...!
+
+---
+
+**Entrevista 2:** 
+
+*Entrevistada:* <br>
+*Edad:*  <br>
+*Domicilio:* Lima, Perú<br>
+*Enlace:* <a href="URL">video</a>
+
+*Resumen de la Entrevista*:
+...!
+
+---
+
+## Segmento #2: Adquirientes
+
+**Entrevista 1** 
+
+*Entrevistada:* <br>
+*Edad:*  <br>
+*Domicilio:* Lima, Perú<br>
+*Enlace:* <a href="URL">video</a>
+
+*Resumen de la Entrevista*:
+...!
+
+---
+
+**Entrevista 2** 
+
+*Entrevistada:* <br>
+*Edad:*  <br>
+*Domicilio:* Lima, Perú<br>
+*Enlace:* <a href="URL">video</a>
+
+*Resumen de la Entrevista*:
+...!
+
 <div id='6.3.3.'><h4>6.3.3. Evaluaciones según heurísticas.</h4></div>
+
+| Entrevistado   	| Heurística 	| Evaluación 	|
+|----------------	|------------	|------------	|
+| Entrevistado 1 	| 1          	| 1          	|
+|                	| 2          	| 2          	|
+|                	| 3          	| 3          	|
+| Entrevistado 2 	| 1          	| 1          	|
+|                	| 2          	| 2          	|
+|                	| 3          	| 3          	|
 
 <div id='6.4.'><h3>6.4. Auditoría de Experiencias de Usuario</h3></div>
 <div id='6.4.1.'><h4>6.4.1. Auditoría realizada.</h4></div>

@@ -24,7 +24,7 @@ width=50%"/>
 | :-----------------------------------: | :--------: |
 | Acuña Tomas, Diego Rolin          |  U202221436 |
 | Bastidas Bastidas, Diego Martin       | U20221A301 |
-|  Gallo Quintana, David Ivanoff    |  u20201E475 |
+|  Gallo Quintana, David Ivanoff    |  U20201E475 |
 |   Silva Tirado, Sebastian Valentino   | U20211G296 |
 |  Ticona Panduro, Estrella del Pilar   | U202210659 |
 
@@ -2463,7 +2463,7 @@ Así es cómo se verá la página final.
 
 <img src="Img/ecomo1.png" alt="Ecomo1" style="margin-bottom: 5px;" width="800"/>
 
-Enlace del Landing Page EcoMovil: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
+Enlace del Landing Page EcoMovil: https://upc-pre-1asi0732-2501-4442-g1-aceituna.github.io/Landing-Page-EcoMovil/
 
 <div id='5.2.'><h3>5.2 Product Implementation & Deployment.</h3></div>
 <div id='5.2.1.'><h4>5.2.1. Sprint Backlogs.</h4></div>
@@ -2723,9 +2723,6 @@ Link: https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a
 
 <p> En este caso, el back-end esta desplegado en https://app-250421124000.azurewebsites.net/swagger-ui/index.html#/ </p>
 
-
-
-
 <div id='5.2.7.'><h4>5.2.7. Team Collaboration Insights.</h4></div>
 
 En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los resultados del trabajo realizado y la actividad generada.
@@ -2751,10 +2748,10 @@ A continuación, se muestra el video "Video About-the-Product", que destaca el p
 <!-- Parte II -->
 <div id='6.'><h2>Capítulo VI: Product Verification & Validation</h2></div>
 
-<div id='6.1.'><h3>6.1. Testing Suites & Validation</h3></div>
-<div id='6.1.1.'><h4>6.1.1. Core Entities Unit Tests.</h4></div>
-<div id='6.1.2.'><h4>6.1.2. Core Integration Tests.</h4></div>
-<div id='6.1.3.'><h4>6.1.3. Core Behavior-Driven Development</h4></div>
+<div id='6.1.'><h3>6.1. Testing Suites & Validation</h3></div> 
+<div id='6.1.1.'><h4>6.1.1. Core Entities Unit Tests.</h4></div> <!-- Acuña -->
+<div id='6.1.2.'><h4>6.1.2. Core Integration Tests.</h4></div> <!-- Acuña -->
+<div id='6.1.3.'><h4>6.1.3. Core Behavior-Driven Development</h4></div> <!-- David -->
 
 ![gherkingroup](./assets/gherkingroup1.png)
 
@@ -2764,72 +2761,34 @@ A continuación, se muestra el video "Video About-the-Product", que destaca el p
 
 ![gherkingroup4](./assets/gherkingroup4.png)
 
-
-<div id='6.1.4.'><h4>6.1.4. Core System Tests.</h4></div>
-
-<div id='6.2.'><h3>6.2. Static testing & Verification</h3></div>
-<div id='6.2.1.'><h4>6.2.1. Static Code Analysis</h4></div>
-
-<div id='6.2.1.1.'><h5>6.2.1.1. Coding standard & Code conventions.</h5></div>
-
-En la sección actual, se destacarán los estándares que se aplicarán para las aplicaciones tanto en Front-end, Back-end y Landing Page.
-
-<h3>Naming Conventions</h3>
-
-- Nombres de proyectos, clases: Se usarán nombres cortos.
-- Proyectos: Se usarán mayúsculas
-- Formato: Se usará CamelCase para nombrar los distintos proyectos. Así como el uso de snake_case para las tablas en el back-end.
-
-<h3>Identación y Espaciado</h3>
-
-Se uso tabulación para separar las distintas partes del codigo con el fin de obtener un resultado más comprensible.
-
-<h3>Comentarios</h3>
-
-Se hizo uso de JavaDocs para nombrar distintas partes del codigo. Con el fin de tener cada funcionalidad en el backend clara.
-
-<h3>Organización de archivos</h3>
-
-- Backend: Se organizo en distintas carpetas según bounded context y además siguiendo Domain Driven Design.
-- Frontend: A semejanza del backend se dividio segun bounded context y dentro de ellas según funcionalidad, siguiendo Domain Driven Design.
-- Landing Page: No se hizo una distinción entre carpetas.
-
-
-<div id='6.2.1.2.'><h5>6.2.1.2. Code Quality & Code Security.</h5></div>
-
-En el caso de trabajo actual, hemos usado Jenkins para el control de pipelines, además de pruebas en backend y lightouse para el Frontend. Se determinó que estas herramientas nos ayudarán a realizar un análisis en distintos aspectos de la aplicación, nos podrán ayudar a prevenir vulnerabilidades, y posibles errores.
-
-<div id='6.2.2.'><h4>6.2.2. Reviews</h4></div>
-
-<div id='6.3.'><h3>6.3. Validation Interviews.</h3></div>
-<div id='6.3.1.'><h4>6.3.1. Diseño de Entrevistas.</h4></div>
-<div id='6.3.2.'><h4>6.3.2. Registro de Entrevistas.</h4></div>
-<div id='6.3.3.'><h4>6.3.3. Evaluaciones según heurísticas.</h4></div>
-
-<div id='6.4.'><h3>6.4. Auditoría de Experiencias de Usuario</h3></div>
-<div id='6.4.1.'><h4>6.4.1. Auditoría realizada.</h4></div>
-<div id='6.4.1.1.'><h5>6.4.1.1. Información del grupo auditado.</h5></div>
-<div id='6.4.1.2.'><h5>6.4.1.2. Cronograma de auditoría realizada.</h5></div>
-<div id='6.4.1.3.'><h5>6.4.1.3. Contenido de auditoría realizada.</h5></div>
-<div id='6.4.2.'><h4>6.4.2. Auditoría recibida.</h4></div>
-<div id='6.4.2.1.'><h5>6.4.2.1. Información del grupo auditor.</h5></div>
-<div id='6.4.2.2.'><h5>6.4.2.2. Cronograma de auditoría recibida.</h5></div>
-<div id='6.4.2.3.'><h5>6.4.2.3. Contenido de auditoría recibida.</h5></div>
-<div id='6.4.2.4.'><h5>6.4.2.4. Resumen de modificaciones para subsanar hallazgos.</h5></div>
+<div id='6.1.4.'><h4>6.1.4. Core System Tests.</h4></div> <!-- Acuña -->
 
 <!-- Capítulo VII -->
 <div id='7.'><h2>Capítulo VII: DevOps Practices</h2></div>
 
 <div id='7.1.'><h3>7.1. Continuous Integration</h3></div>
 <div id='7.1.1.'><h4>7.1.1. Tools and Practices.</h4></div>
+
+Con el fin de asegurar que el software desarrollado cumpla con los requisitos establecidos y que las pruebas puedan ejecutarse fácilmente dentro de la aplicación, se emplearán las siguientes herramientas:
+
+- **Jenkins**: Servidor de código abierto que facilita la integración y prueba continua de aplicaciones.
+- **JUnit**: Biblioteca utilizada para llevar a cabo pruebas unitarias en proyectos desarrollados en Java.
+- **Mockito**: Framework open source diseñado para realizar pruebas unitarias automatizadas.
+- **Maven**: Gestor de proyectos que permite automatizar diversas tareas del desarrollo de software.
+
+El uso de estas herramientas permitirá al equipo realizar pruebas efectivas y verificar que se satisfacen los requerimientos del proyecto.
+
 <div id='7.1.2.'><h4>7.1.2. Build & Test Suite Pipeline Components.</h4></div>
 
+  <img src="assets/Test Suite Pipeline.png" alt="Build & Test Suite Pipeline Components" width="700" class="rounded shadow mb-4"/>
+
 <div id='7.2.'><h3>7.2. Continuous Delivery</h3></div>
-<div id='7.2.1.'><h4>7.2.1. Tools and Practices.</h4></div>
-<div id='7.2.2.'><h4>7.2.2. Stages Deployment Pipeline Components.</h4></div>
+<div id='7.2.1.'><h4>7.2.1. Tools and Practices.</h4></div><!-- Star -->
+<div id='7.2.2.'><h4>7.2.2. Stages Deployment Pipeline Components.</h4></div><!-- Star -->
 
 <div id='7.3.'><h3>7.3. Continuous deployment</h3></div>
-<div id='7.3.1.'><h4>7.3.1. Tools and Practices.</h4></div>
+
+<div id='7.3.1.'><h4>7.3.1. Tools and Practices.</h4></div> <!-- David -->
 
 En el proceso de Continuous Deployment, el objetivo es automatizar por completo el despliegue de las aplicaciones hacia entornos de producción, de manera continua, segura y sin necesidad de intervención manual. Esta práctica nos permite entregar valor al usuario final de forma más rápida.
 
@@ -2837,13 +2796,7 @@ Una de las herramientas más usadas es Jenkins, que nos permite definir un pipel
 
 Gracias a esta automatización, los desarrolladores podrán enfocarse en agregar nuevas funcionalidades, mientras que el sistema garantiza que solo el código validado, probado avance hacia producción. 
 
-<div id='7.3.2.'><h4>7.3.2. Production Deployment Pipeline Components.</h4></div>
-
-<div id='7.4.'><h3>7.4. Continuous Monitoring</h3></div>
-<div id='7.4.1.'><h4>7.4.1. Tools and Practices</h4></div>
-<div id='7.4.2.'><h4>7.4.2. Monitoring Pipeline Components</h4></div>
-<div id='7.4.3.'><h4>7.4.3. Alerting Pipeline Components</h4></div>
-<div id='7.4.4.'><h4>7.4.4. Notification Pipeline Components</h4></div>
+<div id='7.3.2.'><h4>7.3.2. Production Deployment Pipeline Components.</h4></div> <!-- Diego -->
 
 <div id='8.'><h2>8. Conclusiones</h2></div>
 
@@ -2856,6 +2809,14 @@ Identificación clara del problema: A partir del análisis realizado, se ha reco
 Propuesta de valor definida: EcoMovil se establece como una solución innovadora, al combinar el acceso a medios de transporte ecológicos con un modelo colaborativo que permite a los usuarios generar ingresos.
 
 Fundamentos para el desarrollo: Se definieron los principios éticos, sociales y funcionales que guiarán el diseño e implementación de la aplicación, orientados a brindar una experiencia segura, eficiente e inclusiva.
+
+- **TP:**
+
+Identificación clara del problema: El análisis realizado ha identificado que el proceso de desarrollo de software a menudo presenta errores que se pasan por alto durante las fases iniciales, lo que puede afectar la calidad y fiabilidad del producto final. La falta de pruebas adecuadas es un desafío común en equipos de desarrollo.
+
+Propuesta de valor definida: Las pruebas unitarias se presentan como una solución fundamental para garantizar la calidad del software, permitiendo verificar que cada componente del sistema funcione de manera independiente y según lo esperado, lo que reduce el riesgo de errores en etapas posteriores del desarrollo.
+
+Fundamentos para el desarrollo: Se establecieron las mejores prácticas y principios para la implementación de pruebas unitarias, que incluyen la automatización, la cobertura adecuada del código y la integración continua. Estos enfoques están orientados a mejorar la eficiencia del equipo de desarrollo, asegurando que el software sea más robusto, fácil de mantener y menos propenso a fallos.
 
 <div id='9.'><h2>9. Bibliografía</h2></div>
 
@@ -2880,7 +2841,7 @@ https://trello.com/invite/b/67f3e291ac6549f2f2be7bf2/ATTI88f041995a02ce23d7baf8e
 
 Landing Page EcoMovil: 
 
-https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
+https://upc-pre-1asi0732-2501-4442-g1-aceituna.github.io/Landing-Page-EcoMovil/
 
 Sprint Backlog: 
 https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a858cc89fb96145607955103/sprint-backlog-1-ecomovil

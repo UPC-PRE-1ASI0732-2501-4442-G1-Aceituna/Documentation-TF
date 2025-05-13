@@ -2762,7 +2762,19 @@ A continuación, se muestra el video "Video About-the-Product", que destaca el p
 
 <div id='7.1.'><h3>7.1. Continuous Integration</h3></div>
 <div id='7.1.1.'><h4>7.1.1. Tools and Practices.</h4></div>
+
+Con el fin de asegurar que el software desarrollado cumpla con los requisitos establecidos y que las pruebas puedan ejecutarse fácilmente dentro de la aplicación, se emplearán las siguientes herramientas:
+
+- **Jenkins**: Servidor de código abierto que facilita la integración y prueba continua de aplicaciones.
+- **JUnit**: Biblioteca utilizada para llevar a cabo pruebas unitarias en proyectos desarrollados en Java.
+- **Mockito**: Framework open source diseñado para realizar pruebas unitarias automatizadas.
+- **Maven**: Gestor de proyectos que permite automatizar diversas tareas del desarrollo de software.
+
+El uso de estas herramientas permitirá al equipo realizar pruebas efectivas y verificar que se satisfacen los requerimientos del proyecto.
+
 <div id='7.1.2.'><h4>7.1.2. Build & Test Suite Pipeline Components.</h4></div>
+
+  <img src="assets/Test Suite Pipeline.png" alt="Build & Test Suite Pipeline Components" width="700" class="rounded shadow mb-4"/>
 
 <div id='7.2.'><h3>7.2. Continuous Delivery</h3></div>
 <div id='7.2.1.'><h4>7.2.1. Tools and Practices.</h4></div>

@@ -2751,7 +2751,16 @@ A continuación, se muestra el video "Video About-the-Product", que destaca el p
 <div id='6.1.'><h3>6.1. Testing Suites & Validation</h3></div> 
 <div id='6.1.1.'><h4>6.1.1. Core Entities Unit Tests.</h4></div> <!-- Acuña -->
 <div id='6.1.2.'><h4>6.1.2. Core Integration Tests.</h4></div> <!-- Acuña -->
-<div id='6.1.3.'><h4>6.1.3. Core Behavior-Driven Development</h4></div>  <!-- David -->
+<div id='6.1.3.'><h4>6.1.3. Core Behavior-Driven Development</h4></div> <!-- David -->
+
+![gherkingroup](./assets/gherkingroup1.png)
+
+![gherkingroup2](./assets/gherkingroup2.png)
+
+![gherkingroup3](./assets/gherkingroup3.png)
+
+![gherkingroup4](./assets/gherkingroup4.png)
+
 <div id='6.1.4.'><h4>6.1.4. Core System Tests.</h4></div> <!-- Acuña -->
 
 <!-- Capítulo VII -->
@@ -2778,7 +2787,15 @@ El uso de estas herramientas permitirá al equipo realizar pruebas efectivas y v
 <div id='7.2.2.'><h4>7.2.2. Stages Deployment Pipeline Components.</h4></div><!-- Star -->
 
 <div id='7.3.'><h3>7.3. Continuous deployment</h3></div>
+
 <div id='7.3.1.'><h4>7.3.1. Tools and Practices.</h4></div> <!-- David -->
+
+En el proceso de Continuous Deployment, el objetivo es automatizar por completo el despliegue de las aplicaciones hacia entornos de producción, de manera continua, segura y sin necesidad de intervención manual. Esta práctica nos permite entregar valor al usuario final de forma más rápida.
+
+Una de las herramientas más usadas es Jenkins, que nos permite definir un pipeline en el que se especifican todas las etapas del flujo de trabajo que hagamos: desde la integración de código, pruebas unitarias y de integración hasta el despliegue final.
+
+Gracias a esta automatización, los desarrolladores podrán enfocarse en agregar nuevas funcionalidades, mientras que el sistema garantiza que solo el código validado, probado avance hacia producción. 
+
 <div id='7.3.2.'><h4>7.3.2. Production Deployment Pipeline Components.</h4></div> <!-- Diego -->
 
 <div id='8.'><h2>8. Conclusiones</h2></div>

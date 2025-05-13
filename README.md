@@ -2757,139 +2757,24 @@ A continuación, se muestra el video "Video About-the-Product", que destaca el p
 <div id='6.1.3.'><h4>6.1.3. Core Behavior-Driven Development</h4></div>
 <div id='6.1.4.'><h4>6.1.4. Core System Tests.</h4></div>
 
-<div id='6.2.'><h3>6.2. Static testing & Verification</h3></div>
-<div id='6.2.1.'><h4>6.2.1. Static Code Analysis</h4></div>
-<div id='6.2.1.1.'><h5>6.2.1.1. Coding standard & Code conventions.</h5></div>
-<div id='6.2.1.2.'><h5>6.2.1.2. Code Quality & Code Security.</h5></div>
-<div id='6.2.2.'><h4>6.2.2. Reviews</h4></div>
-
-El objetivo del proceso de revisión de código es asegurar que el software sea de alta calidad, consistente y seguro antes de su despliegue. Este proceso se llevará a cabo tanto de forma colaborativa como automatizada, y consta de las siguientes etapas:
-
-1. **Revisión entre pares**: Un desarrollador examina el código de otro miembro del equipo para identificar posibles errores y asegurar el uso adecuado de las convenciones de codificación.
-
-2. **Análisis automatizado del código**: Herramientas como Jenkins e IntelliJ se encargarán de detectar problemas relacionados con la calidad y la seguridad, verificando el cumplimiento de los estándares establecidos.
-
-3. **Verificación final de calidad**: Antes de su implementación, se validará que el código esté bien estructurado, correctamente documentado y libre de errores graves.
-
-4. **Evaluación de seguridad**: Se analizarán posibles vulnerabilidades en las partes críticas del código utilizando Jenkins y Lighthouse, con el fin de proteger el entorno de producción.
-
-Registro de revisiones: Todas las revisiones serán documentadas, detallando los errores encontrados y las soluciones aplicadas, para promover una mejora continua en el proceso de desarrollo.
-
-<div id='6.3.'><h3>6.3. Validation Interviews.</h3></div>
-<div id='6.3.1.'><h4>6.3.1. Diseño de Entrevistas.</h4></div>
-
-**Segmento 1**: Universitarios (usuarios y/o proveedores de vehículos)
-
-*Objetivo*: Validar si estarían dispuestos a ofrecer vehículos para alquiler/venta, su interés en transporte ecológico, y las funcionalidades que valoran.
-
-1. ¿Actualmente utilizas algún medio de transporte ecológico (bicicleta, scooter, etc.)? ¿Con qué frecuencia?
-2. ¿Has considerado alguna vez alquilar o vender un vehículo ecológico que posees? ¿Por qué sí o por qué no?
-3. ¿Qué tan importante es para ti encontrar una fuente de ingreso flexible que se adapte a tu rutina universitaria?
-4. ¿Qué problemas enfrentas actualmente con el transporte urbano en tu ciudad?
-5. ¿Qué tanto te interesa reducir tu huella ecológica al movilizarte?
-6. ¿Qué tipo de incentivos te motivarían a ofrecer tu vehículo ecológico a otras personas mediante una app?
-7. ¿Qué características consideras esenciales en una app que conecta personas para alquilar o vender vehículos?
-8. ¿Qué tan seguro te sentirías al prestar tu vehículo a desconocidos mediante una app? ¿Qué garantías esperarías?
-9. ¿Has utilizado plataformas tipo marketplace (como OLX, Marketplace de Facebook, etc.)? ¿Qué te gusta o disgusta de ellas?
-10. ¿Qué haría que prefirieras usar EcoMovil sobre una plataforma más generalista?
-11. ¿Cuánto estarías dispuesto a pagar o recibir por una transacción (alquiler o venta) en la app?
-
-**Segmento 2**: Adquirientes (usuarios que desean alquilar o comprar vehículos)
-
-*Objetivo*: Validar la demanda por acceso a transporte ecológico, frecuencia de uso y qué tan valoran la sostenibilidad.
-
-1. ¿Qué medios de transporte utilizas regularmente para movilizarte en la ciudad?
-2. ¿Has considerado usar vehículos ecológicos como alternativa a tu transporte habitual? ¿Por qué sí o por qué no?
-3. ¿Con qué frecuencia te gustaría alquilar un vehículo ecológico si estuviera disponible cerca de ti?
-4. ¿Preferirías alquilar o comprar un vehículo ecológico? ¿Por qué?
-5. ¿Qué problemas has tenido al intentar acceder a este tipo de transporte (costos, disponibilidad, apps, etc.)?
-6. ¿Qué aspectos valoras más en una aplicación que te ofrezca vehículos ecológicos (precio, ubicación, seguridad, etc.)?
-7. ¿Qué tan cómodo te sentirías usando una app que conecte personas para alquilar vehículos personales?
-8. ¿Qué funciones o garantías te harían sentir más seguro al hacer una transacción en la app?
-9. ¿Cómo buscarías normalmente un vehículo ecológico para usar? ¿Qué criterios usas para elegirlo?
-10. ¿Qué esperas de la experiencia de usuario en una app como EcoMovil?
-11. ¿Qué haría que recomiendes EcoMovil a tus amigos o conocidos?
-
-<div id='6.3.2.'><h4>6.3.2. Registro de Entrevistas.</h4></div>
-
-## Segmento #1: Universitarios 
-
-**Entrevista 1** 
-
-*Entrevistada:* <br>
-*Edad:*  <br>
-*Domicilio:* Lima, Perú<br>
-*Enlace:* <a href="URL">video</a>
-
-*Resumen de la Entrevista*:
-...!
-
----
-
-**Entrevista 2:** 
-
-*Entrevistada:* <br>
-*Edad:*  <br>
-*Domicilio:* Lima, Perú<br>
-*Enlace:* <a href="URL">video</a>
-
-*Resumen de la Entrevista*:
-...!
-
----
-
-## Segmento #2: Adquirientes
-
-**Entrevista 1** 
-
-*Entrevistada:* <br>
-*Edad:*  <br>
-*Domicilio:* Lima, Perú<br>
-*Enlace:* <a href="URL">video</a>
-
-*Resumen de la Entrevista*:
-...!
-
----
-
-**Entrevista 2** 
-
-*Entrevistada:* <br>
-*Edad:*  <br>
-*Domicilio:* Lima, Perú<br>
-*Enlace:* <a href="URL">video</a>
-
-*Resumen de la Entrevista*:
-...!
-
-<div id='6.3.3.'><h4>6.3.3. Evaluaciones según heurísticas.</h4></div>
-
-| Entrevistado   	| Heurística 	| Evaluación 	|
-|----------------	|------------	|------------	|
-| Entrevistado 1 	| 1          	| 1          	|
-|                	| 2          	| 2          	|
-|                	| 3          	| 3          	|
-| Entrevistado 2 	| 1          	| 1          	|
-|                	| 2          	| 2          	|
-|                	| 3          	| 3          	|
-
-<div id='6.4.'><h3>6.4. Auditoría de Experiencias de Usuario</h3></div>
-<div id='6.4.1.'><h4>6.4.1. Auditoría realizada.</h4></div>
-<div id='6.4.1.1.'><h5>6.4.1.1. Información del grupo auditado.</h5></div>
-<div id='6.4.1.2.'><h5>6.4.1.2. Cronograma de auditoría realizada.</h5></div>
-<div id='6.4.1.3.'><h5>6.4.1.3. Contenido de auditoría realizada.</h5></div>
-<div id='6.4.2.'><h4>6.4.2. Auditoría recibida.</h4></div>
-<div id='6.4.2.1.'><h5>6.4.2.1. Información del grupo auditor.</h5></div>
-<div id='6.4.2.2.'><h5>6.4.2.2. Cronograma de auditoría recibida.</h5></div>
-<div id='6.4.2.3.'><h5>6.4.2.3. Contenido de auditoría recibida.</h5></div>
-<div id='6.4.2.4.'><h5>6.4.2.4. Resumen de modificaciones para subsanar hallazgos.</h5></div>
-
 <!-- Capítulo VII -->
 <div id='7.'><h2>Capítulo VII: DevOps Practices</h2></div>
 
 <div id='7.1.'><h3>7.1. Continuous Integration</h3></div>
 <div id='7.1.1.'><h4>7.1.1. Tools and Practices.</h4></div>
+
+Con el fin de asegurar que el software desarrollado cumpla con los requisitos establecidos y que las pruebas puedan ejecutarse fácilmente dentro de la aplicación, se emplearán las siguientes herramientas:
+
+- **Jenkins**: Servidor de código abierto que facilita la integración y prueba continua de aplicaciones.
+- **JUnit**: Biblioteca utilizada para llevar a cabo pruebas unitarias en proyectos desarrollados en Java.
+- **Mockito**: Framework open source diseñado para realizar pruebas unitarias automatizadas.
+- **Maven**: Gestor de proyectos que permite automatizar diversas tareas del desarrollo de software.
+
+El uso de estas herramientas permitirá al equipo realizar pruebas efectivas y verificar que se satisfacen los requerimientos del proyecto.
+
 <div id='7.1.2.'><h4>7.1.2. Build & Test Suite Pipeline Components.</h4></div>
+
+  <img src="assets/Test Suite Pipeline.png" alt="Build & Test Suite Pipeline Components" width="700" class="rounded shadow mb-4"/>
 
 <div id='7.2.'><h3>7.2. Continuous Delivery</h3></div>
 <div id='7.2.1.'><h4>7.2.1. Tools and Practices.</h4></div>
@@ -2898,40 +2783,6 @@ Registro de revisiones: Todas las revisiones serán documentadas, detallando los
 <div id='7.3.'><h3>7.3. Continuous deployment</h3></div>
 <div id='7.3.1.'><h4>7.3.1. Tools and Practices.</h4></div>
 <div id='7.3.2.'><h4>7.3.2. Production Deployment Pipeline Components.</h4></div>
-
-<div id='7.4.'><h3>7.4. Continuous Monitoring</h3></div>
-<div id='7.4.1.'><h4>7.4.1. Tools and Practices</h4></div>
-
-Con el fin de asegurar un monitoreo eficiente de la aplicación y sus entornos, se adoptan diversas herramientas y prácticas especializadas:
-
-- **Prometheus**: Es una herramienta de monitoreo y generación de alertas que recolecta métricas en tiempo real desde múltiples servicios. Se emplea para registrar datos clave como tiempos de respuesta y carga del sistema, permitiendo evaluar el rendimiento de la aplicación.
-
-- **Grafana**: Plataforma de visualización de datos que permite construir paneles personalizados basados en las métricas obtenidas por Prometheus. Facilita la interpretación visual de indicadores clave y la detección temprana de posibles fallos.
-
-- **ELK Stack (Elasticsearch, Logstash, Kibana)**: Conjunto de herramientas para el procesamiento y análisis de registros. Elasticsearch permite realizar búsquedas avanzadas, Logstash transforma y organiza los logs, y Kibana proporciona una interfaz gráfica para su análisis visual.
-
-- **New Relic**: Herramienta de monitoreo del rendimiento de aplicaciones (APM) que brinda información en tiempo real sobre el comportamiento de la aplicación y la experiencia del usuario.
-
-- **PagerDuty**: Plataforma especializada en la gestión de incidentes que se encarga de emitir alertas ante fallos críticos en los servicios o en la infraestructura, permitiendo una respuesta rápida.
-
-<div id='7.4.2.'><h4>7.4.2. Monitoring Pipeline Components</h4></div>
-
-El monitoreo de los componentes del pipeline es fundamental para garantizar que cada etapa del proceso de integración y despliegue funcione de forma eficiente y sin interrupciones. A través de la supervisión continua, es posible detectar fallos o cuellos de botella de manera temprana, minimizando riesgos en la entrega del software.
-
-Se aplican las siguientes prácticas y herramientas para llevar a cabo este monitoreo:
-
-- **Jenkins Pipeline**: Se instrumenta para recopilar métricas sobre cada fase del pipeline, como el tiempo que tarda en completarse, las tasas de éxito o fallo de builds y pruebas automatizadas, y la estabilidad general del flujo de integración continua.
-
-- **Registros de NPM**: Durante la instalación de paquetes (*npm install*) y la ejecución de scripts de construcción (*npm run build*), se registran eventos y errores para identificar conflictos con dependencias, versiones incompatibles o fallos en scripts personalizados.
-
-- **Métricas del Servidor**: Se supervisan los recursos del sistema (uso de CPU, memoria RAM, almacenamiento y red) mientras se ejecutan tareas críticas como la construcción, pruebas o despliegue, con el fin de anticipar posibles saturaciones o fallos por sobrecarga.
-
-- **Estado de la Aplicación (Health Checks)**: Se implementan endpoints que permiten verificar en tiempo real el estado de servicios clave, como la conexión a la base de datos o la disponibilidad de APIs externas, permitiendo actuar rápidamente ante fallos en componentes dependientes.
-
-Esta estrategia integral de monitoreo proporciona visibilidad total sobre la salud del pipeline y facilita la toma de decisiones proactivas para mantener la estabilidad del ciclo DevOps.
-
-<div id='7.4.3.'><h4>7.4.3. Alerting Pipeline Components</h4></div>
-<div id='7.4.4.'><h4>7.4.4. Notification Pipeline Components</h4></div>
 
 <div id='8.'><h2>8. Conclusiones</h2></div>
 

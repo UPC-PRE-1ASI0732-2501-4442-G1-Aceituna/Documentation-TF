@@ -2463,7 +2463,7 @@ Así es cómo se verá la página final.
 
 <img src="Img/ecomo1.png" alt="Ecomo1" style="margin-bottom: 5px;" width="800"/>
 
-Enlace del Landing Page EcoMovil: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
+Enlace del Landing Page EcoMovil: https://upc-pre-1asi0732-2501-4442-g1-aceituna.github.io/Landing-Page-EcoMovil/
 
 <div id='5.2.'><h3>5.2 Product Implementation & Deployment.</h3></div>
 <div id='5.2.1.'><h4>5.2.1. Sprint Backlogs.</h4></div>
@@ -2723,9 +2723,6 @@ Link: https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a
 
 <p> En este caso, el back-end esta desplegado en https://app-250421124000.azurewebsites.net/swagger-ui/index.html#/ </p>
 
-
-
-
 <div id='5.2.7.'><h4>5.2.7. Team Collaboration Insights.</h4></div>
 
 En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los resultados del trabajo realizado y la actividad generada.
@@ -2819,7 +2816,7 @@ https://trello.com/invite/b/67f3e291ac6549f2f2be7bf2/ATTI88f041995a02ce23d7baf8e
 
 Landing Page EcoMovil: 
 
-https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
+https://upc-pre-1asi0732-2501-4442-g1-aceituna.github.io/Landing-Page-EcoMovil/
 
 Sprint Backlog: 
 https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a858cc89fb96145607955103/sprint-backlog-1-ecomovil

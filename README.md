@@ -2748,11 +2748,11 @@ A continuación, se muestra el video "Video About-the-Product", que destaca el p
 <!-- Parte II -->
 <div id='6.'><h2>Capítulo VI: Product Verification & Validation</h2></div>
 
-<div id='6.1.'><h3>6.1. Testing Suites & Validation</h3></div>
-<div id='6.1.1.'><h4>6.1.1. Core Entities Unit Tests.</h4></div>
-<div id='6.1.2.'><h4>6.1.2. Core Integration Tests.</h4></div>
-<div id='6.1.3.'><h4>6.1.3. Core Behavior-Driven Development</h4></div>
-<div id='6.1.4.'><h4>6.1.4. Core System Tests.</h4></div>
+<div id='6.1.'><h3>6.1. Testing Suites & Validation</h3></div> 
+<div id='6.1.1.'><h4>6.1.1. Core Entities Unit Tests.</h4></div> <!-- Acuña -->
+<div id='6.1.2.'><h4>6.1.2. Core Integration Tests.</h4></div> <!-- Acuña -->
+<div id='6.1.3.'><h4>6.1.3. Core Behavior-Driven Development</h4></div>  <!-- David -->
+<div id='6.1.4.'><h4>6.1.4. Core System Tests.</h4></div> <!-- Acuña -->
 
 <!-- Capítulo VII -->
 <div id='7.'><h2>Capítulo VII: DevOps Practices</h2></div>
@@ -2774,12 +2774,12 @@ El uso de estas herramientas permitirá al equipo realizar pruebas efectivas y v
   <img src="assets/Test Suite Pipeline.png" alt="Build & Test Suite Pipeline Components" width="700" class="rounded shadow mb-4"/>
 
 <div id='7.2.'><h3>7.2. Continuous Delivery</h3></div>
-<div id='7.2.1.'><h4>7.2.1. Tools and Practices.</h4></div>
-<div id='7.2.2.'><h4>7.2.2. Stages Deployment Pipeline Components.</h4></div>
+<div id='7.2.1.'><h4>7.2.1. Tools and Practices.</h4></div><!-- Star -->
+<div id='7.2.2.'><h4>7.2.2. Stages Deployment Pipeline Components.</h4></div><!-- Star -->
 
 <div id='7.3.'><h3>7.3. Continuous deployment</h3></div>
-<div id='7.3.1.'><h4>7.3.1. Tools and Practices.</h4></div>
-<div id='7.3.2.'><h4>7.3.2. Production Deployment Pipeline Components.</h4></div>
+<div id='7.3.1.'><h4>7.3.1. Tools and Practices.</h4></div> <!-- David -->
+<div id='7.3.2.'><h4>7.3.2. Production Deployment Pipeline Components.</h4></div> <!-- Diego -->
 
 <div id='8.'><h2>8. Conclusiones</h2></div>
 
@@ -2792,6 +2792,14 @@ Identificación clara del problema: A partir del análisis realizado, se ha reco
 Propuesta de valor definida: EcoMovil se establece como una solución innovadora, al combinar el acceso a medios de transporte ecológicos con un modelo colaborativo que permite a los usuarios generar ingresos.
 
 Fundamentos para el desarrollo: Se definieron los principios éticos, sociales y funcionales que guiarán el diseño e implementación de la aplicación, orientados a brindar una experiencia segura, eficiente e inclusiva.
+
+- **TP:**
+
+Identificación clara del problema: El análisis realizado ha identificado que el proceso de desarrollo de software a menudo presenta errores que se pasan por alto durante las fases iniciales, lo que puede afectar la calidad y fiabilidad del producto final. La falta de pruebas adecuadas es un desafío común en equipos de desarrollo.
+
+Propuesta de valor definida: Las pruebas unitarias se presentan como una solución fundamental para garantizar la calidad del software, permitiendo verificar que cada componente del sistema funcione de manera independiente y según lo esperado, lo que reduce el riesgo de errores en etapas posteriores del desarrollo.
+
+Fundamentos para el desarrollo: Se establecieron las mejores prácticas y principios para la implementación de pruebas unitarias, que incluyen la automatización, la cobertura adecuada del código y la integración continua. Estos enfoques están orientados a mejorar la eficiencia del equipo de desarrollo, asegurando que el software sea más robusto, fácil de mantener y menos propenso a fallos.
 
 <div id='9.'><h2>9. Bibliografía</h2></div>
 

@@ -2779,7 +2779,333 @@ A continuación, se muestra el video "Video About-the-Product", que destaca el p
 
 <div id='6.1.'><h3>6.1. Testing Suites & Validation</h3></div> 
 <div id='6.1.1.'><h4>6.1.1. Core Entities Unit Tests.</h4></div> <!-- Acuña -->
+
+<h5>Las pruebas unitarias no tienen Mockito</h5>
+
+![testGroups](./assets/ubicacionTest.png)
+
+<h5>Entidad Plan2 (plan2Test):</h5>
+<p>El test testPlan2UpdateDetails verifica que la función updateDetails actualice correctamente los atributos de la clase Plan2.</p>
+
+```java
+import static org.junit.Assert.assertEquals;
+
+import org.junit.Assert;
+import org.junit.Test;
+
+import upc.edu.ecomovil.api.plan2.domain.model.aggregates.Plan2;
+
+public class plan2Test {
+    @Test
+    public void testPlan2UpdateDetails() {
+        // Arrange
+        Plan2 plan = new Plan2("Plan Básico", "Acceso limitado a funciones", 29.99);
+
+        // Act
+        plan.updateDetails("Plan Premium", "Acceso completo a todas las funciones", 49.99);
+
+        // Assert
+        Assert.assertEquals("El plan se actualizó correctamente", "Plan Premium", plan.getName());
+        Assert.assertEquals("La descripcion del plan se actualizó correctamente",
+                "Acceso completo a todas las funciones", plan.getDescription());
+        Assert.assertEquals("El precio del plan se actualizó correctamente", 49.99, plan.getPrice(), 0.01);
+
+    }
+}
+
+```
+
+<h5>Entidad Profile (profileTest):</h5>
+<p>Resumen de cada test</p>
+
+1. testProfileUpdateEmail: Verifica que el método updateEmail de la clase Profile actualice correctamente el atributo email.
+  
+2. testProfileUpdateFullName: Verifica que el método updateName de la clase Profile actualice correctamente el nombre completo del perfil.
+
+<br/>
+
+```java
+import static org.junit.Assert.assertEquals;
+import org.junit.Test;
+
+import upc.edu.ecomovil.api.iam.domain.model.aggregates.User;
+import upc.edu.ecomovil.api.user.domain.model.aggregates.Profile;
+
+public class profileTest {
+    @Test
+    public void testProfileUpdateEmail() {
+        // Arrange
+        User user = new User("juanito1234", "password123", "juan_asdasd@hotmail.com");
+        Profile profile = new Profile(user, "Juan", "Pérez", "juan_asdasd@hotmail.com", "987654321", "12345678901");
+
+        // Act
+        profile.updateEmail("juan_perez1998@hotmail.com");
+
+        // Assert
+        assertEquals("El correo electronico se actualizó correctamente", "juan_perez1998@hotmail.com",
+                profile.getEmail());
+
+    }
+
+    @Test
+    public void testProfileUpdateFullName() {
+        // Arrange
+        User user = new User("juanito1234", "password123", "juan_asdasd@hotmail.com");
+        Profile profile = new Profile(user, "Juan", "Pérez", "juan_asdasd@hotmail.com", "987654321", "12345678901");
+
+        // Act
+        profile.updateName("Oscar", "Gonzales");
+
+        // Assert
+        assertEquals("El nombre se actualizó correctamente", "Oscar Gonzales", profile.getFullName());
+
+    }
+}
+
+```
+
+<h5>Entidad Reservation (reservationTest):</h5>
+<p>El test testReservationUpdateStatus verifica que el método updateStatus de la clase Reservation actualiza correctamente el estado de una reserva.</p>
+
+```java
+import org.junit.Assert;
+import org.junit.Test;
+
+import upc.edu.ecomovil.api.iam.domain.model.aggregates.User;
+import upc.edu.ecomovil.api.reservations.domain.model.aggregates.Reservation;
+import upc.edu.ecomovil.api.user.domain.model.aggregates.Profile;
+import upc.edu.ecomovil.api.vehicles.domain.model.aggregates.Vehicle;
+
+public class reservationTest {
+
+    @Test
+    public void testReservationUpdateStatus() {
+        // Arrange
+        Vehicle vehicle = new Vehicle(
+                "Sedan", // type
+                "Toyota Corolla", // name
+                2022, // year
+                4, // review
+                150.0, // pricerent
+                25000.0, // pricesell
+                true, // isAvailable
+                "https://autoland.com.pe/wp-content/uploads/2023/10/tipo-auto-coupe-autoland.png", // imageUrl
+                -12.0464f, // lat
+                -77.0428f, // lng
+                "Auto en excelente estado, poco uso" // description
+        );
+
+        User user = new User("juanito1234", "password123", "juan_asdasd@hotmail.com");
+
+        Profile profile = new Profile(user, "Juan", "Pérez", "juan_asdasd@hotmail.com", "987654321", "12345678901");
+
+        Reservation reservation = new Reservation("Disponible", vehicle, profile);
+
+        // Act
+        reservation.updateStatus("Reservado");
+
+        // Assert
+        Assert.assertEquals("El estado de la reserva se actualizó correctamente", "Reservado",
+                reservation.getStatus());
+
+    }
+
+}
+
+```
+
+
+<h5>Entidad User (userTest):</h5>
+<p>El test testUserUpdateUsername verifica que el método setUsername de la clase User actualiza correctamente el nombre de usuario.</p>
+
+```java
+
+import static org.junit.Assert.assertEquals;
+
+import org.junit.Assert;
+import org.junit.Test;
+
+import upc.edu.ecomovil.api.iam.domain.model.aggregates.User;
+
+public class userTest {
+    @Test
+    public void testUserUpdateUsername() {
+        // Arrange
+        User user = new User("juanito1234", "password123", "juan_asdasd@hotmail.com");
+
+        // Act
+        user.setUsername("juan1234");
+
+        // Assert
+        assertEquals("El nombre de usuario se actualizó correctamente", "juan1234", user.getUsername());
+    }
+
+}
+
+```
+
+<h5>Entidad Vehicle (vehicleTest):</h5>
+<p>Los tests en el archivo vehicleTest.java verifican dos funcionalidades de la clase Vehicle</p>
+
+1. testVehicleUpdateDetails: Comprueba que el método updateDetails actualiza correctamente el tipo, nombre y año del vehículo.
+  
+2. testVehicleUpdatePrices: Comprueba que el método updatePrices actualiza correctamente los precios de renta y venta del vehículo.
+
+```java
+
+import org.junit.Assert;
+import org.junit.Test;
+
+import upc.edu.ecomovil.api.vehicles.domain.model.aggregates.Vehicle;
+
+public class vehicleTest {
+        @Test
+        public void testVehicleUpdateDetails() {
+                // Arrange
+                Vehicle vehicle = new Vehicle(
+                                "Sedan", // type
+                                "Toyota Corolla", // name
+                                2022, // year
+                                4, // review
+                                150.0, // pricerent
+                                25000.0, // pricesell
+                                true, // isAvailable
+                                "https://autoland.com.pe/wp-content/uploads/2023/10/tipo-auto-coupe-autoland.png", // imageUrl
+                                -12.0464f, // lat
+                                -77.0428f, // lng
+                                "Auto en excelente estado, poco uso" // description
+                );
+
+                // Act
+                vehicle.updateDetails("Honda", "Civic", 2021);
+
+                // Assert
+                Assert.assertEquals("El fabricante se actualizó correctamente", "Honda", vehicle.getType());
+                Assert.assertEquals("El nombre se actualizó correctamente", "Civic", vehicle.getName());
+                Assert.assertEquals("El año se actualizó correctamente", Integer.valueOf(2021), vehicle.getYear());
+
+        }
+
+        @Test
+        public void testVehicleUpdatePrices() {
+                // Arrange
+                Vehicle vehicle = new Vehicle(
+                                "Sedan", // type
+                                "Toyota Corolla", // name
+                                2022, // year
+                                4, // review
+                                150.0, // pricerent
+                                25000.0, // pricesell
+                                true, // isAvailable
+                                "https://autoland.com.pe/wp-content/uploads/2023/10/tipo-auto-coupe-autoland.png", // imageUrl
+                                -12.0464f, // lat
+                                -77.0428f, // lng
+                                "Auto en excelente estado, poco uso" // description
+                );
+
+                // Act
+                vehicle.updatePrices(200.0, 30000.0);
+
+                // Assert
+                Assert.assertEquals("El precio de renta se actualizó correctamente", Double.valueOf(200.0),
+                                vehicle.getPriceRent());
+                Assert.assertEquals("El precio de venta se actualizó correctamente", Double.valueOf(30000.0),
+                                vehicle.getPriceSell());
+        }
+
+}
+
+```
+
+<br/>
+
 <div id='6.1.2.'><h4>6.1.2. Core Integration Tests.</h4></div> <!-- Acuña -->
+
+
+<h5>Las pruebas integrales tienen Mockito</h5>
+
+![testGroups](./assets/ubicacionTest.png)
+
+<h5>Entidad User (userTestMock):</h5>
+<p>El test testAddRoles verifica que el método addRoles de la clase User agrega correctamente una lista de roles al usuario.</p>
+
+```java
+import org.junit.Before;
+import org.junit.Test;
+import org.mockito.Mockito;
+import upc.edu.ecomovil.api.iam.domain.model.aggregates.User;
+import upc.edu.ecomovil.api.iam.domain.model.entities.Role;
+
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+
+import static org.junit.Assert.*;
+import static org.mockito.Mockito.*;
+
+public class userTestMock {
+    private Role mockRole1;
+    private Role mockRole2;
+
+    @Before
+    public void setUp() {
+        mockRole1 = mock(Role.class);
+        mockRole2 = mock(Role.class);
+    }
+
+    @Test
+    public void testAddRoles() {
+        User user = new User("usuario", "pass", "correo@mail.com");
+        List<Role> roles = Arrays.asList(mockRole1, mockRole2);
+
+        // Simula la validación de roles
+        Mockito.mockStatic(Role.class).when(() -> Role.validateRoleSet(roles)).thenReturn(roles);
+
+        user.addRoles(roles);
+        assertEquals(2, user.getRoles().size());
+        assertTrue(user.getRoles().contains(mockRole1));
+        assertTrue(user.getRoles().contains(mockRole2));
+    }
+
+}
+
+```
+
+<h5>Entidad Reservation (reservationTestMock):</h5>
+<p>El test testConstructorWithCreateReservationCommand verifica que el constructor de la clase Reservation, que recibe un comando CreateReservationCommand, un vehículo y un perfil, inicializa correctamente los atributos del objeto.</p>
+
+```java
+import org.junit.Test;
+import static org.junit.Assert.*;
+import static org.mockito.Mockito.*;
+
+import upc.edu.ecomovil.api.reservations.domain.model.aggregates.Reservation;
+import upc.edu.ecomovil.api.reservations.domain.model.commands.CreateReservationCommand;
+import upc.edu.ecomovil.api.user.domain.model.aggregates.Profile;
+import upc.edu.ecomovil.api.vehicles.domain.model.aggregates.Vehicle;
+
+public class reservationTestMock {
+    @Test
+    public void testConstructorWithCreateReservationCommand() {
+        // Arrange
+        CreateReservationCommand mockCommand = mock(CreateReservationCommand.class);
+        Vehicle mockVehicle = mock(Vehicle.class);
+        Profile mockProfile = mock(Profile.class);
+
+        when(mockCommand.status()).thenReturn("pending");
+
+        // Act
+        Reservation reservation = new Reservation(mockCommand, mockVehicle, mockProfile);
+
+        // Assert
+        assertEquals("pending", reservation.getStatus());
+        assertEquals(mockVehicle, reservation.getVehicle());
+        assertEquals(mockProfile, reservation.getProfile());
+    }
+}
+
+```
+
 <div id='6.1.3.'><h4>6.1.3. Core Behavior-Driven Development</h4></div> <!-- David -->
 
 ![gherkingroup](./assets/gherkingroup1.png)
@@ -2791,6 +3117,33 @@ A continuación, se muestra el video "Video About-the-Product", que destaca el p
 ![gherkingroup4](./assets/gherkingroup4.png)
 
 <div id='6.1.4.'><h4>6.1.4. Core System Tests.</h4></div> <!-- Acuña -->
+
+<h5>Verificacion de todas las pruebas</h5>
+
+![test](./assets/generalTest.png)
+
+<h5>Pruebas unitarias</h5>
+
+![test](./assets/unitTest1.png)
+
+![test](./assets/unitTest2.png)
+
+![test](./assets/unitTest3.png)
+
+![test](./assets/unitTest4.png)
+
+![test](./assets/unitTest5.png)
+
+![test](./assets/unitTest6.png)
+
+![test](./assets/unitTest7.png)
+
+<h5>Pruebas integrales</h5>
+
+![test](./assets/intTest1.png)
+
+![test](./assets/intTest2.png)
+
 
 <!-- Capítulo VII -->
 <div id='7.'><h2>Capítulo VII: DevOps Practices</h2></div>

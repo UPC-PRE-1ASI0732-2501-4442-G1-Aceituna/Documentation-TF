@@ -2799,6 +2799,8 @@ Gracias a esta automatización, los desarrolladores podrán enfocarse en agregar
 
 <div id='7.3.2.'><h4>7.3.2. Production Deployment Pipeline Components.</h4></div> <!-- Diego -->
 
+  <img src="assets/Continuous deployment.png" alt="Build & Test Suite Pipeline Components" width="700" class="rounded shadow mb-4"/>
+
 <div id='8.'><h2>8. Conclusiones</h2></div>
 
 <div id='8.1.'><h3>8.1. Conclusiones y recomendaciones.</h3></div>

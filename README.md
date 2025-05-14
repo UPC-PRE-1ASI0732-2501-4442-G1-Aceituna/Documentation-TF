@@ -2812,8 +2812,15 @@ El uso de estas herramientas permitirá al equipo realizar pruebas efectivas y v
   <img src="assets/Test Suite Pipeline.png" alt="Build & Test Suite Pipeline Components" width="700" class="rounded shadow mb-4"/>
 
 <div id='7.2.'><h3>7.2. Continuous Delivery</h3></div>
-<div id='7.2.1.'><h4>7.2.1. Tools and Practices.</h4></div><!-- Star -->
+<div id='7.2.1.'><h4>7.2.1. Tools and Practices.</h4></div>
+En el contexto del despliegue continuo (CD), Jenkins Pipeline se utiliza como una herramienta clave para automatizar el proceso de entrega de software. Esta solución permite definir, mediante código, cada etapa del flujo de construcción, pruebas y despliegue, lo que facilita la gestión eficiente de procesos complejos.
+
+Por otro lado, NPM (Node Package Manager) actúa como el administrador de paquetes para proyectos en JavaScript, especialmente aquellos desarrollados con Node.js. Entre sus funciones se incluyen la gestión de dependencias, la ejecución de scripts y la automatización de tareas relacionadas con la construcción y el despliegue de las aplicaciones.
+
+Dentro de Jenkins Pipeline, NPM se integra como parte fundamental del flujo de trabajo. Esto implica la instalación de dependencias con npm install, la ejecución de scripts definidos en el archivo package.json, así como el despliegue de la aplicación mediante comandos como npm run deploy 
+
 <div id='7.2.2.'><h4>7.2.2. Stages Deployment Pipeline Components.</h4></div><!-- Star -->
+<img src="assets/TestbuildPipeline.png" alt="Build & Test Suite Pipeline Components" width="700" class="rounded shadow mb-4"/>
 
 <div id='7.3.'><h3>7.3. Continuous deployment</h3></div>
 

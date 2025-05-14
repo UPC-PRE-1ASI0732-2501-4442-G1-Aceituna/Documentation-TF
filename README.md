@@ -3163,6 +3163,8 @@ El uso de estas herramientas permitirá al equipo realizar pruebas efectivas y v
 <div id='7.1.2.'><h4>7.1.2. Build & Test Suite Pipeline Components.</h4></div>
 
   <img src="assets/Test Suite Pipeline.png" alt="Build & Test Suite Pipeline Components" width="700" class="rounded shadow mb-4"/>
+<br><br>
+  <img src="assets/Test Suite Pipeline2.png" alt="Build & Test Suite Pipeline Components2" width="700" class="rounded shadow mb-4"/>
 
 <div id='7.2.'><h3>7.2. Continuous Delivery</h3></div>
 <div id='7.2.1.'><h4>7.2.1. Tools and Practices.</h4></div>
@@ -3221,21 +3223,14 @@ Nielsen Norman Group. (2022). Usabilidad y diseño centrado en el usuario. https
 
 <div id='10.'><h2>10. Anexos</h2></div>
 
-URL del repositorio para el reporte del proyecto: 
-
-https://github.com/UPC-PRE-1ASI0732-2501-4442-G1-Aceituna
+*URL del repositorio para el reporte del proyecto:* <a href="https://github.com/UPC-PRE-1ASI0732-2501-4442-G1-Aceituna">Repositorio</a> 
 
 *Enlace para acceder al Lean UX Canvas:* <a href="https://www.canva.com/design/DAGOEXan6rE/pJTlXgHJBmfhVfeAe3pFgA/edit?utm_content=DAGOEXan6rE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Canvas</a>
 
-Product_Backlog: 
-https://trello.com/invite/b/67f3e291ac6549f2f2be7bf2/ATTI88f041995a02ce23d7baf8e49a2ee15bD9901B21/ruedarent
+*Product Backlog:* <a href="https://trello.com/invite/b/67f3e291ac6549f2f2be7bf2/ATTI88f041995a02ce23d7baf8e49a2ee15bD9901B21/ruedarent">Trello</a>
 
-Landing Page EcoMovil: 
+*Landing Page EcoMovil:* <a href="https://upc-pre-1asi0732-2501-4442-g1-aceituna.github.io/Landing-Page-EcoMovil/">Landing Page</a> 
 
-https://upc-pre-1asi0732-2501-4442-g1-aceituna.github.io/Landing-Page-EcoMovil/
+*Sprint Backlog:* <a href="https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a858cc89fb96145607955103/sprint-backlog-1-ecomovil">Sprint</a>  
 
-Sprint Backlog: 
-https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a858cc89fb96145607955103/sprint-backlog-1-ecomovil
-
-Para acceder al Figma: 
-https://www.figma.com/design/iw1TPK5MD4ZDPQYKNHI62H/Mock-Up-s?node-id=92-3106&t=qGzKq1Cpd80u5D7B-1 
+*Para acceder al Figma:* <a href="https://www.figma.com/design/iw1TPK5MD4ZDPQYKNHI62H/Mock-Up-s?node-id=92-3106&t=qGzKq1Cpd80u5D7B-1">Figma</a>   

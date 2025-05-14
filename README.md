@@ -2593,6 +2593,34 @@ Link: https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a
 </div>
   
 <div id='5.2.4.'><h4>5.2.4. Acuerdo de Servicio - SaaS.</h4></div>  
+A continuación se presenttará el acuerdo de servicio que regula el uso de la plataforma EcoMovil, en su modalidad SaaS, 
+Esto se hace con el objetivo de garantizar una experiencia segura.
+
+<h2>Términos y Condiciones de Uso</h2>
+<h3>1. Aceptación de los Términos</h3>
+El uso de la plataforma EcoMovil implica la aceptación plena y sin reservas de estos Términos y Condiciones. Si no estás de acuerdo con alguno de ellos, por favor no utilices nuestros servicios.
+
+<h3>2. Registro de usuario</h3>
+Para acceder a ciertas funcionalidades, deberás registrarte proporcionando información veraz y actualizada. Te comprometes a mantener la confidencialidad de tus credenciales y a notificar cualquier uso no autorizado.
+
+<h3>3. Uso de la Plataforma</h3>
+EcoMovil proporciona un entorno para el registro, búsqueda y solicitud de vehículos no contaminantes. Está prohibido:
+	•	Usar la app para fines ilegales o fraudulentos.
+	•	Compartir cuentas entre múltiples usuarios.
+	•	Manipular el sistema con información falsa.
+
+<h3>4. Propiedad Intelectual</h3>
+Todos los contenidos, diseños, marcas y funcionalidades de EcoMovil son propiedad de la empresa desarrolladora. Queda prohibida su reproducción o distribución sin autorización expresa.
+
+<h3>5. Protección de Datos</h3>
+Tus datos personales serán tratados conforme a nuestra Política de Privacidad, respetando las leyes vigentes en materia de protección de datos.
+
+<h3>6. Responsabilidades</h3>
+EcoMovil no se hace responsable por:
+	•	Daños o perjuicios derivados del uso incorrecto de la app.
+	•	Errores técnicos, interrupciones del servicio o pérdida de información.
+	•	Conducta de terceros (usuarios o proveedores).
+
 
 <div id='5.2.5.'><h4>5.2.5. Implemented Native-Mobile Application Evidence.</h4></div>
 

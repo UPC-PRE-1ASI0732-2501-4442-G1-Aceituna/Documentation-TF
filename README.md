@@ -48,9 +48,14 @@ Esta sección tiene como propósito presentar un resumen de los cambios importan
 
 URL del repositorio para el reporte del proyecto: https://github.com/UPC-PRE-1ASI0732-2501-4442-G1-Aceituna
 
-<div align="center">
-  <img src="assets/Reporte1.png">
-</div>
+**TB1**
+
+  <img src="assets/Reporte1.png" alt="Build & Test Suite Pipeline Components" width="500" class="rounded shadow mb-4"/>
+
+**TP1**
+
+  <img src="assets/Reporte2.png" alt="Build & Test Suite Pipeline Components" width="500" class="rounded shadow mb-4"/>
+
 
 **TB1**
 
@@ -3106,6 +3111,15 @@ public class reservationTestMock {
 
 ```
 
+**Core Functional Test**
+
+Prueba Web
+
+  <img src="assets/Functional1.jpeg" alt="Functional1" width="700" class="rounded shadow mb-4"/>
+
+  <img src="assets/Functional2.jpeg" alt="Functional2" width="700" class="rounded shadow mb-4"/>
+
+
 <div id='6.1.3.'><h4>6.1.3. Core Behavior-Driven Development</h4></div> <!-- David -->
 
 ![gherkingroup](./assets/gherkingroup1.png)
@@ -3230,6 +3244,8 @@ Nielsen Norman Group. (2022). Usabilidad y diseño centrado en el usuario. https
 *Product Backlog:* <a href="https://trello.com/invite/b/67f3e291ac6549f2f2be7bf2/ATTI88f041995a02ce23d7baf8e49a2ee15bD9901B21/ruedarent">Trello</a>
 
 *Landing Page EcoMovil:* <a href="https://upc-pre-1asi0732-2501-4442-g1-aceituna.github.io/Landing-Page-EcoMovil/">Landing Page</a> 
+
+*Front-end EcoMovil:* <a href="https://proud-smoke-05081781e.6.azurestaticapps.net/login">Front end</a> 
 
 *Sprint Backlog:* <a href="https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a858cc89fb96145607955103/sprint-backlog-1-ecomovil">Sprint</a>  
 

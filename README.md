@@ -209,8 +209,8 @@ Para la preparación del informe correspondiente a la entrega TP1, se distribuy�
    7.4.3. [Alerting Pipeline Components.](#7.4.3.)<br>
    7.4.4. [Notification Pipeline Components.](#7.4.4.)<br>
 8. [**Conclusiones**](#8.)<br>
-    8.1. [**Conclusiones y recomendaciones.](#8.1.)<br>
-    8.2. [**Video About-the-Team.](#8.2.)<br>
+    8.1. [Conclusiones y recomendaciones.](#8.1.)<br>
+    8.2. [Video About-the-Team.](#8.2.)<br>
 9. [**Bibliografía**](#9.)<br>
 10. [**Anexos**](#10.)<br>
 
@@ -787,7 +787,7 @@ Preguntas dirigidas a Universitarios.
 *Inicio de la Entrevista: 0:00 min* <br> 
 *Duración de la Entrevista: 6:14 min* <br> 
 
-<img src="assets/entrevistaU1.png" alt="" style="width: 400; height: auto;">
+<img src="assets/entrevistaU1.png" alt="" style="width: 300; height: auto;">
 
 *Enlace:* <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWXl0ia61BBCs3JLo1Ms1QoBg0fytY1FiORDwWXH8zl7ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W6ifNf">video</a>
 
@@ -806,7 +806,7 @@ En esta entrevista, conocemos a Ramiro, un estudiante con conocimientos en tecno
 *Inicio de la Entrevista: 6:14 min* <br> 
 *Duración de la Entrevista: 12:38 min* <br>
 
-<img src="assets/entrevistas.png" alt="As-Is Mapping 2" style="margin-bottom: 5px;" width="400"/>
+<img src="assets/entrevistas.png" alt="As-Is Mapping 2" style="margin-bottom: 5px;" width="300"/>
 
 *Enlace:* <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWXl0ia61BBCs3JLo1Ms1QoBg0fytY1FiORDwWXH8zl7ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W6ifNf">video</a>
 
@@ -825,7 +825,7 @@ En cuanto a su operación, Franco lleva las bicicletas a talleres para mantenimi
 *Inicio de la Entrevista: 12:38 min* <br>
 *Duración de la Entrevista: 25:42 min* <br> 
 
-<img src="./assets/Entrevista Lu.png" alt="" style="width: 400; height: auto;">
+<img src="./assets/Entrevista Lu.png" alt="" style="width: 300; height: auto;">
 
 *Enlace:* <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWXl0ia61BBCs3JLo1Ms1QoBg0fytY1FiORDwWXH8zl7ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W6ifNf">video</a>
 
@@ -843,7 +843,7 @@ En cuanto a su operación, Franco lleva las bicicletas a talleres para mantenimi
 *Inicio de la Entrevista: 25:42 min* <br>
 *Duración de la Entrevista: 32:33 min* <br>
 
-<img src="assets/entrevistaA1.png" alt="" style="width: 400; height: auto;">
+<img src="assets/entrevistaA1.png" alt="" style="width: 300; height: auto;">
 
 *Enlace:* <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWXl0ia61BBCs3JLo1Ms1QoBg0fytY1FiORDwWXH8zl7ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W6ifNf">video</a>
 
@@ -862,7 +862,7 @@ En esta entrevista hablamos con Miguel, una persona con múltiples medios de com
 *Inicio de la Entrevista: 32:33 min* <br>
 *Duración de la Entrevista: 37:41 min* <br>
 
-<img src="assets/InterviewCamila.png" alt="" style="width: 400; height: auto;">
+<img src="assets/InterviewCamila.png" alt="" style="width: 300; height: auto;">
 
 *Enlace:* <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWXl0ia61BBCs3JLo1Ms1QoBg0fytY1FiORDwWXH8zl7ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W6ifNf">video</a>
 
@@ -881,7 +881,7 @@ Se entrevistó a Camila, una joven de 21 años de Cuba que actualmente reside en
 *Inicio de la Entrevista: 37:41 min* <br>
 *Duración de la Entrevista: 48.58 min* <br>
 
-<img src="assets/entrevista2.png" alt="" style="width: 400; height: auto;">
+<img src="assets/entrevista2.png" alt="" style="width: 300; height: auto;">
 
 *Enlace:* <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWXl0ia61BBCs3JLo1Ms1QoBg0fytY1FiORDwWXH8zl7ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W6ifNf">video</a>
 
@@ -2402,7 +2402,7 @@ El proyecto adoptará el modelo **GitFlow** como estándar para el control de ve
 - Enlace al repositorio de la **Landing Page**: 
   <br>
 
-![gitflow]()
+*Landing Page EcoMovil:* <a href="https://upc-pre-1asi0732-2501-4442-g1-aceituna.github.io/Landing-Page-EcoMovil/">Landing Page</a> 
 
 **Estructura de Ramas (Branches) en GitFlow:**
 

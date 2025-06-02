@@ -42,7 +42,7 @@ Esta sección tiene como propósito presentar un resumen de los cambios importan
 </tbody></table>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Versión</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Fecha</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Autor</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Descripción de modificación</th></tr></thead>
-<tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TP1</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">13/05/2025</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Silva Tirado, Sebastian Valentino</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Capítulo VI: Product Verification &amp; Validation. Capítulo VII: DevOps Practices.</td></tr></tbody></table>
+<tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TP1</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">13/05/2025</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Silva Tirado, Sebastian Valentino</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Capítulo VI: Product Verification &amp; Validation. <br>Capítulo VII: DevOps Practices.</td></tr></tbody></table>
 
 ## Project Report Collaboration Insights
 
@@ -3311,6 +3311,19 @@ Registro de revisiones: Todas las revisiones serán documentadas, detallando los
 
 <div id='6.3.3.'><h4>6.3.3. Evaluaciones según heurísticas.</h4></div>
 
+Segmento 1
+
+| Entrevistado   	| Heurística 	| Evaluación 	|
+|----------------	|------------	|------------	|
+| Entrevistado 1 	| 1          	| 1          	|
+|                	| 2          	| 2          	|
+|                	| 3          	| 3          	|
+| Entrevistado 2 	| 1          	| 1          	|
+|                	| 2          	| 2          	|
+|                	| 3          	| 3          	|
+
+Segmento 2
+
 | Entrevistado   	| Heurística 	| Evaluación 	|
 |----------------	|------------	|------------	|
 | Entrevistado 1 	| 1          	| 1          	|
@@ -3327,9 +3340,258 @@ Registro de revisiones: Todas las revisiones serán documentadas, detallando los
 <div id='6.4.1.3.'><h5>6.4.1.3. Contenido de auditoría realizada.</h5></div>
 <div id='6.4.2.'><h4>6.4.2. Auditoría recibida.</h4></div>
 <div id='6.4.2.1.'><h5>6.4.2.1. Información del grupo auditor.</h5></div>
+
+El equipo que nos auditó fue “XXX”. Los integrantes del grupo son Daniel Del Castillo, Brayan Morales, Marcelo Ramirez, Carlos Sánchez y Gonzalo Zavala.
+
 <div id='6.4.2.2.'><h5>6.4.2.2. Cronograma de auditoría recibida.</h5></div>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:normal">Actividad de auditoría </span></th>
+    <th class="tg-0pky"><span style="font-weight:normal">Fecha</span></th>
+    <th class="tg-0pky"><span style="font-weight:normal">Hora</span></th>
+    <th class="tg-0pky"><span style="font-weight:normal">Realizado por</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Solicitud de información</td>
+    <td class="tg-0pky">01/06/2025</td>
+    <td class="tg-0pky">12:00 p.m.</td>
+    <td class="tg-0pky">Daniel Mateo Del Castillo Bueno</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Recepción de información</td>
+    <td class="tg-0pky">01/06/2025</td>
+    <td class="tg-0pky">12:00 p.m.</td>
+    <td class="tg-0pky">Daniel Mateo Del Castillo Bueno</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Lectura de la información</td>
+    <td class="tg-0pky">04/06/2025</td>
+    <td class="tg-0pky">2:00 p.m.</td>
+    <td class="tg-0pky">Brayan Smith Morales Quispe</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ejecución de auditoria</td>
+    <td class="tg-0pky">05/06/2025</td>
+    <td class="tg-0pky">3:00 p.m.</td>
+    <td class="tg-0pky">Marcelo Sebastian Ramirez Ramirez</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Elaboración del informe</td>
+    <td class="tg-0pky">06/06/2025</td>
+    <td class="tg-0pky">3:00 p.m.</td>
+    <td class="tg-0pky">Carlos Zósimo Sánchez Montero</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Envió del informe de auditoría</td>
+    <td class="tg-0pky">07/06/2025</td>
+    <td class="tg-0pky">5:00 p.m.</td>
+    <td class="tg-0pky">Gonzalo Andre Zavala Quedena</td>
+  </tr>
+</tbody></table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:normal">Nombres y Apellidos</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Código de alumno</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Daniel Mateo Del Castillo Bueno</td>
+    <td class="tg-0lax">u202211212</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Brayan Smith Morales Quispe</td>
+    <td class="tg-0lax">u20211f984</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Marcelo Sebastian Ramirez Ramirez</td>
+    <td class="tg-0lax">u202210582</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Carlos Zósimo Sánchez Montero</td>
+    <td class="tg-0lax">u202015274</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Gonzalo Andre Zavala Quedena</td>
+    <td class="tg-0lax">u202113656</td>
+  </tr>
+</tbody>
+</table>
+
 <div id='6.4.2.3.'><h5>6.4.2.3. Contenido de auditoría recibida.</h5></div>
-<div id='6.4.2.4.'><h5>6.4.2.4. Resumen de modificaciones para subsanar hallazgos.</h5></div>
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+<thead>
+<tr>
+  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">#</th>
+  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Problema</th>
+  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Escala de severidad</th>
+  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Heurística/Principio violada(o)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Fondo borroso con elementos visuales complejos que distraen o dificultan la lectura de los campos de ingreso.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Usabilidad: Visibilidad del estado del sistema / Estética y diseño minimalista.
+  </td>
+</tr>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Información de contacto visible, pero sin botón claro para llamar o copiar número; ícono teléfono no indica interacción.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Visibilidad del estado del sistema / Control del usuario.
+  </td>
+</tr>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Repetición exacta de información en múltiples pedidos sin diferenciación clara, causando confusión sobre validez y distinción.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Visibilidad del estado del sistema / Consistencia y estándares.
+  </td>
+</tr>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Falta de etiquetas claras y visibles para los campos, dificultando la comprensión rápida del formulario.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Visibilidad del estado del sistema / Claridad.
+  </td>
+</tr>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Formato de fecha y hora poco claro y confuso ("2024-08-06 T2:50:00"), dificultando la comprensión rápida.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Correspondencia entre sistema y mundo real.
+  </td>
+</tr>
+</tbody>
+</table>
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+*Problema #1*: Fondo borroso con elementos visuales complejos que distraen o dificultan la lectura de los campos de ingreso.
+
+*Severidad*: 3
+
+*Heurística violada*: Usabilidad
+
+*Problema*:
+
+En este caso, el fondo con la imagen borrosa y colores variados detrás del formulario podría hacer que los usuarios tengan dificultad para enfocar la atención en los campos para ingresar datos, especialmente para usuarios con baja visión o en ambientes con luz intensa. Mejorar el contraste o hacer el fondo más neutro o uniformemente borroso puede ayudar.
+
+<img src="assets/Heurística/H1.png" alt="Heurística1" width="200" class="rounded shadow mb-4"/>
+
+*Recomendación*: Para mejorar la legibilidad, se recomienda usar un filtro semitransparente oscuro o claro sobre la imagen de fondo para aumentar el contraste con el formulario, o bien usar un fondo uniformemente borroso sin elementos distractores. También es útil aumentar el contraste del texto y los campos de ingreso para facilitar la lectura.
+
+---
+
+*Problema #2*: La información de contacto “Celular” está visible, pero no hay un botón claro para llamar o copiar el número. El ícono del teléfono puede indicar una acción, pero no es obvio si es interactivo.
+
+*Severidad*: 3
+
+*Heurística violada*: Visibilidad del estado del sistema / Control del usuario
+
+*Problema*:
+
+La falta de un botón o acción clara para interactuar con el número de teléfono (como llamar o copiar) puede frustrar al usuario, ya que el ícono solo sugiere una acción sin confirmarla, lo que reduce la facilidad de uso y la eficiencia en la interacción.
+
+<img src="assets/Heurística/H2.png" alt="Heurística2" width="200" class="rounded shadow mb-4"/>
+
+*Recomendación*: Incluir un botón visible para llamar directamente al número o para copiarlo al portapapeles. El ícono del teléfono debería ser interactivo y mostrar retroalimentación visual al tocarlo para que el usuario entienda la acción realizada.
+
+---
+
+*Problema #3*: Repetición exacta de la misma información para todos los pedidos, sin diferenciación clara (misma dirección, cliente, fecha). Esto puede causar confusión sobre si son pedidos distintos o un error.
+
+*Severidad*: 3
+
+*Heurística violada*: Visibilidad del estado del sistema / Consistencia y estándares.
+
+*Problema*:
+
+La repetición de la misma información en múltiples pedidos sin diferenciación hace que el usuario dude sobre la validez y distinción de cada pedido, afectando la claridad y confianza en el sistema.
+
+<img src="assets/Heurística/H3.png" alt="Heurística3" width="200" class="rounded shadow mb-4"/>
+
+*Recomendación*: Mostrar datos específicos y únicos para cada pedido (como número de pedido, fecha y hora real, estado diferenciado). Usar también elementos visuales como separadores o destacados para distinguir claramente cada pedido.
+
+---
+
+*Problema #4*: Falta de etiquetas claras y visibles para los campos (solo hay íconos y texto en placeholder), lo que puede dificultar la comprensión rápida del formulario.
+
+*Severidad*: 3
+
+*Heurística violada*: Visibilidad del estado del sistema / Claridad.
+
+*Problema*:
+
+La ausencia de etiquetas claras y visibles para los campos hace que el usuario dependa únicamente de los placeholders, que desaparecen al escribir, dificultando la comprensión y aumentando la posibilidad de error al completar el formulario.
+
+<img src="assets/Heurística/H4.png" alt="Heurística4" width="200" class="rounded shadow mb-4"/>
+
+*Recomendación*: Añadir etiquetas fijas por encima de cada campo, que permanezcan visibles mientras el usuario completa el formulario. Usar íconos solo como complemento, no como reemplazo de etiquetas de texto claras.
+
+---
+
+*Problema #5*: El formato de fecha y hora "2024-08-06 T2:50:00" sigue siendo confuso y poco claro para el usuario (el "T2" no es estándar).
+
+*Severidad*: 3
+
+*Heurística violada*: Correspondencia entre sistema y mundo real.
+
+*Problema*:
+
+El formato "2024-08-06 T2:50:00" es técnico y poco legible para usuarios comunes, lo que dificulta la comprensión rápida de la fecha y hora del pedido.
+
+<img src="assets/Heurística/H5.png" alt="Heurística5" width="200" class="rounded shadow mb-4"/>
+
+*Recomendación*: Mostrar la fecha y hora en un formato legible y familiar para los usuarios, por ejemplo: "6 de agosto de 2024, 2:50 PM". Además, evitar caracteres técnicos como la "T" y corregir errores (por ejemplo, “T2” parece un error).
+
+<div id='6.4.2.4.'><h5>6.4.2.4. Resumen de modificaciones para subsanar hallazgos.</h5></div> <ul> 
+
+<li><strong>Mejora del fondo de pantalla en la pantalla de ingreso:</strong> Se aplicó un filtro semitransparente uniforme para reducir distracciones visuales y mejorar el contraste, facilitando la legibilidad de los campos.</li>
+
+<li><strong>Implementación de botones interactivos para contacto:</strong> Se añadieron botones visibles para llamar y copiar el número de celular, asegurando que los usuarios puedan realizar estas acciones con facilidad y claridad.</li>
+
+<li><strong>Corrección y diferenciación de información en listado de pedidos:</strong> Se actualizaron los datos para reflejar información única y precisa en cada pedido, eliminando confusiones por datos repetidos.</li> 
+
+<li><strong>Incorporación de etiquetas visibles en formularios:</strong> Se añadieron etiquetas fijas sobre los campos de entrada para mejorar la claridad y evitar dependencia exclusiva de los placeholders.</li> 
+
+<li><strong>Estándarización y mejora del formato de fecha y hora:</strong> Se ajustó el formato para mostrar fechas y horas en formato amigable para el usuario, eliminando elementos técnicos confusos como la letra “T” y errores de formato.</li> </ul>
 
 <!-- Capítulo VII -->
 <div id='7.'><h2>Capítulo VII: DevOps Practices</h2></div>

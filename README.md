@@ -3679,11 +3679,160 @@ Esta estrategia integral de monitoreo proporciona visibilidad total sobre la sal
 <div id='8.1.1.'><h4>8.1.1. As-Is Summary.</h4></div>
 <div id='8.1.2.'><h4>8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.</h4></div>
 <div id='8.1.3.'><h4>8.1.3. Experiment-Ready Questions.</h4></div>
+Este conjunto de preguntas estan diseñadas para guiar la experimentación orientadas a nuestro producto. Cada una de estas busca validar hipótesis y específicas sobre el comportamiento de nuestros usuarios.
+<h3>Preguntas sobre Filtros y Búsqueda de Vehículos</h3>
+
+- **Cuáles son los filtros más utilizados por los usuariso al buscar vehículos?**
+Hipótesis: Los usuarios priorizan filtros como tipo de vehiculo, precio diario y ubicación.
+
+- **Qué impacto tiene la posibilidad de guardar búsquedas o vehículos favoritos en la retención de usuarios?**
+Hipótesis: Los usuarios que guardan búsquedas regresan con mayor frecuencia.
+
+<h3>Preguntas sobre Incentivos y Recompensas para Propietarios</h3>
+
+- **Los incentivos basado en desempeño aumentan la frecuenta de publicación?**
+Hipótesis: Los propietarios publicarán más vehículos si tienen beneficios directos por hacerlo.
+
+- **Cómo reaccionan los propietarios ante un sistema de clasificación pública que resalte su desempeño**
+Hipótesis: La reputación influye positivamente en la calidad del servicio.
+
+<h3>Pregunas sobre Planes Premium y modelo de monetización</h3>
+
+- **Los beneficios adicionales en los planes premium incrementan las suscripciones?**
+Hipótesis: Un valor tangible y visible motiva la conversión.
+
+
+
 <div id='8.1.4.'><h4>8.1.4. Question Backlog.</h4></div>
+
+### Preguntas sobre Filtros y Búsqueda de Vehículos
+
+| Pregunta | Hipótesis | Prioridad | Objetivo |
+|---------|-----------|-----------|----------|
+| ¿Cuáles son los filtros más utilizados por los usuarios al buscar vehículos? | Los usuarios priorizan filtros como tipo de vehículo, precio diario y ubicación. | Alta | Identificación clara de filtros preferidos para mejorar la experiencia de búsqueda. |
+| ¿Qué impacto tiene la posibilidad de guardar búsquedas o vehículos favoritos en la retención de usuarios? | Los usuarios que guardan búsquedas regresan con mayor frecuencia. | Media | Incremento en la tasa de usuarios recurrentes. |
+
+### Preguntas sobre Incentivos y Recompensas para Propietarios
+
+| Pregunta | Hipótesis | Prioridad | Objetivo |
+|---------|-----------|-----------|----------|
+| ¿Los incentivos basados en desempeño aumentan la frecuencia de publicación? | Los propietarios publicarán más vehículos si tienen beneficios directos por hacerlo. | Media | Incremento del 40% en publicaciones mensuales. |
+| ¿Cómo reaccionan los propietarios ante un sistema de clasificación pública que resalte su desempeño? | La reputación influye positivamente en la calidad del servicio. | Media | Mejora en la reputación e interacción de los propietarios. |
+
+### Preguntas sobre Planes Premium y Modelo de Monetización
+
+| Pregunta | Hipótesis | Prioridad | Objetivo |
+|---------|-----------|-----------|----------|
+| ¿Los beneficios adicionales en los planes premium incrementan las suscripciones? | Un valor tangible y visible motiva la conversión. | Alta | Incremento del 15% en suscripciones premium. |
+
 <div id='8.1.5.'><h4>8.1.5. Experiment Cards.</h4></div>
 
+### Experiment Card 1 – Filtros más utilizados por los usuarios
+
+- **Question:** ¿Cuáles son los filtros más utilizados por los usuarios al buscar vehículos?
+- **Why:** Entender qué filtros prefieren los usuarios permitirá priorizarlos y mejorar la experiencia de búsqueda.
+- **What:** Analizar los filtros más seleccionados en un periodo de 3 meses para determinar los más relevantes.
+- **Hipótesis:** Los filtros de tipo de vehículo, precio diario y ubicación serán usados en el 70% de las búsquedas.
+
+---
+
+### Experiment Card 2 – Guardar búsquedas y retención de usuarios
+
+- **Question:** ¿Qué impacto tiene la posibilidad de guardar búsquedas o vehículos favoritos en la retención de usuarios?
+- **Why:** Identificar si esta función incrementa la frecuencia de retorno de los usuarios.
+- **What:** Permitir guardar vehículos favoritos y analizar el retorno de usuarios en un plazo de 6 meses.
+- **Hipótesis:** La tasa de usuarios recurrentes aumentará en un 20% en los 6 meses posteriores a la implementación.
+
+---
+
+### Experiment Card 3 – Incentivos basados en desempeño para propietarios
+
+- **Question:** ¿Los incentivos basados en desempeño aumentan la frecuencia de publicación de vehículos?
+- **Why:** Medir si los incentivos motivan a los propietarios a participar más activamente.
+- **What:** Ofrecer mayor visibilidad como incentivo y medir el aumento de publicaciones en 3 meses.
+- **Hipótesis:** La frecuencia de publicaciones aumentará en un 35% en el periodo de 3 meses.
+
+---
+
+### Experiment Card 4 – Clasificación pública de propietarios y su impacto
+
+- **Question:** ¿Cómo reaccionan los propietarios ante un sistema de clasificación que resalte su desempeño?
+- **Why:** Evaluar si un sistema de reputación mejora la calidad y cantidad de publicaciones.
+- **What:** Implementar un sistema de ranking y medir su impacto durante 6 meses.
+- **Hipótesis:** La calidad de las publicaciones mejorará en un 30% y la frecuencia aumentará en un 20%.
+
+---
+
+### Experiment Card 5 – Beneficios premium y suscripciones
+
+- **Question:** ¿Los beneficios adicionales en los planes premium incrementan las suscripciones?
+- **Why:** Validar si ofrecer ventajas exclusivas atrae más suscriptores.
+- **What:** Añadir beneficios como prioridad en búsquedas y estadísticas avanzadas; medir suscripciones durante 3 meses.
+- **Hipótesis:** Las suscripciones premium aumentarán en un 15% tras implementar los beneficios.
+
+---
+
+### Experiment Card 6 – Disposición de pago por beneficios exclusivos
+
+- **Question:** ¿Qué tan dispuestos están los usuarios a pagar por beneficios exclusivos dentro de la plataforma?
+- **Why:** Conocer la disposición de pago permitirá diseñar planes más atractivos.
+- **What:** Realizar encuestas y pruebas piloto durante 2 meses para evaluar el interés por funciones exclusivas (ej. reserva instantánea, seguros).
+- **Hipótesis:** Al menos el 50% de los usuarios encuestados estarán dispuestos a pagar hasta S/50 mensuales por beneficios adicionales.
+
 <div id='8.2.'><h3>8.2. Experiment Design</h3></div>
+
+El diseño de los experimentos para Ecomovil está pensado para validar hipótesis
+específicas que puedan tener un impacto directo en la plataforma. La idea es aplicar
+cambios graduales en distintas funcionalidades.
+
 <div id='8.2.1.'><h4>8.2.1. Hypotheses.</h4></div>
+
+### Hypothesis 1 – Filtros más utilizados por los usuarios
+
+- **Hipótesis:** Los filtros de tipo de vehículo, precio diario y ubicación serán utilizados en el 60% de las búsquedas realizadas durante los primeros tres meses.
+- **Aspecto técnico de la hipótesis:** Se desplegarán estos filtros de forma destacada en la interfaz de búsqueda y se agregará un sistema de tracking en backend para registrar la frecuencia de aplicación. Los datos se almacenarán en tiempo real usando logs estructurados y métricas personalizadas (ej. CloudWatch o Firebase Analytics).
+- **Posible prueba A/B:** Se comparará el comportamiento entre una versión estándar y otra con filtros destacados para determinar si mejora la experiencia de búsqueda.
+
+---
+
+### Hypothesis 2 – Guardar búsquedas y retención de usuarios
+
+- **Hipótesis:** La posibilidad de guardar búsquedas aumentará la retención de usuarios en un 10% en los primeros seis meses.
+- **Aspecto técnico de la hipótesis:** Se integrará una opción para guardar búsquedas o vehículos favoritos desde el frontend. Esto se sincronizará con la base de datos del perfil del usuario (con fallback en cookies locales) y se permitirá la recuperación desde múltiples dispositivos.
+- **Posible prueba técnica:** Se evaluará la carga de la base de datos y el rendimiento de la API de recuperación. Además, se monitoreará la frecuencia de retorno de usuarios con esta funcionalidad habilitada.
+
+---
+
+### Hypothesis 3 – Incentivos basados en desempeño para propietarios
+
+- **Hipótesis:** Los incentivos basados en mayor visibilidad incrementarán la frecuencia de publicaciones en un 15% en 6 meses.
+- **Aspecto técnico de la hipótesis:** Se implementará un sistema automático que posicione vehículos de propietarios destacados en los primeros resultados de búsqueda. El sistema analizará la frecuencia de publicación, tasas de éxito y calificaciones para aplicar los beneficios dinámicamente.
+- **Posible prueba técnica:** Se medirá el impacto en la carga del backend, la velocidad de actualización de los listados y se verificará que no se generen cuellos de botella al priorizar los resultados.
+
+---
+
+### Hypothesis 4 – Clasificación pública de propietarios y su desempeño
+
+- **Hipótesis:** La introducción de un sistema de clasificación mejorará la calidad de las publicaciones en un 30% en seis meses.
+- **Aspecto técnico de la hipótesis:** Se desarrollará un ranking visible basado en métricas como tiempo de respuesta, calificaciones recibidas, frecuencia de publicación y cumplimiento de reservas. El ranking se mostrará en los perfiles y listados, con actualización en tiempo real.
+- **Posibles métricas técnicas:** Variación en cantidad y calidad de publicaciones, tasa de cancelación y cambios en calificaciones post-implementación.
+
+---
+
+### Hypothesis 5 – Beneficios premium y suscripciones
+
+- **Hipótesis:** La inclusión de beneficios adicionales en los planes premium incrementará las suscripciones en un 15% durante los primeros tres meses.
+- **Aspecto técnico de la hipótesis:** Se creará un módulo de administración de beneficios, con opciones como prioridad en resultados de búsqueda, alertas tempranas para vehículos populares y analíticas personalizadas. Se integrará tracking en el dashboard de marketing.
+- **Posible prueba técnica:** Se monitoreará la correcta asignación de beneficios premium, tiempos de respuesta de API relacionados y se medirá la conversión de usuarios free → premium.
+
+---
+
+### Hypothesis 6 – Disposición de los usuarios a pagar por beneficios exclusivos
+
+- **Hipótesis:** Al menos el 50% de los usuarios encuestados estarán dispuestos a pagar hasta S/5 mensuales por beneficios exclusivos.
+- **Aspecto técnico de la hipótesis:** Se implementará una encuesta interactiva en el frontend, conectada a una base analítica donde se recolectarán preferencias. En base a los resultados, se activarán pruebas piloto de paquetes premium para un grupo reducido de usuarios.
+- **Posible métrica técnica:** Tasa de participación en la encuesta, comportamiento de compra en la prueba piloto, y tasa de retención durante el experimento de 2 meses.
+
 <div id='8.2.2.'><h4>8.2.2. Measures.</h4></div>
 <div id='8.2.3.'><h4>8.2.3. Conditions.</h4></div>
 <div id='8.2.4.'><h4>8.2.4. Scale Calculations and Decisions.</h4></div>

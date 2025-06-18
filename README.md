@@ -3903,15 +3903,15 @@ Los métodos seleccionados en el documento son apropiados porque responden direc
 
 <div id='8.2.6.'><h4>8.2.6. Data Analytics: Goals, KPIs and Metrics Selection.</h4></div>
 
-<<<<<<< HEAD
+
 <div id='8.2.7.'><h4>8.2.7. Web and Mobile Tracking Plan.</h4></div>
 
-=======
 El análisis de los datos se centrará en evaluar la efectividad de la aplicación EcoMovil y la satisfacción de los usuarios. Los indicadores clave de rendimiento (KPIs) que se medirán son los siguientes:
 
 - **Tasa de adopción** de la funcionalidad para la planificación de rutas ecológicas.
 - **Tiempo promedio** de uso por sesión, para medir la interacción de los usuarios con los medios de transporte ecológicos.
 - **Precisión** en la estimación de los tiempos de llegada de los vehículos ecológicos.
+
 <div id='8.2.7.'><h4>8.2.7. Web and Mobile Tracking Plan.</h4></div>
 
 Se implementará un plan de seguimiento detallado tanto para la versión web como móvil de **EcoMovil**. A través de este plan, se rastrearán los siguientes eventos clave para evaluar el uso de la aplicación y la experiencia del usuario:

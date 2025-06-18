@@ -3834,11 +3834,77 @@ cambios graduales en distintas funcionalidades.
 - **Posible métrica técnica:** Tasa de participación en la encuesta, comportamiento de compra en la prueba piloto, y tasa de retención durante el experimento de 2 meses.
 
 <div id='8.2.2.'><h4>8.2.2. Measures.</h4></div>
+
+Las medidas adoptadas en el proyecto **EcoMovil** responden tanto a la validación funcional del producto como a su impacto social y ambiental. Se identifican las siguientes:
+
+- **Medidas de verificación funcional**: Pruebas unitarias, de integración, de comportamiento (BDD) y de sistema para asegurar la conformidad con los requisitos.
+- **Medidas de validación de usuario**: Entrevistas a estudiantes universitarios y adquirientes para evaluar usabilidad, funcionalidad y satisfacción.
+- **Medidas de impacto ambiental**: Reducción del 40% en emisiones de CO₂ por el uso de medios de transporte sostenibles.
+- **Medidas de experiencia de usuario**: Indicadores como tiempo de uso, tasa de retención y nivel de participación en gamificación.
+- **Medidas de adopción**: Objetivo de lograr al menos un 70% de satisfacción del usuario durante el primer trimestre postlanzamiento.
+
 <div id='8.2.3.'><h4>8.2.3. Conditions.</h4></div>
+
+Las medidas anteriores se aplican bajo las siguientes condiciones:
+
+- **Limitaciones técnicas**: Requiere compatibilidad en múltiples dispositivos, con conectividad variable y recursos limitados.
+- **Contexto social**: Los estudiantes tienen horarios restringidos y presupuestos ajustados; la solución debe ser intuitiva y de bajo costo.
+- **Condiciones urbanas**: Alta congestión vehicular, infraestructura limitada para movilidad alternativa y contaminación elevada en Lima.
+- **Hipótesis operativas**: Las hipótesis Lean UX condicionan las funcionalidades y validaciones del producto.
+- **Supuestos de validación**: Se asume la buena fe de los usuarios, la veracidad de los vehículos publicados y la existencia de condiciones mínimas de seguridad y mantenimiento.
+
 <div id='8.2.4.'><h4>8.2.4. Scale Calculations and Decisions.</h4></div>
+En el documento se establecen criterios de decisión e indicadores clave para evaluar el éxito del producto. Aunque no se incluyen fórmulas explícitas, se pueden inferir escalas y cálculos como los siguientes:
+
+1. **Índice de satisfacción del usuario**:
+
+   ISU=(usuarios satisfechos / Total de usuarios encuestados)∙100
+
+- Meta: ≥ 70%
+1. **Reducción estimada de emisiones**:\
+   Supuesto: un viaje promedio en auto = 1.2 kg de CO₂\
+   Reemplazo por vehículo ecológico:
+
+   Reducción CO2=Viajes con EcoMovil∙1.2Kg
+
+- Meta: reducción del 40% de las emisiones relacionadas con los viajes reemplazados.
+1. **Retención de usuarios**:
+
+   RU= (Usuarios activos en el mes 2 / Usuarios que se registraron en el mes 1) ∙100
+
+- Indicador para evaluar engagement postlanzamiento.
+1. **Tasa de adopción**:
+
+   TA=(Nuevos usuarios por semana/ Usuarios meta) ∙100
+
+1. **Escalabilidad por zonas geográficas**:\
+   Se sugiere priorizar zonas con:
+- Alta densidad universitaria.
+- Baja oferta de servicios similares.
+- Alta contaminación y congestión vehicular.
+
+
+
 <div id='8.2.5.'><h4>8.2.5. Methods Selection.</h4></div>
+
+Los métodos seleccionados en el documento son apropiados porque responden directamente a los objetivos funcionales, técnicos y sociales del proyecto. Se destacan los siguientes:
+
+- **Lean UX:** Elegido por su enfoque iterativo y centrado en el usuario, permite validar hipótesis rápidamente y ajustar el producto con base en evidencia real. Es ideal para entornos ágiles y startups como EcoMovil.
+
+- **Entrevistas cualitativas:** Permiten comprender profundamente las necesidades y comportamientos de los segmentos objetivo, esencial para una solución que pretende ser práctica y contextualizada.
+
+- **Pruebas unitarias e integración:** Son fundamentales para asegurar la calidad técnica del software y mitigar errores en etapas tempranas del desarrollo.
+
+- **Análisis competitivo (SWOT):** Justificado por la necesidad de posicionar EcoMovil en un mercado con servicios parcialmente similares, pero con oportunidades claras de diferenciación.
+
+- **Gamificación:** Incorporada como método para incentivar el uso continuo de la app, aumentar la retención y generar comunidad en torno al servicio.
+
+- **Modelo de ingresos basado en suscripción y comisión:** Adecuado para estudiantes, ya que ofrece flexibilidad y bajos costos iniciales, fomentando así la adopción temprana.
+
 <div id='8.2.6.'><h4>8.2.6. Data Analytics: Goals, KPIs and Metrics Selection.</h4></div>
+
 <div id='8.2.7.'><h4>8.2.7. Web and Mobile Tracking Plan.</h4></div>
+
 
 <div id='8.3.'><h3>8.3. Experimentation</h3></div>
 <div id='8.3.1.'><h4>8.3.1. To-Be User Stories.</h4></div>

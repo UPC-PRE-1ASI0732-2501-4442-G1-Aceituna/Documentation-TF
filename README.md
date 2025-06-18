@@ -3854,6 +3854,35 @@ Las medidas anteriores se aplican bajo las siguientes condiciones:
 - **Supuestos de validación**: Se asume la buena fe de los usuarios, la veracidad de los vehículos publicados y la existencia de condiciones mínimas de seguridad y mantenimiento.
 
 <div id='8.2.4.'><h4>8.2.4. Scale Calculations and Decisions.</h4></div>
+En el documento se establecen criterios de decisión e indicadores clave para evaluar el éxito del producto. Aunque no se incluyen fórmulas explícitas, se pueden inferir escalas y cálculos como los siguientes:
+
+1. **Índice de satisfacción del usuario**:
+
+   ISU=(usuarios satisfechos / Total de usuarios encuestados)∙100
+
+- Meta: ≥ 70%
+1. **Reducción estimada de emisiones**:\
+   Supuesto: un viaje promedio en auto = 1.2 kg de CO₂\
+   Reemplazo por vehículo ecológico:
+
+   Reducción CO2=Viajes con EcoMovil∙1.2Kg
+
+- Meta: reducción del 40% de las emisiones relacionadas con los viajes reemplazados.
+1. **Retención de usuarios**:
+
+   RU= (Usuarios activos en el mes 2 / Usuarios que se registraron en el mes 1) ∙100
+
+- Indicador para evaluar engagement postlanzamiento.
+1. **Tasa de adopción**:
+
+   TA=(Nuevos usuarios por semana/ Usuarios meta) ∙100
+
+1. **Escalabilidad por zonas geográficas**:\
+   Se sugiere priorizar zonas con:
+- Alta densidad universitaria.
+- Baja oferta de servicios similares.
+- Alta contaminación y congestión vehicular.
+
 
 
 <div id='8.2.5.'><h4>8.2.5. Methods Selection.</h4></div>

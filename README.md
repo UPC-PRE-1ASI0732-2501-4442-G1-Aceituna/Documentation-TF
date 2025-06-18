@@ -3903,12 +3903,56 @@ Los métodos seleccionados en el documento son apropiados porque responden direc
 
 <div id='8.2.6.'><h4>8.2.6. Data Analytics: Goals, KPIs and Metrics Selection.</h4></div>
 
+<<<<<<< HEAD
 <div id='8.2.7.'><h4>8.2.7. Web and Mobile Tracking Plan.</h4></div>
 
+=======
+El análisis de los datos se centrará en evaluar la efectividad de la aplicación EcoMovil y la satisfacción de los usuarios. Los indicadores clave de rendimiento (KPIs) que se medirán son los siguientes:
+
+- **Tasa de adopción** de la funcionalidad para la planificación de rutas ecológicas.
+- **Tiempo promedio** de uso por sesión, para medir la interacción de los usuarios con los medios de transporte ecológicos.
+- **Precisión** en la estimación de los tiempos de llegada de los vehículos ecológicos.
+<div id='8.2.7.'><h4>8.2.7. Web and Mobile Tracking Plan.</h4></div>
+
+Se implementará un plan de seguimiento detallado tanto para la versión web como móvil de **EcoMovil**. A través de este plan, se rastrearán los siguientes eventos clave para evaluar el uso de la aplicación y la experiencia del usuario:
+
+- **Inicio de sesión** y **frecuencia de uso** de la aplicación por parte de los usuarios, para medir la adopción y el compromiso con la plataforma.
+- **Acceso a funcionalidades clave**, como la **planificación de rutas ecológicas** y la **visualización de vehículos disponibles**, para entender cómo los usuarios interactúan con las herramientas esenciales de la aplicación.
+- **Duración de las sesiones** y eventos de **interacción específicos**, como el alquiler o la compra de vehículos ecológicos, para analizar la participación activa y el comportamiento de los usuarios.
+
+Estas métricas se rastrearán mediante herramientas como **Google Analytics** y **Firebase**, con el objetivo de mejorar la experiencia del usuario y optimizar la funcionalidad de la aplicación de manera continua.
+>>>>>>> 8768c8be3df818081319e22059034e0c049cd984
 
 <div id='8.3.'><h3>8.3. Experimentation</h3></div>
 <div id='8.3.1.'><h4>8.3.1. To-Be User Stories.</h4></div>
+
+| ID   | User Story | Criterios de Aceptación |
+|------|------------|-------------------------|
+| US01 | Como estudiante o comprador, quiero ver una página de inicio para explorar las características de la plataforma. | - **Given** que el usuario accede al sitio web principal, **when** aparece el menú superior, **then** debe mostrar todas las opciones disponibles. <br> - **Given** que el usuario está en la página, **when** selecciona un enlace del menú, **then** debe llevarlo a la sección correspondiente. |
+| US02 | Como visitante, quiero una presentación visual impactante para comprender rápidamente el propósito del servicio. | - **Given** que se carga la página principal, **when** el usuario llega al sitio, **then** la zona destacada debe mostrar contenido llamativo que explique el valor del producto. |
+| US03 | Como cliente potencial, quiero encontrar datos legales y de contacto para resolver dudas o consultas. | - **Given** que el usuario navega hasta el final de la página, **when** visualiza el pie, **then** debe incluir enlaces a políticas y formas de comunicación. |
+| US04 | Como interesado, quiero entender las ventajas del sistema para evaluar si satisface mis requerimientos. | - **Given** que el usuario explora la plataforma, **when** llega al área explicativa, **then** debe describir claramente cómo funciona y qué beneficios ofrece. |
+| US05 | Como posible usuario, quiero canales de comunicación accesibles para iniciar mi experiencia con el servicio. | - **Given** que el usuario necesita asistencia, **when** visita la zona de contacto, **then** debe ofrecer métodos claros para establecer comunicación. |
+| US06 | Como usuario móvil, quiero una adaptación automática del diseño para navegar cómodamente desde cualquier dispositivo. | - **Given** que se accede desde distintos tamaños de pantalla, **when** se carga la interfaz, **then** debe reorganizarse correctamente sin afectar la usabilidad. |
+| US07 | Como cliente interesado, quiero comparar opciones de suscripción para seleccionar la que mejor se ajuste a mis necesidades. | - **Given** que el usuario revisa las membresías disponibles, **when** examina características y precios, **then** debe poder elegir y comenzar el proceso de adhesión. |
+| US08 | Como usuario curioso, quiero conocer los antecedentes del proyecto para entender su filosofía y valores. | - **Given** que se busca información institucional, **when** se visita la sección sobre nosotros, **then** debe presentar la historia y objetivos de manera clara y motivadora. |
+| US09 | Como nuevo miembro, quiero un formulario de registro sencillo para comenzar a utilizar los servicios. | - **Given** que el usuario decide registrarse, **when** completa sus datos básicos, **then** debe recibir confirmación y acceso inicial al sistema. |
+| US10 | Como usuario no registrado, quiero una opción de ingreso directo para acceder rápidamente a la plataforma. | - **Given** que existe una cuenta previa, **when** se introducen credenciales válidas, **then** debe permitirse el acceso al área privada. |
+
 <div id='8.3.2.'><h4>8.3.2. To-Be Product Backlog.</h4></div>
+
+| Prioridad | Historia de Usuario | Descripción | Estimación (Horas) |
+|-----------|----------------------|-------------|---------------------|
+| Alta      | US01 | Como estudiante o comprador, quiero ver una página de inicio para explorar las características de la plataforma. | 8 |
+| Alta      | US02 | Como visitante, quiero una presentación visual impactante para comprender rápidamente el propósito del servicio. | 6 |
+| Media     | US03 | Como cliente potencial, quiero encontrar datos legales y de contacto para resolver dudas o consultas. | 4 |
+| Media     | US04 | Como interesado, quiero entender las ventajas del sistema para evaluar si satisface mis requerimientos. | 5 |
+| Baja      | US05 | Como posible usuario, quiero canales de comunicación accesibles para iniciar mi experiencia con el servicio. | 3 |
+| Alta      | US06 | Como usuario móvil, quiero una adaptación automática del diseño para navegar cómodamente desde cualquier dispositivo. | 10 |
+| Alta      | US07 | Como cliente interesado, quiero comparar opciones de suscripción para seleccionar la que mejor se ajuste a mis necesidades. | 7 |
+| Baja      | US08 | Como usuario curioso, quiero conocer los antecedentes del proyecto para entender su filosofía y valores. | 4 |
+| Alta      | US09 | Como nuevo miembro, quiero un formulario de registro sencillo para comenzar a utilizar los servicios. | 6 |
+| Media     | US10 | Como usuario no registrado, quiero una opción de ingreso directo para acceder rápidamente a la plataforma. | 5 |
 
 <div id='9.'><h2>9. Conclusiones</h2></div>
 

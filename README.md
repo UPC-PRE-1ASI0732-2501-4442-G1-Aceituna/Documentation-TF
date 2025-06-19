@@ -3398,8 +3398,151 @@ Segmento 2
 <div id='6.4.'><h3>6.4. Auditoría de Experiencias de Usuario</h3></div>
 <div id='6.4.1.'><h4>6.4.1. Auditoría realizada.</h4></div>
 <div id='6.4.1.1.'><h5>6.4.1.1. Información del grupo auditado.</h5></div>
+
+El equipo que nos auditó fue EcoMovil. Los integrantes del grupo son David Gallo, Sebastian Valentino Silva Tirado, Estrella del Pilar Ticona Panduro, Diego Martin Bastidas Bastidas y Diego Rolin Ascuña Tomas.
+
 <div id='6.4.1.2.'><h5>6.4.1.2. Cronograma de auditoría realizada.</h5></div>
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:normal">Actividad de auditoría </span></th>
+    <th class="tg-0pky"><span style="font-weight:normal">Fecha</span></th>
+    <th class="tg-0pky"><span style="font-weight:normal">Hora</span></th>
+    <th class="tg-0pky"><span style="font-weight:normal">Realizado por</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Solicitud de información</td>
+    <td class="tg-0pky">01/06/2025</td>
+    <td class="tg-0pky">12:00 p.m.</td>
+    <td class="tg-0pky">David Ivanoff Gallo Quintana</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Recepción de información</td>
+    <td class="tg-0pky">01/06/2025</td>
+    <td class="tg-0pky">12:00 p.m.</td>
+    <td class="tg-0pky">David Ivanoff Gallo Quintana</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Lectura de la información</td>
+    <td class="tg-0pky">04/06/2025</td>
+    <td class="tg-0pky">2:00 p.m.</td>
+    <td class="tg-0pky">Sebastian Valentino Silva Tirado</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ejecución de auditoria</td>
+    <td class="tg-0pky">05/06/2025</td>
+    <td class="tg-0pky">3:00 p.m.</td>
+    <td class="tg-0pky">Estrella del Pilar Ticona Panduro</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Elaboración del informe</td>
+    <td class="tg-0pky">06/06/2025</td>
+    <td class="tg-0pky">3:00 p.m.</td>
+    <td class="tg-0pky">Diego Martin Bastidas Bastidas</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Envió del informe de auditoría</td>
+    <td class="tg-0pky">07/06/2025</td>
+    <td class="tg-0pky">5:00 p.m.</td>
+    <td class="tg-0pky">Diego Rolin Ascuña Tomas</td>
+  </tr>
+</tbody></table>
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:normal">Nombres y Apellidos</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Código de alumno</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">David Ivanoff Gallo Quintana</td>
+    <td class="tg-0lax">u202211212</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Sebastian Valentino Silva Tirado/td>
+    <td class="tg-0lax">u20211f984</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Estrella del Pilar Ticona Panduro</td>
+    <td class="tg-0lax">u202210582</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Diego Martin Bastidas Bastidas</td>
+    <td class="tg-0lax">u202015274</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Diego Rolin Ascuña Tomas</td>
+    <td class="tg-0lax">u202113656</td>
+  </tr>
+</tbody>
+</table>
+
 <div id='6.4.1.3.'><h5>6.4.1.3. Contenido de auditoría realizada.</h5></div>
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+<thead>
+<tr>
+  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">#</th>
+  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Problema</th>
+  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Escala de severidad</th>
+  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Heurística/Principio violada(o)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Fondo borroso con elementos visuales complejos que distraen o dificultan la lectura de los campos de ingreso.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Usabilidad: Visibilidad del estado del sistema / Estética y diseño minimalista.
+  </td>
+</tr>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Información de contacto visible, pero sin botón claro para llamar o copiar número; ícono teléfono no indica interacción.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Visibilidad del estado del sistema / Control del usuario.
+  </td>
+</tr>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Repetición exacta de información en múltiples pedidos sin diferenciación clara, causando confusión sobre validez y distinción.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Visibilidad del estado del sistema / Consistencia y estándares.
+  </td>
+</tr>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Falta de etiquetas claras y visibles para los campos, dificultando la comprensión rápida del formulario.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Visibilidad del estado del sistema / Claridad.
+  </td>
+</tr>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Formato de fecha y hora poco claro y confuso ("2024-08-06 T2:50:00"), dificultando la comprensión rápida.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Correspondencia entre sistema y mundo real.
+  </td>
+</tr>
+</tbody>
+</table>
+
 <div id='6.4.2.'><h4>6.4.2. Auditoría recibida.</h4></div>
 <div id='6.4.2.1.'><h5>6.4.2.1. Información del grupo auditor.</h5></div>
 

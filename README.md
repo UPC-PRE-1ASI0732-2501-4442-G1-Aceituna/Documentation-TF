@@ -3229,33 +3229,43 @@ Registro de revisiones: Todas las revisiones serán documentadas, detallando los
 
 *Objetivo*: Validar si estarían dispuestos a ofrecer vehículos para alquiler/venta, su interés en transporte ecológico, y las funcionalidades que valoran.
 
-1. ¿Actualmente utilizas algún medio de transporte ecológico (bicicleta, scooter, etc.)? ¿Con qué frecuencia?
-2. ¿Has considerado alguna vez alquilar o vender un vehículo ecológico que posees? ¿Por qué sí o por qué no?
-3. ¿Qué tan importante es para ti encontrar una fuente de ingreso flexible que se adapte a tu rutina universitaria?
-4. ¿Qué problemas enfrentas actualmente con el transporte urbano en tu ciudad?
-5. ¿Qué tanto te interesa reducir tu huella ecológica al movilizarte?
-6. ¿Qué tipo de incentivos te motivarían a ofrecer tu vehículo ecológico a otras personas mediante una app?
-7. ¿Qué características consideras esenciales en una app que conecta personas para alquilar o vender vehículos?
-8. ¿Qué tan seguro te sentirías al prestar tu vehículo a desconocidos mediante una app? ¿Qué garantías esperarías?
-9. ¿Has utilizado plataformas tipo marketplace (como OLX, Marketplace de Facebook, etc.)? ¿Qué te gusta o disgusta de ellas?
-10. ¿Qué haría que prefirieras usar EcoMovil sobre una plataforma más generalista?
-11. ¿Cuánto estarías dispuesto a pagar o recibir por una transacción (alquiler o venta) en la app?
+Acerca del Landing:
+- ¿Que opinas del diseño del landing page?
+- ¿Te queda claro la propuesta de solucion que se describe?
+- ¿La informacion en la pagina fue suficiente para entender eI proposito
+de la aplicacion?
+- Luego de analizar la landing page ¿Te sientes motivado a usar eI
+aplicativo descrito?
+Acerca del app: :
+- ¿Como describirias la experiencia usando la aplicacion? ¿Facil,
+intuitiva, o hubo alguna caracteristica que se te hizo dificil de
+entender?
+- ¿Cree que las funcionalidades ofrecidas en la aplicación ayudara a tener ingresos economicos?
+- ¿Estas conforme con la información mostrada en casa sección?
+- ¿Dirias que la navegación por la aplicación es fácil de comprender o lo encuentra confuso?
 
+-¿Hay alguna opción adicional que agregarías o estas conforme con todo lo desarrollado?
+- ¿Recomendarias la aplicacoin a otras personas?
 **Segmento 2**: Adquirientes (usuarios que desean alquilar o comprar vehículos)
 
 *Objetivo*: Validar la demanda por acceso a transporte ecológico, frecuencia de uso y qué tan valoran la sostenibilidad.
+Acerca del Landing:
+- ¿Que opinas del diseño del landing page?
+- ¿Te queda claro la propuesta de solución que se describe?
+- ¿La informacion en la pagina fue suficiente para entender eI proposito
+de la aplicacion?
+- Luego de analizar la landing page ¿Te sientes motivado a usar eI
+aplicativo descrito?
+Acerca del app: :
+- ¿Como describirias la experiencia usando la aplicacion? ¿Facil,
+intuitiva, o hubo alguna caracteristica que se te hizo dificil de
+entender?
+- ¿Cree que las funcionalidades ofrecidas en la aplicación ayudara obtener ya sea alquilar o comprar un vehiculo de manera segura?
+- ¿Estas conforme con la información mostrada en casa sección?
+- ¿Dirias que la navegación por la aplicación es fácil de comprender o lo encuentra confuso?
 
-1. ¿Qué medios de transporte utilizas regularmente para movilizarte en la ciudad?
-2. ¿Has considerado usar vehículos ecológicos como alternativa a tu transporte habitual? ¿Por qué sí o por qué no?
-3. ¿Con qué frecuencia te gustaría alquilar un vehículo ecológico si estuviera disponible cerca de ti?
-4. ¿Preferirías alquilar o comprar un vehículo ecológico? ¿Por qué?
-5. ¿Qué problemas has tenido al intentar acceder a este tipo de transporte (costos, disponibilidad, apps, etc.)?
-6. ¿Qué aspectos valoras más en una aplicación que te ofrezca vehículos ecológicos (precio, ubicación, seguridad, etc.)?
-7. ¿Qué tan cómodo te sentirías usando una app que conecte personas para alquilar vehículos personales?
-8. ¿Qué funciones o garantías te harían sentir más seguro al hacer una transacción en la app?
-9. ¿Cómo buscarías normalmente un vehículo ecológico para usar? ¿Qué criterios usas para elegirlo?
-10. ¿Qué esperas de la experiencia de usuario en una app como EcoMovil?
-11. ¿Qué haría que recomiendes EcoMovil a tus amigos o conocidos?
+-¿Hay alguna opción adicional que agregarías o estas conforme con todo lo desarrollado?
+- ¿Recomendarias la aplicacoin a otras personas?
 
 <div id='6.3.2.'><h4>6.3.2. Registro de Entrevistas.</h4></div>
 

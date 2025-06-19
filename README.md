@@ -3907,24 +3907,6 @@ El análisis de los datos se centrará en evaluar la efectividad de la aplicaci�
 - **Tasa de adopción** de la funcionalidad para la planificación de rutas ecológicas.
 - **Tiempo promedio** de uso por sesión, para medir la interacción de los usuarios con los medios de transporte ecológicos.
 - **Precisión** en la estimación de los tiempos de llegada de los vehículos ecológicos.
-<div id='8.2.7.'><h4>8.2.7. Web and Mobile Tracking Plan.</h4></div>
-
-Se implementará un plan de seguimiento detallado tanto para la versión web como móvil de **EcoMovil**. A través de este plan, se rastrearán los siguientes eventos clave para evaluar el uso de la aplicación y la experiencia del usuario:
-
-- **Inicio de sesión** y **frecuencia de uso** de la aplicación por parte de los usuarios, para medir la adopción y el compromiso con la plataforma.
-- **Acceso a funcionalidades clave**, como la **planificación de rutas ecológicas** y la **visualización de vehículos disponibles**, para entender cómo los usuarios interactúan con las herramientas esenciales de la aplicación.
-- **Duración de las sesiones** y eventos de **interacción específicos**, como el alquiler o la compra de vehículos ecológicos, para analizar la participación activa y el comportamiento de los usuarios.
-
-Estas métricas se rastrearán mediante herramientas como **Google Analytics** y **Firebase**, con el objetivo de mejorar la experiencia del usuario y optimizar la funcionalidad de la aplicación de manera continua.
-
-
-<div id='8.2.7.'><h4>8.2.7. Web and Mobile Tracking Plan.</h4></div>
-
-El análisis de los datos se centrará en evaluar la efectividad de la aplicación EcoMovil y la satisfacción de los usuarios. Los indicadores clave de rendimiento (KPIs) que se medirán son los siguientes:
-
-- **Tasa de adopción** de la funcionalidad para la planificación de rutas ecológicas.
-- **Tiempo promedio** de uso por sesión, para medir la interacción de los usuarios con los medios de transporte ecológicos.
-- **Precisión** en la estimación de los tiempos de llegada de los vehículos ecológicos.
 
 <div id='8.2.7.'><h4>8.2.7. Web and Mobile Tracking Plan.</h4></div>
 
@@ -3935,7 +3917,7 @@ Se implementará un plan de seguimiento detallado tanto para la versión web com
 - **Duración de las sesiones** y eventos de **interacción específicos**, como el alquiler o la compra de vehículos ecológicos, para analizar la participación activa y el comportamiento de los usuarios.
 
 Estas métricas se rastrearán mediante herramientas como **Google Analytics** y **Firebase**, con el objetivo de mejorar la experiencia del usuario y optimizar la funcionalidad de la aplicación de manera continua.
->>>>>>> 8768c8be3df818081319e22059034e0c049cd984
+
 
 <div id='8.3.'><h3>8.3. Experimentation</h3></div>
 <div id='8.3.1.'><h4>8.3.1. To-Be User Stories.</h4></div>

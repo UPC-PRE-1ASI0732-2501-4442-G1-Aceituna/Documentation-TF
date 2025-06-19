@@ -44,6 +44,23 @@ Esta sección tiene como propósito presentar un resumen de los cambios importan
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Versión</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Fecha</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Autor</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Descripción de modificación</th></tr></thead>
 <tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TP1</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">13/05/2025</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Silva Tirado, Sebastian Valentino</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Capítulo VI: Product Verification &amp; Validation. <br>Capítulo VII: DevOps Practices.</td></tr></tbody></table>
 
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:normal">Versión</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Fecha</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Autor</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Descripción de modificación</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">TB2</td>
+    <td class="tg-0lax">19/06/2025</td>
+    <td class="tg-0lax">Silva Tirado, Sebastian Valentino</td>
+    <td class="tg-0lax">Capítulo VI: Product Verification &amp; Validation. <br>Capítulo VII: DevOps Practices.<br>Capítulo VII: Experiment-Driven Development</td>
+  </tr>
+</tbody>
+</table>
+
 ## Project Report Collaboration Insights
 
 URL del repositorio para el reporte del proyecto: https://github.com/UPC-PRE-1ASI0732-2501-4442-G1-Aceituna
@@ -56,6 +73,9 @@ URL del repositorio para el reporte del proyecto: https://github.com/UPC-PRE-1AS
 
   <img src="assets/Reporte2.png" alt="Build & Test Suite Pipeline Components" width="500" class="rounded shadow mb-4"/>
 
+**TB2**
+
+  <img src="assets/Reporte3.png" alt="Build & Test Suite Pipeline Components" width="500" class="rounded shadow mb-4"/>
 
 **TB1**
 
@@ -78,6 +98,38 @@ Para la preparación del informe correspondiente a la entrega TP1, se distribuy�
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gallo Quintana, David Ivanoff</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6.1.3. Core Behavior-Driven Development<br>7.3.1. Tools and Practices.</td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Silva Tirado, Sebastian Valentino</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">7.1.1. Tools and Practices.<br>7.1.2. Build &amp; Test Suite Pipeline Components.</td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ticona Panduro, Estrella del Pilar</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">7.2.1. Tools and Practices.<br>7.2.2. Stages Deployment Pipeline Components.</td></tr></tbody></table>
+
+**TB2**
+
+Para la preparación del informe correspondiente a la entrega TB2, se distribuyó la implementación de las distintas secciones entre los miembros del equipo de la siguiente forma:
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:normal">Integrante</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Tareas Asignadas</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Acuña Tomas, Diego Rolin</td>
+    <td class="tg-0lax">7.4.3. Alerting Pipeline Components<br>7.4.4. Notification Pipeline Components. <br>8.1.1. As-Is Summary.<br>8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.<br>9.1. Conclusiones TB2<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Bastidas Bastidas, Diego Martin</td>
+    <td class="tg-0lax">8.2.6. Data Analytics: Goals, KPIs and Metrics Selection.<br>8.2.7. Web and Mobile Tracking Plan.<br>8.3.1. To-Be User Stories.<br>8.3.2. To-Be Product Backlog</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Gallo Quintana, David Ivanoff</td>
+    <td class="tg-0lax">8.1.3. Experiment-Ready Questions.<br>8.1.4. Question Backlog.<br>8.1.5. Experiment Cards.<br>8.2.1. Hypotheses.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Silva Tirado, Sebastian Valentino</td>
+    <td class="tg-0lax">6.4.1. Auditoría realizada.<br>6.4.1.1. Información del grupo auditado.<br>6.4.1.2. Cronograma de auditoría realizada.<br>6.4.1.3. Contenido de auditoría realizada.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ticona Panduro, Estrella del Pilar</td>
+    <td class="tg-0lax">8.2.2. Measures.<br>8.2.3. Conditions.<br>8.2.4. Scale Calculations and Decisions.<br>8.2.5. Methods Selection.<br></td>
+  </tr>
+</tbody></table>
 
 ## Contenido
 
@@ -239,14 +291,24 @@ considerar el impacto de las soluciones de ingeniería en contextos globales, ec
 ambientales y sociales.
 <b>ABET – EAC - Student Outcome 4</b>
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;wo<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Criterio específico</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Acciones realizadas</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Conclusiones</span></th></tr></thead>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:normal">Criterio específico</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Acciones realizadas</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Conclusiones</span></th>
+  </tr></thead>
 <tbody>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4.c.1 Reconoce responsabilidad<br>ética y profesional en<br>situaciones de ingeniería de<br>software</td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Acuña Tomas, Diego Rolin<br>TB1: Participó activamente asegurando que las decisiones técnicas cumplieran con estándares éticos y priorizando el respeto a los usuarios y la confidencialidad de sus datos.<br><br>Bastidas Bastidas, Diego Martin<br>TB1:Promovió prácticas responsables dentro del equipo, fomentando el uso adecuado de la información y el cumplimiento de principios éticos en el desarrollo del software.<br><br>Gallo Quintana, David Ivanoff<br>TB1:Demostró compromiso con los aspectos éticos del proyecto, reflexionando sobre las implicancias de nuestras soluciones y promoviendo una conducta profesional.<br><br>Silva Tirado, Sebastian Valentino<br>TB1:Se aseguró de que el código desarrollado siguiera buenas prácticas éticas, evitando malas prácticas como la reutilización de código sin referencia o manejo inadecuado de datos.<br><br>Ticona Panduro, Estrella del Pilar<br>TB1:<br>Contribuyó con una visión ética al evaluar funcionalidades, asegurándose de que estas respetaran la privacidad, la inclusión y el bienestar de los usuarios finales.<br><br>Acuña Tomas, Diego Rolin<br>TP1: Participó en la implementación de pruebas unitarias, asegurándose de que cada módulo del sistema cumpla con los estándares éticos y no interfiera con la privacidad de los datos del usuario.<br><br>Bastidas Bastidas, Diego Martin<br>TP1: Fomentó la creación de pruebas unitarias claras y fáciles de mantener, promoviendo una cobertura de pruebas adecuada que respete la integridad del código.<br><br>Gallo Quintana, David Ivanoff<br>TP1: Demostró compromiso con las pruebas de calidad, asegurándose de que todas las funcionalidades del sistema fueran verificadas en cuanto a su rendimiento y ética, sin causar efectos secundarios indeseados.<br><br>Silva Tirado, Sebastian Valentino<br>TP1: Garantizó que todas las pruebas unitarias respetaran las mejores prácticas, asegurando la reutilización ética de código y evitando el uso de datos sensibles de forma indebida.<br><br>Ticona Panduro, Estrella del Pilar<br>TP1: Colaboró en la creación de pruebas unitarias que evaluaran el comportamiento de la aplicación respetando los derechos de los usuarios y fomentando la inclusividad.</td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1:<br>En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco.<br><br>TP1:<br>En este entregable me encargué de diseñar y ejecutar pruebas unitarias, verificando que cada módulo de la aplicación funcionara correctamente de acuerdo a las especificaciones iniciales y sin comprometer la calidad ética del software.</td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4.c.2 Emite juicios informados<br>considerando el impacto de las<br>soluciones de ingeniería de<br>software en contextos globales,<br>económicos, ambientales y<br>sociales</td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Acuña Tomas, Diego Rolin<br>TB1:Analizó cómo el uso de la aplicación impacta en distintos contextos sociales, especialmente en relación con la inclusión digital y la formalización de servicios informales.<br><br>Bastidas Bastidas, Diego Martin<br>TB1:Evaluó las implicancias del sistema propuesto en el ámbito económico y social, considerando su efecto en pequeñas empresas del rubro de belleza.<br><br>Gallo Quintana, David Ivanoff<br>TB1:Contribuyó a la toma de decisiones considerando el impacto de nuestras soluciones a largo plazo en la sociedad y el medio ambiente, incluyendo sostenibilidad tecnológica.<br><br>Silva Tirado, Sebastian Valentino<br>TB1:Reflexionó sobre cómo las funcionalidades influirían en usuarios de distintos contextos, procurando decisiones inclusivas y con impacto positivo en la comunidad.<br><br>Ticona Panduro, Estrella del Pilar<br>TB1:Consideró el impacto social y cultural de la plataforma, impulsando soluciones que aporten valor en entornos con alta informalidad laboral y desigualdad de acceso.<br><br>Acuña Tomas, Diego Rolin<br>TP1: Evaluó cómo las pruebas unitarias afectan el rendimiento de la aplicación, asegurándose de que no generaran lentitud o consumo excesivo de recursos.<br><br>Bastidas Bastidas, Diego Martin<br>TP1: Consideró los efectos de las pruebas unitarias en la seguridad del software, realizando pruebas para identificar vulnerabilidades potenciales.<br><br>Gallo Quintana, David Ivanoff<br>TP1: Analizó el impacto de las pruebas unitarias en la estabilidad del sistema, asegurándose de que las nuevas actualizaciones no rompieran funcionalidades existentes.<br><br>Silva Tirado, Sebastian Valentino<br>TP1: Reflexionó sobre las implicaciones de las pruebas unitarias en el contexto de escalabilidad, asegurándose de que el software pudiera manejar cargas mayores sin perder eficacia.<br><br>Ticona Panduro, Estrella del Pilar<br>TP1: Reflexionó sobre el impacto de las pruebas en la usabilidad del sistema, buscando que las pruebas no afectaran la experiencia de usuario ni la accesibilidad.</td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1:<br>En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco.<br><br>TP1:<br>En este entregable me encargué de revisar y evaluar los impactos de las pruebas unitarias sobre la seguridad y el rendimiento, proporcionando un informe sobre su efectividad y posibles mejoras en el proceso de prueba.</td></tr>
+  <tr>
+    <td class="tg-0lax">4.c.1 Reconoce responsabilidad<br>ética y profesional en<br>situaciones de ingeniería de<br>software</td>
+    <td class="tg-0lax">       Acuña Tomas, Diego Rolin<br>       TB1: Participó activamente asegurando que las decisiones técnicas cumplieran con estándares éticos y priorizando el respeto a los usuarios y la confidencialidad de sus datos.<br><br>       Bastidas Bastidas, Diego Martin<br>       TB1: Promovió prácticas responsables dentro del equipo, fomentando el uso adecuado de la información y el cumplimiento de principios éticos en el desarrollo del software.<br><br>       Gallo Quintana, David Ivanoff<br>       TB1: Demostró compromiso con los aspectos éticos del proyecto, reflexionando sobre las implicancias de nuestras soluciones y promoviendo una conducta profesional.<br><br>       Silva Tirado, Sebastian Valentino<br>       TB1: Se aseguró de que el código desarrollado siguiera buenas prácticas éticas, evitando malas prácticas como la reutilización de código sin referencia o manejo inadecuado de datos.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TB1: Contribuyó con una visión ética al evaluar funcionalidades, asegurándose de que estas respetaran la privacidad, la inclusión y el bienestar de los usuarios finales.<br><br>       Acuña Tomas, Diego Rolin<br>       TP1: Participó en la implementación de pruebas unitarias, asegurándose de que cada módulo del sistema cumpla con los estándares éticos y no interfiera con la privacidad de los datos del usuario.<br><br>       Bastidas Bastidas, Diego Martin<br>       TP1: Fomentó la creación de pruebas unitarias claras y fáciles de mantener, promoviendo una cobertura de pruebas adecuada que respete la integridad del código.<br><br>       Gallo Quintana, David Ivanoff<br>       TP1: Demostró compromiso con las pruebas de calidad, asegurándose de que todas las funcionalidades del sistema fueran verificadas en cuanto a su rendimiento y ética, sin causar efectos secundarios indeseados.<br><br>       Silva Tirado, Sebastian Valentino<br>       TP1: Garantizó que todas las pruebas unitarias respetaran las mejores prácticas, asegurando la reutilización ética de código y evitando el uso de datos sensibles de forma indebida.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TP1: Colaboró en la creación de pruebas unitarias que evaluaran el comportamiento de la aplicación respetando los derechos de los usuarios y fomentando la inclusividad.<br><br>       Acuña Tomas, Diego Rolin<br>       TB2: Participó activamente en la revisión del código asegurando su cumplimiento con estándares éticos y buenas prácticas, evitando el uso indebido de librerías externas sin licencia.<br><br>       Bastidas Bastidas, Diego Martin<br>       TB2: Se encargó de garantizar que la documentación técnica fuera clara y honesta, reflejando fielmente el trabajo realizado y respetando los derechos de autor.<br><br>       Gallo Quintana, David Ivanoff<br>       TB2: Supervisó la integración de módulos, asegurándose de que se mantuvieran principios éticos como la transparencia en el uso de los datos y la trazabilidad de errores.<br><br>       Silva Tirado, Sebastian Valentino<br>       TB2: Revisó y validó el uso correcto de datos sensibles durante pruebas de integración, velando por la privacidad y confidencialidad de los usuarios.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TB2: Aseguró que las funcionalidades implementadas respetaran los principios de equidad e inclusión, proponiendo mejoras para evitar sesgos en el sistema.     </td>
+    <td class="tg-0lax">       TB1:<br>En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco.<br><br>       TP1:<br>En este entregable me encargué de diseñar y ejecutar pruebas unitarias, verificando que cada módulo de la aplicación funcionara correctamente de acuerdo a las especificaciones iniciales y sin comprometer la calidad ética del software.<br><br>       TB2:<br>En esta fase del proyecto colaboré en la validación e integración del sistema, asegurándome de que todas las decisiones técnicas respetaran las normativas éticas y que el software se mantuviera transparente, inclusivo y profesional.     </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4.c.2 Emite juicios informados<br>considerando el impacto de las<br>soluciones de ingeniería de<br>software en contextos globales,<br>económicos, ambientales y<br>sociales</td>
+    <td class="tg-0lax">       Acuña Tomas, Diego Rolin<br>       TB1: Analizó cómo el uso de la aplicación impacta en distintos contextos sociales, especialmente en relación con la inclusión digital y la formalización de servicios informales.<br><br>       Bastidas Bastidas, Diego Martin<br>       TB1: Evaluó las implicancias del sistema propuesto en el ámbito económico y social, considerando su efecto en pequeñas empresas del rubro de belleza.<br><br>       Gallo Quintana, David Ivanoff<br>       TB1: Contribuyó a la toma de decisiones considerando el impacto de nuestras soluciones a largo plazo en la sociedad y el medio ambiente, incluyendo sostenibilidad tecnológica.<br><br>       Silva Tirado, Sebastian Valentino<br>       TB1: Reflexionó sobre cómo las funcionalidades influirían en usuarios de distintos contextos, procurando decisiones inclusivas y con impacto positivo en la comunidad.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TB1: Consideró el impacto social y cultural de la plataforma, impulsando soluciones que aporten valor en entornos con alta informalidad laboral y desigualdad de acceso.<br><br>       Acuña Tomas, Diego Rolin<br>       TP1: Evaluó cómo las pruebas unitarias afectan el rendimiento de la aplicación, asegurándose de que no generaran lentitud o consumo excesivo de recursos.<br><br>       Bastidas Bastidas, Diego Martin<br>       TP1: Consideró los efectos de las pruebas unitarias en la seguridad del software, realizando pruebas para identificar vulnerabilidades potenciales.<br><br>       Gallo Quintana, David Ivanoff<br>       TP1: Analizó el impacto de las pruebas unitarias en la estabilidad del sistema, asegurándose de que las nuevas actualizaciones no rompieran funcionalidades existentes.<br><br>       Silva Tirado, Sebastian Valentino<br>       TP1: Reflexionó sobre las implicaciones de las pruebas unitarias en el contexto de escalabilidad, asegurándose de que el software pudiera manejar cargas mayores sin perder eficacia.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TP1: Reflexionó sobre el impacto de las pruebas en la usabilidad del sistema, buscando que las pruebas no afectaran la experiencia de usuario ni la accesibilidad.<br><br>       Acuña Tomas, Diego Rolin<br>       TB2: Analizó el posible impacto económico del sistema al integrarlo en entornos de bajos recursos, proponiendo soluciones adaptativas.<br><br>       Bastidas Bastidas, Diego Martin<br>       TB2: Consideró el impacto social del sistema en áreas rurales y propuso funcionalidades que favorezcan su adopción en estos contextos.<br><br>       Gallo Quintana, David Ivanoff<br>       TB2: Evaluó la escalabilidad del sistema considerando escenarios de crecimiento poblacional y tecnológico a largo plazo.<br><br>       Silva Tirado, Sebastian Valentino<br>       TB2: Reflexionó sobre la sostenibilidad del sistema desde el punto de vista ambiental y propuso optimizaciones para reducir el consumo de recursos.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TB2: Incorporó criterios de accesibilidad para asegurar que el sistema pudiera ser usado por personas con distintas capacidades, reduciendo barreras tecnológicas.     </td>
+    <td class="tg-0lax">       TB1:<br>En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco.<br><br>       TP1:<br>En este entregable me encargué de revisar y evaluar los impactos de las pruebas unitarias sobre la seguridad y el rendimiento, proporcionando un informe sobre su efectividad y posibles mejoras en el proceso de prueba.<br><br>       TB2:<br>En esta etapa me encargué de analizar el impacto social y ambiental de la solución propuesta, aportando con ideas para hacerla más sostenible, accesible e inclusiva en diversos contextos.     </td>
+  </tr>
+</tbody></table>
 
 ## Part I: As-Is Software Project
 
@@ -3276,7 +3338,7 @@ entender?
 *Entrevistada:* <br>
 *Edad:*  <br>
 *Domicilio:* Lima, Perú<br>
-*Enlace:* <a href="URL">video</a>
+*Enlace:* <a href="URL">Video</a>
 
 *Resumen de la Entrevista*:
 ...!
@@ -3288,7 +3350,7 @@ entender?
 *Entrevistada:* <br>
 *Edad:*  <br>
 *Domicilio:* Lima, Perú<br>
-*Enlace:* <a href="URL">video</a>
+*Enlace:* <a href="URL">Video</a>
 
 *Resumen de la Entrevista*:
 ...!
@@ -3302,7 +3364,7 @@ entender?
 *Entrevistada:* <br>
 *Edad:*  <br>
 *Domicilio:* Lima, Perú<br>
-*Enlace:* <a href="URL">video</a>
+*Enlace:* <a href="URL">Video</a>
 
 *Resumen de la Entrevista*:
 ...!
@@ -3314,7 +3376,7 @@ entender?
 *Entrevistada:* <br>
 *Edad:*  <br>
 *Domicilio:* Lima, Perú<br>
-*Enlace:* <a href="URL">video</a>
+*Enlace:* <a href="URL">Video</a>
 
 *Resumen de la Entrevista*:
 ...!
@@ -3346,8 +3408,151 @@ Segmento 2
 <div id='6.4.'><h3>6.4. Auditoría de Experiencias de Usuario</h3></div>
 <div id='6.4.1.'><h4>6.4.1. Auditoría realizada.</h4></div>
 <div id='6.4.1.1.'><h5>6.4.1.1. Información del grupo auditado.</h5></div>
+
+El equipo que nos auditó fue EcoMovil. Los integrantes del grupo son David Gallo, Sebastian Valentino Silva Tirado, Estrella del Pilar Ticona Panduro, Diego Martin Bastidas Bastidas y Diego Rolin Ascuña Tomas.
+
 <div id='6.4.1.2.'><h5>6.4.1.2. Cronograma de auditoría realizada.</h5></div>
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:normal">Actividad de auditoría </span></th>
+    <th class="tg-0pky"><span style="font-weight:normal">Fecha</span></th>
+    <th class="tg-0pky"><span style="font-weight:normal">Hora</span></th>
+    <th class="tg-0pky"><span style="font-weight:normal">Realizado por</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Solicitud de información</td>
+    <td class="tg-0pky">01/06/2025</td>
+    <td class="tg-0pky">12:00 p.m.</td>
+    <td class="tg-0pky">David Ivanoff Gallo Quintana</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Recepción de información</td>
+    <td class="tg-0pky">01/06/2025</td>
+    <td class="tg-0pky">12:00 p.m.</td>
+    <td class="tg-0pky">David Ivanoff Gallo Quintana</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Lectura de la información</td>
+    <td class="tg-0pky">04/06/2025</td>
+    <td class="tg-0pky">2:00 p.m.</td>
+    <td class="tg-0pky">Sebastian Valentino Silva Tirado</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ejecución de auditoria</td>
+    <td class="tg-0pky">05/06/2025</td>
+    <td class="tg-0pky">3:00 p.m.</td>
+    <td class="tg-0pky">Estrella del Pilar Ticona Panduro</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Elaboración del informe</td>
+    <td class="tg-0pky">06/06/2025</td>
+    <td class="tg-0pky">3:00 p.m.</td>
+    <td class="tg-0pky">Diego Martin Bastidas Bastidas</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Envió del informe de auditoría</td>
+    <td class="tg-0pky">07/06/2025</td>
+    <td class="tg-0pky">5:00 p.m.</td>
+    <td class="tg-0pky">Diego Rolin Ascuña Tomas</td>
+  </tr>
+</tbody></table>
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:normal">Nombres y Apellidos</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Código de alumno</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">David Ivanoff Gallo Quintana</td>
+    <td class="tg-0lax">u202211212</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Sebastian Valentino Silva Tirado/td>
+    <td class="tg-0lax">u20211f984</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Estrella del Pilar Ticona Panduro</td>
+    <td class="tg-0lax">u202210582</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Diego Martin Bastidas Bastidas</td>
+    <td class="tg-0lax">u202015274</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Diego Rolin Ascuña Tomas</td>
+    <td class="tg-0lax">u202113656</td>
+  </tr>
+</tbody>
+</table>
+
 <div id='6.4.1.3.'><h5>6.4.1.3. Contenido de auditoría realizada.</h5></div>
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+<thead>
+<tr>
+  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">#</th>
+  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Problema</th>
+  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Escala de severidad</th>
+  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Heurística/Principio violada(o)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Fondo borroso con elementos visuales complejos que distraen o dificultan la lectura de los campos de ingreso.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Usabilidad: Visibilidad del estado del sistema / Estética y diseño minimalista.
+  </td>
+</tr>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Información de contacto visible, pero sin botón claro para llamar o copiar número; ícono teléfono no indica interacción.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Visibilidad del estado del sistema / Control del usuario.
+  </td>
+</tr>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Repetición exacta de información en múltiples pedidos sin diferenciación clara, causando confusión sobre validez y distinción.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Visibilidad del estado del sistema / Consistencia y estándares.
+  </td>
+</tr>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Falta de etiquetas claras y visibles para los campos, dificultando la comprensión rápida del formulario.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Visibilidad del estado del sistema / Claridad.
+  </td>
+</tr>
+<tr>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Formato de fecha y hora poco claro y confuso ("2024-08-06 T2:50:00"), dificultando la comprensión rápida.
+  </td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
+  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    Correspondencia entre sistema y mundo real.
+  </td>
+</tr>
+</tbody>
+</table>
+
 <div id='6.4.2.'><h4>6.4.2. Auditoría recibida.</h4></div>
 <div id='6.4.2.1.'><h5>6.4.2.1. Información del grupo auditor.</h5></div>
 
@@ -3355,14 +3560,6 @@ El equipo que nos auditó fue “XXX”. Los integrantes del grupo son Daniel De
 
 <div id='6.4.2.2.'><h5>6.4.2.2. Cronograma de auditoría recibida.</h5></div>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-0pky"><span style="font-weight:normal">Actividad de auditoría </span></th>
@@ -3409,14 +3606,6 @@ El equipo que nos auditó fue “XXX”. Los integrantes del grupo son Daniel De
   </tr>
 </tbody></table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-0lax"><span style="font-weight:normal">Nombres y Apellidos</span></th>
@@ -3681,13 +3870,60 @@ Se aplican las siguientes prácticas y herramientas para llevar a cabo este moni
 Esta estrategia integral de monitoreo proporciona visibilidad total sobre la salud del pipeline y facilita la toma de decisiones proactivas para mantener la estabilidad del ciclo DevOps.
 
 <div id='7.4.3.'><h4>7.4.3. Alerting Pipeline Components</h4></div>
+
+El sistema de alertas se configuró con el objetivo de notificar al equipo de desarrollo cuando se detectan eventos anómalos en tiempo real. Recordemos que estos eventos podrían afectar la estabilidad del sistema o el correcto funcionamiento del pipeline. Los componentes más importantes son:
+
+- **Threshold-Based Alerts (Prometheus):** Son alertas que se disparan cuando una métrica monitoreada cumple una condición durante un período determinado, como alertar sobre picos de latencia, alto uso de CPU o incremento en errores 500, entre otros.
+
+- **Pipeline Failures (Jenkins):** Alertas generadas cuando ocurre una falla durante la ejecución de un pipeline en Jenkins. Estas etapas pueden ser pruebas unitarias, integración continua o despliegue.
+
+- **Service Availability (ELK Stack / New Relic):** Herramientas para identificar caídas o inconvenientes de disponibilidad en servicios críticos, tanto en el backend como en el frontend.
+
+
 <div id='7.4.4.'><h4>7.4.4. Notification Pipeline Components</h4></div>
+
+Estas notificaciones ayudan a que el equipo de desarrollo esté informado de manera rápida y anticipada sobre el estado del sistema y los pipelines. Para ello, se utilizan los siguientes canales:
+
+
+- **Slack:** Mensajes automáticos en canales específicos cuando se termina una etapa del pipeline, ocurre un error o hay un incidente importante.
+  
+- **Correo electrónico:** Avisos enviados a los encargados técnicos cuando hay errores frecuentes o graves.
+  
+- **PagerDuty:** Alertas urgentes en el celular si hay un problema que necesita atención inmediata.
+  
+- **Grafana:** Avisos que se mandan por Slack o correo cuando algún valor en los dashboards pasa un límite, para que el equipo lo vea en tiempo real.
+
 
 <div id='8.'><h2>Capítulo VIII: Experiment-Driven Development</h2></div>
 
 <div id='8.1.'><h3>8.1. Experiment Planning</h3></div>
 <div id='8.1.1.'><h4>8.1.1. As-Is Summary.</h4></div>
+
+EcoMovil es una plataforma que ayuda a personas interesadas en moverse de forma sostenible a encontrar dueños de bicicletas, scooters y motos eléctricas que quieran alquilar o vender sus vehículos. Actualmente, la aplicación funciona como un marketplace donde estudiantes y ciudadanos pueden buscar, comparar y contactar fácilmente con quienes ofrecen estos medios de transporte. Ya cuenta con funciones básicas como filtros de búsqueda, perfiles de usuario y un diseño pensado para usarse desde el celular.
+
 <div id='8.1.2.'><h4>8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.</h4></div>
+
+##### Assumptions:
+- Se piensa que los usuarios valoran poder acceder rápido a medios de transporte ecológicos desde una app en el celular.
+- Se espera que los dueños de vehículos estén interesados en alquilar sus unidades para ganar dinero extra de forma flexible.
+- Se cree que las funciones de seguridad y reputación dentro de la app ayudarán a que más personas quieran usarla.
+
+##### Knowledge Gaps:
+- No está claro cuánto interés real tienen los estudiantes universitarios en usar vehículos ecológicos.
+- Hace falta saber qué filtros (como precio, tipo de vehículo o ubicación) son los más importantes para los usuarios.
+
+##### Ideas:
+
+- Hacer encuestas en la app para conocer mejor cómo la usan las personas y así mejorarla.
+- Sugerir opciones a los usuarios basándose en lo que han buscado o alquilado antes.
+- Hacer el proceso de alquiler más divertido, por ejemplo, con logros o premios.
+
+##### Claims:
+
+- EcoMovil ayudará a que los estudiantes tengan un ingreso extra, lo que podría evitar que dejen sus estudios por problemas económicos.
+- La app va a tener un impacto positivo en el medio ambiente al fomentar el uso de vehículos que no contaminan.
+- Se mejorará el acceso al transporte en zonas donde hay pocas opciones de movilidad tradicional.
+
 <div id='8.1.3.'><h4>8.1.3. Experiment-Ready Questions.</h4></div>
 Este conjunto de preguntas estan diseñadas para guiar la experimentación orientadas a nuestro producto. Cada una de estas busca validar hipótesis y específicas sobre el comportamiento de nuestros usuarios.
 <h3>Preguntas sobre Filtros y Búsqueda de Vehículos</h3>
@@ -3979,6 +4215,17 @@ Identificación clara del problema: El análisis realizado ha identificado que e
 Propuesta de valor definida: Las pruebas unitarias se presentan como una solución fundamental para garantizar la calidad del software, permitiendo verificar que cada componente del sistema funcione de manera independiente y según lo esperado, lo que reduce el riesgo de errores en etapas posteriores del desarrollo.
 
 Fundamentos para el desarrollo: Se establecieron las mejores prácticas y principios para la implementación de pruebas unitarias, que incluyen la automatización, la cobertura adecuada del código y la integración continua. Estos enfoques están orientados a mejorar la eficiencia del equipo de desarrollo, asegurando que el software sea más robusto, fácil de mantener y menos propenso a fallos.
+
+- **TB2:**
+
+Durante el hito TB2, adoptamos un enfoque basado en pruebas y experimentos. Definimos hipótesis, condiciones y métricas para validar cada decisión sobre el producto. Esto nos ayudó a enfocarnos en lo más importante y avanzar en el desarrollo de una forma más guiada por resultados reales.
+
+También mejoramos la calidad del software incorporando pruebas unitarias, de integración, pruebas BDD y de sistema, además de revisar el código y evaluar la experiencia de usuario.
+
+El pipeline de DevOps alcanzó un buen nivel de madurez, ya que automatizamos la integración y entrega continua (CI/CD), sumando alertas y notificaciones para detectar errores rápidamente. Además, implementamos buenas prácticas de control de versiones usando GitFlow y commits semánticos.
+
+Por último, las entrevistas y pruebas con usuarios reales nos dieron información clave que usamos para ajustar el backlog y planificar los siguientes sprints. En resumen, TB2 nos permitió fortalecer tanto la parte técnica como la forma de experimentar y mejorar EcoMovil continuamente.
+
 
 <div id='10.'><h2>10. Bibliografía</h2></div>
 

@@ -3322,7 +3322,7 @@ Acerca del app: :
 - ¿Como describirias la experiencia usando la aplicacion? ¿Facil,
 intuitiva, o hubo alguna caracteristica que se te hizo dificil de
 entender?
-- ¿Cree que las funcionalidades ofrecidas en la aplicación ayudara obtener ya sea alquilar o comprar un vehiculo de manera segura?
+- ¿Cree que las funcionalidades ofrecidas en la aplicación ayudara obtener dinero ya sea alquilar o comprar un vehiculo de manera segura?
 - ¿Estas conforme con la información mostrada en casa sección?
 - ¿Dirias que la navegación por la aplicación es fácil de comprender o lo encuentra confuso?
 

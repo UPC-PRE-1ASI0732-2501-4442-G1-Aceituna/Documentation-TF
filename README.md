@@ -3671,13 +3671,60 @@ Se aplican las siguientes prácticas y herramientas para llevar a cabo este moni
 Esta estrategia integral de monitoreo proporciona visibilidad total sobre la salud del pipeline y facilita la toma de decisiones proactivas para mantener la estabilidad del ciclo DevOps.
 
 <div id='7.4.3.'><h4>7.4.3. Alerting Pipeline Components</h4></div>
+
+El sistema de alertas se configuró con el objetivo de notificar al equipo de desarrollo cuando se detectan eventos anómalos en tiempo real. Recordemos que estos eventos podrían afectar la estabilidad del sistema o el correcto funcionamiento del pipeline. Los componentes más importantes son:
+
+- **Threshold-Based Alerts (Prometheus):** Son alertas que se disparan cuando una métrica monitoreada cumple una condición durante un período determinado, como alertar sobre picos de latencia, alto uso de CPU o incremento en errores 500, entre otros.
+
+- **Pipeline Failures (Jenkins):** Alertas generadas cuando ocurre una falla durante la ejecución de un pipeline en Jenkins. Estas etapas pueden ser pruebas unitarias, integración continua o despliegue.
+
+- **Service Availability (ELK Stack / New Relic):** Herramientas para identificar caídas o inconvenientes de disponibilidad en servicios críticos, tanto en el backend como en el frontend.
+
+
 <div id='7.4.4.'><h4>7.4.4. Notification Pipeline Components</h4></div>
+
+Estas notificaciones ayudan a que el equipo de desarrollo esté informado de manera rápida y anticipada sobre el estado del sistema y los pipelines. Para ello, se utilizan los siguientes canales:
+
+
+- **Slack:** Mensajes automáticos en canales específicos cuando se termina una etapa del pipeline, ocurre un error o hay un incidente importante.
+  
+- **Correo electrónico:** Avisos enviados a los encargados técnicos cuando hay errores frecuentes o graves.
+  
+- **PagerDuty:** Alertas urgentes en el celular si hay un problema que necesita atención inmediata.
+  
+- **Grafana:** Avisos que se mandan por Slack o correo cuando algún valor en los dashboards pasa un límite, para que el equipo lo vea en tiempo real.
+
 
 <div id='8.'><h2>Capítulo VIII: Experiment-Driven Development</h2></div>
 
 <div id='8.1.'><h3>8.1. Experiment Planning</h3></div>
 <div id='8.1.1.'><h4>8.1.1. As-Is Summary.</h4></div>
+
+EcoMovil es una plataforma que ayuda a personas interesadas en moverse de forma sostenible a encontrar dueños de bicicletas, scooters y motos eléctricas que quieran alquilar o vender sus vehículos. Actualmente, la aplicación funciona como un marketplace donde estudiantes y ciudadanos pueden buscar, comparar y contactar fácilmente con quienes ofrecen estos medios de transporte. Ya cuenta con funciones básicas como filtros de búsqueda, perfiles de usuario y un diseño pensado para usarse desde el celular.
+
 <div id='8.1.2.'><h4>8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.</h4></div>
+
+##### Assumptions:
+- Se piensa que los usuarios valoran poder acceder rápido a medios de transporte ecológicos desde una app en el celular.
+- Se espera que los dueños de vehículos estén interesados en alquilar sus unidades para ganar dinero extra de forma flexible.
+- Se cree que las funciones de seguridad y reputación dentro de la app ayudarán a que más personas quieran usarla.
+
+##### Knowledge Gaps:
+- No está claro cuánto interés real tienen los estudiantes universitarios en usar vehículos ecológicos.
+- Hace falta saber qué filtros (como precio, tipo de vehículo o ubicación) son los más importantes para los usuarios.
+
+##### Ideas:
+
+- Hacer encuestas en la app para conocer mejor cómo la usan las personas y así mejorarla.
+- Sugerir opciones a los usuarios basándose en lo que han buscado o alquilado antes.
+- Hacer el proceso de alquiler más divertido, por ejemplo, con logros o premios.
+
+##### Claims:
+
+- EcoMovil ayudará a que los estudiantes tengan un ingreso extra, lo que podría evitar que dejen sus estudios por problemas económicos.
+- La app va a tener un impacto positivo en el medio ambiente al fomentar el uso de vehículos que no contaminan.
+- Se mejorará el acceso al transporte en zonas donde hay pocas opciones de movilidad tradicional.
+
 <div id='8.1.3.'><h4>8.1.3. Experiment-Ready Questions.</h4></div>
 Este conjunto de preguntas estan diseñadas para guiar la experimentación orientadas a nuestro producto. Cada una de estas busca validar hipótesis y específicas sobre el comportamiento de nuestros usuarios.
 <h3>Preguntas sobre Filtros y Búsqueda de Vehículos</h3>
@@ -3969,6 +4016,17 @@ Identificación clara del problema: El análisis realizado ha identificado que e
 Propuesta de valor definida: Las pruebas unitarias se presentan como una solución fundamental para garantizar la calidad del software, permitiendo verificar que cada componente del sistema funcione de manera independiente y según lo esperado, lo que reduce el riesgo de errores en etapas posteriores del desarrollo.
 
 Fundamentos para el desarrollo: Se establecieron las mejores prácticas y principios para la implementación de pruebas unitarias, que incluyen la automatización, la cobertura adecuada del código y la integración continua. Estos enfoques están orientados a mejorar la eficiencia del equipo de desarrollo, asegurando que el software sea más robusto, fácil de mantener y menos propenso a fallos.
+
+- **TB2:**
+
+Durante el hito TB2, adoptamos un enfoque basado en pruebas y experimentos. Definimos hipótesis, condiciones y métricas para validar cada decisión sobre el producto. Esto nos ayudó a enfocarnos en lo más importante y avanzar en el desarrollo de una forma más guiada por resultados reales.
+
+También mejoramos la calidad del software incorporando pruebas unitarias, de integración, pruebas BDD y de sistema, además de revisar el código y evaluar la experiencia de usuario.
+
+El pipeline de DevOps alcanzó un buen nivel de madurez, ya que automatizamos la integración y entrega continua (CI/CD), sumando alertas y notificaciones para detectar errores rápidamente. Además, implementamos buenas prácticas de control de versiones usando GitFlow y commits semánticos.
+
+Por último, las entrevistas y pruebas con usuarios reales nos dieron información clave que usamos para ajustar el backlog y planificar los siguientes sprints. En resumen, TB2 nos permitió fortalecer tanto la parte técnica como la forma de experimentar y mejorar EcoMovil continuamente.
+
 
 <div id='10.'><h2>10. Bibliografía</h2></div>
 

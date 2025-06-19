@@ -3347,13 +3347,13 @@ entender?
 
 **Entrevista 2:** 
 
-*Entrevistada:* <br>
-*Edad:*  <br>
+*Entrevistada:* Daniela Chavez <br>
+*Edad:*  22<br>
 *Domicilio:* Lima, Perú<br>
-*Enlace:* <a href="URL">Video</a>
+*Enlace:* https://youtu.be/1N9d36cnA5I<a href="URL">Video</a>
 
 *Resumen de la Entrevista*:
-...!
+La entrevistada menciona que desearia que la sección de imagenes sean subidas por los propios usuarios, ademas menciona que la página le pareció bastante intuitiva y llamativa, además de facil de navegar.
 
 ---
 

@@ -3385,14 +3385,14 @@ La entrevistada menciona que desearia que la sección de imagenes sean subidas p
 
 Segmento 1
 
-| Entrevistado   	| Heurística 	| Evaluación 	|
-|----------------	|------------	|------------	|
-| Entrevistado 1 	| 1          	| 1          	|
-|                	| 2          	| 2          	|
-|                	| 3          	| 3          	|
-| Entrevistado 2 	| 1          	| 1          	|
-|                	| 2          	| 2          	|
-|                	| 3          	| 3          	|
+| Entrevistado   	    | Heurística 	                        | Evaluación 	|
+|----------------	    |-------------------------------------|------------	|
+| Gian Franco Durand 	| 1. claridad de información         	| 1. La información fue suficiente para entender el propósito de la plataforma, los planes disponibles y el público objetivo.         	|
+|                	    | 2. Facilidad de Navegación         	| 2. La experiencia de uso fue fácil e intuitiva, en especial al llenar formularios para registrar un vehículo.         	|
+|                	    | 3. Satisfacción General     	        | 3. La app es sencilla, útil y económica, ya que le permite obtener ingresos alquilando vehículos que no usa.          	|
+| Entrevistado 2 	    | 1. claridad de información         	| 1          	|
+|                	    | 2. Facilidad de Navegación         	| 2          	|
+|                	    | 3. Satisfacción General       	      | 3          	|
 
 Segmento 2
 

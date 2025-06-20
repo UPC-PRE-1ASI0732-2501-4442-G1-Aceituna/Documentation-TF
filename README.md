@@ -3400,9 +3400,9 @@ Segmento 1
 | Gian Franco Durand 	| 1. claridad de información         	| 1. La información fue suficiente para entender el propósito de la plataforma, los planes disponibles y el público objetivo.         	|
 |                	    | 2. Facilidad de Navegación         	| 2. La experiencia de uso fue fácil e intuitiva, en especial al llenar formularios para registrar un vehículo.         	|
 |                	    | 3. Satisfacción General     	        | 3. La app es sencilla, útil y económica, ya que le permite obtener ingresos alquilando vehículos que no usa.          	|
-| Entrevistado 2 	    | 1. claridad de información         	| 1          	|
-|                	    | 2. Facilidad de Navegación         	| 2          	|
-|                	    | 3. Satisfacción General       	      | 3          	|
+| Daniela Chavez Castillo	    | 1. claridad de información         	| 1 Menciona que la información brindada por la aplicación junto con el proposito de la misma se da a entender de buena manera.         	|
+|                	    | 2. Facilidad de Navegación         	| 2 Respecto a la navegación considera que es buena, no se perdio en ningún momento.       	|
+|                	    | 3. Satisfacción General       	      | 3 La entrevistada se muestra conforme con gran parte de la aplicación, solo menciona que le gustaría a ella misma agregar sus imagenes.        	|
 
 Segmento 2
 

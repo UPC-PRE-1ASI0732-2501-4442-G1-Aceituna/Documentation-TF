@@ -3481,7 +3481,7 @@ El equipo que nos auditó fue EcoMovil. Los integrantes del grupo son David Gall
     <td class="tg-0lax">u202211212</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Sebastian Valentino Silva Tirado/td>
+    <td class="tg-0lax">Sebastian Valentino Silva Tirado
     <td class="tg-0lax">u20211f984</td>
   </tr>
   <tr>

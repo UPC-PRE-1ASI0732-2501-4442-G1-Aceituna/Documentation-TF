@@ -3291,42 +3291,48 @@ Registro de revisiones: Todas las revisiones serán documentadas, detallando los
 
 *Objetivo*: Validar si estarían dispuestos a ofrecer vehículos para alquiler/venta, su interés en transporte ecológico, y las funcionalidades que valoran.
 
-Acerca del Landing:
+**Acerca del Landing:**
 - ¿Que opinas del diseño del landing page?
 - ¿Te queda claro la propuesta de solucion que se describe?
 - ¿La informacion en la pagina fue suficiente para entender eI proposito
 de la aplicacion?
 - Luego de analizar la landing page ¿Te sientes motivado a usar eI
 aplicativo descrito?
-Acerca del app: :
+
+**Acerca del app:**
+
 - ¿Como describirias la experiencia usando la aplicacion? ¿Facil,
 intuitiva, o hubo alguna caracteristica que se te hizo dificil de
 entender?
 - ¿Cree que las funcionalidades ofrecidas en la aplicación ayudara a tener ingresos economicos?
 - ¿Estas conforme con la información mostrada en casa sección?
 - ¿Dirias que la navegación por la aplicación es fácil de comprender o lo encuentra confuso?
-
--¿Hay alguna opción adicional que agregarías o estas conforme con todo lo desarrollado?
+- ¿Hay alguna opción adicional que agregarías o estas conforme con todo lo desarrollado?
 - ¿Recomendarias la aplicacoin a otras personas?
+<br><br>
+
 **Segmento 2**: Adquirientes (usuarios que desean alquilar o comprar vehículos)
 
 *Objetivo*: Validar la demanda por acceso a transporte ecológico, frecuencia de uso y qué tan valoran la sostenibilidad.
-Acerca del Landing:
+
+**Acerca del Landing:**
+
 - ¿Que opinas del diseño del landing page?
 - ¿Te queda claro la propuesta de solución que se describe?
 - ¿La informacion en la pagina fue suficiente para entender eI proposito
 de la aplicacion?
 - Luego de analizar la landing page ¿Te sientes motivado a usar eI
 aplicativo descrito?
-Acerca del app: :
+
+**Acerca del app:**
+
 - ¿Como describirias la experiencia usando la aplicacion? ¿Facil,
 intuitiva, o hubo alguna caracteristica que se te hizo dificil de
 entender?
 - ¿Cree que las funcionalidades ofrecidas en la aplicación ayudara obtener dinero ya sea alquilar o comprar un vehiculo de manera segura?
 - ¿Estas conforme con la información mostrada en casa sección?
 - ¿Dirias que la navegación por la aplicación es fácil de comprender o lo encuentra confuso?
-
--¿Hay alguna opción adicional que agregarías o estas conforme con todo lo desarrollado?
+- ¿Hay alguna opción adicional que agregarías o estas conforme con todo lo desarrollado?
 - ¿Recomendarias la aplicacoin a otras personas?
 
 <div id='6.3.2.'><h4>6.3.2. Registro de Entrevistas.</h4></div>
@@ -3357,29 +3363,33 @@ La entrevistada menciona que desearia que la sección de imagenes sean subidas p
 
 ---
 
+
 ## Segmento #2: Adquirientes
 
 **Entrevista 1** 
 
-*Entrevistada:* <br>
-*Edad:*  <br>
+*Entrevistada:* Lucia Cabanillas <br>
+*Edad:*  23<br>
 *Domicilio:* Lima, Perú<br>
-*Enlace:* <a href="URL">Video</a>
+*Enlace:* https://youtu.be/8JDA6184AFSas<a href="URL">Video</a>
 
 *Resumen de la Entrevista*:
-...!
+Lucia Cabanillas considera que la calidad de los vehículos y la tipografía son apropiadas, siendo claras y bien presentadas. Destaca la facilidad de uso de la aplicación y valora la amplia variedad de vehículos disponibles. Aunque encuentra que la información sobre el alquiler o la venta es clara, sugiere la inclusión de un apartado de reseñas para ofrecer comentarios de los usuarios y ayudar en la toma de decisiones.
 
 ---
 
 **Entrevista 2** 
 
-*Entrevistada:* <br>
-*Edad:*  <br>
+*Entrevistada:* Silvana Hassinger <br>
+*Edad:* 25 <br>
 *Domicilio:* Lima, Perú<br>
 *Enlace:* <a href="URL">Video</a>
 
 *Resumen de la Entrevista*:
-...!
+Silvana Hassinger opina que la aplicación es muy útil, destacando la posibilidad de seleccionar vehículos de acuerdo a sus necesidades, lo que promueve la sostenibilidad e innova en el ámbito de la ecología. Considera que la experiencia es fácil y manejable, cumpliendo con lo esperado. Además, valora la personalización en la búsqueda, especialmente los filtros, los cuales encuentra muy útiles para satisfacer tanto las necesidades de los usuarios como la oferta de vehículos disponibles.
+
+
+---
 
 <div id='6.3.3.'><h4>6.3.3. Evaluaciones según heurísticas.</h4></div>
 

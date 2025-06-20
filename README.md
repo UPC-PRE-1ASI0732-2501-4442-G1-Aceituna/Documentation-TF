@@ -3335,13 +3335,13 @@ entender?
 
 **Entrevista 1** 
 
-*Entrevistada:* <br>
-*Edad:*  <br>
+*Entrevistado:* Franco Durand <br>
+*Edad:*  23 <br>
 *Domicilio:* Lima, Perú<br>
 *Enlace:* <a href="URL">Video</a>
 
 *Resumen de la Entrevista*:
-...!
+La entrevista con Gianfranco Durán evidenció una recepción positiva hacia la plataforma Ecomóvil. Destacó el diseño limpio y claro de la landing page, comprendió fácilmente la propuesta y se sintió motivado a usarla. En cuanto a la aplicación web, la consideró intuitiva y útil para generar ingresos alquilando o vendiendo vehículos eléctricos no utilizados. Su única sugerencia fue permitir subir fotos reales de los vehículos. En general, se mostró conforme con la experiencia y dispuesto a recomendar la aplicación.
 
 ---
 

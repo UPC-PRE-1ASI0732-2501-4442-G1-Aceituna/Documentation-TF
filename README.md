@@ -3406,14 +3406,15 @@ Segmento 1
 
 Segmento 2
 
-| Entrevistado   	| Heurística 	| Evaluación 	|
-|----------------	|------------	|------------	|
-| Entrevistado 1 	| 1          	| 1          	|
-|                	| 2          	| 2          	|
-|                	| 3          	| 3          	|
-| Entrevistado 2 	| 1          	| 1          	|
-|                	| 2          	| 2          	|
-|                	| 3          	| 3          	|
+| Entrevistado         | Heurística                | Evaluación                                                                 |
+|----------------------|---------------------------|---------------------------------------------------------------------------|
+| Lucia Cabanillas     | Satisfacción General      | 1. La información fue suficiente para entender el propósito de la plataforma, los planes disponibles y el público objetivo. |
+|                      | Facilidad de Navegación   | 2. La experiencia de uso fue fácil e intuitiva, en especial al llenar formularios para registrar un vehículo. |
+|                      | Claridad de información   | 3. La app es sencilla, útil y económica, ya que le permite obtener ingresos alquilando vehículos que no usa. |
+| Silvana Hassinger    | Satisfacción General      | 1. La información fue suficiente para entender el propósito de la plataforma, los planes disponibles y el público objetivo. |
+|                      | Facilidad de Navegación   | 2. La experiencia de uso fue fácil e intuitiva, en especial al llenar formularios para registrar un vehículo. |
+|                      | Satisfacción General      | 3. La app es sencilla, útil y económica, ya que le permite obtener ingresos alquilando vehículos que no usa. |
+
 
 <div id='6.4.'><h3>6.4. Auditoría de Experiencias de Usuario</h3></div>
 <div id='6.4.1.'><h4>6.4.1. Auditoría realizada.</h4></div>

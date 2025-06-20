@@ -3344,7 +3344,7 @@ entender?
 *Entrevistado:* Franco Durand <br>
 *Edad:*  23 <br>
 *Domicilio:* Lima, Perú<br>
-*Enlace:* <a href="URL">Video</a>
+*Enlace:* https://youtu.be/x8iDhNb3C8g<a href="URL">Video</a>
 
 *Resumen de la Entrevista*:
 La entrevista con Gianfranco Durán evidenció una recepción positiva hacia la plataforma Ecomóvil. Destacó el diseño limpio y claro de la landing page, comprendió fácilmente la propuesta y se sintió motivado a usarla. En cuanto a la aplicación web, la consideró intuitiva y útil para generar ingresos alquilando o vendiendo vehículos eléctricos no utilizados. Su única sugerencia fue permitir subir fotos reales de los vehículos. En general, se mostró conforme con la experiencia y dispuesto a recomendar la aplicación.
@@ -3383,7 +3383,7 @@ Lucia Cabanillas considera que la calidad de los vehículos y la tipografía son
 *Entrevistada:* Silvana Hassinger <br>
 *Edad:* 25 <br>
 *Domicilio:* Lima, Perú<br>
-*Enlace:* <a href="URL">Video</a>
+*Enlace:* https://youtu.be/x8iDhNb3C8g<a href="URL">Video</a>
 
 *Resumen de la Entrevista*:
 Silvana Hassinger opina que la aplicación es muy útil, destacando la posibilidad de seleccionar vehículos de acuerdo a sus necesidades, lo que promueve la sostenibilidad e innova en el ámbito de la ecología. Considera que la experiencia es fácil y manejable, cumpliendo con lo esperado. Además, valora la personalización en la búsqueda, especialmente los filtros, los cuales encuentra muy útiles para satisfacer tanto las necesidades de los usuarios como la oferta de vehículos disponibles.

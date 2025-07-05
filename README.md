@@ -278,6 +278,24 @@ Para la preparación del informe correspondiente a la entrega TB2, se distribuy�
     8.3. [Experimentation.](#8.3.)<br>
     8.3.1. [To-Be User Stories.](#8.3.1.)<br>
     8.3.2. [To-Be Product Backlog.](#8.3.2.)<br>
+    8.3.3. [Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle](#8.3.3.)<br>
+    8.3.3.1. [To-Be Sprint Backlogs](#8.3.3.1.)<br>
+    8.3.3.2. [Implemented To-Be Landing Page Evidence](#8.3.3.2.)<br>
+    8.3.3.3. [Implemented To-Be Frontend-Web Application Evidence](#8.3.3.3.)<br>
+    8.3.3.4. [Implemented To-Be Native-Mobile Application Evidence](#8.3.3.4.)<br>
+    8.3.3.5. [Implemented To-Be RESTful API and/or Serverless Backend Evidence](#8.3.3.5.)<br>
+    8.3.3.6. [Team Collaboration Insights](#8.3.3.6.)<br>
+    8.3.4. [To-Be Validation Interviews](#8.3.4.)<br>
+    8.3.4.1. [Diseño de Entrevistas.](#8.3.4.1.)<br>
+    8.3.4.2. [Registro de Entrevistas.](#8.3.4.2.)<br>
+    8.4. [Experiment Aftermath & Analysis](#8.4.)<br>
+    8.4.1. [Analysis and Interpretation of Results](#8.4.1.)<br>
+    8.4.2. [Re-scored and Re-prioritized Question Backlog](#8.4.2.)<br>
+    8.5. [Continuous Learning](#8.5.)<br>
+    8.5.1. [Shareback Session Artifacts: Learning Workflow](#8.5.1.)<br>
+    8.6. [To-Be Software Platform Pre-launch](#8.6.)<br>
+    8.6.1. [About-the-ProductIntro Video](#8.6.1.)<br>
+
 9. [**Conclusiones**](#9.)<br>
     9.1. [Conclusiones y recomendaciones.](#9.1.)<br>
     9.2. [Video About-the-Team.](#9.2.)<br>
@@ -4206,6 +4224,68 @@ Estas métricas se rastrearán mediante herramientas como **Google Analytics** y
 | Baja      | US08 | Como usuario curioso, quiero conocer los antecedentes del proyecto para entender su filosofía y valores. | 4 |
 | Alta      | US09 | Como nuevo miembro, quiero un formulario de registro sencillo para comenzar a utilizar los servicios. | 6 |
 | Media     | US10 | Como usuario no registrado, quiero una opción de ingreso directo para acceder rápidamente a la plataforma. | 5 |
+
+<div id='8.3.3.'><h4>8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle</h4></div>
+
+
+
+<div id='8.3.3.1.'><h5>8.3.3.1. To-Be Sprint Backlogs</h5></div>
+
+
+
+<div id='8.3.3.2.'><h5>8.3.3.2. Implemented To-Be Landing Page Evidence</h5></div>
+
+
+
+<div id='8.3.3.3.'><h5>8.3.3.3. Implemented To-Be Frontend-Web Application Evidence</h5></div>
+
+
+
+<div id='8.3.3.4.'><h5>8.3.3.4. Implemented To-Be Native-Mobile Application Evidence</h5></div>
+
+
+
+<div id='8.3.3.5.'><h5>8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence</h5></div>
+
+
+
+<div id='8.3.3.6.'><h5>8.3.3.6. Team Collaboration Insights</h5></div>
+
+
+
+<div id='8.3.4.'><h4>8.3.4. To-Be Validation Interviews</h4></div>
+
+
+
+<div id='8.3.4.1.'><h5>8.3.4.1. Diseño de Entrevistas.</h5></div>
+
+
+
+<div id='8.3.4.2.'><h5>8.3.4.2. Registro de Entrevistas.</h5></div>
+
+
+
+<div id='8.4.'><h3>8.4. Experiment Aftermath & Analysis</h3></div>
+
+<div id='8.4.1.'><h4>8.4.1. Analysis and Interpretation of Results</h4></div>
+
+
+
+<div id='8.4.2.'><h4>8.4.2. Re-scored and Re-prioritized Question Backlog</h4></div>
+
+
+
+<div id='8.5.'><h3>8.5. Continuous Learning</h3></div>
+
+<div id='8.5.1.'><h4>8.5.1. Shareback Session Artifacts: Learning Workflow</h4></div>
+
+
+
+<div id='8.6.'><h3>8.6. To-Be Software Platform Pre-launch</h3></div>
+
+<div id='8.6.1.'><h4>8.6.1. About-the-ProductIntro Video</h4></div>
+
+
 
 <div id='9.'><h2>9. Conclusiones</h2></div>
 

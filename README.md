@@ -41,8 +41,12 @@ Esta sección tiene como propósito presentar un resumen de los cambios importan
 <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Capítulo I: Introducción. <br>Capítulo II: Requirements Elicitation &amp; Analysis. <br>Capítulo III: Requirements Specification. <br>Capítulo IV: Product Design. <br>Capítulo V: Product Implementation, Validation &amp; Deployment.</td></tr>
 </tbody></table>
 
+---
+
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Versión</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Fecha</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Autor</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Descripción de modificación</th></tr></thead>
 <tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TP1</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">13/05/2025</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Silva Tirado, Sebastian Valentino</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Capítulo VI: Product Verification &amp; Validation. <br>Capítulo VII: DevOps Practices.</td></tr></tbody></table>
+
+---
 
 <table class="tg"><thead>
   <tr>
@@ -57,6 +61,25 @@ Esta sección tiene como propósito presentar un resumen de los cambios importan
     <td class="tg-0lax">19/06/2025</td>
     <td class="tg-0lax">Silva Tirado, Sebastian Valentino</td>
     <td class="tg-0lax">Capítulo VI: Product Verification &amp; Validation. <br>Capítulo VII: DevOps Practices.<br>Capítulo VII: Experiment-Driven Development</td>
+  </tr>
+</tbody>
+</table>
+
+---
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:normal">Versión</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Fecha</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Autor</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Descripción de modificación</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">TF1</td>
+    <td class="tg-0lax">09/07/2025</td>
+    <td class="tg-0lax">Silva Tirado, Sebastian Valentino</td>
+    <td class="tg-0lax">Capítulo VII: Experiment-Driven Development</td>
   </tr>
 </tbody>
 </table>
@@ -76,6 +99,10 @@ URL del repositorio para el reporte del proyecto: https://github.com/UPC-PRE-1AS
 **TB2**
 
   <img src="assets/Reporte3.png" alt="Build & Test Suite Pipeline Components" width="500" class="rounded shadow mb-4"/>
+
+**TF1**
+
+  <img src="assets/Reporte4.png" alt="Build & Test Suite Pipeline Components" width="500" class="rounded shadow mb-4"/>
 
 **TB1**
 
@@ -128,6 +155,46 @@ Para la preparación del informe correspondiente a la entrega TB2, se distribuy�
   <tr>
     <td class="tg-0lax">Ticona Panduro, Estrella del Pilar</td>
     <td class="tg-0lax">8.2.2. Measures.<br>8.2.3. Conditions.<br>8.2.4. Scale Calculations and Decisions.<br>8.2.5. Methods Selection.<br></td>
+  </tr>
+</tbody></table>
+
+**TF1**
+
+Para la preparación del informe correspondiente a la entrega TF1, se distribuyó la implementación de las distintas secciones entre los miembros del equipo de la siguiente forma:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:normal">Integrante</span></th>
+    <th class="tg-0pky"><span style="font-weight:normal">Tareas Asignadas</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Acuña Tomas, Diego Rolin</td>
+    <td class="tg-0pky">8.3.3.2. Implemented To-Be Landing Page Evidence<br>8.3.3.6. Team Collaboration Insights<br>8.5.1. Shareback Session Artifacts: Learning Workflow</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Bastidas Bastidas, Diego Martin</td>
+    <td class="tg-0pky">8.3.3.1. To-Be Sprint Backlogs<br>8.3.4.2. Registro de Entrevistas.<br>8.5. Continuous Learning</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Gallo Quintana, David Ivanoff</td>
+    <td class="tg-0pky">8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle<br>8.3.4.1. Diseño de Entrevistas.<br>8.4.1. Analysis and Interpretation of Results</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Silva Tirado, Sebastian Valentino</td>
+    <td class="tg-0pky">8.3.3.4. Implemented To-Be Native-Mobile Application Evidence<br>8.4.2. Re-scored and Re-prioritized Question Backlog<br>8.3.4.2. Registro de Entrevistas.<br>Conclusiones y recomendaciones.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ticona Panduro, Estrella del Pilar</td>
+    <td class="tg-0pky">8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence<br>8.6. To-Be Software Platform Pre-launch<br>8.6.1. About-the-Product Intro Video</td>
   </tr>
 </tbody></table>
 
@@ -299,8 +366,9 @@ Para la preparación del informe correspondiente a la entrega TB2, se distribuy�
 9. [**Conclusiones**](#9.)<br>
     9.1. [Conclusiones y recomendaciones.](#9.1.)<br>
     9.2. [Video About-the-Team.](#9.2.)<br>
-10. [**Bibliografía**](#10.)<br>
-11. [**Anexos**](#11.)<br>
+10. [**Video About-The-Team**](#10.)<br>
+11. [**Bibliografía**](#11.)<br>
+12. [**Anexos**](#12.)<br>
 
 ## STUDENT OUTCOME
 La capacidad de reconocer responsabilidades éticas y
@@ -309,6 +377,14 @@ considerar el impacto de las soluciones de ingeniería en contextos globales, ec
 ambientales y sociales.
 <b>ABET – EAC - Student Outcome 4</b>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-0lax"><span style="font-weight:normal">Criterio específico</span></th>
@@ -318,13 +394,13 @@ ambientales y sociales.
 <tbody>
   <tr>
     <td class="tg-0lax">4.c.1 Reconoce responsabilidad<br>ética y profesional en<br>situaciones de ingeniería de<br>software</td>
-    <td class="tg-0lax">       Acuña Tomas, Diego Rolin<br>       TB1: Participó activamente asegurando que las decisiones técnicas cumplieran con estándares éticos y priorizando el respeto a los usuarios y la confidencialidad de sus datos.<br><br>       Bastidas Bastidas, Diego Martin<br>       TB1: Promovió prácticas responsables dentro del equipo, fomentando el uso adecuado de la información y el cumplimiento de principios éticos en el desarrollo del software.<br><br>       Gallo Quintana, David Ivanoff<br>       TB1: Demostró compromiso con los aspectos éticos del proyecto, reflexionando sobre las implicancias de nuestras soluciones y promoviendo una conducta profesional.<br><br>       Silva Tirado, Sebastian Valentino<br>       TB1: Se aseguró de que el código desarrollado siguiera buenas prácticas éticas, evitando malas prácticas como la reutilización de código sin referencia o manejo inadecuado de datos.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TB1: Contribuyó con una visión ética al evaluar funcionalidades, asegurándose de que estas respetaran la privacidad, la inclusión y el bienestar de los usuarios finales.<br><br>       Acuña Tomas, Diego Rolin<br>       TP1: Participó en la implementación de pruebas unitarias, asegurándose de que cada módulo del sistema cumpla con los estándares éticos y no interfiera con la privacidad de los datos del usuario.<br><br>       Bastidas Bastidas, Diego Martin<br>       TP1: Fomentó la creación de pruebas unitarias claras y fáciles de mantener, promoviendo una cobertura de pruebas adecuada que respete la integridad del código.<br><br>       Gallo Quintana, David Ivanoff<br>       TP1: Demostró compromiso con las pruebas de calidad, asegurándose de que todas las funcionalidades del sistema fueran verificadas en cuanto a su rendimiento y ética, sin causar efectos secundarios indeseados.<br><br>       Silva Tirado, Sebastian Valentino<br>       TP1: Garantizó que todas las pruebas unitarias respetaran las mejores prácticas, asegurando la reutilización ética de código y evitando el uso de datos sensibles de forma indebida.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TP1: Colaboró en la creación de pruebas unitarias que evaluaran el comportamiento de la aplicación respetando los derechos de los usuarios y fomentando la inclusividad.<br><br>       Acuña Tomas, Diego Rolin<br>       TB2: Participó activamente en la revisión del código asegurando su cumplimiento con estándares éticos y buenas prácticas, evitando el uso indebido de librerías externas sin licencia.<br><br>       Bastidas Bastidas, Diego Martin<br>       TB2: Se encargó de garantizar que la documentación técnica fuera clara y honesta, reflejando fielmente el trabajo realizado y respetando los derechos de autor.<br><br>       Gallo Quintana, David Ivanoff<br>       TB2: Supervisó la integración de módulos, asegurándose de que se mantuvieran principios éticos como la transparencia en el uso de los datos y la trazabilidad de errores.<br><br>       Silva Tirado, Sebastian Valentino<br>       TB2: Revisó y validó el uso correcto de datos sensibles durante pruebas de integración, velando por la privacidad y confidencialidad de los usuarios.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TB2: Aseguró que las funcionalidades implementadas respetaran los principios de equidad e inclusión, proponiendo mejoras para evitar sesgos en el sistema.     </td>
-    <td class="tg-0lax">       TB1:<br>En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco.<br><br>       TP1:<br>En este entregable me encargué de diseñar y ejecutar pruebas unitarias, verificando que cada módulo de la aplicación funcionara correctamente de acuerdo a las especificaciones iniciales y sin comprometer la calidad ética del software.<br><br>       TB2:<br>En esta fase del proyecto colaboré en la validación e integración del sistema, asegurándome de que todas las decisiones técnicas respetaran las normativas éticas y que el software se mantuviera transparente, inclusivo y profesional.     </td>
+    <td class="tg-0lax">       Acuña Tomas, Diego Rolin<br>       TB1: Participó activamente asegurando que las decisiones técnicas cumplieran con estándares éticos y priorizando el respeto a los usuarios y la confidencialidad de sus datos.<br><br>       Bastidas Bastidas, Diego Martin<br>       TB1: Promovió prácticas responsables dentro del equipo, fomentando el uso adecuado de la información y el cumplimiento de principios éticos en el desarrollo del software.<br><br>       Gallo Quintana, David Ivanoff<br>       TB1: Demostró compromiso con los aspectos éticos del proyecto, reflexionando sobre las implicancias de nuestras soluciones y promoviendo una conducta profesional.<br><br>       Silva Tirado, Sebastian Valentino<br>       TB1: Se aseguró de que el código desarrollado siguiera buenas prácticas éticas, evitando malas prácticas como la reutilización de código sin referencia o manejo inadecuado de datos.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TB1: Contribuyó con una visión ética al evaluar funcionalidades, asegurándose de que estas respetaran la privacidad, la inclusión y el bienestar de los usuarios finales.<br><br>       Acuña Tomas, Diego Rolin<br>       TP1: Participó en la implementación de pruebas unitarias, asegurándose de que cada módulo del sistema cumpla con los estándares éticos y no interfiera con la privacidad de los datos del usuario.<br><br>       Bastidas Bastidas, Diego Martin<br>       TP1: Fomentó la creación de pruebas unitarias claras y fáciles de mantener, promoviendo una cobertura de pruebas adecuada que respete la integridad del código.<br><br>       Gallo Quintana, David Ivanoff<br>       TP1: Demostró compromiso con las pruebas de calidad, asegurándose de que todas las funcionalidades del sistema fueran verificadas en cuanto a su rendimiento y ética, sin causar efectos secundarios indeseados.<br><br>       Silva Tirado, Sebastian Valentino<br>       TP1: Garantizó que todas las pruebas unitarias respetaran las mejores prácticas, asegurando la reutilización ética de código y evitando el uso de datos sensibles de forma indebida.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TP1: Colaboró en la creación de pruebas unitarias que evaluaran el comportamiento de la aplicación respetando los derechos de los usuarios y fomentando la inclusividad.<br><br>       Acuña Tomas, Diego Rolin<br>       TB2: Participó activamente en la revisión del código asegurando su cumplimiento con estándares éticos y buenas prácticas, evitando el uso indebido de librerías externas sin licencia.<br><br>       Bastidas Bastidas, Diego Martin<br>       TB2: Se encargó de garantizar que la documentación técnica fuera clara y honesta, reflejando fielmente el trabajo realizado y respetando los derechos de autor.<br><br>       Gallo Quintana, David Ivanoff<br>       TB2: Supervisó la integración de módulos, asegurándose de que se mantuvieran principios éticos como la transparencia en el uso de los datos y la trazabilidad de errores.<br><br>       Silva Tirado, Sebastian Valentino<br>       TB2: Revisó y validó el uso correcto de datos sensibles durante pruebas de integración, velando por la privacidad y confidencialidad de los usuarios.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TB2: Aseguró que las funcionalidades implementadas respetaran los principios de equidad e inclusión, proponiendo mejoras para evitar sesgos en el sistema.     <br><br>Acuña Tomas, Diego Rolin<br>       TF1: Identificó oportunidades de mejora a nivel social y económico en la propuesta final, sugiriendo funcionalidades escalables para sectores vulnerables.<br><br>       Bastidas Bastidas, Diego Martin<br>       TF1: Propuso medidas que reflejen el valor del proyecto como alternativa sostenible, destacando su aplicabilidad en comunidades con acceso limitado a transporte ecológico.<br><br>       Gallo Quintana, David Ivanoff<br>       TF1: Se encargó de sintetizar las proyecciones de crecimiento y sostenibilidad a futuro, integrando criterios globales en la redacción del documento final.<br><br>       Silva Tirado, Sebastian Valentino<br>       TF1: Evaluó el impacto potencial del sistema en la movilidad urbana y medioambiente, integrándolo en las conclusiones.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TF1: Propuso recomendaciones orientadas a mejorar el acceso para personas con distintas capacidades, asegurando un enfoque inclusivo en el cierre del proyecto.</td>
+    <td class="tg-0lax">       TB1:<br>En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco.<br><br>       TP1:<br>En este entregable me encargué de diseñar y ejecutar pruebas unitarias, verificando que cada módulo de la aplicación funcionara correctamente de acuerdo a las especificaciones iniciales y sin comprometer la calidad ética del software.<br><br>       TB2:<br>En esta fase del proyecto colaboré en la validación e integración del sistema, asegurándome de que todas las decisiones técnicas respetaran las normativas éticas y que el software se mantuviera transparente, inclusivo y profesional.     <br><br>TF1:<br>En el documento final me enfoqué en integrar los aprendizajes del curso desde una perspectiva de impacto, destacando el potencial de EcoMovil como una solución tecnológica viable y socialmente responsable en contextos urbanos y ecológicos.</td>
   </tr>
   <tr>
     <td class="tg-0lax">4.c.2 Emite juicios informados<br>considerando el impacto de las<br>soluciones de ingeniería de<br>software en contextos globales,<br>económicos, ambientales y<br>sociales</td>
-    <td class="tg-0lax">       Acuña Tomas, Diego Rolin<br>       TB1: Analizó cómo el uso de la aplicación impacta en distintos contextos sociales, especialmente en relación con la inclusión digital y la formalización de servicios informales.<br><br>       Bastidas Bastidas, Diego Martin<br>       TB1: Evaluó las implicancias del sistema propuesto en el ámbito económico y social, considerando su efecto en pequeñas empresas del rubro de belleza.<br><br>       Gallo Quintana, David Ivanoff<br>       TB1: Contribuyó a la toma de decisiones considerando el impacto de nuestras soluciones a largo plazo en la sociedad y el medio ambiente, incluyendo sostenibilidad tecnológica.<br><br>       Silva Tirado, Sebastian Valentino<br>       TB1: Reflexionó sobre cómo las funcionalidades influirían en usuarios de distintos contextos, procurando decisiones inclusivas y con impacto positivo en la comunidad.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TB1: Consideró el impacto social y cultural de la plataforma, impulsando soluciones que aporten valor en entornos con alta informalidad laboral y desigualdad de acceso.<br><br>       Acuña Tomas, Diego Rolin<br>       TP1: Evaluó cómo las pruebas unitarias afectan el rendimiento de la aplicación, asegurándose de que no generaran lentitud o consumo excesivo de recursos.<br><br>       Bastidas Bastidas, Diego Martin<br>       TP1: Consideró los efectos de las pruebas unitarias en la seguridad del software, realizando pruebas para identificar vulnerabilidades potenciales.<br><br>       Gallo Quintana, David Ivanoff<br>       TP1: Analizó el impacto de las pruebas unitarias en la estabilidad del sistema, asegurándose de que las nuevas actualizaciones no rompieran funcionalidades existentes.<br><br>       Silva Tirado, Sebastian Valentino<br>       TP1: Reflexionó sobre las implicaciones de las pruebas unitarias en el contexto de escalabilidad, asegurándose de que el software pudiera manejar cargas mayores sin perder eficacia.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TP1: Reflexionó sobre el impacto de las pruebas en la usabilidad del sistema, buscando que las pruebas no afectaran la experiencia de usuario ni la accesibilidad.<br><br>       Acuña Tomas, Diego Rolin<br>       TB2: Analizó el posible impacto económico del sistema al integrarlo en entornos de bajos recursos, proponiendo soluciones adaptativas.<br><br>       Bastidas Bastidas, Diego Martin<br>       TB2: Consideró el impacto social del sistema en áreas rurales y propuso funcionalidades que favorezcan su adopción en estos contextos.<br><br>       Gallo Quintana, David Ivanoff<br>       TB2: Evaluó la escalabilidad del sistema considerando escenarios de crecimiento poblacional y tecnológico a largo plazo.<br><br>       Silva Tirado, Sebastian Valentino<br>       TB2: Reflexionó sobre la sostenibilidad del sistema desde el punto de vista ambiental y propuso optimizaciones para reducir el consumo de recursos.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TB2: Incorporó criterios de accesibilidad para asegurar que el sistema pudiera ser usado por personas con distintas capacidades, reduciendo barreras tecnológicas.     </td>
-    <td class="tg-0lax">       TB1:<br>En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco.<br><br>       TP1:<br>En este entregable me encargué de revisar y evaluar los impactos de las pruebas unitarias sobre la seguridad y el rendimiento, proporcionando un informe sobre su efectividad y posibles mejoras en el proceso de prueba.<br><br>       TB2:<br>En esta etapa me encargué de analizar el impacto social y ambiental de la solución propuesta, aportando con ideas para hacerla más sostenible, accesible e inclusiva en diversos contextos.     </td>
+    <td class="tg-0lax">       Acuña Tomas, Diego Rolin<br>       TB1: Analizó cómo el uso de la aplicación impacta en distintos contextos sociales, especialmente en relación con la inclusión digital y la formalización de servicios informales.<br><br>       Bastidas Bastidas, Diego Martin<br>       TB1: Evaluó las implicancias del sistema propuesto en el ámbito económico y social, considerando su efecto en pequeñas empresas del rubro de belleza.<br><br>       Gallo Quintana, David Ivanoff<br>       TB1: Contribuyó a la toma de decisiones considerando el impacto de nuestras soluciones a largo plazo en la sociedad y el medio ambiente, incluyendo sostenibilidad tecnológica.<br><br>       Silva Tirado, Sebastian Valentino<br>       TB1: Reflexionó sobre cómo las funcionalidades influirían en usuarios de distintos contextos, procurando decisiones inclusivas y con impacto positivo en la comunidad.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TB1: Consideró el impacto social y cultural de la plataforma, impulsando soluciones que aporten valor en entornos con alta informalidad laboral y desigualdad de acceso.<br><br>       Acuña Tomas, Diego Rolin<br>       TP1: Evaluó cómo las pruebas unitarias afectan el rendimiento de la aplicación, asegurándose de que no generaran lentitud o consumo excesivo de recursos.<br><br>       Bastidas Bastidas, Diego Martin<br>       TP1: Consideró los efectos de las pruebas unitarias en la seguridad del software, realizando pruebas para identificar vulnerabilidades potenciales.<br><br>       Gallo Quintana, David Ivanoff<br>       TP1: Analizó el impacto de las pruebas unitarias en la estabilidad del sistema, asegurándose de que las nuevas actualizaciones no rompieran funcionalidades existentes.<br><br>       Silva Tirado, Sebastian Valentino<br>       TP1: Reflexionó sobre las implicaciones de las pruebas unitarias en el contexto de escalabilidad, asegurándose de que el software pudiera manejar cargas mayores sin perder eficacia.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TP1: Reflexionó sobre el impacto de las pruebas en la usabilidad del sistema, buscando que las pruebas no afectaran la experiencia de usuario ni la accesibilidad.<br><br>       Acuña Tomas, Diego Rolin<br>       TB2: Analizó el posible impacto económico del sistema al integrarlo en entornos de bajos recursos, proponiendo soluciones adaptativas.<br><br>       Bastidas Bastidas, Diego Martin<br>       TB2: Consideró el impacto social del sistema en áreas rurales y propuso funcionalidades que favorezcan su adopción en estos contextos.<br><br>       Gallo Quintana, David Ivanoff<br>       TB2: Evaluó la escalabilidad del sistema considerando escenarios de crecimiento poblacional y tecnológico a largo plazo.<br><br>       Silva Tirado, Sebastian Valentino<br>       TB2: Reflexionó sobre la sostenibilidad del sistema desde el punto de vista ambiental y propuso optimizaciones para reducir el consumo de recursos.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TB2: Incorporó criterios de accesibilidad para asegurar que el sistema pudiera ser usado por personas con distintas capacidades, reduciendo barreras tecnológicas.     <br><br>Acuña Tomas, Diego Rolin<br>       TF1: Contribuyó a la revisión general del documento final, verificando que el enfoque ético estuviera reflejado en la presentación del producto y que todas las fuentes de información fueran correctamente citadas.<br><br>       Bastidas Bastidas, Diego Martin<br>       TF1: Se enfocó en garantizar que la documentación final cumpliera con estándares de honestidad académica y reflejara con fidelidad el proceso ético llevado por el equipo.<br><br>       Gallo Quintana, David Ivanoff<br>       TF1: Aseguró que el documento final reflejara el compromiso del equipo con la ética profesional, revisando particularmente los apartados relacionados con datos y privacidad.<br><br>       Silva Tirado, Sebastian Valentino<br>       TF1: Contribuyó en la consolidación del documento final, cuidando que las conclusiones reflejaran los principios éticos aplicados.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TF1: Evaluó el documento final para garantizar que el enfoque inclusivo y ético estuviera representado adecuadamente en el producto y en las reflexiones finales.</td>
+    <td class="tg-0lax">       TB1:<br>En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco.<br><br>       TP1:<br>En este entregable me encargué de revisar y evaluar los impactos de las pruebas unitarias sobre la seguridad y el rendimiento, proporcionando un informe sobre su efectividad y posibles mejoras en el proceso de prueba.<br><br>       TB2:<br>En esta etapa me encargué de analizar el impacto social y ambiental de la solución propuesta, aportando con ideas para hacerla más sostenible, accesible e inclusiva en diversos contextos. <br><br>TF1:<br>En el entregable final ayudé a sintetizar los aprendizajes obtenidos, destacando la importancia de las buenas prácticas éticas en el desarrollo de software y asegurando que la documentación reflejara fielmente el proceso y los valores del equipo.</td>
   </tr>
 </tbody></table>
 
@@ -4235,27 +4311,41 @@ Estas métricas se rastrearán mediante herramientas como **Google Analytics** y
 
 <div id='8.3.3.2.'><h5>8.3.3.2. Implemented To-Be Landing Page Evidence</h5></div>
 
-
+| **#Orden** 	| **User Story ID** 	| **Título** 	| **ID** 	| **Tareas** 	| **Estado** 	| **Horas** 	|
+|------------	|-------------------	|------------	|--------	|------------	|------------	|-----------	|
+|            	|                   	|            	|        	|            	|            	|           	|
 
 <div id='8.3.3.3.'><h5>8.3.3.3. Implemented To-Be Frontend-Web Application Evidence</h5></div>
 
-
+| **#Orden** 	| **User Story ID** 	| **Título** 	| **ID** 	| **Tareas** 	| **Estado** 	| **Horas** 	|
+|------------	|-------------------	|------------	|--------	|------------	|------------	|-----------	|
+|            	|                   	|            	|        	|            	|            	|           	|
 
 <div id='8.3.3.4.'><h5>8.3.3.4. Implemented To-Be Native-Mobile Application Evidence</h5></div>
 
+| **#Orden** 	| **User Story ID** 	| **Título**         	| **ID** 	| **Tareas**                                                                    	| **Estado** 	| **Horas** 	|
+|------------	|-------------------	|--------------------	|--------	|-------------------------------------------------------------------------------	|------------	|-----------	|
+| 3          	| US-X              	| Mobile Application 	| W-X    	| - Implementación del mobile app. <br>- Alquiler de vehículos no combustibles. 	| Done       	| 5 h       	|
 
+<br>
+
+<img src="assets/Mobile1.png" alt="Mobile1" width="200" class="rounded shadow mb-4"/>
+<img src="assets/Mobile2.png" alt="Mobile2" width="200" class="rounded shadow mb-4"/>
+<br>
+<img src="assets/Mobile3.png" alt="Mobile3" width="200" class="rounded shadow mb-4"/>
+<img src="assets/Mobile4.png" alt="Mobile4" width="200" class="rounded shadow mb-4"/>
 
 <div id='8.3.3.5.'><h5>8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence</h5></div>
 
-
+| **#Orden** 	| **User Story ID** 	| **Título** 	| **ID** 	| **Tareas** 	| **Estado** 	| **Horas** 	|
+|------------	|-------------------	|------------	|--------	|------------	|------------	|-----------	|
+|            	|                   	|            	|        	|            	|            	|           	|
 
 <div id='8.3.3.6.'><h5>8.3.3.6. Team Collaboration Insights</h5></div>
 
 
 
 <div id='8.3.4.'><h4>8.3.4. To-Be Validation Interviews</h4></div>
-
-
 
 <div id='8.3.4.1.'><h5>8.3.4.1. Diseño de Entrevistas.</h5></div>
 
@@ -4273,6 +4363,18 @@ Estas métricas se rastrearán mediante herramientas como **Google Analytics** y
 
 <div id='8.4.2.'><h4>8.4.2. Re-scored and Re-prioritized Question Backlog</h4></div>
 
+A continuación, se presenta la lista de preguntas clave reevaluadas y reordenadas según su prioridad, en el contexto del desarrollo de la aplicación EcoMovil. Estas preguntas nos permitirán enfocar mejor el diseño del producto, validar hipótesis y tomar decisiones estratégicas.
+
+| Prioridad | Pregunta                                                                                             | Justificación del puntaje/posición                                                                 |
+|-----------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Alta      | ¿Cuál es el perfil y comportamiento de los usuarios interesados en alquilar vs. vender vehículos ecológicos? | Es clave para definir funcionalidades principales y segmentar correctamente el mercado objetivo.   |
+| Alta      | ¿Qué factores generan confianza y seguridad en una plataforma de este tipo?                         | La seguridad es fundamental para atraer y retener usuarios, especialmente en operaciones entre pares. |
+| Alta      | ¿Cuáles son los medios de transporte ecológico más demandados según zona geográfica?                | Afecta la oferta inicial, el inventario disponible y la estrategia de despliegue por regiones.      |
+| Media     | ¿Qué incentivos económicos resultan más atractivos para que usuarios ofrezcan sus vehículos?        | Impacta directamente en la disponibilidad y diversidad de vehículos en la plataforma.              |
+| Media     | ¿Qué barreras legales existen para el alquiler de vehículos entre particulares?                     | Determina la viabilidad operativa y regulatoria en cada ciudad o país.                             |
+| Media     | ¿Cuál es la percepción del usuario sobre el costo-beneficio de EcoMovil frente al transporte tradicional? | Ayuda a ajustar precios, definir el valor diferencial y planear campañas de marketing.              |
+| Baja      | ¿Qué funcionalidades adicionales (gamificación, recompensas verdes, etc.) generarían más compromiso con la app? | Aumentan el engagement, pero no son críticas para la funcionalidad básica o la validación inicial. |
+| Baja      | ¿Qué alianzas estratégicas podrían fortalecer el modelo de negocio?                                 | Relevante para la expansión y sostenibilidad a mediano/largo plazo.                                |
 
 
 <div id='8.5.'><h3>8.5. Continuous Learning</h3></div>
@@ -4299,7 +4401,7 @@ Propuesta de valor definida: EcoMovil se establece como una solución innovadora
 
 Fundamentos para el desarrollo: Se definieron los principios éticos, sociales y funcionales que guiarán el diseño e implementación de la aplicación, orientados a brindar una experiencia segura, eficiente e inclusiva.
 
-- **TP:**
+- **TP1:**
 
 Identificación clara del problema: El análisis realizado ha identificado que el proceso de desarrollo de software a menudo presenta errores que se pasan por alto durante las fases iniciales, lo que puede afectar la calidad y fiabilidad del producto final. La falta de pruebas adecuadas es un desafío común en equipos de desarrollo.
 
@@ -4317,8 +4419,44 @@ El pipeline de DevOps alcanzó un buen nivel de madurez, ya que automatizamos la
 
 Por último, las entrevistas y pruebas con usuarios reales nos dieron información clave que usamos para ajustar el backlog y planificar los siguientes sprints. En resumen, TB2 nos permitió fortalecer tanto la parte técnica como la forma de experimentar y mejorar EcoMovil continuamente.
 
+- **TF1:**
 
-<div id='10.'><h2>10. Bibliografía</h2></div>
+La elaboración de este documento nos permitió estructurar de manera clara y estratégica las bases del proyecto EcoMovil, identificando oportunidades clave en el mercado de la movilidad sostenible. A través del análisis del problema y la priorización de preguntas críticas, se definieron con precisión los focos de mayor impacto para el desarrollo del producto, como la seguridad, la experiencia del usuario y la demanda de vehículos ecológicos.
+
+Esta priorización servirá como guía para tomar decisiones más informadas en las siguientes fases del proyecto, especialmente en el diseño del MVP y las primeras validaciones de mercado. Al enfocarnos en los elementos de mayor valor para el usuario y el negocio, se optimizan los recursos y se reduce el riesgo al lanzar una solución ajustada a las necesidades reales.
+
+En resumen, este trabajo proporciona un marco sólido para avanzar en el desarrollo de EcoMovil, con una visión clara de cómo validar nuestras hipótesis y maximizar el valor del producto desde sus etapas iniciales.
+
+<div id='10.'><h2>10. Video About-The-Team.</h2></div>
+
+<table style="font-size: 12px;">
+  <tr>
+    <th>Sección</th>
+    <th>Características del video</th>
+    <th>Sobre el contenido</th>
+    <th>Integración y entrega</th>
+  </tr>
+  <tr>
+    <td>About The Team</td>
+    <td>
+      <strong>Cantidad de videos</strong>: 1<br>
+      <strong>Nomenclatura</strong>: upc-pre-202501-1asi0732-4442-aceitunas-about-the-team-sprint-1<br>
+      <strong>Formato</strong>: .mp4<br>
+      <strong>Duración</strong>: XX:XX min
+    </td>
+    <td>
+      Video relacionado acerca de los integrantes, sus funciones en el proyecto y conclusiones.
+    </td>
+    <td>
+      Screenshot: <br>
+      <img src="./Img/ATT.png" alt="ATT" style="width: 200px;"><br>
+      Link: <a href="URL">Video Nube
+      </a>
+    </td>
+  </tr>
+  </table>
+
+<div id='11.'><h2>11. Bibliografía</h2></div>
 
 Organización Mundial de la Salud (OMS). (2023). Contaminación del aire y salud. https://www.who.int/
 
@@ -4328,7 +4466,7 @@ Ministerio del Ambiente (2023). Informe sobre la calidad del aire en zonas urban
 
 Nielsen Norman Group. (2022). Usabilidad y diseño centrado en el usuario. https://www.nngroup.com/
 
-<div id='11.'><h2>11. Anexos</h2></div>
+<div id='12.'><h2>12. Anexos</h2></div>
 
 *URL del repositorio para el reporte del proyecto:* <a href="https://github.com/UPC-PRE-1ASI0732-2501-4442-G1-Aceituna">Repositorio</a> 
 

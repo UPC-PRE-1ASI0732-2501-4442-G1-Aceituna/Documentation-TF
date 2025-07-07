@@ -4436,6 +4436,50 @@ A continuación, se presenta la lista de preguntas clave reevaluadas y reordenad
 
 <div id='8.5.1.'><h4>8.5.1. Shareback Session Artifacts: Learning Workflow</h4></div>
 
+El flujo de trabajo de aprendizaje implementado en **EcoMovil** tiene como propósito capturar, sintetizar y compartir los conocimientos obtenidos a lo largo del desarrollo del proyecto. Estas sesiones de retroalimentación promueven una mejora continua en la propuesta de valor, experiencia del usuario y decisiones técnicas del equipo.
+
+#### 🎯 Objetivos
+- Identificar aprendizajes clave relacionados con movilidad sostenible, monetización de vehículos ecológicos y usabilidad del producto.
+- Compartir buenas prácticas y lecciones aprendidas para evitar errores repetitivos.
+- Mantener al equipo alineado sobre cambios en comportamiento de los usuarios, avances tecnológicos y métricas clave de la plataforma.
+
+#### 🔄 Flujo de trabajo
+
+##### 1. 📥 Captura de datos
+- **Fuentes:**  
+  Feedback de usuarios, entrevistas de validación, métricas de tráfico en la landing page y test de usabilidad.
+
+- **Herramientas:**  
+  Google Forms, sesiones retrospectivas, Google Analytics, tableros colaborativos como Miro y Notion.
+
+---
+
+##### 2. 🧠 Análisis y síntesis
+
+- **Documentación:**  
+  Registros en Notion de aprendizajes clave organizados por áreas (UX, técnico, negocio).
+
+- **Sesiones de alineamiento:**  
+  Reuniones internas para revisar y priorizar hallazgos con base en impacto y factibilidad.
+
+---
+
+##### 3. 🛠️ Implementación de mejoras
+
+- Ajustes en la interfaz de la landing page y funcionalidades según feedback recurrente.  
+  *(Ej: accesos diferenciados, claridad en los beneficios, optimización del CTA)*  
+- Refinamiento de flujos de usuario y textos de onboarding.
+
+---
+
+##### 4. ♻️ Retroalimentación continua
+
+- Evaluación iterativa posterior a cada sprint o cambio relevante.
+- Revisión periódica de métricas para verificar la efectividad de las mejoras aplicadas.
+
+---
+
+<img src="assets/Shareback.png" alt="Shareback" width="700" class="rounded shadow mb-4"/>
 
 
 <div id='8.6.'><h3>8.6. To-Be Software Platform Pre-launch</h3></div>

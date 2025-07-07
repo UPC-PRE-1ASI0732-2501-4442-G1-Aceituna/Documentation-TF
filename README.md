@@ -4313,7 +4313,10 @@ Estas métricas se rastrearán mediante herramientas como **Google Analytics** y
 
 | **#Orden** 	| **User Story ID** 	| **Título** 	| **ID** 	| **Tareas** 	| **Estado** 	| **Horas** 	|
 |------------	|-------------------	|------------	|--------	|------------	|------------	|-----------	|
-|            	|                   	|            	|        	|            	|            	|           	|
+|      1      	|      US-7             	|     Landing Page       	|      W-11  	| - Implementación del landing page en la app. <br> - Generación de informes periódicos para identificar oportunidades de mejora en el diseño y contenido de la landing page.     	|      Done      	|     5.0 h      	|
+
+<img src="Img/landing-page.png" alt="Implemented To-Be Landing Page Evidence" width="700" class="rounded shadow mb-4"/>
+
 
 <div id='8.3.3.3.'><h5>8.3.3.3. Implemented To-Be Frontend-Web Application Evidence</h5></div>
 

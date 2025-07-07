@@ -4339,7 +4339,21 @@ Estas métricas se rastrearán mediante herramientas como **Google Analytics** y
 
 | **#Orden** 	| **User Story ID** 	| **Título** 	| **ID** 	| **Tareas** 	| **Estado** 	| **Horas** 	|
 |------------	|-------------------	|------------	|--------	|------------	|------------	|-----------	|
-|            	|                   	|            	|        	|            	|            	|           	|
+| 1           	|          US01         	|    Front-end        	|    W-X    	|Como estudiante o comprador, quiero ver una página de inicio para explorar las características de la plataforma.	            	| Done          	|   8       	|
+| 2           	|          US02         	|    Front-end        	|    W-X    	|Como visitante, quiero una presentación visual impactante para comprender rápidamente el propósito del servicio.	| Done          	|   6       	|
+| 3           	|          US03         	|    Front-end        	|    W-X    	|Como cliente potencial, quiero encontrar datos legales y de contacto para resolver dudas o consultas.		            	| Done          	|   4       	|
+| 6           	|          US06         	|    Front-end        	|    W-X    	|Como usuario móvil, quiero una adaptación automática del diseño para navegar cómodamente desde cualquier dispositivo.		     | Done          	|   10       	|
+| 7           	|          US07         	|    Front-end        	|    W-X    	|Como cliente interesado, quiero comparar opciones de suscripción para seleccionar la que mejor se ajuste a mis necesidades.	| Done          	|   7       	|
+| 8           	|          US08         	|    Front-end        	|    W-X    	|Como nuevo miembro, quiero un formulario de registro sencillo para comenzar a utilizar los servicios.		| Done          	|   6       	|
+
+<img src="assets/1tobe.png" alt="tobe1" width="200" class="rounded shadow mb-4"/>
+<img src="assets/2tobe.png" alt="tobe1" width="200" class="rounded shadow mb-4"/>
+<img src="assets/3tobe.png" alt="tobe1" width="200" class="rounded shadow mb-4"/>
+<img src="assets/4tobe.png" alt="tobe1" width="200" class="rounded shadow mb-4"/>
+<img src="assets/5tobe.png" alt="tobe1" width="200" class="rounded shadow mb-4"/>
+<img src="assets/6tobe.png" alt="tobe1" width="200" class="rounded shadow mb-4"/>
+
+
 
 <div id='8.3.3.6.'><h5>8.3.3.6. Team Collaboration Insights</h5></div>
 
@@ -4348,6 +4362,44 @@ Estas métricas se rastrearán mediante herramientas como **Google Analytics** y
 <div id='8.3.4.'><h4>8.3.4. To-Be Validation Interviews</h4></div>
 
 <div id='8.3.4.1.'><h5>8.3.4.1. Diseño de Entrevistas.</h5></div>
+
+Llevaremos a cabo una serie de entrevistas de validación que nos permitirá evaluar nuestra aplicación web y móvil de EcoMovil. Estas entrevistas están diseñadas para obtener retroalimentación valiosa sobre la experiencia del usuario, la funcionalidad y la efectividad de nuestra plataforma.
+
+### Objetivos de las Entrevistas
+- Evaluar la primera impresión y usabilidad de la Landing Page
+- Validar la comprensión del propósito y valor de la aplicación
+- Identificar puntos de mejora en la navegación y experiencia del usuario
+- Obtener feedback sobre el rendimiento y funcionalidad de la aplicación móvil
+- Evaluar la efectividad de las funcionalidades implementadas
+
+### Preguntas para Validación de Landing Page
+
+**Primeras Impresiones:**
+1. ¿Qué impresión te causa la página al verla por primera vez?
+2. ¿Puedes identificar fácilmente el propósito de la aplicación al ver la Landing Page?
+3. ¿La navegación de la página es intuitiva y fácil de usar?
+
+**Rendimiento y Experiencia:**
+4. ¿El tiempo de carga de la página es satisfactorio para una buena experiencia del usuario?
+5. ¿Te sientes motivado a registrarte después de ver la Landing Page?
+
+### Preguntas para Validación de Aplicación Móvil
+
+**Funcionalidad Principal:**
+6. ¿El proceso de registro es sencillo y claro?
+7. ¿Puedes navegar fácilmente entre las diferentes secciones de la aplicación?
+8. ¿La búsqueda de vehículos ecológicos funciona como esperabas?
+
+**Experiencia de Usuario:**
+9. ¿La interfaz es intuitiva y fácil de entender?
+10. ¿El proceso de alquiler o compra es claro y seguro?
+
+
+**Identificación de Oportunidades:**
+11. ¿Qué aspectos mejorarías o cambiarías en la página para hacerla más efectiva?
+12. ¿Considerarías usar esta aplicación para tus necesidades de transporte?
+13. ¿Recomendarías esta aplicación a otros usuarios?
+
 
 
 

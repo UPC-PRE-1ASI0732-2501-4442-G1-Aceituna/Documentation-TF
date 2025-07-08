@@ -4420,7 +4420,7 @@ Estas métricas se rastrearán mediante herramientas como **Google Analytics** y
 
 | **#Orden** 	| **User Story ID** 	| **Título**         	| **ID** 	| **Tareas**                                                                    	| **Estado** 	| **Horas** 	|
 |------------	|-------------------	|--------------------	|--------	|-------------------------------------------------------------------------------	|------------	|-----------	|
-| 3          	| US-X              	| Mobile Application 	| W-X    	| - Implementación del mobile app. <br>- Alquiler de vehículos no combustibles. 	| Done       	| 5 h       	|
+| 3          	| US-9              	| Mobile Application 	| W-12    	| - Implementación del mobile app. <br>- Alquiler de vehículos no combustibles. 	| Done       	| 8 h       	|
 
 <br>
 
@@ -4429,6 +4429,16 @@ Estas métricas se rastrearán mediante herramientas como **Google Analytics** y
 <br>
 <img src="assets/Mobile3.png" alt="Mobile3" width="200" class="rounded shadow mb-4"/>
 <img src="assets/Mobile4.png" alt="Mobile4" width="200" class="rounded shadow mb-4"/>
+<br>
+<img src="assets/Mobile5.png" alt="Mobile5" width="200" class="rounded shadow mb-4"/>
+<img src="assets/Mobile6.png" alt="Mobile6" width="200" class="rounded shadow mb-4"/>
+<br>
+<img src="assets/Mobile7.png" alt="Mobile7" width="200" class="rounded shadow mb-4"/>
+<img src="assets/Mobile8.png" alt="Mobile8" width="200" class="rounded shadow mb-4"/>
+<br>
+<img src="assets/Mobile9.png" alt="Mobile9" width="200" class="rounded shadow mb-4"/>
+<img src="assets/Mobile10.png" alt="Mobile10" width="200" class="rounded shadow mb-4"/>
+<br>
 
 <div id='8.3.3.5.'><h5>8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence</h5></div>
 
@@ -4532,108 +4542,21 @@ Llevaremos a cabo una serie de entrevistas de validación que nos permitirá eva
 
 13. ¿Recomendarías esta aplicación a otros usuarios?
 
-
-
-
 <div id='8.3.4.2.'><h5>8.3.4.2. Registro de Entrevistas.</h5></div>
 
 ## Segmento #1: Universitarios 
 
 **Entrevista 1** 
 
-*Entrevistado:* Ramiro Alexander Guzman<br>
-*Edad:* 20<br>
+*Entrevistado:* <br>
+*Edad:* <br>
 *Domicilio:* Lima, Perú<br>
 *Enlace:* https:<a href="URL">Video</a>
 
 *Resumen de la Entrevista*:
-Ramiro, estudiante con conocimientos en tecnología, es dueño de una bicicleta que alquila ocasionalmente para generar ingresos extra. Se mostró interesado en la aplicación EcoMovil pero recalcó que prefiere alquilar solo a otros universitarios. Valora especialmente la función de identificar de manera confiable a las personas para hacer los acuerdos y está abierto a una comunidad con reseñas y colaboración entre usuarios.
+
 
 ---
-
-**Entrevista 2** 
-
-*Entrevistado:* Gian Franco Durand<br>
-*Edad:* 23<br>
-*Domicilio:* San Juan de Miraflores, Lima, Perú<br>
-*Enlace:* https:<a href="URL">Video</a>
-
-*Resumen de la Entrevista*:
-Franco es usuario de bicicletas y skate con conocimientos básicos de mantenimiento. Utiliza principalmente dispositivos móviles y computadora. Al elegir vehículos menores prioriza funcionalidad y precio. Posee bicicletas que podría alquilar o vender, determinando el precio según estado y materiales. Sugiere incluir filtros por zona y precio, así como mapas de demanda en la aplicación.
-
----
-
-**Entrevista 3** 
-
-*Entrevistado:* Lucerito Guzmán<br>
-*Edad:* 23<br>
-*Domicilio:* Magdalena, Lima, Perú<br>
-*Enlace:* https:<a href="URL">Video</a>
-
-*Resumen de la Entrevista*:
-Lucerito reside en Magdalena y tiene una bicicleta eléctrica que usa para movilizarse hacia la universidad y el trabajo. Desea comprarse otra para lo cual el proyecto de EcoMovil le parece excelente, ya que no tendría la necesidad de buscar a quién alquilar o vender, sino que el aplicativo manejaría todo el proceso.
-
----
-
-## Segmento #2: Adquirientes
-
-**Entrevista 1** 
-
-*Entrevistada:* Miguel Angel Gómez Hurtado<br>
-*Edad:* 23<br>
-*Domicilio:* Lima, Perú<br>
-*Enlace:* https:<a href="URL">Video</a>
-
-*Resumen de la Entrevista*:
-Miguel es una persona con múltiples medios de comunicación y conocimientos en tecnología. Busca un medio de transporte personal para recorrer distancias cortas de forma rápida. Se mostró interesado en EcoMovil y destacó la importancia de contar con una plataforma confiable que garantice seguridad. Sugiere integrar aplicaciones de pago como Yape, función para ubicar comerciantes cercanos y sistema de reseñas.
-
----
-
-**Entrevista 2** 
-
-*Entrevistada:* Camila Pérez Novoa<br>
-*Edad:* 23<br>
-*Domicilio:* Barcelona, España<br>
-*Enlace:* https:<a href="URL">Video</a>
-
-*Resumen de la Entrevista*:
-Camila es estudiante de Medicina que reside en España y planea viajar a Perú. Ha considerado realizar paseos en bicicleta por Miraflores durante su visita. Encontró interesante la propuesta de EcoMovil y destacó que una de las características más importantes para ella sería un mapa interactivo para localizar vehículos disponibles.
-
----
-
-**Entrevista 3** 
-
-*Entrevistada:* Marcia Rea Gamboa<br>
-*Edad:* 20<br>
-*Domicilio:* San Martín, Lima, Perú<br>
-*Enlace:* https:<a href="URL">Video</a>
-
-*Resumen de la Entrevista*:
-Marcia expresa interés en aplicaciones que faciliten el acceso a vehículos ecológicos debido a la extensión de la ciudad y la falta de movilidad propia. Sus principales expectativas son seguridad del vehículo, precios accesibles, disponibilidad inmediata y experiencia sin complicaciones. Espera que EcoMovil ofrezca soporte claro, experiencia intuitiva y transparencia en los procesos.
-
----
-
-**Entrevista 4** 
-
-*Entrevistada:* Lucia Cabanillas<br>
-*Edad:* 23<br>
-*Domicilio:* Lima, Perú<br>
-*Enlace:* https:<a href="URL">Video</a>
-
-*Resumen de la Entrevista*:
-Lucia considera que la calidad de los vehículos y la tipografía son apropiadas, siendo claras y bien presentadas. Destaca la facilidad de uso de la aplicación y valora la amplia variedad de vehículos disponibles. Aunque encuentra que la información sobre el alquiler o la venta es clara, sugiere la inclusión de un apartado de reseñas para ayudar en la toma de decisiones.
-
----
-
-**Entrevista 5** 
-
-*Entrevistada:* Silvana Hassinger<br>
-*Edad:* 25<br>
-*Domicilio:* Lima, Perú<br>
-*Enlace:* https:<a href="URL">Video</a>
-
-*Resumen de la Entrevista*:
-Silvana opina que la aplicación es muy útil, destacando la posibilidad de seleccionar vehículos de acuerdo a sus necesidades, lo que promueve la sostenibilidad e innova en el ámbito de la ecología. Considera que la experiencia es fácil y manejable, cumpliendo con lo esperado. Valora especialmente los filtros de búsqueda que encuentra muy útiles para satisfacer las necesidades de los usuarios.
 
 ## Segmento #2: Adquirientes
 
@@ -4642,10 +4565,11 @@ Silvana opina que la aplicación es muy útil, destacando la posibilidad de sele
 *Entrevistada:* Marcia Rea Gamboa<br>
 *Edad:* 20<br>
 *Domicilio:* Lima, Perú<br>
-*Enlace:* https:<a href="URL">Video</a>
+*Enlace:* <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g296_upc_edu_pe/EdHsJ2jZ4IBGvBmHLUW774wBJJVTlJ_oRbng9FRC4UlfzA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RhPS8x">Video</a>
 
 *Resumen de la Entrevista*:
-Marcia expresa interés en aplicaciones que faciliten el acceso a vehículos ecológicos debido a la extensión de la ciudad y la falta de movilidad propia. Sus principales expectativas son seguridad del vehículo, precios accesibles, disponibilidad inmediata y experiencia sin complicaciones. Espera que EcoMovil ofrezca soporte claro, experiencia intuitiva y transparencia en los procesos.
+
+Marcia expresa un alto interés en aplicaciones que promuevan el uso de vehículos ecológicos, especialmente por la amplitud de la ciudad y su falta de movilidad propia. Tras conocer EcoMovil, le agradó la propuesta por su accesibilidad, facilidad de uso y compromiso con el medio ambiente. Valora especialmente la seguridad de los vehículos, precios justos, disponibilidad rápida y una experiencia fluida. Considera que la app cumple con sus expectativas y no dudaría en recomendarla y compartirla con otras personas que buscan opciones de transporte sostenibles.
 
 ---
 
@@ -4910,8 +4834,33 @@ Se llevan a cabo pruebas de carga para asegurar que la plataforma puede manejar 
 
 
 <div id='8.6.1.'><h4>8.6.1. About-the-Product Intro Video</h4></div>
- Video: https://youtu.be/QnYJclGoVVY
-<img src="assets/loginaaaa.png" alt="Shareback" width="700" class="rounded shadow mb-4"/>
+
+<table style="font-size: 12px;">
+  <tr>
+    <th>Sección</th>
+    <th>Características del video</th>
+    <th>Sobre el contenido</th>
+    <th>Integración y entrega</th>
+  </tr>
+  <tr>
+    <td>About The Product</td>
+    <td>
+      <strong>Cantidad de videos</strong>: 1<br>
+      <strong>Nomenclatura</strong>: upc-pre-202501-1asi0732-4442-aceitunas-about-the-product-sprint-1<br>
+      <strong>Formato</strong>: .mp4<br>
+      <strong>Duración</strong>: 02:59 min
+    </td>
+    <td>
+      Video relacionado acerca el funcionamiento de la aplicacion web, sus funciones y demostración.
+    </td>
+    <td>
+      Screenshot: <br>
+      <img src="assets/loginaaaa.png" alt="ATT" style="width: 200px;"><br>
+      Link: <a href="https://youtu.be/QnYJclGoVVY">Video Nube
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div id='9.'><h2>9. Conclusiones</h2></div>
 
@@ -5000,7 +4949,7 @@ Nielsen Norman Group. (2022). Usabilidad y diseño centrado en el usuario. https
 
 *Landing Page EcoMovil:* <a href="https://upc-pre-1asi0732-2501-4442-g1-aceituna.github.io/Landing-Page-EcoMovil/">Landing Page</a> 
 
-*Front-end EcoMovil:* <a href="https://proud-smoke-05081781e.6.azurestaticapps.net/login">Front end</a> 
+*Front-end EcoMovil:* <a href="https://upc-pre-1asi0732-2501-4442-g1-aceituna.github.io/front-new/">Front end</a> 
 
 *Sprint Backlog:* <a href="https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a858cc89fb96145607955103/sprint-backlog-1-ecomovil">Sprint</a>  
 

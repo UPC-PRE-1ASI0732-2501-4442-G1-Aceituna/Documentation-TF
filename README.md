@@ -4597,6 +4597,31 @@ El flujo de trabajo de aprendizaje implementado en **EcoMovil** tiene como prop�
 
 
 <div id='8.6.'><h3>8.6. To-Be Software Platform Pre-launch</h3></div>
+El pre-lanzamiento de Ecomovil representa una etapa clave para asegurar una transición fluida hacia la operación oficial de la plataforma. Este proceso busca consolidar la funcionalidad, confiabilidad y usabilidad del sistema, dirigido a dos segmentos principales: universitarios que ofrecen vehículos menores (bicicletas, scooters, etc.) y adquirientes interesados en alquilarlos o comprarlos.
+
+Durante esta fase se prioriza ofrecer una experiencia sólida desde el primer acceso, aplicando mejoras técnicas y funcionales orientadas a facilitar la interacción y generar confianza entre los usuarios.
+
+Principales actividades y validaciones del pre-lanzamiento:
+
+Pruebas funcionales completas:
+Se ejecutan pruebas exhaustivas sobre las funcionalidades core, como la carga de vehículos, la edición de perfiles y la publicación de imágenes por parte del segmento universitario, así como la visualización, filtrado y localización geográfica por parte de los adquirientes.
+
+Validación de nuevas funcionalidades clave:
+
+Para universitarios: Se valida la capacidad de añadir vehículos con imágenes reales y gestionar su disponibilidad directamente desde su cuenta.
+<img src="assets/segmentouni1.png" alt="Shareback" width="700" class="rounded shadow mb-4"/>
+
+
+Para adquirientes: Se comprueba el funcionamiento del mapa interactivo y los filtros avanzados para facilitar la búsqueda según cercanía, tipo de vehículo y modalidad (compra o alquiler).
+
+<img src="assets/segmentoad1.png" alt="Shareback" width="700" class="rounded shadow mb-4"/>
+
+<img src="assets/segmentoad2.png" alt="Shareback" width="700" class="rounded shadow mb-4"/>
+
+
+Pruebas de escalabilidad y rendimiento:
+Se llevan a cabo pruebas de carga para asegurar que la plataforma puede manejar múltiples publicaciones, búsquedas simultáneas y actualizaciones en tiempo real sin afectar la experiencia del usuario.
+
 
 <div id='8.6.1.'><h4>8.6.1. About-the-ProductIntro Video</h4></div>
 

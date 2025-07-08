@@ -4623,9 +4623,9 @@ Pruebas de escalabilidad y rendimiento:
 Se llevan a cabo pruebas de carga para asegurar que la plataforma puede manejar múltiples publicaciones, búsquedas simultáneas y actualizaciones en tiempo real sin afectar la experiencia del usuario.
 
 
-<div id='8.6.1.'><h4>8.6.1. About-the-ProductIntro Video</h4></div>
-
-
+<div id='8.6.1.'><h4>8.6.1. About-the-Product Intro Video</h4></div>
+ Video: https://youtu.be/QnYJclGoVVY
+<img src="assets/loginaaaa.png" alt="Shareback" width="700" class="rounded shadow mb-4"/>
 
 <div id='9.'><h2>9. Conclusiones</h2></div>
 

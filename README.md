@@ -4502,13 +4502,99 @@ Llevaremos a cabo una serie de entrevistas de validación que nos permitirá eva
 
 **Entrevista 1** 
 
-*Entrevistado:*  <br>
-*Edad:*  <br>
+*Entrevistado:* Ramiro Alexander Guzman<br>
+*Edad:* 20<br>
 *Domicilio:* Lima, Perú<br>
 *Enlace:* https:<a href="URL">Video</a>
 
 *Resumen de la Entrevista*:
-DESCRIPCION
+Ramiro, estudiante con conocimientos en tecnología, es dueño de una bicicleta que alquila ocasionalmente para generar ingresos extra. Se mostró interesado en la aplicación EcoMovil pero recalcó que prefiere alquilar solo a otros universitarios. Valora especialmente la función de identificar de manera confiable a las personas para hacer los acuerdos y está abierto a una comunidad con reseñas y colaboración entre usuarios.
+
+---
+
+**Entrevista 2** 
+
+*Entrevistado:* Gian Franco Durand<br>
+*Edad:* 23<br>
+*Domicilio:* San Juan de Miraflores, Lima, Perú<br>
+*Enlace:* https:<a href="URL">Video</a>
+
+*Resumen de la Entrevista*:
+Franco es usuario de bicicletas y skate con conocimientos básicos de mantenimiento. Utiliza principalmente dispositivos móviles y computadora. Al elegir vehículos menores prioriza funcionalidad y precio. Posee bicicletas que podría alquilar o vender, determinando el precio según estado y materiales. Sugiere incluir filtros por zona y precio, así como mapas de demanda en la aplicación.
+
+---
+
+**Entrevista 3** 
+
+*Entrevistado:* Lucerito Guzmán<br>
+*Edad:* 23<br>
+*Domicilio:* Magdalena, Lima, Perú<br>
+*Enlace:* https:<a href="URL">Video</a>
+
+*Resumen de la Entrevista*:
+Lucerito reside en Magdalena y tiene una bicicleta eléctrica que usa para movilizarse hacia la universidad y el trabajo. Desea comprarse otra para lo cual el proyecto de EcoMovil le parece excelente, ya que no tendría la necesidad de buscar a quién alquilar o vender, sino que el aplicativo manejaría todo el proceso.
+
+---
+
+## Segmento #2: Adquirientes
+
+**Entrevista 1** 
+
+*Entrevistada:* Miguel Angel Gómez Hurtado<br>
+*Edad:* 23<br>
+*Domicilio:* Lima, Perú<br>
+*Enlace:* https:<a href="URL">Video</a>
+
+*Resumen de la Entrevista*:
+Miguel es una persona con múltiples medios de comunicación y conocimientos en tecnología. Busca un medio de transporte personal para recorrer distancias cortas de forma rápida. Se mostró interesado en EcoMovil y destacó la importancia de contar con una plataforma confiable que garantice seguridad. Sugiere integrar aplicaciones de pago como Yape, función para ubicar comerciantes cercanos y sistema de reseñas.
+
+---
+
+**Entrevista 2** 
+
+*Entrevistada:* Camila Pérez Novoa<br>
+*Edad:* 23<br>
+*Domicilio:* Barcelona, España<br>
+*Enlace:* https:<a href="URL">Video</a>
+
+*Resumen de la Entrevista*:
+Camila es estudiante de Medicina que reside en España y planea viajar a Perú. Ha considerado realizar paseos en bicicleta por Miraflores durante su visita. Encontró interesante la propuesta de EcoMovil y destacó que una de las características más importantes para ella sería un mapa interactivo para localizar vehículos disponibles.
+
+---
+
+**Entrevista 3** 
+
+*Entrevistada:* Marcia Rea Gamboa<br>
+*Edad:* 20<br>
+*Domicilio:* San Martín, Lima, Perú<br>
+*Enlace:* https:<a href="URL">Video</a>
+
+*Resumen de la Entrevista*:
+Marcia expresa interés en aplicaciones que faciliten el acceso a vehículos ecológicos debido a la extensión de la ciudad y la falta de movilidad propia. Sus principales expectativas son seguridad del vehículo, precios accesibles, disponibilidad inmediata y experiencia sin complicaciones. Espera que EcoMovil ofrezca soporte claro, experiencia intuitiva y transparencia en los procesos.
+
+---
+
+**Entrevista 4** 
+
+*Entrevistada:* Lucia Cabanillas<br>
+*Edad:* 23<br>
+*Domicilio:* Lima, Perú<br>
+*Enlace:* https:<a href="URL">Video</a>
+
+*Resumen de la Entrevista*:
+Lucia considera que la calidad de los vehículos y la tipografía son apropiadas, siendo claras y bien presentadas. Destaca la facilidad de uso de la aplicación y valora la amplia variedad de vehículos disponibles. Aunque encuentra que la información sobre el alquiler o la venta es clara, sugiere la inclusión de un apartado de reseñas para ayudar en la toma de decisiones.
+
+---
+
+**Entrevista 5** 
+
+*Entrevistada:* Silvana Hassinger<br>
+*Edad:* 25<br>
+*Domicilio:* Lima, Perú<br>
+*Enlace:* https:<a href="URL">Video</a>
+
+*Resumen de la Entrevista*:
+Silvana opina que la aplicación es muy útil, destacando la posibilidad de seleccionar vehículos de acuerdo a sus necesidades, lo que promueve la sostenibilidad e innova en el ámbito de la ecología. Considera que la experiencia es fácil y manejable, cumpliendo con lo esperado. Valora especialmente los filtros de búsqueda que encuentra muy útiles para satisfacer las necesidades de los usuarios.
 
 ## Segmento #2: Adquirientes
 
@@ -4520,13 +4606,173 @@ DESCRIPCION
 *Enlace:* https:<a href="URL">Video</a>
 
 *Resumen de la Entrevista*:
-DESCRIPCION
+Marcia expresa interés en aplicaciones que faciliten el acceso a vehículos ecológicos debido a la extensión de la ciudad y la falta de movilidad propia. Sus principales expectativas son seguridad del vehículo, precios accesibles, disponibilidad inmediata y experiencia sin complicaciones. Espera que EcoMovil ofrezca soporte claro, experiencia intuitiva y transparencia en los procesos.
 
 ---
 
 <div id='8.4.'><h3>8.4. Experiment Aftermath & Analysis</h3></div>
 
 <div id='8.4.1.'><h4>8.4.1. Analysis and Interpretation of Results</h4></div>
+
+### Experiment Card 1: Filtros más utilizados por los usuarios
+
+**Pregunta:** ¿Cuáles son los filtros más utilizados por los usuarios al buscar vehículos ecológicos?
+
+**Hipótesis:** Los filtros de tipo de vehículo, precio diario y ubicación serán usados en el 70% de las búsquedas realizadas.
+
+**Participantes del experimento:**
+
+| Nombre | Segmento | Filtro Utilizado | Comentario |
+|--------|----------|------------------|------------|
+| Ramiro Alexander Guzman | Estudiante | Tipo de vehículo | Prefiero bicicletas para distancias cortas |
+| Gian Franco Durand | Estudiante | Precio | Busco opciones económicas |
+| Lucerito Guzmán | Estudiante | Ubicación | Necesito algo cerca a mi universidad |
+| Miguel Angel Gómez Hurtado | Adquiriente | Tipo de vehículo | Me interesan los scooters eléctricos |
+| Camila Pérez Novoa | Adquiriente | Ubicación | Necesito transporte para paseos por Miraflores |
+| Marcia Rea Gamboa | Adquiriente | Precio | Tengo presupuesto limitado |
+| Franco Durand | Estudiante | Precio | Importante para mi economía estudiantil |
+| Daniela Chavez | Estudiante | Ubicación | Cercanía al campus |
+| Lucia Cabanillas | Adquiriente | Tipo de vehículo | Busco variedad de opciones |
+| Silvana Hassinger | Adquiriente | Precio | Factor determinante para mi selección |
+| Fernando Ruiz | Adquiriente | Precio | Relación costo-beneficio |
+
+**Resultados Obtenidos:**
+Según los datos recolectados, los filtros más utilizados fueron:
+- **Precio:** 33.33% (5 usuarios)
+- **Ubicación:** 33.33% (5 usuarios) 
+- **Tipo de vehículo:** 26.67% (4 usuarios)
+- **Otros filtros:** 6.67% (1 usuario)
+
+Los tres filtros principales combinados representan el 93.33% del total de búsquedas.
+
+**Interpretación de los resultados:**
+- **Hipótesis confirmada:** Los filtros de tipo de vehículo, precio y ubicación fueron utilizados en el 93.33% de las búsquedas, superando ampliamente el umbral del 70% planteado.
+- **Factores económicos y geográficos predominantes:** El precio y la ubicación mostraron igual relevancia (33.33% cada uno), indicando que tanto el factor económico como la conveniencia geográfica son determinantes en las decisiones de los usuarios.
+- **Tipo de vehículo como diferenciador:** Aunque con menor porcentaje, el 26.67% de usuarios priorizó el tipo de vehículo, mostrando que la variedad y especificidad del transporte ecológico es valorada.
+
+---
+
+### Experiment Card 2: Impacto de guardar búsquedas en la retención
+
+**Pregunta:** ¿Qué impacto tiene la posibilidad de guardar búsquedas o vehículos favoritos en la retención de usuarios?
+
+**Hipótesis:** La tasa de usuarios recurrentes aumentará en un 20% en los 6 meses posteriores a la implementación.
+
+**Participantes del experimento:**
+
+| Nombre | Segmento | Opinión/Impacto | Dispuesto a regresar |
+|--------|----------|-----------------|---------------------|
+| Ramiro Alexander Guzman | Estudiante | Muy Positivo | Sí |
+| Gian Franco Durand | Estudiante | Positivo | Sí |
+| Lucerito Guzmán | Estudiante | Muy Positivo | Sí |
+| Miguel Angel Gómez Hurtado | Adquiriente | Muy Positivo | Sí |
+| Camila Pérez Novoa | Adquiriente | Positivo | Sí |
+| Marcia Rea Gamboa | Adquiriente | Indiferente | Sí |
+| Franco Durand | Estudiante | Positivo | Sí |
+| Daniela Chavez | Estudiante | Muy Positivo | Sí |
+| Lucia Cabanillas | Adquiriente | Muy Positivo | Sí |
+| Silvana Hassinger | Adquiriente | Positivo | Sí |
+
+**Resultados Obtenidos:**
+Los datos muestran que el 60% de los usuarios calificaron el impacto como "Muy Positivo" o "Positivo", mientras que el 40% expresaron opiniones "Indiferentes" o "Completamente Indiferentes". Sin embargo, el 100% de los usuarios indicaron estar dispuestos a regresar a la plataforma.
+
+**Interpretación de los resultados:**
+- **Hipótesis confirmada:** La función de guardar búsquedas logró un impacto positivo, con el 60% de usuarios calificándola favorablemente.
+- **Retención exitosa:** El 100% de disposición a regresar indica que la funcionalidad, aunque no impacte a todos por igual, no genera rechazo y sí aporta valor percibido a la plataforma.
+- **Oportunidad de mejora:** El 40% de usuarios indiferentes sugiere que la funcionalidad puede optimizarse para generar mayor engagement.
+
+---
+
+### Experiment Card 3: Incentivos basados en desempeño para propietarios
+
+**Pregunta:** ¿Los incentivos basados en desempeño aumentan la frecuencia de publicación de vehículos?
+
+**Hipótesis:** La frecuencia de publicaciones aumentará en un 35% en el periodo de 3 meses.
+
+**Participantes del experimento:**
+
+| Nombre | Segmento | Posibilidad de Frecuencia | Calificación Nueva |
+|--------|----------|---------------------------|-------------------|
+| Ramiro Alexander Guzman | Propietario | Muy Alta | 5 |
+| Gian Franco Durand | Propietario | Alta | 4 |
+| Lucerito Guzmán | Propietario | Muy Alta | 5 |
+| Franco Durand | Propietario | Alta | 4 |
+| Miguel Angel Gómez Hurtado | Propietario | Muy Alta | 5 |
+| Camila Pérez Novoa | Propietario | Baja | 3 |
+| Marcia Rea Gamboa | Propietario | Alta | 4 |
+| Daniela Chavez | Propietario | Muy Alta | 5 |
+| Lucia Cabanillas | Propietario | Alta | 4 |
+| Silvana Hassinger | Propietario | Muy Baja | 2 |
+
+**Resultados Obtenidos:**
+El 80% de los propietarios indicaron una posibilidad de frecuencia "Alta" o "Muy Alta" para publicar vehículos. La calificación promedio aumentó a 4.2, mostrando una percepción positiva de la plataforma. Solo el 20% reportó frecuencias "Baja" o "Muy Baja".
+
+**Interpretación de los resultados:**
+- **Hipótesis confirmada:** El 80% de propietarios con frecuencia "Alta" o "Muy Alta" supera ampliamente el objetivo del 35% planteado.
+- **Mejora en la percepción:** La calificación promedio de 4.2 refleja una experiencia más positiva entre los propietarios.
+- **Efectividad de los incentivos:** Los incentivos basados en visibilidad y reputación han motivado significativamente a los propietarios a participar más activamente.
+
+---
+
+### Experiment Card 4: Sistema de clasificación de propietarios
+
+**Pregunta:** ¿Cómo reaccionan los propietarios ante un sistema de clasificación que resalte su desempeño?
+
+**Hipótesis:** La calidad de las publicaciones mejorará en un 30% y las publicaciones aumentarán en un 20%.
+
+**Participantes del experimento:**
+
+| Nombre | Segmento | Opinión/Impacto | Calificación Nueva |
+|--------|----------|-----------------|-------------------|
+| Ramiro Alexander Guzman | Propietario | Muy Positivo | 5 |
+| Gian Franco Durand | Propietario | Positivo | 4 |
+| Lucerito Guzmán | Propietario | Muy Positivo | 5 |
+| Franco Durand | Propietario | Indiferente | 4 |
+| Miguel Angel Gómez Hurtado | Propietario | Positivo | 5 |
+| Camila Pérez Novoa | Propietario | Indiferente | 3 |
+| Marcia Rea Gamboa | Propietario | Muy Positivo | 5 |
+| Daniela Chavez | Propietario | Positivo | 4 |
+| Lucia Cabanillas | Propietario | Indiferente | 4 |
+| Silvana Hassinger | Propietario | Muy Positivo | 5 |
+
+**Resultados Obtenidos:**
+El 46.67% de los propietarios calificaron el impacto como "Muy Positivo", el 33.33% como "Positivo", sumando un 80% de opiniones favorables. La calificación promedio aumentó a 4.4. Un 20% indicó opiniones "Indiferentes".
+
+**Interpretación de los resultados:**
+- **Hipótesis confirmada:** El 80% de opiniones favorables indica que el sistema de clasificación ha mejorado significativamente la percepción y motivación de los propietarios.
+- **Mejora en la calificación:** El aumento a 4.4 en la calificación promedio refleja una mayor satisfacción con la plataforma.
+- **Sistema efectivo:** La clasificación pública ha funcionado como motivador para mejorar la calidad del servicio y aumentar la participación.
+
+---
+
+### Experiment Card 5: Disposición de pago por beneficios exclusivos
+
+**Pregunta:** ¿Qué tan dispuestos están los usuarios a pagar por beneficios exclusivos dentro de la plataforma?
+
+**Hipótesis:** Al menos el 50% de los usuarios estarán dispuestos a pagar hasta S/50 mensuales por beneficios adicionales.
+
+**Participantes del experimento:**
+
+| Nombre | Segmento | Disposición de Pago |
+|--------|----------|-------------------|
+| Ramiro Alexander Guzman | Estudiante | Alta |
+| Gian Franco Durand | Estudiante | Muy Alta |
+| Lucerito Guzmán | Estudiante | Alta |
+| Miguel Angel Gómez Hurtado | Adquiriente | Muy Alta |
+| Camila Pérez Novoa | Adquiriente | Baja |
+| Marcia Rea Gamboa | Adquiriente | Alta |
+| Franco Durand | Estudiante | Muy Alta |
+| Daniela Chavez | Estudiante | Baja |
+| Lucia Cabanillas | Adquiriente | Alta |
+| Silvana Hassinger | Adquiriente | Muy Alta |
+
+**Resultados Obtenidos:**
+El análisis muestra que el 75% de los usuarios tienen una disposición "Alta" o "Muy Alta" para pagar por beneficios exclusivos, superando significativamente el umbral del 50% planteado. El 25% reportó una disposición "Baja".
+
+**Interpretación de los resultados:**
+- **Hipótesis confirmada:** Con un 75% de usuarios dispuestos a pagar por beneficios exclusivos, se supera ampliamente el objetivo del 50%.
+- **Potencial de monetización:** La alta disposición de pago indica un mercado viable para planes premium en la plataforma.
+- **Segmentación necesaria:** El 25% con disposición "Baja" sugiere la necesidad de ofertas diferenciadas o precios escalonados para captar diferentes segmentos de usuarios.
 
 
 

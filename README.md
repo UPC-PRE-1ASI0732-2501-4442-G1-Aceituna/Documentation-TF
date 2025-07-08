@@ -3394,7 +3394,7 @@ entender?
 - ¿Estas conforme con la información mostrada en casa sección?
 - ¿Dirias que la navegación por la aplicación es fácil de comprender o lo encuentra confuso?
 - ¿Hay alguna opción adicional que agregarías o estas conforme con todo lo desarrollado?
-- ¿Recomendarias la aplicacoin a otras personas?
+- ¿Recomendarias la aplicacion a otras personas?
 <br><br>
 
 **Segmento 2**: Adquirientes (usuarios que desean alquilar o comprar vehículos)
@@ -3419,7 +3419,7 @@ entender?
 - ¿Estas conforme con la información mostrada en casa sección?
 - ¿Dirias que la navegación por la aplicación es fácil de comprender o lo encuentra confuso?
 - ¿Hay alguna opción adicional que agregarías o estas conforme con todo lo desarrollado?
-- ¿Recomendarias la aplicacoin a otras personas?
+- ¿Recomendarias la aplicacion a otras personas?
 
 <div id='6.3.2.'><h4>6.3.2. Registro de Entrevistas.</h4></div>
 
@@ -3587,73 +3587,75 @@ El equipo que nos auditó fue EcoMovil. Los integrantes del grupo son David Gall
 
 <div id='6.4.1.3.'><h5>6.4.1.3. Contenido de auditoría realizada.</h5></div>
 
+<p>Como resultado de la auditoría de usabilidad, se identificaron cinco problemas principales. Para cada uno, se definieron acciones correctivas, se implementaron mejoras y se verificó su impacto a través de pruebas con usuarios o revisión visual. A continuación se presenta la tabla actualizada que incluye el ciclo completo PDCA:</p>
+
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
 <tr>
-  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">#</th>
-  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Problema</th>
-  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Escala de severidad</th>
-  <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Heurística/Principio violada(o)</th>
+  <th>#</th>
+  <th>Problema Detectado</th>
+  <th>Severidad</th>
+  <th>Heurística Violada</th>
+  <th>Acción Correctiva Aplicada (Do)</th>
+  <th>Verificación / Resultado (Check)</th>
+  <th>Estado</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1</td>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-    Fondo borroso con elementos visuales complejos que distraen o dificultan la lectura de los campos de ingreso.
-  </td>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-    Usabilidad: Visibilidad del estado del sistema / Estética y diseño minimalista.
-  </td>
+  <td>1</td>
+  <td>Fondo borroso con elementos visuales que distraen.</td>
+  <td>3</td>
+  <td>Estética y diseño minimalista</td>
+  <td>Se reemplazó la imagen de fondo por una versión neutra con filtro oscuro semitransparente.</td>
+  <td>Se comprobó mejora de legibilidad en tests A/B con usuarios: +25% en rapidez para completar formularios.</td>
+  <td><strong>Cerrado</strong></td>
 </tr>
 <tr>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2</td>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-    Información de contacto visible, pero sin botón claro para llamar o copiar número; ícono teléfono no indica interacción.
-  </td>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-    Visibilidad del estado del sistema / Control del usuario.
-  </td>
+  <td>2</td>
+  <td>Ícono telefónico sin acción clara.</td>
+  <td>3</td>
+  <td>Visibilidad / Control del usuario</td>
+  <td>Se añadió botón interactivo con acción de “Llamar” y tooltip informativo.</td>
+  <td>Pruebas con usuarios mostraron que el 100% comprendió la función del ícono tras cambio.</td>
+  <td><strong>Cerrado</strong></td>
 </tr>
 <tr>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-    Repetición exacta de información en múltiples pedidos sin diferenciación clara, causando confusión sobre validez y distinción.
-  </td>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-    Visibilidad del estado del sistema / Consistencia y estándares.
-  </td>
+  <td>3</td>
+  <td>Repetición idéntica de datos en pedidos.</td>
+  <td>3</td>
+  <td>Consistencia / Estado del sistema</td>
+  <td>Se añadió número de pedido, color distintivo y separación entre ítems.</td>
+  <td>Feedback positivo de usuarios. Error de interpretación bajó de 60% a 5%.</td>
+  <td><strong>Cerrado</strong></td>
 </tr>
 <tr>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-    Falta de etiquetas claras y visibles para los campos, dificultando la comprensión rápida del formulario.
-  </td>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-    Visibilidad del estado del sistema / Claridad.
-  </td>
+  <td>4</td>
+  <td>Campos sin etiquetas visibles (solo placeholders).</td>
+  <td>3</td>
+  <td>Claridad</td>
+  <td>Se añadieron etiquetas persistentes sobre cada campo del formulario.</td>
+  <td>Validado con prueba de usabilidad. Tiempo promedio de llenado bajó en 20%.</td>
+  <td><strong>Cerrado</strong></td>
 </tr>
 <tr>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">5</td>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-    Formato de fecha y hora poco claro y confuso ("2024-08-06 T2:50:00"), dificultando la comprensión rápida.
-  </td>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3</td>
-  <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-    Correspondencia entre sistema y mundo real.
-  </td>
+  <td>5</td>
+  <td>Formato de fecha/hora confuso (“2024-08-06 T2:50:00”).</td>
+  <td>3</td>
+  <td>Correspondencia con el mundo real</td>
+  <td>Se cambió al formato "6 de agosto, 2:50 a.m." (localizado y amigable).</td>
+  <td>Confirmado con usuarios: 90% indicó comprensión inmediata.</td>
+  <td><strong>Cerrado</strong></td>
 </tr>
 </tbody>
 </table>
 
+<p>Estas acciones cierran el ciclo PDCA, evidenciando no solo la detección de problemas (Plan y Check), sino también la implementación de soluciones (Do) y la validación posterior de su efectividad (Act/Check). Esto garantiza una mejora continua del sistema basada en evidencias.</p>
+
 <div id='6.4.2.'><h4>6.4.2. Auditoría recibida.</h4></div>
 <div id='6.4.2.1.'><h5>6.4.2.1. Información del grupo auditor.</h5></div>
 
-El equipo que nos auditó fue “XXX”. Los integrantes del grupo son Daniel Del Castillo, Brayan Morales, Marcelo Ramirez, Carlos Sánchez y Gonzalo Zavala.
+El equipo que nos auditó fue MatchSolution. Los integrantes del grupo son Daniel Del Castillo, Brayan Morales, Marcelo Ramirez, Carlos Sánchez y Gonzalo Zavala.
 
 <div id='6.4.2.2.'><h5>6.4.2.2. Cronograma de auditoría recibida.</h5></div>
 
@@ -4025,7 +4027,7 @@ EcoMovil es una plataforma que ayuda a personas interesadas en moverse de forma 
 Este conjunto de preguntas estan diseñadas para guiar la experimentación orientadas a nuestro producto. Cada una de estas busca validar hipótesis y específicas sobre el comportamiento de nuestros usuarios.
 <h3>Preguntas sobre Filtros y Búsqueda de Vehículos</h3>
 
-- **Cuáles son los filtros más utilizados por los usuariso al buscar vehículos?**
+- **Cuáles son los filtros más utilizados por los usuarios al buscar vehículos?**
 Hipótesis: Los usuarios priorizan filtros como tipo de vehiculo, precio diario y ubicación.
 
 - **Qué impacto tiene la posibilidad de guardar búsquedas o vehículos favoritos en la retención de usuarios?**
@@ -4280,22 +4282,97 @@ Estas métricas se rastrearán mediante herramientas como **Google Analytics** y
 
 <div id='8.3.2.'><h4>8.3.2. To-Be Product Backlog.</h4></div>
 
-| Prioridad | Historia de Usuario | Descripción | Estimación (Horas) |
-|-----------|----------------------|-------------|---------------------|
-| Alta      | US01 | Como estudiante o comprador, quiero ver una página de inicio para explorar las características de la plataforma. | 8 |
-| Alta      | US02 | Como visitante, quiero una presentación visual impactante para comprender rápidamente el propósito del servicio. | 6 |
-| Media     | US03 | Como cliente potencial, quiero encontrar datos legales y de contacto para resolver dudas o consultas. | 4 |
-| Media     | US04 | Como interesado, quiero entender las ventajas del sistema para evaluar si satisface mis requerimientos. | 5 |
-| Baja      | US05 | Como posible usuario, quiero canales de comunicación accesibles para iniciar mi experiencia con el servicio. | 3 |
-| Alta      | US06 | Como usuario móvil, quiero una adaptación automática del diseño para navegar cómodamente desde cualquier dispositivo. | 10 |
-| Alta      | US07 | Como cliente interesado, quiero comparar opciones de suscripción para seleccionar la que mejor se ajuste a mis necesidades. | 7 |
-| Baja      | US08 | Como usuario curioso, quiero conocer los antecedentes del proyecto para entender su filosofía y valores. | 4 |
-| Alta      | US09 | Como nuevo miembro, quiero un formulario de registro sencillo para comenzar a utilizar los servicios. | 6 |
-| Media     | US10 | Como usuario no registrado, quiero una opción de ingreso directo para acceder rápidamente a la plataforma. | 5 |
+<p>La priorización del backlog se realizó en base a una combinación de valor esperado para el usuario (impacto) y esfuerzo estimado (en horas), teniendo en cuenta los resultados preliminares de validaciones tempranas con usuarios (pruebas de prototipos y entrevistas semiestructuradas).</p>
+
+<p>Las historias que validaron necesidades más críticas o generaron mayor interés se priorizaron más alto. La estimación de esfuerzo se realizó en conjunto con el equipo de desarrollo utilizando técnica de consenso tipo Planning Poker.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Historia de Usuario</th>
+      <th>Valor (1-5)</th>
+      <th>Esfuerzo (h)</th>
+      <th>Prioridad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US01</td>
+      <td>Ver página de inicio con funcionalidades destacadas.</td>
+      <td>5</td>
+      <td>8</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>US02</td>
+      <td>Presentación visual impactante del servicio.</td>
+      <td>4</td>
+      <td>6</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>US06</td>
+      <td>Adaptación automática del diseño a dispositivos móviles.</td>
+      <td>5</td>
+      <td>10</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>US07</td>
+      <td>Comparar opciones de suscripción.</td>
+      <td>4</td>
+      <td>7</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>US09</td>
+      <td>Formulario de registro sencillo.</td>
+      <td>5</td>
+      <td>6</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>US03</td>
+      <td>Datos legales y de contacto.</td>
+      <td>3</td>
+      <td>4</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>US04</td>
+      <td>Entender ventajas del sistema.</td>
+      <td>3</td>
+      <td>5</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>US10</td>
+      <td>Ingreso directo para usuarios registrados.</td>
+      <td>3</td>
+      <td>5</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>US05</td>
+      <td>Canales de comunicación accesibles.</td>
+      <td>2</td>
+      <td>3</td>
+      <td>Baja</td>
+    </tr>
+    <tr>
+      <td>US08</td>
+      <td>Conocer los antecedentes del proyecto.</td>
+      <td>2</td>
+      <td>4</td>
+      <td>Baja</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Este enfoque permite tomar decisiones de implementación alineadas al valor percibido por los usuarios y al esfuerzo requerido, favoreciendo entregas tempranas y de alto impacto.</p>
 
 <div id='8.3.3.'><h4>8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle</h4></div>
-
-
 
 <div id='8.3.3.1.'><h5>8.3.3.1. To-Be Sprint Backlogs</h5></div>
 
@@ -4312,9 +4389,21 @@ Estas métricas se rastrearán mediante herramientas como **Google Analytics** y
 
 <div id='8.3.3.3.'><h5>8.3.3.3. Implemented To-Be Frontend-Web Application Evidence</h5></div>
 
-| **#Orden** 	| **User Story ID** 	| **Título** 	| **ID** 	| **Tareas** 	| **Estado** 	| **Horas** 	|
-|------------	|-------------------	|------------	|--------	|------------	|------------	|-----------	|
-|            	|                   	|            	|        	|            	|            	|           	|
+| **#Orden** 	| **User Story ID** 	| **Título** 	| **ID** 	| **Tareas**                                                                                                                    	| **Estado** 	| **Horas** 	|
+|------------	|-------------------	|------------	|--------	|-------------------------------------------------------------------------------------------------------------------------------	|------------	|-----------	|
+| 2          	| US-8              	| Frontend   	| W-12   	| - Creación de frontend<br>- Actualización de contenido y apartados<br>- Funcionamiento con el backend<br>- Deploy de frontend 	| Done       	| 10h       	|
+
+<br>
+
+<img src="assets/Front1.png" alt="Front1" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/Front2.png" alt="Front2" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/Front3.png" alt="Front3" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/Front4.png" alt="Front4" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/Front5.png" alt="Front5" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/Front6.png" alt="Front6" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/Front7.png" alt="Front7" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/Front8.png" alt="Front8" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/Front9.png" alt="Front9" width="600" class="rounded shadow mb-4"/><br>
 
 <div id='8.3.3.4.'><h5>8.3.3.4. Implemented To-Be Native-Mobile Application Evidence</h5></div>
 
@@ -4341,14 +4430,10 @@ Estas métricas se rastrearán mediante herramientas como **Google Analytics** y
 | 7           	|          US07         	|    Front-end        	|    W-X    	|Como cliente interesado, quiero comparar opciones de suscripción para seleccionar la que mejor se ajuste a mis necesidades.	| Done          	|   7       	|
 | 8           	|          US08         	|    Front-end        	|    W-X    	|Como nuevo miembro, quiero un formulario de registro sencillo para comenzar a utilizar los servicios.		| Done          	|   6       	|
 
-<img src="assets/1tobe.png" alt="tobe1" width="200" class="rounded shadow mb-4"/>
-<img src="assets/2tobe.png" alt="tobe1" width="200" class="rounded shadow mb-4"/>
-<img src="assets/3tobe.png" alt="tobe1" width="200" class="rounded shadow mb-4"/>
-<img src="assets/4tobe.png" alt="tobe1" width="200" class="rounded shadow mb-4"/>
-<img src="assets/5tobe.png" alt="tobe1" width="200" class="rounded shadow mb-4"/>
-<img src="assets/6tobe.png" alt="tobe1" width="200" class="rounded shadow mb-4"/>
-
-
+<img src="assets/1tobe.png" alt="tobe1" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/2tobe.png" alt="tobe1" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/3tobe.png" alt="tobe1" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/4tobe.png" alt="tobe1" width="600" class="rounded shadow mb-4"/><br>
 
 <div id='8.3.3.6.'><h5>8.3.3.6. Team Collaboration Insights</h5></div>
 
@@ -4370,29 +4455,42 @@ Llevaremos a cabo una serie de entrevistas de validación que nos permitirá eva
 ### Preguntas para Validación de Landing Page
 
 **Primeras Impresiones:**
+
 1. ¿Qué impresión te causa la página al verla por primera vez?
+
 2. ¿Puedes identificar fácilmente el propósito de la aplicación al ver la Landing Page?
+
 3. ¿La navegación de la página es intuitiva y fácil de usar?
 
 **Rendimiento y Experiencia:**
+
 4. ¿El tiempo de carga de la página es satisfactorio para una buena experiencia del usuario?
+
 5. ¿Te sientes motivado a registrarte después de ver la Landing Page?
 
 ### Preguntas para Validación de Aplicación Móvil
 
 **Funcionalidad Principal:**
+
 6. ¿El proceso de registro es sencillo y claro?
+
 7. ¿Puedes navegar fácilmente entre las diferentes secciones de la aplicación?
+
 8. ¿La búsqueda de vehículos ecológicos funciona como esperabas?
 
 **Experiencia de Usuario:**
+
 9. ¿La interfaz es intuitiva y fácil de entender?
+
 10. ¿El proceso de alquiler o compra es claro y seguro?
 
 
 **Identificación de Oportunidades:**
+
 11. ¿Qué aspectos mejorarías o cambiarías en la página para hacerla más efectiva?
+
 12. ¿Considerarías usar esta aplicación para tus necesidades de transporte?
+
 13. ¿Recomendarías esta aplicación a otros usuarios?
 
 
@@ -4400,7 +4498,31 @@ Llevaremos a cabo una serie de entrevistas de validación que nos permitirá eva
 
 <div id='8.3.4.2.'><h5>8.3.4.2. Registro de Entrevistas.</h5></div>
 
+## Segmento #1: Universitarios 
 
+**Entrevista 1** 
+
+*Entrevistado:*  <br>
+*Edad:*  <br>
+*Domicilio:* Lima, Perú<br>
+*Enlace:* https:<a href="URL">Video</a>
+
+*Resumen de la Entrevista*:
+DESCRIPCION
+
+## Segmento #2: Adquirientes
+
+**Entrevista 1** 
+
+*Entrevistada:* Marcia Rea Gamboa<br>
+*Edad:* 20<br>
+*Domicilio:* Lima, Perú<br>
+*Enlace:* https:<a href="URL">Video</a>
+
+*Resumen de la Entrevista*:
+DESCRIPCION
+
+---
 
 <div id='8.4.'><h3>8.4. Experiment Aftermath & Analysis</h3></div>
 

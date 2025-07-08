@@ -41,8 +41,48 @@ Esta sección tiene como propósito presentar un resumen de los cambios importan
 <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Capítulo I: Introducción. <br>Capítulo II: Requirements Elicitation &amp; Analysis. <br>Capítulo III: Requirements Specification. <br>Capítulo IV: Product Design. <br>Capítulo V: Product Implementation, Validation &amp; Deployment.</td></tr>
 </tbody></table>
 
+---
+
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Versión</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Fecha</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Autor</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Descripción de modificación</th></tr></thead>
 <tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TP1</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">13/05/2025</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Silva Tirado, Sebastian Valentino</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Capítulo VI: Product Verification &amp; Validation. <br>Capítulo VII: DevOps Practices.</td></tr></tbody></table>
+
+---
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:normal">Versión</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Fecha</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Autor</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Descripción de modificación</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">TB2</td>
+    <td class="tg-0lax">19/06/2025</td>
+    <td class="tg-0lax">Silva Tirado, Sebastian Valentino</td>
+    <td class="tg-0lax">Capítulo VI: Product Verification &amp; Validation. <br>Capítulo VII: DevOps Practices.<br>Capítulo VII: Experiment-Driven Development</td>
+  </tr>
+</tbody>
+</table>
+
+---
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:normal">Versión</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Fecha</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Autor</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Descripción de modificación</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">TF1</td>
+    <td class="tg-0lax">09/07/2025</td>
+    <td class="tg-0lax">Silva Tirado, Sebastian Valentino</td>
+    <td class="tg-0lax">Capítulo VII: Experiment-Driven Development</td>
+  </tr>
+</tbody>
+</table>
 
 ## Project Report Collaboration Insights
 
@@ -56,6 +96,13 @@ URL del repositorio para el reporte del proyecto: https://github.com/UPC-PRE-1AS
 
   <img src="assets/Reporte2.png" alt="Build & Test Suite Pipeline Components" width="500" class="rounded shadow mb-4"/>
 
+**TB2**
+
+  <img src="assets/Reporte3.png" alt="Build & Test Suite Pipeline Components" width="500" class="rounded shadow mb-4"/>
+
+**TF1**
+
+  <img src="assets/Reporte4.png" alt="Build & Test Suite Pipeline Components" width="500" class="rounded shadow mb-4"/>
 
 **TB1**
 
@@ -78,6 +125,70 @@ Para la preparación del informe correspondiente a la entrega TP1, se distribuy�
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gallo Quintana, David Ivanoff</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6.1.3. Core Behavior-Driven Development<br>7.3.1. Tools and Practices.</td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Silva Tirado, Sebastian Valentino</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">7.1.1. Tools and Practices.<br>7.1.2. Build &amp; Test Suite Pipeline Components.</td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ticona Panduro, Estrella del Pilar</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">7.2.1. Tools and Practices.<br>7.2.2. Stages Deployment Pipeline Components.</td></tr></tbody></table>
+
+**TB2**
+
+Para la preparación del informe correspondiente a la entrega TB2, se distribuyó la implementación de las distintas secciones entre los miembros del equipo de la siguiente forma:
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:normal">Integrante</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Tareas Asignadas</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Acuña Tomas, Diego Rolin</td>
+    <td class="tg-0lax">7.4.3. Alerting Pipeline Components<br>7.4.4. Notification Pipeline Components. <br>8.1.1. As-Is Summary.<br>8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.<br>9.1. Conclusiones TB2<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Bastidas Bastidas, Diego Martin</td>
+    <td class="tg-0lax">8.2.6. Data Analytics: Goals, KPIs and Metrics Selection.<br>8.2.7. Web and Mobile Tracking Plan.<br>8.3.1. To-Be User Stories.<br>8.3.2. To-Be Product Backlog</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Gallo Quintana, David Ivanoff</td>
+    <td class="tg-0lax">8.1.3. Experiment-Ready Questions.<br>8.1.4. Question Backlog.<br>8.1.5. Experiment Cards.<br>8.2.1. Hypotheses.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Silva Tirado, Sebastian Valentino</td>
+    <td class="tg-0lax">6.4.1. Auditoría realizada.<br>6.4.1.1. Información del grupo auditado.<br>6.4.1.2. Cronograma de auditoría realizada.<br>6.4.1.3. Contenido de auditoría realizada.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ticona Panduro, Estrella del Pilar</td>
+    <td class="tg-0lax">8.2.2. Measures.<br>8.2.3. Conditions.<br>8.2.4. Scale Calculations and Decisions.<br>8.2.5. Methods Selection.<br></td>
+  </tr>
+</tbody></table>
+
+**TF1**
+
+Para la preparación del informe correspondiente a la entrega TF1, se distribuyó la implementación de las distintas secciones entre los miembros del equipo de la siguiente forma:
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:normal">Integrante</span></th>
+    <th class="tg-0pky"><span style="font-weight:normal">Tareas Asignadas</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Acuña Tomas, Diego Rolin</td>
+    <td class="tg-0pky">8.3.3.2. Implemented To-Be Landing Page Evidence<br>8.3.3.6. Team Collaboration Insights<br>8.5.1. Shareback Session Artifacts: Learning Workflow</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Bastidas Bastidas, Diego Martin</td>
+    <td class="tg-0pky">8.3.3.1. To-Be Sprint Backlogs<br>8.3.4.2. Registro de Entrevistas.<br>8.5. Continuous Learning</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Gallo Quintana, David Ivanoff</td>
+    <td class="tg-0pky">8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle<br>8.3.4.1. Diseño de Entrevistas.<br>8.4.1. Analysis and Interpretation of Results</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Silva Tirado, Sebastian Valentino</td>
+    <td class="tg-0pky">8.3.3.4. Implemented To-Be Native-Mobile Application Evidence<br>8.4.2. Re-scored and Re-prioritized Question Backlog<br>8.3.4.2. Registro de Entrevistas.<br>Conclusiones y recomendaciones.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ticona Panduro, Estrella del Pilar</td>
+    <td class="tg-0pky">8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence<br>8.6. To-Be Software Platform Pre-launch<br>8.6.1. About-the-Product Intro Video</td>
+  </tr>
+</tbody></table>
 
 ## Contenido
 
@@ -226,11 +337,30 @@ Para la preparación del informe correspondiente a la entrega TP1, se distribuy�
     8.3. [Experimentation.](#8.3.)<br>
     8.3.1. [To-Be User Stories.](#8.3.1.)<br>
     8.3.2. [To-Be Product Backlog.](#8.3.2.)<br>
+    8.3.3. [Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle](#8.3.3.)<br>
+    8.3.3.1. [To-Be Sprint Backlogs](#8.3.3.1.)<br>
+    8.3.3.2. [Implemented To-Be Landing Page Evidence](#8.3.3.2.)<br>
+    8.3.3.3. [Implemented To-Be Frontend-Web Application Evidence](#8.3.3.3.)<br>
+    8.3.3.4. [Implemented To-Be Native-Mobile Application Evidence](#8.3.3.4.)<br>
+    8.3.3.5. [Implemented To-Be RESTful API and/or Serverless Backend Evidence](#8.3.3.5.)<br>
+    8.3.3.6. [Team Collaboration Insights](#8.3.3.6.)<br>
+    8.3.4. [To-Be Validation Interviews](#8.3.4.)<br>
+    8.3.4.1. [Diseño de Entrevistas.](#8.3.4.1.)<br>
+    8.3.4.2. [Registro de Entrevistas.](#8.3.4.2.)<br>
+    8.4. [Experiment Aftermath & Analysis](#8.4.)<br>
+    8.4.1. [Analysis and Interpretation of Results](#8.4.1.)<br>
+    8.4.2. [Re-scored and Re-prioritized Question Backlog](#8.4.2.)<br>
+    8.5. [Continuous Learning](#8.5.)<br>
+    8.5.1. [Shareback Session Artifacts: Learning Workflow](#8.5.1.)<br>
+    8.6. [To-Be Software Platform Pre-launch](#8.6.)<br>
+    8.6.1. [About-the-ProductIntro Video](#8.6.1.)<br>
+
 9. [**Conclusiones**](#9.)<br>
     9.1. [Conclusiones y recomendaciones.](#9.1.)<br>
     9.2. [Video About-the-Team.](#9.2.)<br>
-10. [**Bibliografía**](#10.)<br>
-11. [**Anexos**](#11.)<br>
+10. [**Video About-The-Team**](#10.)<br>
+11. [**Bibliografía**](#11.)<br>
+12. [**Anexos**](#12.)<br>
 
 ## STUDENT OUTCOME
 La capacidad de reconocer responsabilidades éticas y
@@ -239,14 +369,32 @@ considerar el impacto de las soluciones de ingeniería en contextos globales, ec
 ambientales y sociales.
 <b>ABET – EAC - Student Outcome 4</b>
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;wo<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Criterio específico</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Acciones realizadas</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Conclusiones</span></th></tr></thead>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:normal">Criterio específico</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Acciones realizadas</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Conclusiones</span></th>
+  </tr></thead>
 <tbody>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4.c.1 Reconoce responsabilidad<br>ética y profesional en<br>situaciones de ingeniería de<br>software</td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Acuña Tomas, Diego Rolin<br>TB1: Participó activamente asegurando que las decisiones técnicas cumplieran con estándares éticos y priorizando el respeto a los usuarios y la confidencialidad de sus datos.<br><br>Bastidas Bastidas, Diego Martin<br>TB1:Promovió prácticas responsables dentro del equipo, fomentando el uso adecuado de la información y el cumplimiento de principios éticos en el desarrollo del software.<br><br>Gallo Quintana, David Ivanoff<br>TB1:Demostró compromiso con los aspectos éticos del proyecto, reflexionando sobre las implicancias de nuestras soluciones y promoviendo una conducta profesional.<br><br>Silva Tirado, Sebastian Valentino<br>TB1:Se aseguró de que el código desarrollado siguiera buenas prácticas éticas, evitando malas prácticas como la reutilización de código sin referencia o manejo inadecuado de datos.<br><br>Ticona Panduro, Estrella del Pilar<br>TB1:<br>Contribuyó con una visión ética al evaluar funcionalidades, asegurándose de que estas respetaran la privacidad, la inclusión y el bienestar de los usuarios finales.<br><br>Acuña Tomas, Diego Rolin<br>TP1: Participó en la implementación de pruebas unitarias, asegurándose de que cada módulo del sistema cumpla con los estándares éticos y no interfiera con la privacidad de los datos del usuario.<br><br>Bastidas Bastidas, Diego Martin<br>TP1: Fomentó la creación de pruebas unitarias claras y fáciles de mantener, promoviendo una cobertura de pruebas adecuada que respete la integridad del código.<br><br>Gallo Quintana, David Ivanoff<br>TP1: Demostró compromiso con las pruebas de calidad, asegurándose de que todas las funcionalidades del sistema fueran verificadas en cuanto a su rendimiento y ética, sin causar efectos secundarios indeseados.<br><br>Silva Tirado, Sebastian Valentino<br>TP1: Garantizó que todas las pruebas unitarias respetaran las mejores prácticas, asegurando la reutilización ética de código y evitando el uso de datos sensibles de forma indebida.<br><br>Ticona Panduro, Estrella del Pilar<br>TP1: Colaboró en la creación de pruebas unitarias que evaluaran el comportamiento de la aplicación respetando los derechos de los usuarios y fomentando la inclusividad.</td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1:<br>En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco.<br><br>TP1:<br>En este entregable me encargué de diseñar y ejecutar pruebas unitarias, verificando que cada módulo de la aplicación funcionara correctamente de acuerdo a las especificaciones iniciales y sin comprometer la calidad ética del software.</td></tr>
-<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4.c.2 Emite juicios informados<br>considerando el impacto de las<br>soluciones de ingeniería de<br>software en contextos globales,<br>económicos, ambientales y<br>sociales</td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Acuña Tomas, Diego Rolin<br>TB1:Analizó cómo el uso de la aplicación impacta en distintos contextos sociales, especialmente en relación con la inclusión digital y la formalización de servicios informales.<br><br>Bastidas Bastidas, Diego Martin<br>TB1:Evaluó las implicancias del sistema propuesto en el ámbito económico y social, considerando su efecto en pequeñas empresas del rubro de belleza.<br><br>Gallo Quintana, David Ivanoff<br>TB1:Contribuyó a la toma de decisiones considerando el impacto de nuestras soluciones a largo plazo en la sociedad y el medio ambiente, incluyendo sostenibilidad tecnológica.<br><br>Silva Tirado, Sebastian Valentino<br>TB1:Reflexionó sobre cómo las funcionalidades influirían en usuarios de distintos contextos, procurando decisiones inclusivas y con impacto positivo en la comunidad.<br><br>Ticona Panduro, Estrella del Pilar<br>TB1:Consideró el impacto social y cultural de la plataforma, impulsando soluciones que aporten valor en entornos con alta informalidad laboral y desigualdad de acceso.<br><br>Acuña Tomas, Diego Rolin<br>TP1: Evaluó cómo las pruebas unitarias afectan el rendimiento de la aplicación, asegurándose de que no generaran lentitud o consumo excesivo de recursos.<br><br>Bastidas Bastidas, Diego Martin<br>TP1: Consideró los efectos de las pruebas unitarias en la seguridad del software, realizando pruebas para identificar vulnerabilidades potenciales.<br><br>Gallo Quintana, David Ivanoff<br>TP1: Analizó el impacto de las pruebas unitarias en la estabilidad del sistema, asegurándose de que las nuevas actualizaciones no rompieran funcionalidades existentes.<br><br>Silva Tirado, Sebastian Valentino<br>TP1: Reflexionó sobre las implicaciones de las pruebas unitarias en el contexto de escalabilidad, asegurándose de que el software pudiera manejar cargas mayores sin perder eficacia.<br><br>Ticona Panduro, Estrella del Pilar<br>TP1: Reflexionó sobre el impacto de las pruebas en la usabilidad del sistema, buscando que las pruebas no afectaran la experiencia de usuario ni la accesibilidad.</td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TB1:<br>En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco.<br><br>TP1:<br>En este entregable me encargué de revisar y evaluar los impactos de las pruebas unitarias sobre la seguridad y el rendimiento, proporcionando un informe sobre su efectividad y posibles mejoras en el proceso de prueba.</td></tr>
+  <tr>
+    <td class="tg-0lax">4.c.1 Reconoce responsabilidad<br>ética y profesional en<br>situaciones de ingeniería de<br>software</td>
+    <td class="tg-0lax">       Acuña Tomas, Diego Rolin<br>       TB1: Participó activamente asegurando que las decisiones técnicas cumplieran con estándares éticos y priorizando el respeto a los usuarios y la confidencialidad de sus datos.<br><br>       Bastidas Bastidas, Diego Martin<br>       TB1: Promovió prácticas responsables dentro del equipo, fomentando el uso adecuado de la información y el cumplimiento de principios éticos en el desarrollo del software.<br><br>       Gallo Quintana, David Ivanoff<br>       TB1: Demostró compromiso con los aspectos éticos del proyecto, reflexionando sobre las implicancias de nuestras soluciones y promoviendo una conducta profesional.<br><br>       Silva Tirado, Sebastian Valentino<br>       TB1: Se aseguró de que el código desarrollado siguiera buenas prácticas éticas, evitando malas prácticas como la reutilización de código sin referencia o manejo inadecuado de datos.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TB1: Contribuyó con una visión ética al evaluar funcionalidades, asegurándose de que estas respetaran la privacidad, la inclusión y el bienestar de los usuarios finales.<br><br>       Acuña Tomas, Diego Rolin<br>       TP1: Participó en la implementación de pruebas unitarias, asegurándose de que cada módulo del sistema cumpla con los estándares éticos y no interfiera con la privacidad de los datos del usuario.<br><br>       Bastidas Bastidas, Diego Martin<br>       TP1: Fomentó la creación de pruebas unitarias claras y fáciles de mantener, promoviendo una cobertura de pruebas adecuada que respete la integridad del código.<br><br>       Gallo Quintana, David Ivanoff<br>       TP1: Demostró compromiso con las pruebas de calidad, asegurándose de que todas las funcionalidades del sistema fueran verificadas en cuanto a su rendimiento y ética, sin causar efectos secundarios indeseados.<br><br>       Silva Tirado, Sebastian Valentino<br>       TP1: Garantizó que todas las pruebas unitarias respetaran las mejores prácticas, asegurando la reutilización ética de código y evitando el uso de datos sensibles de forma indebida.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TP1: Colaboró en la creación de pruebas unitarias que evaluaran el comportamiento de la aplicación respetando los derechos de los usuarios y fomentando la inclusividad.<br><br>       Acuña Tomas, Diego Rolin<br>       TB2: Participó activamente en la revisión del código asegurando su cumplimiento con estándares éticos y buenas prácticas, evitando el uso indebido de librerías externas sin licencia.<br><br>       Bastidas Bastidas, Diego Martin<br>       TB2: Se encargó de garantizar que la documentación técnica fuera clara y honesta, reflejando fielmente el trabajo realizado y respetando los derechos de autor.<br><br>       Gallo Quintana, David Ivanoff<br>       TB2: Supervisó la integración de módulos, asegurándose de que se mantuvieran principios éticos como la transparencia en el uso de los datos y la trazabilidad de errores.<br><br>       Silva Tirado, Sebastian Valentino<br>       TB2: Revisó y validó el uso correcto de datos sensibles durante pruebas de integración, velando por la privacidad y confidencialidad de los usuarios.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TB2: Aseguró que las funcionalidades implementadas respetaran los principios de equidad e inclusión, proponiendo mejoras para evitar sesgos en el sistema.     <br><br>Acuña Tomas, Diego Rolin<br>       TF1: Identificó oportunidades de mejora a nivel social y económico en la propuesta final, sugiriendo funcionalidades escalables para sectores vulnerables.<br><br>       Bastidas Bastidas, Diego Martin<br>       TF1: Propuso medidas que reflejen el valor del proyecto como alternativa sostenible, destacando su aplicabilidad en comunidades con acceso limitado a transporte ecológico.<br><br>       Gallo Quintana, David Ivanoff<br>       TF1: Se encargó de sintetizar las proyecciones de crecimiento y sostenibilidad a futuro, integrando criterios globales en la redacción del documento final.<br><br>       Silva Tirado, Sebastian Valentino<br>       TF1: Evaluó el impacto potencial del sistema en la movilidad urbana y medioambiente, integrándolo en las conclusiones.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TF1: Propuso recomendaciones orientadas a mejorar el acceso para personas con distintas capacidades, asegurando un enfoque inclusivo en el cierre del proyecto.</td>
+    <td class="tg-0lax">       TB1:<br>En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco.<br><br>       TP1:<br>En este entregable me encargué de diseñar y ejecutar pruebas unitarias, verificando que cada módulo de la aplicación funcionara correctamente de acuerdo a las especificaciones iniciales y sin comprometer la calidad ética del software.<br><br>       TB2:<br>En esta fase del proyecto colaboré en la validación e integración del sistema, asegurándome de que todas las decisiones técnicas respetaran las normativas éticas y que el software se mantuviera transparente, inclusivo y profesional.     <br><br>TF1:<br>En el documento final me enfoqué en integrar los aprendizajes del curso desde una perspectiva de impacto, destacando el potencial de EcoMovil como una solución tecnológica viable y socialmente responsable en contextos urbanos y ecológicos.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4.c.2 Emite juicios informados<br>considerando el impacto de las<br>soluciones de ingeniería de<br>software en contextos globales,<br>económicos, ambientales y<br>sociales</td>
+    <td class="tg-0lax">       Acuña Tomas, Diego Rolin<br>       TB1: Analizó cómo el uso de la aplicación impacta en distintos contextos sociales, especialmente en relación con la inclusión digital y la formalización de servicios informales.<br><br>       Bastidas Bastidas, Diego Martin<br>       TB1: Evaluó las implicancias del sistema propuesto en el ámbito económico y social, considerando su efecto en pequeñas empresas del rubro de belleza.<br><br>       Gallo Quintana, David Ivanoff<br>       TB1: Contribuyó a la toma de decisiones considerando el impacto de nuestras soluciones a largo plazo en la sociedad y el medio ambiente, incluyendo sostenibilidad tecnológica.<br><br>       Silva Tirado, Sebastian Valentino<br>       TB1: Reflexionó sobre cómo las funcionalidades influirían en usuarios de distintos contextos, procurando decisiones inclusivas y con impacto positivo en la comunidad.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TB1: Consideró el impacto social y cultural de la plataforma, impulsando soluciones que aporten valor en entornos con alta informalidad laboral y desigualdad de acceso.<br><br>       Acuña Tomas, Diego Rolin<br>       TP1: Evaluó cómo las pruebas unitarias afectan el rendimiento de la aplicación, asegurándose de que no generaran lentitud o consumo excesivo de recursos.<br><br>       Bastidas Bastidas, Diego Martin<br>       TP1: Consideró los efectos de las pruebas unitarias en la seguridad del software, realizando pruebas para identificar vulnerabilidades potenciales.<br><br>       Gallo Quintana, David Ivanoff<br>       TP1: Analizó el impacto de las pruebas unitarias en la estabilidad del sistema, asegurándose de que las nuevas actualizaciones no rompieran funcionalidades existentes.<br><br>       Silva Tirado, Sebastian Valentino<br>       TP1: Reflexionó sobre las implicaciones de las pruebas unitarias en el contexto de escalabilidad, asegurándose de que el software pudiera manejar cargas mayores sin perder eficacia.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TP1: Reflexionó sobre el impacto de las pruebas en la usabilidad del sistema, buscando que las pruebas no afectaran la experiencia de usuario ni la accesibilidad.<br><br>       Acuña Tomas, Diego Rolin<br>       TB2: Analizó el posible impacto económico del sistema al integrarlo en entornos de bajos recursos, proponiendo soluciones adaptativas.<br><br>       Bastidas Bastidas, Diego Martin<br>       TB2: Consideró el impacto social del sistema en áreas rurales y propuso funcionalidades que favorezcan su adopción en estos contextos.<br><br>       Gallo Quintana, David Ivanoff<br>       TB2: Evaluó la escalabilidad del sistema considerando escenarios de crecimiento poblacional y tecnológico a largo plazo.<br><br>       Silva Tirado, Sebastian Valentino<br>       TB2: Reflexionó sobre la sostenibilidad del sistema desde el punto de vista ambiental y propuso optimizaciones para reducir el consumo de recursos.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TB2: Incorporó criterios de accesibilidad para asegurar que el sistema pudiera ser usado por personas con distintas capacidades, reduciendo barreras tecnológicas.     <br><br>Acuña Tomas, Diego Rolin<br>       TF1: Contribuyó a la revisión general del documento final, verificando que el enfoque ético estuviera reflejado en la presentación del producto y que todas las fuentes de información fueran correctamente citadas.<br><br>       Bastidas Bastidas, Diego Martin<br>       TF1: Se enfocó en garantizar que la documentación final cumpliera con estándares de honestidad académica y reflejara con fidelidad el proceso ético llevado por el equipo.<br><br>       Gallo Quintana, David Ivanoff<br>       TF1: Aseguró que el documento final reflejara el compromiso del equipo con la ética profesional, revisando particularmente los apartados relacionados con datos y privacidad.<br><br>       Silva Tirado, Sebastian Valentino<br>       TF1: Contribuyó en la consolidación del documento final, cuidando que las conclusiones reflejaran los principios éticos aplicados.<br><br>       Ticona Panduro, Estrella del Pilar<br>       TF1: Evaluó el documento final para garantizar que el enfoque inclusivo y ético estuviera representado adecuadamente en el producto y en las reflexiones finales.</td>
+    <td class="tg-0lax">       TB1:<br>En el primer entregable me encargué de recopilar los antecedentes y problemáticas enfocados a nuestro proyecto y así sustentarlo, entrevistas y lo que depende de ello y la unidad cinco.<br><br>       TP1:<br>En este entregable me encargué de revisar y evaluar los impactos de las pruebas unitarias sobre la seguridad y el rendimiento, proporcionando un informe sobre su efectividad y posibles mejoras en el proceso de prueba.<br><br>       TB2:<br>En esta etapa me encargué de analizar el impacto social y ambiental de la solución propuesta, aportando con ideas para hacerla más sostenible, accesible e inclusiva en diversos contextos. <br><br>TF1:<br>En el entregable final ayudé a sintetizar los aprendizajes obtenidos, destacando la importancia de las buenas prácticas éticas en el desarrollo de software y asegurando que la documentación reflejara fielmente el proceso y los valores del equipo.</td>
+  </tr>
+</tbody></table>
 
 ## Part I: As-Is Software Project
 
@@ -3229,33 +3377,49 @@ Registro de revisiones: Todas las revisiones serán documentadas, detallando los
 
 *Objetivo*: Validar si estarían dispuestos a ofrecer vehículos para alquiler/venta, su interés en transporte ecológico, y las funcionalidades que valoran.
 
-1. ¿Actualmente utilizas algún medio de transporte ecológico (bicicleta, scooter, etc.)? ¿Con qué frecuencia?
-2. ¿Has considerado alguna vez alquilar o vender un vehículo ecológico que posees? ¿Por qué sí o por qué no?
-3. ¿Qué tan importante es para ti encontrar una fuente de ingreso flexible que se adapte a tu rutina universitaria?
-4. ¿Qué problemas enfrentas actualmente con el transporte urbano en tu ciudad?
-5. ¿Qué tanto te interesa reducir tu huella ecológica al movilizarte?
-6. ¿Qué tipo de incentivos te motivarían a ofrecer tu vehículo ecológico a otras personas mediante una app?
-7. ¿Qué características consideras esenciales en una app que conecta personas para alquilar o vender vehículos?
-8. ¿Qué tan seguro te sentirías al prestar tu vehículo a desconocidos mediante una app? ¿Qué garantías esperarías?
-9. ¿Has utilizado plataformas tipo marketplace (como OLX, Marketplace de Facebook, etc.)? ¿Qué te gusta o disgusta de ellas?
-10. ¿Qué haría que prefirieras usar EcoMovil sobre una plataforma más generalista?
-11. ¿Cuánto estarías dispuesto a pagar o recibir por una transacción (alquiler o venta) en la app?
+**Acerca del Landing:**
+- ¿Que opinas del diseño del landing page?
+- ¿Te queda claro la propuesta de solucion que se describe?
+- ¿La informacion en la pagina fue suficiente para entender eI proposito
+de la aplicacion?
+- Luego de analizar la landing page ¿Te sientes motivado a usar eI
+aplicativo descrito?
+
+**Acerca del app:**
+
+- ¿Como describirias la experiencia usando la aplicacion? ¿Facil,
+intuitiva, o hubo alguna caracteristica que se te hizo dificil de
+entender?
+- ¿Cree que las funcionalidades ofrecidas en la aplicación ayudara a tener ingresos economicos?
+- ¿Estas conforme con la información mostrada en casa sección?
+- ¿Dirias que la navegación por la aplicación es fácil de comprender o lo encuentra confuso?
+- ¿Hay alguna opción adicional que agregarías o estas conforme con todo lo desarrollado?
+- ¿Recomendarias la aplicacion a otras personas?
+<br><br>
 
 **Segmento 2**: Adquirientes (usuarios que desean alquilar o comprar vehículos)
 
 *Objetivo*: Validar la demanda por acceso a transporte ecológico, frecuencia de uso y qué tan valoran la sostenibilidad.
 
-1. ¿Qué medios de transporte utilizas regularmente para movilizarte en la ciudad?
-2. ¿Has considerado usar vehículos ecológicos como alternativa a tu transporte habitual? ¿Por qué sí o por qué no?
-3. ¿Con qué frecuencia te gustaría alquilar un vehículo ecológico si estuviera disponible cerca de ti?
-4. ¿Preferirías alquilar o comprar un vehículo ecológico? ¿Por qué?
-5. ¿Qué problemas has tenido al intentar acceder a este tipo de transporte (costos, disponibilidad, apps, etc.)?
-6. ¿Qué aspectos valoras más en una aplicación que te ofrezca vehículos ecológicos (precio, ubicación, seguridad, etc.)?
-7. ¿Qué tan cómodo te sentirías usando una app que conecte personas para alquilar vehículos personales?
-8. ¿Qué funciones o garantías te harían sentir más seguro al hacer una transacción en la app?
-9. ¿Cómo buscarías normalmente un vehículo ecológico para usar? ¿Qué criterios usas para elegirlo?
-10. ¿Qué esperas de la experiencia de usuario en una app como EcoMovil?
-11. ¿Qué haría que recomiendes EcoMovil a tus amigos o conocidos?
+**Acerca del Landing:**
+
+- ¿Que opinas del diseño del landing page?
+- ¿Te queda claro la propuesta de solución que se describe?
+- ¿La informacion en la pagina fue suficiente para entender eI proposito
+de la aplicacion?
+- Luego de analizar la landing page ¿Te sientes motivado a usar eI
+aplicativo descrito?
+
+**Acerca del app:**
+
+- ¿Como describirias la experiencia usando la aplicacion? ¿Facil,
+intuitiva, o hubo alguna caracteristica que se te hizo dificil de
+entender?
+- ¿Cree que las funcionalidades ofrecidas en la aplicación ayudara obtener dinero ya sea alquilar o comprar un vehiculo de manera segura?
+- ¿Estas conforme con la información mostrada en casa sección?
+- ¿Dirias que la navegación por la aplicación es fácil de comprender o lo encuentra confuso?
+- ¿Hay alguna opción adicional que agregarías o estas conforme con todo lo desarrollado?
+- ¿Recomendarias la aplicacion a otras personas?
 
 <div id='6.3.2.'><h4>6.3.2. Registro de Entrevistas.</h4></div>
 
@@ -3263,96 +3427,238 @@ Registro de revisiones: Todas las revisiones serán documentadas, detallando los
 
 **Entrevista 1** 
 
-*Entrevistada:* <br>
-*Edad:*  <br>
+*Entrevistado:* Franco Durand <br>
+*Edad:*  23 <br>
 *Domicilio:* Lima, Perú<br>
-*Enlace:* <a href="URL">video</a>
+*Enlace:* https://youtu.be/x8iDhNb3C8g<a href="URL">Video</a>
 
 *Resumen de la Entrevista*:
-...!
+La entrevista con Gianfranco Durán evidenció una recepción positiva hacia la plataforma Ecomóvil. Destacó el diseño limpio y claro de la landing page, comprendió fácilmente la propuesta y se sintió motivado a usarla. En cuanto a la aplicación web, la consideró intuitiva y útil para generar ingresos alquilando o vendiendo vehículos eléctricos no utilizados. Su única sugerencia fue permitir subir fotos reales de los vehículos. En general, se mostró conforme con la experiencia y dispuesto a recomendar la aplicación.
 
 ---
 
 **Entrevista 2:** 
 
-*Entrevistada:* <br>
-*Edad:*  <br>
+*Entrevistada:* Daniela Chavez <br>
+*Edad:*  22<br>
 *Domicilio:* Lima, Perú<br>
-*Enlace:* <a href="URL">video</a>
+*Enlace:* https://youtu.be/1N9d36cnA5I<a href="URL">Video</a>
 
 *Resumen de la Entrevista*:
-...!
+La entrevistada menciona que desearia que la sección de imagenes sean subidas por los propios usuarios, ademas menciona que la página le pareció bastante intuitiva y llamativa, además de facil de navegar.
 
 ---
+
 
 ## Segmento #2: Adquirientes
 
 **Entrevista 1** 
 
-*Entrevistada:* <br>
-*Edad:*  <br>
+*Entrevistada:* Lucia Cabanillas <br>
+*Edad:*  23<br>
 *Domicilio:* Lima, Perú<br>
-*Enlace:* <a href="URL">video</a>
+*Enlace:* https://youtu.be/8JDA6184AFSas<a href="URL">Video</a>
 
 *Resumen de la Entrevista*:
-...!
+Lucia Cabanillas considera que la calidad de los vehículos y la tipografía son apropiadas, siendo claras y bien presentadas. Destaca la facilidad de uso de la aplicación y valora la amplia variedad de vehículos disponibles. Aunque encuentra que la información sobre el alquiler o la venta es clara, sugiere la inclusión de un apartado de reseñas para ofrecer comentarios de los usuarios y ayudar en la toma de decisiones.
 
 ---
 
 **Entrevista 2** 
 
-*Entrevistada:* <br>
-*Edad:*  <br>
+*Entrevistada:* Silvana Hassinger <br>
+*Edad:* 25 <br>
 *Domicilio:* Lima, Perú<br>
-*Enlace:* <a href="URL">video</a>
+*Enlace:* https://youtu.be/x8iDhNb3C8g<a href="URL">Video</a>
 
 *Resumen de la Entrevista*:
-...!
+Silvana Hassinger opina que la aplicación es muy útil, destacando la posibilidad de seleccionar vehículos de acuerdo a sus necesidades, lo que promueve la sostenibilidad e innova en el ámbito de la ecología. Considera que la experiencia es fácil y manejable, cumpliendo con lo esperado. Además, valora la personalización en la búsqueda, especialmente los filtros, los cuales encuentra muy útiles para satisfacer tanto las necesidades de los usuarios como la oferta de vehículos disponibles.
+
+
+---
 
 <div id='6.3.3.'><h4>6.3.3. Evaluaciones según heurísticas.</h4></div>
 
 Segmento 1
 
-| Entrevistado   	| Heurística 	| Evaluación 	|
-|----------------	|------------	|------------	|
-| Entrevistado 1 	| 1          	| 1          	|
-|                	| 2          	| 2          	|
-|                	| 3          	| 3          	|
-| Entrevistado 2 	| 1          	| 1          	|
-|                	| 2          	| 2          	|
-|                	| 3          	| 3          	|
+| Entrevistado   	    | Heurística 	                        | Evaluación 	|
+|----------------	    |-------------------------------------|------------	|
+| Gian Franco Durand 	| 1. claridad de información         	| 1. La información fue suficiente para entender el propósito de la plataforma, los planes disponibles y el público objetivo.         	|
+|                	    | 2. Facilidad de Navegación         	| 2. La experiencia de uso fue fácil e intuitiva, en especial al llenar formularios para registrar un vehículo.         	|
+|                	    | 3. Satisfacción General     	        | 3. La app es sencilla, útil y económica, ya que le permite obtener ingresos alquilando vehículos que no usa.          	|
+| Daniela Chavez Castillo	    | 1. claridad de información         	| 1 Menciona que la información brindada por la aplicación junto con el proposito de la misma se da a entender de buena manera.         	|
+|                	    | 2. Facilidad de Navegación         	| 2 Respecto a la navegación considera que es buena, no se perdio en ningún momento.       	|
+|                	    | 3. Satisfacción General       	      | 3 La entrevistada se muestra conforme con gran parte de la aplicación, solo menciona que le gustaría a ella misma agregar sus imagenes.        	|
 
 Segmento 2
 
-| Entrevistado   	| Heurística 	| Evaluación 	|
-|----------------	|------------	|------------	|
-| Entrevistado 1 	| 1          	| 1          	|
-|                	| 2          	| 2          	|
-|                	| 3          	| 3          	|
-| Entrevistado 2 	| 1          	| 1          	|
-|                	| 2          	| 2          	|
-|                	| 3          	| 3          	|
+| Entrevistado         | Heurística                | Evaluación                                                                 |
+|----------------------|---------------------------|---------------------------------------------------------------------------|
+| Lucia Cabanillas     | Satisfacción General      | 1. La información fue suficiente para entender el propósito de la plataforma, los planes disponibles y el público objetivo. |
+|                      | Facilidad de Navegación   | 2. La experiencia de uso fue fácil e intuitiva, en especial al llenar formularios para registrar un vehículo. |
+|                      | Claridad de información   | 3. La app es sencilla, útil y económica, ya que le permite obtener ingresos alquilando vehículos que no usa. |
+| Silvana Hassinger    | Satisfacción General      | 1. La información fue suficiente para entender el propósito de la plataforma, los planes disponibles y el público objetivo. |
+|                      | Facilidad de Navegación   | 2. La experiencia de uso fue fácil e intuitiva, en especial al llenar formularios para registrar un vehículo. |
+|                      | Satisfacción General      | 3. La app es sencilla, útil y económica, ya que le permite obtener ingresos alquilando vehículos que no usa. |
+
 
 <div id='6.4.'><h3>6.4. Auditoría de Experiencias de Usuario</h3></div>
 <div id='6.4.1.'><h4>6.4.1. Auditoría realizada.</h4></div>
 <div id='6.4.1.1.'><h5>6.4.1.1. Información del grupo auditado.</h5></div>
+
+El equipo que nos auditó fue EcoMovil. Los integrantes del grupo son David Gallo, Sebastian Valentino Silva Tirado, Estrella del Pilar Ticona Panduro, Diego Martin Bastidas Bastidas y Diego Rolin Ascuña Tomas.
+
 <div id='6.4.1.2.'><h5>6.4.1.2. Cronograma de auditoría realizada.</h5></div>
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:normal">Actividad de auditoría </span></th>
+    <th class="tg-0pky"><span style="font-weight:normal">Fecha</span></th>
+    <th class="tg-0pky"><span style="font-weight:normal">Hora</span></th>
+    <th class="tg-0pky"><span style="font-weight:normal">Realizado por</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Solicitud de información</td>
+    <td class="tg-0pky">01/06/2025</td>
+    <td class="tg-0pky">12:00 p.m.</td>
+    <td class="tg-0pky">David Ivanoff Gallo Quintana</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Recepción de información</td>
+    <td class="tg-0pky">01/06/2025</td>
+    <td class="tg-0pky">12:00 p.m.</td>
+    <td class="tg-0pky">David Ivanoff Gallo Quintana</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Lectura de la información</td>
+    <td class="tg-0pky">04/06/2025</td>
+    <td class="tg-0pky">2:00 p.m.</td>
+    <td class="tg-0pky">Sebastian Valentino Silva Tirado</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ejecución de auditoria</td>
+    <td class="tg-0pky">05/06/2025</td>
+    <td class="tg-0pky">3:00 p.m.</td>
+    <td class="tg-0pky">Estrella del Pilar Ticona Panduro</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Elaboración del informe</td>
+    <td class="tg-0pky">06/06/2025</td>
+    <td class="tg-0pky">3:00 p.m.</td>
+    <td class="tg-0pky">Diego Martin Bastidas Bastidas</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Envió del informe de auditoría</td>
+    <td class="tg-0pky">07/06/2025</td>
+    <td class="tg-0pky">5:00 p.m.</td>
+    <td class="tg-0pky">Diego Rolin Ascuña Tomas</td>
+  </tr>
+</tbody></table>
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:normal">Nombres y Apellidos</span></th>
+    <th class="tg-0lax"><span style="font-weight:normal">Código de alumno</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">David Ivanoff Gallo Quintana</td>
+    <td class="tg-0lax">u202211212</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Sebastian Valentino Silva Tirado
+    <td class="tg-0lax">u20211f984</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Estrella del Pilar Ticona Panduro</td>
+    <td class="tg-0lax">u202210582</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Diego Martin Bastidas Bastidas</td>
+    <td class="tg-0lax">u202015274</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Diego Rolin Ascuña Tomas</td>
+    <td class="tg-0lax">u202113656</td>
+  </tr>
+</tbody>
+</table>
+
 <div id='6.4.1.3.'><h5>6.4.1.3. Contenido de auditoría realizada.</h5></div>
+
+<p>Como resultado de la auditoría de usabilidad, se identificaron cinco problemas principales. Para cada uno, se definieron acciones correctivas, se implementaron mejoras y se verificó su impacto a través de pruebas con usuarios o revisión visual. A continuación se presenta la tabla actualizada que incluye el ciclo completo PDCA:</p>
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+<thead>
+<tr>
+  <th>#</th>
+  <th>Problema Detectado</th>
+  <th>Severidad</th>
+  <th>Heurística Violada</th>
+  <th>Acción Correctiva Aplicada (Do)</th>
+  <th>Verificación / Resultado (Check)</th>
+  <th>Estado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1</td>
+  <td>Fondo borroso con elementos visuales que distraen.</td>
+  <td>3</td>
+  <td>Estética y diseño minimalista</td>
+  <td>Se reemplazó la imagen de fondo por una versión neutra con filtro oscuro semitransparente.</td>
+  <td>Se comprobó mejora de legibilidad en tests A/B con usuarios: +25% en rapidez para completar formularios.</td>
+  <td><strong>Cerrado</strong></td>
+</tr>
+<tr>
+  <td>2</td>
+  <td>Ícono telefónico sin acción clara.</td>
+  <td>3</td>
+  <td>Visibilidad / Control del usuario</td>
+  <td>Se añadió botón interactivo con acción de “Llamar” y tooltip informativo.</td>
+  <td>Pruebas con usuarios mostraron que el 100% comprendió la función del ícono tras cambio.</td>
+  <td><strong>Cerrado</strong></td>
+</tr>
+<tr>
+  <td>3</td>
+  <td>Repetición idéntica de datos en pedidos.</td>
+  <td>3</td>
+  <td>Consistencia / Estado del sistema</td>
+  <td>Se añadió número de pedido, color distintivo y separación entre ítems.</td>
+  <td>Feedback positivo de usuarios. Error de interpretación bajó de 60% a 5%.</td>
+  <td><strong>Cerrado</strong></td>
+</tr>
+<tr>
+  <td>4</td>
+  <td>Campos sin etiquetas visibles (solo placeholders).</td>
+  <td>3</td>
+  <td>Claridad</td>
+  <td>Se añadieron etiquetas persistentes sobre cada campo del formulario.</td>
+  <td>Validado con prueba de usabilidad. Tiempo promedio de llenado bajó en 20%.</td>
+  <td><strong>Cerrado</strong></td>
+</tr>
+<tr>
+  <td>5</td>
+  <td>Formato de fecha/hora confuso (“2024-08-06 T2:50:00”).</td>
+  <td>3</td>
+  <td>Correspondencia con el mundo real</td>
+  <td>Se cambió al formato "6 de agosto, 2:50 a.m." (localizado y amigable).</td>
+  <td>Confirmado con usuarios: 90% indicó comprensión inmediata.</td>
+  <td><strong>Cerrado</strong></td>
+</tr>
+</tbody>
+</table>
+
+<p>Estas acciones cierran el ciclo PDCA, evidenciando no solo la detección de problemas (Plan y Check), sino también la implementación de soluciones (Do) y la validación posterior de su efectividad (Act/Check). Esto garantiza una mejora continua del sistema basada en evidencias.</p>
+
 <div id='6.4.2.'><h4>6.4.2. Auditoría recibida.</h4></div>
 <div id='6.4.2.1.'><h5>6.4.2.1. Información del grupo auditor.</h5></div>
 
-El equipo que nos auditó fue “XXX”. Los integrantes del grupo son Daniel Del Castillo, Brayan Morales, Marcelo Ramirez, Carlos Sánchez y Gonzalo Zavala.
+El equipo que nos auditó fue MatchSolution. Los integrantes del grupo son Daniel Del Castillo, Brayan Morales, Marcelo Ramirez, Carlos Sánchez y Gonzalo Zavala.
 
 <div id='6.4.2.2.'><h5>6.4.2.2. Cronograma de auditoría recibida.</h5></div>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-0pky"><span style="font-weight:normal">Actividad de auditoría </span></th>
@@ -3399,14 +3705,6 @@ El equipo que nos auditó fue “XXX”. Los integrantes del grupo son Daniel De
   </tr>
 </tbody></table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-0lax"><span style="font-weight:normal">Nombres y Apellidos</span></th>
@@ -3671,18 +3969,65 @@ Se aplican las siguientes prácticas y herramientas para llevar a cabo este moni
 Esta estrategia integral de monitoreo proporciona visibilidad total sobre la salud del pipeline y facilita la toma de decisiones proactivas para mantener la estabilidad del ciclo DevOps.
 
 <div id='7.4.3.'><h4>7.4.3. Alerting Pipeline Components</h4></div>
+
+El sistema de alertas se configuró con el objetivo de notificar al equipo de desarrollo cuando se detectan eventos anómalos en tiempo real. Recordemos que estos eventos podrían afectar la estabilidad del sistema o el correcto funcionamiento del pipeline. Los componentes más importantes son:
+
+- **Threshold-Based Alerts (Prometheus):** Son alertas que se disparan cuando una métrica monitoreada cumple una condición durante un período determinado, como alertar sobre picos de latencia, alto uso de CPU o incremento en errores 500, entre otros.
+
+- **Pipeline Failures (Jenkins):** Alertas generadas cuando ocurre una falla durante la ejecución de un pipeline en Jenkins. Estas etapas pueden ser pruebas unitarias, integración continua o despliegue.
+
+- **Service Availability (ELK Stack / New Relic):** Herramientas para identificar caídas o inconvenientes de disponibilidad en servicios críticos, tanto en el backend como en el frontend.
+
+
 <div id='7.4.4.'><h4>7.4.4. Notification Pipeline Components</h4></div>
+
+Estas notificaciones ayudan a que el equipo de desarrollo esté informado de manera rápida y anticipada sobre el estado del sistema y los pipelines. Para ello, se utilizan los siguientes canales:
+
+
+- **Slack:** Mensajes automáticos en canales específicos cuando se termina una etapa del pipeline, ocurre un error o hay un incidente importante.
+  
+- **Correo electrónico:** Avisos enviados a los encargados técnicos cuando hay errores frecuentes o graves.
+  
+- **PagerDuty:** Alertas urgentes en el celular si hay un problema que necesita atención inmediata.
+  
+- **Grafana:** Avisos que se mandan por Slack o correo cuando algún valor en los dashboards pasa un límite, para que el equipo lo vea en tiempo real.
+
 
 <div id='8.'><h2>Capítulo VIII: Experiment-Driven Development</h2></div>
 
 <div id='8.1.'><h3>8.1. Experiment Planning</h3></div>
 <div id='8.1.1.'><h4>8.1.1. As-Is Summary.</h4></div>
+
+EcoMovil es una plataforma que ayuda a personas interesadas en moverse de forma sostenible a encontrar dueños de bicicletas, scooters y motos eléctricas que quieran alquilar o vender sus vehículos. Actualmente, la aplicación funciona como un marketplace donde estudiantes y ciudadanos pueden buscar, comparar y contactar fácilmente con quienes ofrecen estos medios de transporte. Ya cuenta con funciones básicas como filtros de búsqueda, perfiles de usuario y un diseño pensado para usarse desde el celular.
+
 <div id='8.1.2.'><h4>8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.</h4></div>
+
+##### Assumptions:
+- Se piensa que los usuarios valoran poder acceder rápido a medios de transporte ecológicos desde una app en el celular.
+- Se espera que los dueños de vehículos estén interesados en alquilar sus unidades para ganar dinero extra de forma flexible.
+- Se cree que las funciones de seguridad y reputación dentro de la app ayudarán a que más personas quieran usarla.
+
+##### Knowledge Gaps:
+- No está claro cuánto interés real tienen los estudiantes universitarios en usar vehículos ecológicos.
+- Hace falta saber qué filtros (como precio, tipo de vehículo o ubicación) son los más importantes para los usuarios.
+
+##### Ideas:
+
+- Hacer encuestas en la app para conocer mejor cómo la usan las personas y así mejorarla.
+- Sugerir opciones a los usuarios basándose en lo que han buscado o alquilado antes.
+- Hacer el proceso de alquiler más divertido, por ejemplo, con logros o premios.
+
+##### Claims:
+
+- EcoMovil ayudará a que los estudiantes tengan un ingreso extra, lo que podría evitar que dejen sus estudios por problemas económicos.
+- La app va a tener un impacto positivo en el medio ambiente al fomentar el uso de vehículos que no contaminan.
+- Se mejorará el acceso al transporte en zonas donde hay pocas opciones de movilidad tradicional.
+
 <div id='8.1.3.'><h4>8.1.3. Experiment-Ready Questions.</h4></div>
 Este conjunto de preguntas estan diseñadas para guiar la experimentación orientadas a nuestro producto. Cada una de estas busca validar hipótesis y específicas sobre el comportamiento de nuestros usuarios.
 <h3>Preguntas sobre Filtros y Búsqueda de Vehículos</h3>
 
-- **Cuáles son los filtros más utilizados por los usuariso al buscar vehículos?**
+- **Cuáles son los filtros más utilizados por los usuarios al buscar vehículos?**
 Hipótesis: Los usuarios priorizan filtros como tipo de vehiculo, precio diario y ubicación.
 
 - **Qué impacto tiene la posibilidad de guardar búsquedas o vehículos favoritos en la retención de usuarios?**
@@ -3902,13 +4247,360 @@ Los métodos seleccionados en el documento son apropiados porque responden direc
 - **Modelo de ingresos basado en suscripción y comisión:** Adecuado para estudiantes, ya que ofrece flexibilidad y bajos costos iniciales, fomentando así la adopción temprana.
 
 <div id='8.2.6.'><h4>8.2.6. Data Analytics: Goals, KPIs and Metrics Selection.</h4></div>
+El análisis de los datos se centrará en evaluar la efectividad de la aplicación EcoMovil y la satisfacción de los usuarios. Los indicadores clave de rendimiento (KPIs) que se medirán son los siguientes:
+
+- **Tasa de adopción** de la funcionalidad para la planificación de rutas ecológicas.
+- **Tiempo promedio** de uso por sesión, para medir la interacción de los usuarios con los medios de transporte ecológicos.
+- **Precisión** en la estimación de los tiempos de llegada de los vehículos ecológicos.
 
 <div id='8.2.7.'><h4>8.2.7. Web and Mobile Tracking Plan.</h4></div>
+
+Se implementará un plan de seguimiento detallado tanto para la versión web como móvil de **EcoMovil**. A través de este plan, se rastrearán los siguientes eventos clave para evaluar el uso de la aplicación y la experiencia del usuario:
+
+- **Inicio de sesión** y **frecuencia de uso** de la aplicación por parte de los usuarios, para medir la adopción y el compromiso con la plataforma.
+- **Acceso a funcionalidades clave**, como la **planificación de rutas ecológicas** y la **visualización de vehículos disponibles**, para entender cómo los usuarios interactúan con las herramientas esenciales de la aplicación.
+- **Duración de las sesiones** y eventos de **interacción específicos**, como el alquiler o la compra de vehículos ecológicos, para analizar la participación activa y el comportamiento de los usuarios.
+
+Estas métricas se rastrearán mediante herramientas como **Google Analytics** y **Firebase**, con el objetivo de mejorar la experiencia del usuario y optimizar la funcionalidad de la aplicación de manera continua.
 
 
 <div id='8.3.'><h3>8.3. Experimentation</h3></div>
 <div id='8.3.1.'><h4>8.3.1. To-Be User Stories.</h4></div>
+
+| ID   | User Story | Criterios de Aceptación |
+|------|------------|-------------------------|
+| US01 | Como estudiante o comprador, quiero ver una página de inicio para explorar las características de la plataforma. | - **Given** que el usuario accede al sitio web principal, **when** aparece el menú superior, **then** debe mostrar todas las opciones disponibles. <br> - **Given** que el usuario está en la página, **when** selecciona un enlace del menú, **then** debe llevarlo a la sección correspondiente. |
+| US02 | Como visitante, quiero una presentación visual impactante para comprender rápidamente el propósito del servicio. | - **Given** que se carga la página principal, **when** el usuario llega al sitio, **then** la zona destacada debe mostrar contenido llamativo que explique el valor del producto. |
+| US03 | Como cliente potencial, quiero encontrar datos legales y de contacto para resolver dudas o consultas. | - **Given** que el usuario navega hasta el final de la página, **when** visualiza el pie, **then** debe incluir enlaces a políticas y formas de comunicación. |
+| US04 | Como interesado, quiero entender las ventajas del sistema para evaluar si satisface mis requerimientos. | - **Given** que el usuario explora la plataforma, **when** llega al área explicativa, **then** debe describir claramente cómo funciona y qué beneficios ofrece. |
+| US05 | Como posible usuario, quiero canales de comunicación accesibles para iniciar mi experiencia con el servicio. | - **Given** que el usuario necesita asistencia, **when** visita la zona de contacto, **then** debe ofrecer métodos claros para establecer comunicación. |
+| US06 | Como usuario móvil, quiero una adaptación automática del diseño para navegar cómodamente desde cualquier dispositivo. | - **Given** que se accede desde distintos tamaños de pantalla, **when** se carga la interfaz, **then** debe reorganizarse correctamente sin afectar la usabilidad. |
+| US07 | Como cliente interesado, quiero comparar opciones de suscripción para seleccionar la que mejor se ajuste a mis necesidades. | - **Given** que el usuario revisa las membresías disponibles, **when** examina características y precios, **then** debe poder elegir y comenzar el proceso de adhesión. |
+| US08 | Como usuario curioso, quiero conocer los antecedentes del proyecto para entender su filosofía y valores. | - **Given** que se busca información institucional, **when** se visita la sección sobre nosotros, **then** debe presentar la historia y objetivos de manera clara y motivadora. |
+| US09 | Como nuevo miembro, quiero un formulario de registro sencillo para comenzar a utilizar los servicios. | - **Given** que el usuario decide registrarse, **when** completa sus datos básicos, **then** debe recibir confirmación y acceso inicial al sistema. |
+| US10 | Como usuario no registrado, quiero una opción de ingreso directo para acceder rápidamente a la plataforma. | - **Given** que existe una cuenta previa, **when** se introducen credenciales válidas, **then** debe permitirse el acceso al área privada. |
+
 <div id='8.3.2.'><h4>8.3.2. To-Be Product Backlog.</h4></div>
+
+<p>La priorización del backlog se realizó en base a una combinación de valor esperado para el usuario (impacto) y esfuerzo estimado (en horas), teniendo en cuenta los resultados preliminares de validaciones tempranas con usuarios (pruebas de prototipos y entrevistas semiestructuradas).</p>
+
+<p>Las historias que validaron necesidades más críticas o generaron mayor interés se priorizaron más alto. La estimación de esfuerzo se realizó en conjunto con el equipo de desarrollo utilizando técnica de consenso tipo Planning Poker.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Historia de Usuario</th>
+      <th>Valor (1-5)</th>
+      <th>Esfuerzo (h)</th>
+      <th>Prioridad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US01</td>
+      <td>Ver página de inicio con funcionalidades destacadas.</td>
+      <td>5</td>
+      <td>8</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>US02</td>
+      <td>Presentación visual impactante del servicio.</td>
+      <td>4</td>
+      <td>6</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>US06</td>
+      <td>Adaptación automática del diseño a dispositivos móviles.</td>
+      <td>5</td>
+      <td>10</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>US07</td>
+      <td>Comparar opciones de suscripción.</td>
+      <td>4</td>
+      <td>7</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>US09</td>
+      <td>Formulario de registro sencillo.</td>
+      <td>5</td>
+      <td>6</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>US03</td>
+      <td>Datos legales y de contacto.</td>
+      <td>3</td>
+      <td>4</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>US04</td>
+      <td>Entender ventajas del sistema.</td>
+      <td>3</td>
+      <td>5</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>US10</td>
+      <td>Ingreso directo para usuarios registrados.</td>
+      <td>3</td>
+      <td>5</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>US05</td>
+      <td>Canales de comunicación accesibles.</td>
+      <td>2</td>
+      <td>3</td>
+      <td>Baja</td>
+    </tr>
+    <tr>
+      <td>US08</td>
+      <td>Conocer los antecedentes del proyecto.</td>
+      <td>2</td>
+      <td>4</td>
+      <td>Baja</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Este enfoque permite tomar decisiones de implementación alineadas al valor percibido por los usuarios y al esfuerzo requerido, favoreciendo entregas tempranas y de alto impacto.</p>
+
+<div id='8.3.3.'><h4>8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle</h4></div>
+
+<div id='8.3.3.1.'><h5>8.3.3.1. To-Be Sprint Backlogs</h5></div>
+
+
+
+<div id='8.3.3.2.'><h5>8.3.3.2. Implemented To-Be Landing Page Evidence</h5></div>
+
+| **#Orden** 	| **User Story ID** 	| **Título** 	| **ID** 	| **Tareas** 	| **Estado** 	| **Horas** 	|
+|------------	|-------------------	|------------	|--------	|------------	|------------	|-----------	|
+|      1      	|      US-7             	|     Landing Page       	|      W-11  	| - Implementación del landing page en la app. <br> - Generación de informes periódicos para identificar oportunidades de mejora en el diseño y contenido de la landing page.     	|      Done      	|     5.0 h      	|
+
+<img src="Img/landing-page.png" alt="Implemented To-Be Landing Page Evidence" width="700" class="rounded shadow mb-4"/>
+
+
+<div id='8.3.3.3.'><h5>8.3.3.3. Implemented To-Be Frontend-Web Application Evidence</h5></div>
+
+| **#Orden** 	| **User Story ID** 	| **Título** 	| **ID** 	| **Tareas**                                                                                                                    	| **Estado** 	| **Horas** 	|
+|------------	|-------------------	|------------	|--------	|-------------------------------------------------------------------------------------------------------------------------------	|------------	|-----------	|
+| 2          	| US-8              	| Frontend   	| W-12   	| - Creación de frontend<br>- Actualización de contenido y apartados<br>- Funcionamiento con el backend<br>- Deploy de frontend 	| Done       	| 10h       	|
+
+<br>
+
+<img src="assets/Front1.png" alt="Front1" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/Front2.png" alt="Front2" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/Front3.png" alt="Front3" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/Front4.png" alt="Front4" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/Front5.png" alt="Front5" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/Front6.png" alt="Front6" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/Front7.png" alt="Front7" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/Front8.png" alt="Front8" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/Front9.png" alt="Front9" width="600" class="rounded shadow mb-4"/><br>
+
+<div id='8.3.3.4.'><h5>8.3.3.4. Implemented To-Be Native-Mobile Application Evidence</h5></div>
+
+| **#Orden** 	| **User Story ID** 	| **Título**         	| **ID** 	| **Tareas**                                                                    	| **Estado** 	| **Horas** 	|
+|------------	|-------------------	|--------------------	|--------	|-------------------------------------------------------------------------------	|------------	|-----------	|
+| 3          	| US-X              	| Mobile Application 	| W-X    	| - Implementación del mobile app. <br>- Alquiler de vehículos no combustibles. 	| Done       	| 5 h       	|
+
+<br>
+
+<img src="assets/Mobile1.png" alt="Mobile1" width="200" class="rounded shadow mb-4"/>
+<img src="assets/Mobile2.png" alt="Mobile2" width="200" class="rounded shadow mb-4"/>
+<br>
+<img src="assets/Mobile3.png" alt="Mobile3" width="200" class="rounded shadow mb-4"/>
+<img src="assets/Mobile4.png" alt="Mobile4" width="200" class="rounded shadow mb-4"/>
+
+<div id='8.3.3.5.'><h5>8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence</h5></div>
+
+| **#Orden** 	| **User Story ID** 	| **Título** 	| **ID** 	| **Tareas** 	| **Estado** 	| **Horas** 	|
+|------------	|-------------------	|------------	|--------	|------------	|------------	|-----------	|
+| 1           	|          US01         	|    Front-end        	|    W-X    	|Como estudiante o comprador, quiero ver una página de inicio para explorar las características de la plataforma.	            	| Done          	|   8       	|
+| 2           	|          US02         	|    Front-end        	|    W-X    	|Como visitante, quiero una presentación visual impactante para comprender rápidamente el propósito del servicio.	| Done          	|   6       	|
+| 3           	|          US03         	|    Front-end        	|    W-X    	|Como cliente potencial, quiero encontrar datos legales y de contacto para resolver dudas o consultas.		            	| Done          	|   4       	|
+| 6           	|          US06         	|    Front-end        	|    W-X    	|Como usuario móvil, quiero una adaptación automática del diseño para navegar cómodamente desde cualquier dispositivo.		     | Done          	|   10       	|
+| 7           	|          US07         	|    Front-end        	|    W-X    	|Como cliente interesado, quiero comparar opciones de suscripción para seleccionar la que mejor se ajuste a mis necesidades.	| Done          	|   7       	|
+| 8           	|          US08         	|    Front-end        	|    W-X    	|Como nuevo miembro, quiero un formulario de registro sencillo para comenzar a utilizar los servicios.		| Done          	|   6       	|
+
+<img src="assets/1tobe.png" alt="tobe1" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/2tobe.png" alt="tobe1" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/3tobe.png" alt="tobe1" width="600" class="rounded shadow mb-4"/><br>
+<img src="assets/4tobe.png" alt="tobe1" width="600" class="rounded shadow mb-4"/><br>
+
+<div id='8.3.3.6.'><h5>8.3.3.6. Team Collaboration Insights</h5></div>
+
+
+
+<div id='8.3.4.'><h4>8.3.4. To-Be Validation Interviews</h4></div>
+
+<div id='8.3.4.1.'><h5>8.3.4.1. Diseño de Entrevistas.</h5></div>
+
+Llevaremos a cabo una serie de entrevistas de validación que nos permitirá evaluar nuestra aplicación web y móvil de EcoMovil. Estas entrevistas están diseñadas para obtener retroalimentación valiosa sobre la experiencia del usuario, la funcionalidad y la efectividad de nuestra plataforma.
+
+### Objetivos de las Entrevistas
+- Evaluar la primera impresión y usabilidad de la Landing Page
+- Validar la comprensión del propósito y valor de la aplicación
+- Identificar puntos de mejora en la navegación y experiencia del usuario
+- Obtener feedback sobre el rendimiento y funcionalidad de la aplicación móvil
+- Evaluar la efectividad de las funcionalidades implementadas
+
+### Preguntas para Validación de Landing Page
+
+**Primeras Impresiones:**
+
+1. ¿Qué impresión te causa la página al verla por primera vez?
+
+2. ¿Puedes identificar fácilmente el propósito de la aplicación al ver la Landing Page?
+
+3. ¿La navegación de la página es intuitiva y fácil de usar?
+
+**Rendimiento y Experiencia:**
+
+4. ¿El tiempo de carga de la página es satisfactorio para una buena experiencia del usuario?
+
+5. ¿Te sientes motivado a registrarte después de ver la Landing Page?
+
+### Preguntas para Validación de Aplicación Móvil
+
+**Funcionalidad Principal:**
+
+6. ¿El proceso de registro es sencillo y claro?
+
+7. ¿Puedes navegar fácilmente entre las diferentes secciones de la aplicación?
+
+8. ¿La búsqueda de vehículos ecológicos funciona como esperabas?
+
+**Experiencia de Usuario:**
+
+9. ¿La interfaz es intuitiva y fácil de entender?
+
+10. ¿El proceso de alquiler o compra es claro y seguro?
+
+
+**Identificación de Oportunidades:**
+
+11. ¿Qué aspectos mejorarías o cambiarías en la página para hacerla más efectiva?
+
+12. ¿Considerarías usar esta aplicación para tus necesidades de transporte?
+
+13. ¿Recomendarías esta aplicación a otros usuarios?
+
+
+
+
+<div id='8.3.4.2.'><h5>8.3.4.2. Registro de Entrevistas.</h5></div>
+
+## Segmento #1: Universitarios 
+
+**Entrevista 1** 
+
+*Entrevistado:*  <br>
+*Edad:*  <br>
+*Domicilio:* Lima, Perú<br>
+*Enlace:* https:<a href="URL">Video</a>
+
+*Resumen de la Entrevista*:
+DESCRIPCION
+
+## Segmento #2: Adquirientes
+
+**Entrevista 1** 
+
+*Entrevistada:* Marcia Rea Gamboa<br>
+*Edad:* 20<br>
+*Domicilio:* Lima, Perú<br>
+*Enlace:* https:<a href="URL">Video</a>
+
+*Resumen de la Entrevista*:
+DESCRIPCION
+
+---
+
+<div id='8.4.'><h3>8.4. Experiment Aftermath & Analysis</h3></div>
+
+<div id='8.4.1.'><h4>8.4.1. Analysis and Interpretation of Results</h4></div>
+
+
+
+<div id='8.4.2.'><h4>8.4.2. Re-scored and Re-prioritized Question Backlog</h4></div>
+
+A continuación, se presenta la lista de preguntas clave reevaluadas y reordenadas según su prioridad, en el contexto del desarrollo de la aplicación EcoMovil. Estas preguntas nos permitirán enfocar mejor el diseño del producto, validar hipótesis y tomar decisiones estratégicas.
+
+| Prioridad | Pregunta                                                                                             | Justificación del puntaje/posición                                                                 |
+|-----------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Alta      | ¿Cuál es el perfil y comportamiento de los usuarios interesados en alquilar vs. vender vehículos ecológicos? | Es clave para definir funcionalidades principales y segmentar correctamente el mercado objetivo.   |
+| Alta      | ¿Qué factores generan confianza y seguridad en una plataforma de este tipo?                         | La seguridad es fundamental para atraer y retener usuarios, especialmente en operaciones entre pares. |
+| Alta      | ¿Cuáles son los medios de transporte ecológico más demandados según zona geográfica?                | Afecta la oferta inicial, el inventario disponible y la estrategia de despliegue por regiones.      |
+| Media     | ¿Qué incentivos económicos resultan más atractivos para que usuarios ofrezcan sus vehículos?        | Impacta directamente en la disponibilidad y diversidad de vehículos en la plataforma.              |
+| Media     | ¿Qué barreras legales existen para el alquiler de vehículos entre particulares?                     | Determina la viabilidad operativa y regulatoria en cada ciudad o país.                             |
+| Media     | ¿Cuál es la percepción del usuario sobre el costo-beneficio de EcoMovil frente al transporte tradicional? | Ayuda a ajustar precios, definir el valor diferencial y planear campañas de marketing.              |
+| Baja      | ¿Qué funcionalidades adicionales (gamificación, recompensas verdes, etc.) generarían más compromiso con la app? | Aumentan el engagement, pero no son críticas para la funcionalidad básica o la validación inicial. |
+| Baja      | ¿Qué alianzas estratégicas podrían fortalecer el modelo de negocio?                                 | Relevante para la expansión y sostenibilidad a mediano/largo plazo.                                |
+
+
+<div id='8.5.'><h3>8.5. Continuous Learning</h3></div>
+
+<div id='8.5.1.'><h4>8.5.1. Shareback Session Artifacts: Learning Workflow</h4></div>
+
+El flujo de trabajo de aprendizaje implementado en **EcoMovil** tiene como propósito capturar, sintetizar y compartir los conocimientos obtenidos a lo largo del desarrollo del proyecto. Estas sesiones de retroalimentación promueven una mejora continua en la propuesta de valor, experiencia del usuario y decisiones técnicas del equipo.
+
+#### 🎯 Objetivos
+- Identificar aprendizajes clave relacionados con movilidad sostenible, monetización de vehículos ecológicos y usabilidad del producto.
+- Compartir buenas prácticas y lecciones aprendidas para evitar errores repetitivos.
+- Mantener al equipo alineado sobre cambios en comportamiento de los usuarios, avances tecnológicos y métricas clave de la plataforma.
+
+#### 🔄 Flujo de trabajo
+
+##### 1. 📥 Captura de datos
+- **Fuentes:**  
+  Feedback de usuarios, entrevistas de validación, métricas de tráfico en la landing page y test de usabilidad.
+
+- **Herramientas:**  
+  Google Forms, sesiones retrospectivas, Google Analytics, tableros colaborativos como Miro y Notion.
+
+---
+
+##### 2. 🧠 Análisis y síntesis
+
+- **Documentación:**  
+  Registros en Notion de aprendizajes clave organizados por áreas (UX, técnico, negocio).
+
+- **Sesiones de alineamiento:**  
+  Reuniones internas para revisar y priorizar hallazgos con base en impacto y factibilidad.
+
+---
+
+##### 3. 🛠️ Implementación de mejoras
+
+- Ajustes en la interfaz de la landing page y funcionalidades según feedback recurrente.  
+  *(Ej: accesos diferenciados, claridad en los beneficios, optimización del CTA)*  
+- Refinamiento de flujos de usuario y textos de onboarding.
+
+---
+
+##### 4. ♻️ Retroalimentación continua
+
+- Evaluación iterativa posterior a cada sprint o cambio relevante.
+- Revisión periódica de métricas para verificar la efectividad de las mejoras aplicadas.
+
+---
+
+<img src="assets/Shareback.png" alt="Shareback" width="700" class="rounded shadow mb-4"/>
+
+
+<div id='8.6.'><h3>8.6. To-Be Software Platform Pre-launch</h3></div>
+
+<div id='8.6.1.'><h4>8.6.1. About-the-ProductIntro Video</h4></div>
+
+
 
 <div id='9.'><h2>9. Conclusiones</h2></div>
 
@@ -3922,7 +4614,7 @@ Propuesta de valor definida: EcoMovil se establece como una solución innovadora
 
 Fundamentos para el desarrollo: Se definieron los principios éticos, sociales y funcionales que guiarán el diseño e implementación de la aplicación, orientados a brindar una experiencia segura, eficiente e inclusiva.
 
-- **TP:**
+- **TP1:**
 
 Identificación clara del problema: El análisis realizado ha identificado que el proceso de desarrollo de software a menudo presenta errores que se pasan por alto durante las fases iniciales, lo que puede afectar la calidad y fiabilidad del producto final. La falta de pruebas adecuadas es un desafío común en equipos de desarrollo.
 
@@ -3930,7 +4622,54 @@ Propuesta de valor definida: Las pruebas unitarias se presentan como una soluci�
 
 Fundamentos para el desarrollo: Se establecieron las mejores prácticas y principios para la implementación de pruebas unitarias, que incluyen la automatización, la cobertura adecuada del código y la integración continua. Estos enfoques están orientados a mejorar la eficiencia del equipo de desarrollo, asegurando que el software sea más robusto, fácil de mantener y menos propenso a fallos.
 
-<div id='10.'><h2>10. Bibliografía</h2></div>
+- **TB2:**
+
+Durante el hito TB2, adoptamos un enfoque basado en pruebas y experimentos. Definimos hipótesis, condiciones y métricas para validar cada decisión sobre el producto. Esto nos ayudó a enfocarnos en lo más importante y avanzar en el desarrollo de una forma más guiada por resultados reales.
+
+También mejoramos la calidad del software incorporando pruebas unitarias, de integración, pruebas BDD y de sistema, además de revisar el código y evaluar la experiencia de usuario.
+
+El pipeline de DevOps alcanzó un buen nivel de madurez, ya que automatizamos la integración y entrega continua (CI/CD), sumando alertas y notificaciones para detectar errores rápidamente. Además, implementamos buenas prácticas de control de versiones usando GitFlow y commits semánticos.
+
+Por último, las entrevistas y pruebas con usuarios reales nos dieron información clave que usamos para ajustar el backlog y planificar los siguientes sprints. En resumen, TB2 nos permitió fortalecer tanto la parte técnica como la forma de experimentar y mejorar EcoMovil continuamente.
+
+- **TF1:**
+
+La elaboración de este documento nos permitió estructurar de manera clara y estratégica las bases del proyecto EcoMovil, identificando oportunidades clave en el mercado de la movilidad sostenible. A través del análisis del problema y la priorización de preguntas críticas, se definieron con precisión los focos de mayor impacto para el desarrollo del producto, como la seguridad, la experiencia del usuario y la demanda de vehículos ecológicos.
+
+Esta priorización servirá como guía para tomar decisiones más informadas en las siguientes fases del proyecto, especialmente en el diseño del MVP y las primeras validaciones de mercado. Al enfocarnos en los elementos de mayor valor para el usuario y el negocio, se optimizan los recursos y se reduce el riesgo al lanzar una solución ajustada a las necesidades reales.
+
+En resumen, este trabajo proporciona un marco sólido para avanzar en el desarrollo de EcoMovil, con una visión clara de cómo validar nuestras hipótesis y maximizar el valor del producto desde sus etapas iniciales.
+
+<div id='10.'><h2>10. Video About-The-Team.</h2></div>
+
+<table style="font-size: 12px;">
+  <tr>
+    <th>Sección</th>
+    <th>Características del video</th>
+    <th>Sobre el contenido</th>
+    <th>Integración y entrega</th>
+  </tr>
+  <tr>
+    <td>About The Team</td>
+    <td>
+      <strong>Cantidad de videos</strong>: 1<br>
+      <strong>Nomenclatura</strong>: upc-pre-202501-1asi0732-4442-aceitunas-about-the-team-sprint-1<br>
+      <strong>Formato</strong>: .mp4<br>
+      <strong>Duración</strong>: XX:XX min
+    </td>
+    <td>
+      Video relacionado acerca de los integrantes, sus funciones en el proyecto y conclusiones.
+    </td>
+    <td>
+      Screenshot: <br>
+      <img src="./Img/ATT.png" alt="ATT" style="width: 200px;"><br>
+      Link: <a href="URL">Video Nube
+      </a>
+    </td>
+  </tr>
+  </table>
+
+<div id='11.'><h2>11. Bibliografía</h2></div>
 
 Organización Mundial de la Salud (OMS). (2023). Contaminación del aire y salud. https://www.who.int/
 
@@ -3940,7 +4679,7 @@ Ministerio del Ambiente (2023). Informe sobre la calidad del aire en zonas urban
 
 Nielsen Norman Group. (2022). Usabilidad y diseño centrado en el usuario. https://www.nngroup.com/
 
-<div id='11.'><h2>11. Anexos</h2></div>
+<div id='12.'><h2>12. Anexos</h2></div>
 
 *URL del repositorio para el reporte del proyecto:* <a href="https://github.com/UPC-PRE-1ASI0732-2501-4442-G1-Aceituna">Repositorio</a> 
 

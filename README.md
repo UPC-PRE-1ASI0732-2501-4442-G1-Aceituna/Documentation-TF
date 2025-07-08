@@ -4376,7 +4376,18 @@ Estas métricas se rastrearán mediante herramientas como **Google Analytics** y
 
 <div id='8.3.3.1.'><h5>8.3.3.1. To-Be Sprint Backlogs</h5></div>
 
-
+| #  | ID User Story | Título                                      | Descripción                                                                                                      | Story Points |
+|----|---------------|---------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------|
+| 1  | US01          | Barra de navegación en la Landing Page     | Como estudiante o comprador quiero ver una página de inicio para explorar las características de la plataforma. | 3            |
+| 2  | US02          | Sección Hero en la Landing Page            | Como visitante quiero una presentación visual impactante para comprender rápidamente el propósito del servicio.  | 5            |
+| 3  | US06          | Landing Page Responsive                    | Como usuario móvil quiero una adaptación automática del diseño para navegar cómodamente desde cualquier dispositivo. | 8         |
+| 4  | US13          | Botón "Empieza tu viaje"                   | Como usuario motivado quiero un llamado a la acción claro para iniciar mi experiencia sin demora.                | 3            |
+| 5  | US25          | Implementación de API para Búsqueda Geolocalizada | Como técnico quiero desarrollar un servicio de ubicación para ofrecer resultados precisos por proximidad. | 13           |
+| 6  | US33          | API RESTful para Gestión de Usuarios       | Como desarrollador backend quiero una API segura para manejar registros, autenticación y perfiles.              | 8            |
+| 7  | US35          | Integración con Pasarela de Pago           | Como usuario quiero que las transacciones se procesen por una pasarela confiable (Stripe/PayU).                 | 8            |
+| 8  | US38          | Registro e Inicio de Sesión en App Móvil   | Como nuevo usuario móvil quiero poder registrarme e iniciar sesión desde la app para usar el servicio.          | 5            |
+| 9  | US39          | Geolocalización y Mapa Interactivo         | Como usuario móvil quiero ver en un mapa los vehículos cercanos a mi ubicación.                                 | 8            |
+| 10 | US30          | Video "About the Product"                  | Como usuario visual quiero contenido multimedia explicativo para entender mejor el producto.                     | 5            |
 
 <div id='8.3.3.2.'><h5>8.3.3.2. Implemented To-Be Landing Page Evidence</h5></div>
 
@@ -4793,19 +4804,20 @@ A continuación, se presenta la lista de preguntas clave reevaluadas y reordenad
 
 
 <div id='8.5.'><h3>8.5. Continuous Learning</h3></div>
+El aprendizaje constante es fundamental para el éxito y crecimiento de Ecomovil, ya que permite al equipo integrar conocimientos adquiridos en el diseño, desarrollo y optimización de la app. Esto garantiza que la plataforma evolucione según las demandas de los usuarios y los avances tecnológicos más relevantes.
 
 <div id='8.5.1.'><h4>8.5.1. Shareback Session Artifacts: Learning Workflow</h4></div>
 
 El flujo de trabajo de aprendizaje implementado en **EcoMovil** tiene como propósito capturar, sintetizar y compartir los conocimientos obtenidos a lo largo del desarrollo del proyecto. Estas sesiones de retroalimentación promueven una mejora continua en la propuesta de valor, experiencia del usuario y decisiones técnicas del equipo.
 
-#### 🎯 Objetivos
+####  Objetivos
 - Identificar aprendizajes clave relacionados con movilidad sostenible, monetización de vehículos ecológicos y usabilidad del producto.
 - Compartir buenas prácticas y lecciones aprendidas para evitar errores repetitivos.
 - Mantener al equipo alineado sobre cambios en comportamiento de los usuarios, avances tecnológicos y métricas clave de la plataforma.
 
-#### 🔄 Flujo de trabajo
+####  Flujo de trabajo
 
-##### 1. 📥 Captura de datos
+##### 1.  Captura de datos
 - **Fuentes:**  
   Feedback de usuarios, entrevistas de validación, métricas de tráfico en la landing page y test de usabilidad.
 
@@ -4814,7 +4826,7 @@ El flujo de trabajo de aprendizaje implementado en **EcoMovil** tiene como prop�
 
 ---
 
-##### 2. 🧠 Análisis y síntesis
+##### 2.  Análisis y síntesis
 
 - **Documentación:**  
   Registros en Notion de aprendizajes clave organizados por áreas (UX, técnico, negocio).
@@ -4824,7 +4836,7 @@ El flujo de trabajo de aprendizaje implementado en **EcoMovil** tiene como prop�
 
 ---
 
-##### 3. 🛠️ Implementación de mejoras
+##### 3.  Implementación de mejoras
 
 - Ajustes en la interfaz de la landing page y funcionalidades según feedback recurrente.  
   *(Ej: accesos diferenciados, claridad en los beneficios, optimización del CTA)*  
@@ -4832,7 +4844,7 @@ El flujo de trabajo de aprendizaje implementado en **EcoMovil** tiene como prop�
 
 ---
 
-##### 4. ♻️ Retroalimentación continua
+##### 4.  Retroalimentación continua
 
 - Evaluación iterativa posterior a cada sprint o cambio relevante.
 - Revisión periódica de métricas para verificar la efectividad de las mejoras aplicadas.

@@ -4448,7 +4448,35 @@ Estas métricas se rastrearán mediante herramientas como **Google Analytics** y
 
 <div id='8.3.3.6.'><h5>8.3.3.6. Team Collaboration Insights</h5></div>
 
+###### Repositorio Landing Page:
 
+<img src="assets/repoLand1.png" alt="landing page" width="600" width="700" class="rounded shadow mb-4"/><br>
+
+<img src="assets/repoLand2.png" alt="landing page" width="600" width="700" class="rounded shadow mb-4"/><br>
+
+###### Repositorio Back-end:
+
+<img src="assets/repoB1.png" alt="back end" width="600" width="700" class="rounded shadow mb-4"/><br>
+
+<img src="assets/repoB2.png" alt="back end" width="600" width="700" class="rounded shadow mb-4"/><br>
+
+<img src="assets/repoB3.png" alt="back end" width="600" width="700" class="rounded shadow mb-4"/><br>
+
+###### Repositorio Front-end:
+
+<img src="assets/repoF1.png" alt="front end" width="600" width="700" class="rounded shadow mb-4"/><br>
+
+<img src="assets/repoF2.png" alt="front end" width="600" width="700" class="rounded shadow mb-4"/><br>
+
+<img src="assets/repoF3.png" alt="front end" width="600" width="700" class="rounded shadow mb-4"/><br>
+
+###### Repositorio Mobile:
+
+<img src="assets/repoM1.png" alt="mobile" width="600" width="700" class="rounded shadow mb-4"/><br>
+
+<img src="assets/repoM2.png" alt="mobile" width="600" width="700" class="rounded shadow mb-4"/><br>
+
+<img src="assets/repoM3.png" alt="mobile" width="600" width="700" class="rounded shadow mb-4"/><br>
 
 <div id='8.3.4.'><h4>8.3.4. To-Be Validation Interviews</h4></div>
 

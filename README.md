@@ -4915,15 +4915,15 @@ En resumen, este trabajo proporciona un marco sólido para avanzar en el desarro
       <strong>Cantidad de videos</strong>: 1<br>
       <strong>Nomenclatura</strong>: upc-pre-202501-1asi0732-4442-aceitunas-about-the-team-sprint-1<br>
       <strong>Formato</strong>: .mp4<br>
-      <strong>Duración</strong>: XX:XX min
+      <strong>Duración</strong>: 05:17 min
     </td>
     <td>
-      Video relacionado acerca de los integrantes, sus funciones en el proyecto y conclusiones.
+      Video relacionado acerca de los integrantes, su experiencia con el trabajo y curso.
     </td>
     <td>
       Screenshot: <br>
-      <img src="./Img/ATT.png" alt="ATT" style="width: 200px;"><br>
-      Link: <a href="URL">Video Nube
+      <img src="assets/abouttheteam.png" alt="ATT" style="width: 200px;"><br>
+      Link: <a href="https://youtu.be/dTGOjjQF4sw">Video Nube
       </a>
     </td>
   </tr>

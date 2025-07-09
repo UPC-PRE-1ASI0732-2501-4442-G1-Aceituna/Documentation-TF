@@ -4941,7 +4941,9 @@ Nielsen Norman Group. (2022). Usabilidad y diseño centrado en el usuario. https
 
 *Landing Page EcoMovil:* <a href="https://upc-pre-1asi0732-2501-4442-g1-aceituna.github.io/Landing-Page-EcoMovil/">Landing Page</a> 
 
-*Front-end EcoMovil:* <a href="https://upc-pre-1asi0732-2501-4442-g1-aceituna.github.io/front-new/">Front end</a> 
+*Front-end EcoMovil:* <a href="https://main.d36m7a6cvhzo9b.amplifyapp.com/login">Front end</a> 
+
+*Front-end EcoMovil:* <a href="https://app-250708224357.azurewebsites.net/swagger-ui/index.html#/Authentication/signUp">Back end</a> 
 
 *Sprint Backlog:* <a href="https://trello.com/invite/b/6806daa065b98f240692560a/ATTIf68bcd60d7d51f86a858cc89fb96145607955103/sprint-backlog-1-ecomovil">Sprint</a>  
 

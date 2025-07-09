@@ -3430,7 +3430,7 @@ entender?
 *Entrevistado:* Franco Durand <br>
 *Edad:*  23 <br>
 *Domicilio:* Lima, Perú<br>
-*Enlace:* https://youtu.be/x8iDhNb3C8g<a href="URL">Video</a>
+*Enlace:* <a href="https://youtu.be/x8iDhNb3C8g">Video</a>
 
 *Resumen de la Entrevista*:
 La entrevista con Gianfranco Durán evidenció una recepción positiva hacia la plataforma Ecomóvil. Destacó el diseño limpio y claro de la landing page, comprendió fácilmente la propuesta y se sintió motivado a usarla. En cuanto a la aplicación web, la consideró intuitiva y útil para generar ingresos alquilando o vendiendo vehículos eléctricos no utilizados. Su única sugerencia fue permitir subir fotos reales de los vehículos. En general, se mostró conforme con la experiencia y dispuesto a recomendar la aplicación.
@@ -3442,7 +3442,7 @@ La entrevista con Gianfranco Durán evidenció una recepción positiva hacia la 
 *Entrevistada:* Daniela Chavez <br>
 *Edad:*  22<br>
 *Domicilio:* Lima, Perú<br>
-*Enlace:* https://youtu.be/1N9d36cnA5I<a href="URL">Video</a>
+*Enlace:* <a href="https://youtu.be/1N9d36cnA5I">Video</a>
 
 *Resumen de la Entrevista*:
 La entrevistada menciona que desearia que la sección de imagenes sean subidas por los propios usuarios, ademas menciona que la página le pareció bastante intuitiva y llamativa, además de facil de navegar.
@@ -3457,7 +3457,7 @@ La entrevistada menciona que desearia que la sección de imagenes sean subidas p
 *Entrevistada:* Lucia Cabanillas <br>
 *Edad:*  23<br>
 *Domicilio:* Lima, Perú<br>
-*Enlace:* https://youtu.be/8JDA6184AFSas<a href="URL">Video</a>
+*Enlace:* <a href="https://youtu.be/8JDA6184AFSas">Video</a>
 
 *Resumen de la Entrevista*:
 Lucia Cabanillas considera que la calidad de los vehículos y la tipografía son apropiadas, siendo claras y bien presentadas. Destaca la facilidad de uso de la aplicación y valora la amplia variedad de vehículos disponibles. Aunque encuentra que la información sobre el alquiler o la venta es clara, sugiere la inclusión de un apartado de reseñas para ofrecer comentarios de los usuarios y ayudar en la toma de decisiones.
@@ -3469,7 +3469,7 @@ Lucia Cabanillas considera que la calidad de los vehículos y la tipografía son
 *Entrevistada:* Silvana Hassinger <br>
 *Edad:* 25 <br>
 *Domicilio:* Lima, Perú<br>
-*Enlace:* https://youtu.be/x8iDhNb3C8g<a href="URL">Video</a>
+*Enlace:* <a href="https://youtu.be/x8iDhNb3C8g">Video</a>
 
 *Resumen de la Entrevista*:
 Silvana Hassinger opina que la aplicación es muy útil, destacando la posibilidad de seleccionar vehículos de acuerdo a sus necesidades, lo que promueve la sostenibilidad e innova en el ámbito de la ecología. Considera que la experiencia es fácil y manejable, cumpliendo con lo esperado. Además, valora la personalización en la búsqueda, especialmente los filtros, los cuales encuentra muy útiles para satisfacer tanto las necesidades de los usuarios como la oferta de vehículos disponibles.
@@ -4548,13 +4548,13 @@ Llevaremos a cabo una serie de entrevistas de validación que nos permitirá eva
 
 **Entrevista 1** 
 
-*Entrevistado:* <br>
-*Edad:* <br>
+*Entrevistada:* Daniela Chavez <br>
+*Edad:*  22<br>
 *Domicilio:* Lima, Perú<br>
-*Enlace:* https:<a href="URL">Video</a>
+*Enlace:* <a href="https://youtu.be/1N9d36cnA5I">Video</a>
 
 *Resumen de la Entrevista*:
-
+La entrevistada expresa su deseo de que los usuarios puedan subir sus propias imágenes. También comenta que la página le resultó muy intuitiva, atractiva y fácil de navegar.
 
 ---
 
